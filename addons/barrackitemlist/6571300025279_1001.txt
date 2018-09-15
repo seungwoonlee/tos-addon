@@ -1,0 +1,196 @@
+S;1001
+G;Unused
+I;실버;2324;icon_item_silver
+G;Drug
+I;고농축 HP포션;359;item_HP_oil_3
+I;고농축 SP포션;360;item_SP_requid_3
+I;100일 기념 포션;25;item_speed_requid_3
+I;정착 지원 포션;6;item_speed_requid_3
+I;HP 회복의 엘릭서 [이벤트];10;icon_item_HPelixir
+I;고농축 이동속도 증가 포션;5;item_speed_requid_1
+I;딜겔레;1;icon_item_Dilgele
+I;보급용 레드옥스;14;icon_item_Red_Ox
+I;보급용 이동속도 증가 포션;10;item_speed_requid_1
+I;보급용 작은 HP포션;39;item_HP_oil_1
+I;보급용 작은 SP포션;125;item_SP_requid_1
+I;보급용 작은 회복포션;3;item_HPSP_potion_1
+I;오르샤 워프 주문서;10;GolemMagicItem1
+I;SP 회복의 엘릭서 [이벤트];10;icon_item_SPelixir
+I;정착 지원 포션 Lv2;10;item_speed_requid_3
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;케이스타스 수호의 포션;90;icon_item_Drug_exDEF1
+I;케이스타스 용맹의 포션;90;icon_item_Drug_exATK1
+I;클라페다 워프 주문서;10;GolemMagicItem1
+I;포포리온 고기;7;icon_item_meat_02
+I;폭죽;10;icon_item_firework
+I;LV2 경험치 카드;2;icon_item_expcard
+I;LV3 경험치 카드;10;icon_item_expcard
+I;2랭크 카드;1;icon_item_expcard2
+I;3랭크 카드;1;icon_item_expcard3
+I;4랭크 카드;1;icon_item_expcard4
+I;보급용 워프 주문서;19;GolemMagicItem1
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+G;Event
+I;경험의 서:14일;1;icon_item_boostertoken
+I;[For 10] 레벨업 상자 (40레벨);1;icon_item_giftBox_2
+G;Book
+I;낡은 일기;1;icon_item_collection_04Black
+G;Recipe
+I;제작서-마기 샴시르;1;icon_item_weapon_misc3
+I;제작서-샤인 브레이슬릿;5;icon_item_bracelet_misc3
+I;제작서-크리스탈 뱅글;1;icon_item_bracelet_misc3
+I;제작서-x4 경험의 서;5;icon_item_recipe_misc1
+I;제작서-x8 경험의 서;1;icon_item_recipe_misc1
+G;Collection
+I;콜렉션:렘파라사 연못;1;icon_item_box
+I;콜렉션:수정광산 1층;1;icon_item_box
+I;콜렉션:테넷 성당 지상 1층;1;icon_item_box
+I;콜렉션:테넷 성당 지상 2층;1;icon_item_box
+G;Premium
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서 (14일);1;icon_item_expbookx8
+I;긴급 수리 키트;10;icon_item_repairkit
+I;소울 크리스탈;10;icon_item_soulCrystal
+I;워프 주문서;9;icon_item_warpPremium
+I;인스턴스 던전 배수 토큰;10;icon_item_indunexmode
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
+I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
+I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
+I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
+I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
+I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
+I;전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
+I;확성기;152;icon_item_Mike
+I;확성기 10개 상자;1;icon_item_Mike_bundle
+I;축제용 심플 코스튬(남);1;icon_item_simple_festival_m
+G;Armor
+I;마크 부츠;1;icon_item_boots_brigan
+I;마크 부츠;1;icon_item_boots_brigan
+I;마크 글로브;1;icon_item_gloves_brigan
+I;마크 글로브;1;icon_item_gloves_brigan
+I;마크 글로브;1;icon_item_gloves_brigan
+I;마크 글로브;1;icon_item_gloves_brigan
+I;마크 글로브;1;icon_item_gloves_brigan
+I;마크 팬츠;1;icon_item_pants_brigan
+I;우든 카이트 실드;1;icon_item_Shield_8
+I;우든 카이트 실드;1;icon_item_Shield_8
+I;우든 카이트 실드;1;icon_item_Shield_8
+I;우든 카이트 실드;1;icon_item_Shield_8
+I;우든 카이트 실드;1;icon_item_Shield_8
+I;카이트 실드;1;icon_item_Shield_9
+I;체인 메일;1;icon_item_shirts_chain
+I;노비스 네클리스;1;item_necklace_10
+I;유코푸스 네클리스;1;item_necklace_11
+I;스틸 네클리스;1;item_necklace_10
+I;츄파카브라 네클리스;1;item_necklace_11
+I;크리스탈 뱅글;1;item_bracelet_15
+I;부베 뱅글;1;item_bracelet_16
+I;노블 브레이슬릿;1;item_bracelet_03
+I;홈 파인 뱅글;1;item_bracelet_15
+G;Material
+I;모루;4;icon_item_anvil
+I;LV2 보물상자 열쇠;2;icon_item_key1
+I;거대한 갈고리;5;icon_item_claw_01
+I;그루머 잎;13;icon_item_leaves_green
+I;말라두의 고기;109;icon_item_meat_02
+I;박쥐의 날개;14;icon_item_batwing
+I;밴시의 사념체;2;icon_item_spirit_orange
+I;부베족의 증표;16;icon_item_bubetoken
+I;스톤오르카의 핵;8;icon_item_core_yellow
+I;식칼;1;icon_item_knife01
+I;씨드미아 씨앗;11;icon_item_seed_brown
+I;요노움의 핵;3;icon_item_core_purple
+I;위버 더듬이;5;icon_item_feeler_black
+I;유코푸스 잎;7;icon_item_leaves_blue
+I;이노움의 핵;1;icon_item_core_purple
+I;인프로 락터의 껍질;21;icon_item_shell
+I;인프로 락터의 뼈;2;icon_item_bone
+I;잎방개의 껍질;1;icon_item_shell_green
+I;작은 마족의 뿔;1;icon_item_pantohorn
+I;지그너츠 줄기;4;icon_item_zignuts
+I;츄파카브라 이빨;10;icon_item_tooth_white
+I;치넨시 잎;1;icon_item_bokchoyleaf
+I;케파 줄기;4;icon_item_stem_green
+I;코릴러스의 뿔;1;icon_item_pantohorn
+I;판토족의 뿔;19;icon_item_pantohorn
+I;포쿠부 가죽;4;icon_item_Misc_00011
+I;퓨어 크리스탈;1;icon_item_Gem_Aquamarine
+I;하나밍 꽃잎;20;icon_item_HanamingPetal
+I;귀환석;1;MercenaryBadge
+G;Quest
+I;광산 나침반;1;icon_item_compass
+I;렘파르 점액;3;icon_item_Drug_51022
+I;광기의 눈동자;6;icon_item_Velorb
+I;파괴용 주술인형 소환서;1;GolemMagicItem1
+I;의식용 밧줄;1;icon_item_tentaclel
+G;Weapon
+I;케인 로버;1;icon_item_callow_cane
+I;크룩;1;icon_item_crook
+I;크룩;1;icon_item_crook
+I;크룩;1;icon_item_crook
+I;크룩;1;icon_item_crook
+I;실버 폴쳔;1;icon_item_Falchion_up_silver
+I;카스카라;1;icon_item_Sword_24
+I;숏 보우;1;bow_shortbow

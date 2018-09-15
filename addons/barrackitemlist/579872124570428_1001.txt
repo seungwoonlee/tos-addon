@@ -1,0 +1,257 @@
+S;1001
+G;Unused
+I;실버;100000;icon_item_silver
+G;Drug
+I;SP 회복 소형 엘릭서 ;5;icon_item_SPelixir_Small
+I;농축 HP포션 LV15;14;icon_item_HP_Alche
+I;농축 SP포션 LV15;5;icon_item_SP_Alche
+I;농축 이동속도 향상의 포션;16;item_speed_requid_1
+I;라무넬레;1;icon_item_Ramunele
+I;라오도넬리스;1;icon_item_Raudonelis
+I;루팅 찬스 증가 포션;4;icon_item_looting_potion_01
+I;발래리요나스;1;icon_item_Valerijonas
+I;보급용 농축 HP포션 LV15;97;item_HP_oil_3
+I;보급용 농축 SP포션 LV15;91;item_SP_requid_3
+I;보급용 작은 HP포션;26;item_HP_oil_1
+I;보급용 작은 SP포션;144;item_SP_requid_1
+I;보급용 작은 스태미나 알약;23;item_STA_pill_1
+I;붉은 케파 조각;1;OnionPiece_Red
+I;오르샤 워프 주문서;2;GolemMagicItem1
+I;정착 지원 포션;9;item_speed_requid_3
+I;정착 지원 포션 Lv2;23;item_speed_requid_3
+I;좀비 캡슐;40;icon_item_zombiecapsule_01
+I;클라페다 워프 주문서;7;GolemMagicItem1
+I;포포리온 고기;6;icon_item_meat_02
+I;할로윈 폭죽;4;icon_item_firework
+I;해독제;8;icon_item_Quest_00020
+I;LV14 경험치 카드;1;icon_item_expcard
+I;레드 오브:낡은 누덕 갈고리;1;icon_item_Dreamshade_red
+I;LV9 경험치 카드;3;icon_item_expcard
+I;LV6 경험치 카드;2;icon_item_expcard
+I;레드 오브:말라두;1;icon_item_Dreamshade_red
+I;보급용 워프 주문서;4;GolemMagicItem1
+I;스킬 주문서;1;GolemMagicItem1
+I;스킬 주문서;20;GolemMagicItem1
+G;SubWeapon
+I;(바랜)스몰 크리스타라스;1;icon_item_dagger_cristal
+I;핫팩;1;icon_item_hotpack
+G;Book
+I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
+G;Recipe
+I;제작서-강화된 비스타 캐논;1;icon_item_weapon_misc3
+I;제작서-비엔나라지스 투 핸드 메이스;2;icon_item_weapon_misc4
+I;제작서-겔티 알슈피스;2;icon_item_weapon_misc1
+I;제작서-게일 슬래셔;1;icon_item_weapon_misc4
+I;제작서-드라군 파이퍼;3;icon_item_weapon_misc4
+I;제작서-디델 부라와;1;icon_item_weapon_misc3
+I;제작서-라이온 헤드 대거;3;icon_item_weapon_misc4
+I;제작서-라이온 헤드 캐논;3;icon_item_weapon_misc4
+I;제작서-비니 머스킷;2;icon_item_weapon_misc3
+I;제작서-비니 코르세스카;1;icon_item_weapon_misc3
+I;제작서-더블 스택;1;icon_item_weapon_misc4
+I;제작서-비엔나라지스 스태프;2;icon_item_weapon_misc4
+I;제작서-비엔나라지스 메이스;1;icon_item_weapon_misc4
+I;제작서-세크메트;1;icon_item_weapon_misc4
+I;제작서-슬라케 듀얼 레이피어;1;icon_item_weapon_misc3
+I;제작서-실버 호크;2;icon_item_weapon_misc4
+I;제작서-아티 스네이크 로드;1;icon_item_weapon_misc3
+I;제작서-아티 스태그 스태프;1;icon_item_weapon_misc3
+I;제작서-아프가울레 보우;3;icon_item_weapon_misc4
+I;제작서-엘가 레이피어;2;icon_item_weapon_misc4
+I;제작서-윈디아 로드;3;icon_item_weapon_misc4
+I;제작서-카타콤 슈터;3;icon_item_weapon_misc5
+I;제작서-태그 보우;1;icon_item_weapon_misc1
+I;제작서-틸리 스피어;2;icon_item_weapon_misc4
+I;제작서-피그리 스피어;3;icon_item_weapon_misc4
+I;제작서-피레네 소드;1;icon_item_weapon_misc4
+I;제작서-록소나 플레이트 아머;1;icon_item_shirts_misc4
+I;제작서-록소나 플레이트 팬츠;1;icon_item_pants_misc4
+I;제작서-비르토브 플레이트 팬츠;1;icon_item_pants_misc4
+I;제작서-페디미안 실드;1;icon_item_shirts_misc1
+I;제작서-컨트롤 뱅글;1;icon_item_bracelet_misc3
+I;제작서-x4 경험의 서;2;icon_item_recipe_misc1
+I;제작서-x8 경험의 서;1;icon_item_recipe_misc1
+G;FishingRod
+I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
+G;Collection
+I;콜렉션:초보자의 무기;1;icon_item_box
+I;콜렉션:네프리타스 벼랑;1;icon_item_box
+I;콜렉션:덧댄다리 숲;1;icon_item_box
+I;콜렉션:비석로;1;icon_item_box
+I;콜렉션:샤울레이 동쪽 숲;1;icon_item_box
+I;콜렉션:샤울레이 서쪽 숲;1;icon_item_box
+I;콜렉션:자카리엘 교차로;1;icon_item_box
+I;콜렉션:기원의 숲;1;icon_item_box
+I;콜렉션:코발트 숲;1;icon_item_box
+I;콜렉션:테넷 화원;1;icon_item_box
+I;콜렉션:티메리스 사원;1;icon_item_box
+G;Armor
+I;카울라스 레더 부츠;1;icon_item_boots_kaulas
+I;카프리선 부츠;1;icon_item_boots_brigan
+I;베르타스 카울라스 레더 글로브;1;icon_item_gloves_kaulas
+I;카울라스 레더 글로브;1;icon_item_gloves_kaulas
+I;카프리선 글로브;1;icon_item_gloves_brigan
+I;베르타스 카울라스 레더 팬츠;1;icon_item_pants_kaulas
+I;카울라스 레더 팬츠;1;icon_item_pants_kaulas
+I;카프리선 팬츠;1;icon_item_pants_brigan
+I;미간티스 실드;1;icon_item_miegantis_shield
+I;베르타스 제베넬리스 레더 아머;1;icon_item_leather_shirt_1
+I;베르타스 카울라스 레더 아머;1;icon_item_shirts_kaulas
+I;베르타스 카울라스 레더 아머;1;icon_item_shirts_kaulas
+I;카프리선 아머;1;icon_item_shirts_brigan
+I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
+I;플랜츠 브레이슬릿;1;item_bracelet_18
+I;탐험가용 큰 붉은꽃 머리장식;1;hairacc_hat072
+I;오라클 코스튬;1;icon_item_oracle_f
+I;질럿 컨트리션 코스튬;1;icon_item_zealot2_f
+I;질럿 퍼티션 코스튬;1;icon_item_zealot4_f
+I;크리비 코스튬;1;icon_item_kribi_f
+I;파드너 코스튬;1;icon_item_pardoner_f
+G;Material
+I;성수;200;icon_item_holywater
+I;사파이어;1;39_icon_item_Cry8rite
+I;아틸로늄;4;18_item_plantite
+I;주석;1;1_item_ore_copper
+I;호박;3;22_item_ore_amber
+I;그루머 잎;2;icon_item_leaves_green
+I;글리자돈의 뼈;1;icon_item_bone
+I;나무 말뚝;2;icon_item_wood_3
+I;레지네이트;2;16_item_treenite
+I;말라두의 고기;37;icon_item_meat_02
+I;미끈한 수액;1;icon_item_Drug_51021
+I;밴시의 사념체;4;icon_item_spirit_orange
+I;부베 활대;3;icon_item_bubebow
+I;부베족의 증표;3;icon_item_bubetoken
+I;송진;1;37_item_ore_sulfur
+I;스타울리트 심장;1;item_icon_heart_red
+I;식칼;3;icon_item_knife01
+I;씨드미아 씨앗;5;icon_item_seed_brown
+I;양피지;958;icon_item_Misc_00020
+I;요노움의 핵;19;icon_item_core_purple
+I;위버 더듬이;1;icon_item_feeler_black
+I;유코푸스 잎;3;icon_item_leaves_blue
+I;인프로 락터의 껍질;3;icon_item_shell
+I;작은 마족의 뿔;2;icon_item_pantohorn
+I;장작;4;icon_item_woodpiece
+I;츄파카브라 가죽;2;icon_item_Misc_00007
+I;츄파카브라 이빨;9;icon_item_tooth_white
+I;치넨시 잎;4;icon_item_bokchoyleaf
+I;케파 날개;1;icon_item_batwing
+I;케파 줄기;11;icon_item_stem_green
+I;코릴러스의 뿔;1;icon_item_pantohorn
+I;포쿠부 가죽;4;icon_item_Misc_00011
+I;플로르;1;icon_item_crystal_green
+I;허밍버드의 날개;1;icon_item_bugwing
+I;호그마 전투대장 송곳니;1;icon_item_tooth_00Basic
+I;귀환석;1;MercenaryBadge
+G;Quest
+I;고원 사탕무;1;icon_item_beet
+I;광신도의 수정 목걸이;1;icon_item_blacknecklace
+I;광신도의 수정 목걸이;1;icon_item_blacknecklace
+I;꼬질꼬질한 꾸러미;10;icon_item_small_bag
+I;몬스터 광분제;1;item_aggro_perfume
+I;수액수집기;1;icon_item_stickw
+I;영험한 가루;1;icon_item_sesami
+I;의식용 밧줄;1;icon_item_tentaclel
+I;케이블카 부속;1;icon_item_nut
+I;탁본 도구;1;icon_item_sidebag
+I;파괴된 결계의 조각;3;icon_item_pieceofglass
+I;파괴용 주술인형 소환서;1;GolemMagicItem1
+I;화살 묶음;1;item_icon_barbedhead_arrow
+I;광신도의 수정 목걸이;1;icon_item_blacknecklace
+G;Premium
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;긴급 수리 키트;9;icon_item_repairkit
+I;소울 크리스탈;255;icon_item_soulCrystal
+I;워프 주문서;188;icon_item_warpPremium
+I;워프 주문서 10개 상자;2;icon_item_warpPremium_bundle
+I;인스턴스 던전 배수 토큰;1;icon_item_indunexmode
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;확성기;202;icon_item_Mike
+I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
+I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
