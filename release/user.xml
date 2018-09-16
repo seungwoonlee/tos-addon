@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <idspace>
-    <Login SaveId="0" RecentServer="1001" RecentChar="2"/>
+    <Login SaveId="0" RecentServer="1001" RecentChar="1"/>
     <Config UseWater="1" UseFastLoading="0" UseEnvEffect="1" UseHitGlow="1" UseEnvSound="1" CaptureFormat="1" ChatEditVisible="0" MouseSensitivity="1.00" UseCharLod="0" UseEffectHigh="1" DevGamma="10" ResizeLevelOfTextures="0" DrawActorPersent="99" DrawMonsterPersent="99" InverseCameraHor="0" InverseCameraVert="0" InverseCameraZoom="0" CameraZoomIndex="2" UseCameraRotation="0" MaxCameraLongitute="45" Language="kr" UseGlow="1" UseFXAA="1" UseWarfog="1" UseDepth="1" UseBloom="1" UseSoftParticle="1" UseHighTexture="1" UseLowOption="0" AutoAdjustLowLevel="2" SklCtrlSpd="200" AutoCellSelectSpd="500" DmgFontScale="1" ShowPadSkillRange="1" SimplifyBuffEffects="0"/>
     <Resolution mode="1" width="2560" height="1440" BitPerPixel="32" VSync="1"/>
     <Sound TotalVolume="255" SoundVolume="255" FlutingVolume="255" MusicVolume="255" EnableOtherFluting="0" EnableSoundReverb="1" EnableOtherCharBalanceVolume="1" OtherCharBattleVolume="128" OtherCharSkillVolume="128" OtherCharVoiceVolume="128" Language="english"/>

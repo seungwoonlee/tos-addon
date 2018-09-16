@@ -11,10 +11,6 @@ I;농축 이동속도 향상의 포션;37;item_speed_requid_1
 I;딜겔레;3;icon_item_Dilgele
 I;라무넬레;3;icon_item_Ramunele
 I;루팅 찬스 증가 포션;3;icon_item_looting_potion_01
-I;루팅 찬스 증가 포션 (14일);1;icon_item_looting_potion_01
-I;루팅 찬스 증가 포션 (14일);1;icon_item_looting_potion_01
-I;루팅 찬스 증가 포션 (14일);1;icon_item_looting_potion_01
-I;루팅 찬스 증가 포션 (14일);1;icon_item_looting_potion_01
 I;바루날레샤;1;icon_item_Varnalesa
 I;발래리요나스;1;icon_item_Valerijonas
 I;보급용 농축 HP포션 LV15;199;item_HP_oil_3
@@ -27,15 +23,6 @@ I;붉은 케파 조각;2;OnionPiece_Red
 I;오르샤 워프 주문서;2;GolemMagicItem1
 I;정착 지원 포션;9;item_speed_requid_3
 I;정착 지원 포션 Lv2;50;item_speed_requid_3
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
 I;포포리온 고기;7;icon_item_meat_02
 I;해독제;5;icon_item_Quest_00020
 I;송편;9;icon_item_Songpyeon
@@ -53,25 +40,6 @@ I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;레드 오브:위버;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;14;GolemMagicItem1
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
-I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
-I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
-I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
-G;Event
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
@@ -117,6 +85,15 @@ I;제작서-페디미안 아머;1;icon_item_shirts_misc1
 I;제작서-매직 탈리스만;1;icon_item_necklace_misc3
 I;제작서-산양 뿔;1;icon_item_helm_misc1
 I;제작서-x8 경험의 서;1;icon_item_recipe_misc1
+G;Collection
+I;계시록 : 대립편 콜렉션;1;icon_item_holyark
+I;콜렉션:기원의 숲;1;icon_item_box
+I;콜렉션:네프리타스 벼랑;1;icon_item_box
+I;콜렉션:샤울레이 광산 마을;1;icon_item_box
+I;콜렉션:샤울레이 동쪽 숲;1;icon_item_box
+I;콜렉션:수정광산 2층;1;icon_item_box
+I;콜렉션:수정광산 3층;1;icon_item_box
+I;콜렉션:테넷 성당 지상 1층;1;icon_item_box
 G;Gem
 I;레드 젬;Lv6;item_icon_circle150
 I;레드 젬;Lv6;item_icon_circle150
@@ -155,15 +132,8 @@ I;옐로우 젬;Lv1;item_icon_Star150
 I;옐로우 젬;Lv1;item_icon_Star150
 I;옐로우 젬;Lv1;item_icon_Star150
 I;옐로우 젬;Lv1;item_icon_Star150
-G;Collection
-I;계시록 : 대립편 콜렉션;1;icon_item_holyark
-I;콜렉션:기원의 숲;1;icon_item_box
-I;콜렉션:네프리타스 벼랑;1;icon_item_box
-I;콜렉션:샤울레이 광산 마을;1;icon_item_box
-I;콜렉션:샤울레이 동쪽 숲;1;icon_item_box
-I;콜렉션:수정광산 2층;1;icon_item_box
-I;콜렉션:수정광산 3층;1;icon_item_box
-I;콜렉션:테넷 성당 지상 1층;1;icon_item_box
+G;Card
+I;프로스터 로드 카드;Lv10;icon_item_card_atk
 G;Premium
 I;x4 경험의 서;1;icon_item_expbookx4
 I;x8 경험의 서;1;icon_item_expbookx8
@@ -211,9 +181,6 @@ I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
 G;Material
 I;[For 10] 빛나는 황금 모루;1;icon_item_anvil_gold
 I;모루;4;icon_item_anvil
-I;강화용 카드 : 500 (14일);1;monster_card
-I;강화용 카드 : 500 (14일);1;monster_card
-I;강화용 카드 : 500 (14일);1;monster_card
 I;괴황지;837;icon_item_guehwangji
 I;성수;180;icon_item_holywater
 I;홀리 파우더;74;icon_item_powderw

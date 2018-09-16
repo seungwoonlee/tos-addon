@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;100001;icon_item_silver
+I;실버;100000;icon_item_silver
 G;Helmet
 I;잭오랜턴 헬멧;1;icon_item_pumkin_helmet
 G;SubWeapon

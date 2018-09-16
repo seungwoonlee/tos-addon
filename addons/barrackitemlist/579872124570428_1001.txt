@@ -109,7 +109,6 @@ I;크리비 코스튬;1;icon_item_kribi_f
 I;파드너 코스튬;1;icon_item_pardoner_f
 G;Material
 I;성수;200;icon_item_holywater
-I;사파이어;1;39_icon_item_Cry8rite
 I;아틸로늄;4;18_item_plantite
 I;주석;1;1_item_ore_copper
 I;호박;3;22_item_ore_amber

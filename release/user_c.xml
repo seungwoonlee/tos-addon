@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ConfigList>
-    <WORLDMAP_Y Value="26"/>
-    <WORLDMAP_X Value="-185"/>
-    <WORLDMAP_SCALE Value="1"/>
-    <LastPCLevel Value="381"/>
-    <LastJobCtrltype Value="Wizard"/>
     <Barrack_LastZone Value="barrack_noble"/>
+    <LastJobCtrltype Value="Wizard"/>
+    <LastPCLevel Value="390"/>
+    <WORLDMAP_SCALE Value="1"/>
+    <WORLDMAP_X Value="-185"/>
+    <WORLDMAP_Y Value="0"/>
     <NexonSSOServer Value="TOSLive"/>
 </ConfigList>
