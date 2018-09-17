@@ -25,7 +25,7 @@ I;정착 지원 포션;9;item_speed_requid_3
 I;정착 지원 포션 Lv2;50;item_speed_requid_3
 I;포포리온 고기;7;icon_item_meat_02
 I;해독제;5;icon_item_Quest_00020
-I;송편;9;icon_item_Songpyeon
+I;송편;12;icon_item_Songpyeon
 I;대왕 송편 (14일);1;icon_item_Large_Songpyeon
 I;대왕 송편 (14일);1;icon_item_Large_Songpyeon
 I;대왕 송편 (14일);1;icon_item_Large_Songpyeon
@@ -176,6 +176,7 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
 I;전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
+I;스탯 초기화 포션(14일);1;icon_item_statReset
 I;확성기;50;icon_item_Mike
 I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
 G;Material

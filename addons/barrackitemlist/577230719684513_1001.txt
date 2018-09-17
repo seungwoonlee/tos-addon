@@ -27,6 +27,7 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
 I;확성기;31;icon_item_Mike
 I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;스탯 초기화 포션(14일);1;icon_item_statReset
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Collection
 I;계시록 : 대립편 콜렉션;1;icon_item_holyark
@@ -75,6 +76,7 @@ I;[PC방] SP 회복 소형 엘릭서 ;17;icon_item_random_spellixerbox
 I;농축 HP포션 LV15;23;icon_item_HP_Alche
 I;농축 SP포션 LV15;17;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;40;item_speed_requid_1
+I;송편;3;icon_item_Songpyeon
 I;바루날레샤;2;icon_item_Varnalesa
 I;보급용 농축 HP포션 LV15;165;item_HP_oil_3
 I;보급용 농축 SP포션 LV15;179;item_SP_requid_3

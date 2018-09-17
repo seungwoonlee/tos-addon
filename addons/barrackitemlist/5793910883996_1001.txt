@@ -1,30 +1,12 @@
 S;1001
 G;Unused
-I;실버;100001;icon_item_silver
-G;SubWeapon
-I;긴 암밴드;1;icon_item_armband_clothlong
-I;느낌있는 암밴드;1;icon_item_armband_exclamationMark_icon
-I;디오니스 암밴드;1;icon_item_armband_dinios
-I;리본 암밴드;1;icon_item_armband_ribbon
-I;매듭진 암밴드;1;icon_item_armband_cloth
-I;서포터즈 암밴드;1;icon_item_armband_supporter_soccer
-I;엄지척 암밴드;1;icon_item_armband_facebook
-I;잎사귀 무늬 암밴드;1;icon_item_armband_leaf
-I;지구의 행복 암밴드;1;icon_item_armband_g9
-I;눈꽃 스프레이;1;icon_item_snowflower
-I;두근두근 웨딩 부케;1;icon_item_bouquet01
-I;등대 조명;1;icon_item_lighthouse_stick
-I;망원경;1;icon_item_scope_marin
-I;버블스틱;1;icon_item_artefact_bublestick
-I;부부젤라;1;icon_item_vuvuzela
-I;삽;1;icon_item_shovel
-I;수박 아이스크림;1;icon_item_artefact_watermelon
-I;좌절 깃발;1;OTL_flag
-I;체스 타이머;1;icon_item_chess_timer
-I;크리스마스 핸드벨;1;icon_item_artefact_bell
-I;탐지기;1;icon_item_metaldetector
-I;파이프;1;icon_item_bubble_pipeb
-I;풍선피리;1;icon_item_balloon_pipe
+I;실버;100000;icon_item_silver
+G;Helmet
+I;24K 금괴 멍멍 헬멧 코스튬;1;item_icon_helmet_goldstonedog01
+I;복실복실 황금개 헬멧 코스튬;1;item_icon_helmet_golddog
+I;쑥송편 헬멧 코스튬;1;icon_item_helmet_songpyun2
+I;어항 헬멧 코스튬;1;icon_item_helmet_fishbowl
+I;잭오랜턴 헬멧;1;icon_item_pumkin_helmet
 G;PasteBait
 I;작은 은빛 물고기;1;icon_item_fish4
 G;Drug
@@ -71,7 +53,7 @@ I;트린이날 폭죽;1;icon_item_firework
 I;페디미안 워프 주문서;9;GolemMagicItem1
 I;포포리온 고기;3;icon_item_meat_02
 I;해독제;5;icon_item_Quest_00020
-I;송편;3;icon_item_Songpyeon
+I;송편;6;icon_item_Songpyeon
 I;LV14 경험치 카드;30;icon_item_expcard
 I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
@@ -151,11 +133,30 @@ I;콜렉션:테넷 화원;1;icon_item_box
 I;콜렉션:파수꾼의 묘역;1;icon_item_box
 I;콜렉션:페디미안 외곽;1;icon_item_box
 I;콜렉션:폴쳔이란 무엇인가;1;icon_item_box
-G;Event
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
-I;연하장;1;icon_item_event_invitation2
+G;SubWeapon
+I;긴 암밴드;1;icon_item_armband_clothlong
+I;느낌있는 암밴드;1;icon_item_armband_exclamationMark_icon
+I;디오니스 암밴드;1;icon_item_armband_dinios
+I;리본 암밴드;1;icon_item_armband_ribbon
+I;매듭진 암밴드;1;icon_item_armband_cloth
+I;서포터즈 암밴드;1;icon_item_armband_supporter_soccer
+I;엄지척 암밴드;1;icon_item_armband_facebook
+I;잎사귀 무늬 암밴드;1;icon_item_armband_leaf
+I;지구의 행복 암밴드;1;icon_item_armband_g9
+I;눈꽃 스프레이;1;icon_item_snowflower
+I;두근두근 웨딩 부케;1;icon_item_bouquet01
+I;등대 조명;1;icon_item_lighthouse_stick
+I;망원경;1;icon_item_scope_marin
+I;버블스틱;1;icon_item_artefact_bublestick
+I;부부젤라;1;icon_item_vuvuzela
+I;삽;1;icon_item_shovel
+I;수박 아이스크림;1;icon_item_artefact_watermelon
+I;좌절 깃발;1;OTL_flag
+I;체스 타이머;1;icon_item_chess_timer
+I;크리스마스 핸드벨;1;icon_item_artefact_bell
+I;탐지기;1;icon_item_metaldetector
+I;파이프;1;icon_item_bubble_pipeb
+I;풍선피리;1;icon_item_balloon_pipe
 G;Book
 I;겨울의 부싯돌;1;icon_item_collection_00Basic
 I;겨울의 부싯돌;1;icon_item_collection_00Basic
@@ -640,8 +641,8 @@ I;제작서-테라리온;9;icon_item_necklace_misc4
 I;제작서-파다;18;icon_item_bracelet_misc5
 I;제작서-파이루마 체인;9;icon_item_necklace_misc3
 I;제작서-포이즈마 체인;1;icon_item_necklace_misc3
-I;제작서-x4 경험의 서;2;icon_item_recipe_misc1
-I;제작서-x8 경험의 서;8;icon_item_recipe_misc1
+I;제작서-x4 경험의 서;1;icon_item_recipe_misc1
+I;제작서-x8 경험의 서;7;icon_item_recipe_misc1
 I;제작서-레이드 포탈 스톤;14;icon_item_recipe_misc1
 I;제작서-여신의 축복석;15;icon_item_recipe_misc1
 G;FishingRod
@@ -659,15 +660,9 @@ I;블루 젬;Lv3;item_icon_Square150
 I;블루 젬;Lv3;item_icon_Square150
 I;옐로우 젬;Lv2;item_icon_Star150
 I;옐로우 젬;Lv2;item_icon_Star150
-G;Helmet
-I;24K 금괴 멍멍 헬멧 코스튬;1;item_icon_helmet_goldstonedog01
-I;복실복실 황금개 헬멧 코스튬;1;item_icon_helmet_golddog
-I;쑥송편 헬멧 코스튬;1;icon_item_helmet_songpyun2
-I;어항 헬멧 코스튬;1;icon_item_helmet_fishbowl
-I;잭오랜턴 헬멧;1;icon_item_pumkin_helmet
+G;Event
+I;연하장;1;icon_item_event_invitation2
 G;Premium
-I;경험의 서;1;icon_item_boostertoken
-I;경험의 서 상자 (4개);1;icon_item_Premium_boostToken_Box_A
 I;고급 물약 상자;1;Icon_Item_Box_SP_HP
 I;고급 행운 상자;1;item_icon_luckybox_B
 I;긴급 수리 키트;5;icon_item_repairkit
@@ -740,7 +735,6 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;마법 부여 스크롤;7;icon_item_enchantScroll
 I;빛나는 은빛 모루;2;icon_item_anvil_silver
-I;프리미엄 각성석;12;icon_item_awakeningstone
 I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 I;검정 불량 서클 교복 코스튬(여);1;icon_item_badschooluniform_black_f
@@ -1287,7 +1281,6 @@ I;잭오랜턴 헤어장식;1;Hat_jackolantern
 I;족두리;1;hairacc_82_jokdoori
 I;족두리;1;hairacc_82_jokdoori
 I;족두리;1;hairacc_82_jokdoori
-I;종이배;1;icon_item_papership
 I;종이배;1;icon_item_papership
 I;종이배;1;icon_item_papership
 I;주술사 가면;1;hairacc_60_shamanmask

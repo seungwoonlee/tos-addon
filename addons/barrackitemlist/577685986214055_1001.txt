@@ -29,6 +29,7 @@ I;SP 회복 소형 엘릭서 ;5;icon_item_SPelixir_Small
 I;이동속도 향상의 포션;2;item_speed_requid_1
 I;[For 10] 축복이 깃든 씨앗;14;icon_item_event161215_01
 I;농축 SP포션 LV15;10;icon_item_SP_Alche
+I;송편;3;icon_item_Songpyeon
 I;보급용 워프 주문서;20;GolemMagicItem1
 I;은빛 물고기;44;icon_item_fish2
 I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
@@ -110,6 +111,7 @@ I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;긴급 수리 키트;3;icon_item_repairkit
+I;스탯 초기화 포션(14일);1;icon_item_statReset
 I;랭크 초기화권 (30일);1;icon_item_rankreset_paper
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill

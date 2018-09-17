@@ -439,7 +439,6 @@ I;작은 미스릴 광석 조각;1;13_item_mythril
 I;차원 탐색 스크롤;1;GolemMagicItem1
 I;마석 조각;7;icon_item_gimmick_scaredcrystal
 I;귀환석;1;MercenaryBadge
-I;특성 포인트 100;1;icon_item_abilitypoint3
 G;Quest
 I;일회용 시약병;1;icon_item_Quest_00020
 I;공간의 문장;1;icon_item_void_01

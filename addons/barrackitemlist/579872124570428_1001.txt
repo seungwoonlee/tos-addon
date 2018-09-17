@@ -24,6 +24,7 @@ I;클라페다 워프 주문서;7;GolemMagicItem1
 I;포포리온 고기;6;icon_item_meat_02
 I;할로윈 폭죽;4;icon_item_firework
 I;해독제;8;icon_item_Quest_00020
+I;송편;3;icon_item_Songpyeon
 I;LV14 경험치 카드;1;icon_item_expcard
 I;레드 오브:낡은 누덕 갈고리;1;icon_item_Dreamshade_red
 I;LV9 경험치 카드;3;icon_item_expcard
@@ -178,6 +179,7 @@ I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;긴급 수리 키트;9;icon_item_repairkit
+I;스탯 초기화 포션(14일);1;icon_item_statReset
 I;소울 크리스탈;255;icon_item_soulCrystal
 I;워프 주문서;188;icon_item_warpPremium
 I;워프 주문서 10개 상자;2;icon_item_warpPremium_bundle
