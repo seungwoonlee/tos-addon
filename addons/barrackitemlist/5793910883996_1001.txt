@@ -13,7 +13,6 @@ G;Drug
 I;리사이클 메달;48;icon_item_recyclemedal
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;[For 10] 축복이 깃든 씨앗;14;icon_item_event161215_01
 I;고농축 SP포션;50;item_SP_requid_3
 I;고농축 이동속도 증가 포션;10;item_speed_requid_1
 I;공기 정화 수정;1;14_item_ithildin
@@ -53,12 +52,8 @@ I;트린이날 폭죽;1;icon_item_firework
 I;페디미안 워프 주문서;9;GolemMagicItem1
 I;포포리온 고기;3;icon_item_meat_02
 I;해독제;5;icon_item_Quest_00020
-I;송편;6;icon_item_Songpyeon
+I;송편;9;icon_item_Songpyeon
 I;LV14 경험치 카드;30;icon_item_expcard
-I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
-I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
-I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
-I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;동전 투호;1;icon_1710_thanksgiving_target
 I;레드 오브:메다키아;1;icon_item_Dreamshade_red
 I;레드 오브:베스퍼;1;icon_item_Dreamshade_red
@@ -67,7 +62,6 @@ I;레드 오브:인프로 락터;1;icon_item_Dreamshade_red
 I;레드 오브:코도모르;1;icon_item_Dreamshade_red
 I;레드 오브:하나밍;1;icon_item_Dreamshade_red
 I;레드 오브:허니빈;1;icon_item_Dreamshade_red
-I;바버샵 의자;1;icon_item_event_beauty_chair
 I;블루 오브:바본;1;icon_item_Dreamshade
 I;블루 오브:아슈롱;1;icon_item_Dreamshade
 I;블루 오브:유코푸스;1;icon_item_Dreamshade
@@ -88,14 +82,15 @@ I;할로윈 팝업북;1;icon_item_halloween_popupbook
 I;신랑 비둘기 오르골;1;icon_item_MusicBox_Wedding01
 I;신부 비둘기 오르골;1;icon_item_MusicBox_Wedding02
 I;다과 세트;1;icon_item_artefact_Tea_Set
-I;더 맛있는 꼬치;1;icon_item_food_brochette
+I;바버샵 의자;1;icon_item_event_beauty_chair
 I;더 시원한 코코넛쥬스;1;icon_item_food_coconut
-I;더 짜릿한 레몬아이스티;1;icon_item_food_mojito
+I;더 맛있는 꼬치;1;icon_item_food_brochette
 I;사랑의 꽃 한송이;1;icon_item_aretfact_wedding04
 I;예식용 칼;1;icon_item_artefact_Decorative_knife
 I;클라페다 카프리콘즈 응원 슬로건;1;icon_item_aretfact_victory_purple
 I;푸드 커버;1;icon_item_artefact_Dome_Cover
 I;호박 등불;1;icon_item_artefact_pumkin_lamp
+I;더 짜릿한 레몬아이스티;1;icon_item_food_mojito
 G;Collection
 I;콜렉션:글라데 언덕길;1;icon_item_box
 I;콜렉션:기원의 숲;1;icon_item_box
@@ -218,6 +213,9 @@ I;퇴거 명령서;1;icon_item_magicpaper
 I;파우스타스의 일기;1;icon_item_collection_04Black
 I;허먼메데일 도하 사건;1;icon_item_collection_00Basic
 I;현대 마스터 총람 2권;1;icon_item_collection_01Red
+I;세이지의 기준점;1;icon_item_collection_01Red
+I;몬데롤 산의 여신의 처소 1권;1;icon_item_collection_03Blue
+I;공간의 책;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-강화된 비스타 캐논;1;icon_item_weapon_misc3
 I;제작서-게일 슬래셔;5;icon_item_weapon_misc4
@@ -679,7 +677,7 @@ I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스탯 초기화 포션;1;icon_item_statReset
-I;워프 주문서;51;icon_item_warpPremium
+I;워프 주문서;79;icon_item_warpPremium
 I;워프 주문서 10개 상자;1;icon_item_warpPremium_bundle
 I;인스턴스 던전 배수 토큰;1;icon_item_indunexmode
 I;인스턴스 던전 소탕권 (1성);1;icon_item_induntheend
@@ -735,6 +733,9 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;마법 부여 스크롤;7;icon_item_enchantScroll
 I;빛나는 은빛 모루;2;icon_item_anvil_silver
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
 I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 I;검정 불량 서클 교복 코스튬(여);1;icon_item_badschooluniform_black_f
@@ -781,7 +782,6 @@ I;하급 용병 코스튬(여);1;icon_item_lowtactic01_f
 I;한가위 한복 코스튬(여);1;icon_item_hanbok02_f
 G;Material
 I;모루;11;icon_item_anvil
-I;물에 젖은 강화용 카드;1;monster_card
 I;마력 흡수침;26;icon_item_spellneedle
 I;분해의 망치;9;icon_item_farm47_wood_hammer
 I;기슬로티스;16;icon_item_Gyslotis
@@ -908,7 +908,7 @@ I;빌카스의 가죽;1;icon_item_Misc_00009
 I;사디피 결정 Lv1;50;KQ_recipe_hethran_material_1_1
 I;사막 츄파카브라 가죽;2;icon_item_Misc_00008
 I;사막 츄파카브라 고기;13;icon_item_meat_01
-I;사우가의 동력기관;7;icon_item_leaves_blue
+I;사우가의 동력기관;7;icon_item_gele_gear_02
 I;사우가의 핵;11;icon_item_core_yellow
 I;사크몰리 줄기;31;icon_item_stem_gray
 I;삼나무;9;icon_item_wood_4
@@ -1107,17 +1107,14 @@ I;마석 조각;3;icon_item_gimmick_scaredcrystal
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01
-I;공간의 책;1;icon_item_collection_00Basic
 I;대지의 요새의 계시;1;icon_item_stonetablet
 I;데메트리우스의 연구 기록;1;icon_item_collection_04Black
 I;레티아리이 훈련 확인 구슬;1;icon_item_orb_1
 I;마력 추적지도 : 살비야스 숲;1;GolemMagicItem1
-I;몬데롤 산의 여신의 처소 1권;1;icon_item_collection_03Blue
 I;반짝이는 붉은 조각;1;icon_item_Gem_Stone_STR
 I;반짝이는 푸른 조각;2;icon_item_Gem_Stone_INT
 I;불타는 결정;1;icon_item_spirit_red
 I;붉은 원혼;10;icon_item_core_00Red
-I;세이지의 기준점;1;icon_item_collection_01Red
 I;수도사가 준 메모지;1;icon_item_paper
 I;쉬트리가일라의 오브;1;icon_item_core_red
 I;스포르기모 꽃;3;icon_item_Uosis

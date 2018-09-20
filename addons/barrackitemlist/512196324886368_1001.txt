@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;9706340;icon_item_silver
+I;실버;9686300;icon_item_silver
 G;Armor
 I;(바랜)워메이지 부츠;1;icon_item_warmage_boots
 I;바스티클 그리브;1;icon_item_iorn_boots_1
@@ -15,6 +15,7 @@ I;베르타스 바스티클 플레이트 아머;1;icon_item_iorn_shirt_1
 I;츄파카브라 네클리스;1;item_necklace_11
 I;고글;1;hairacc_6_goggles
 I;큰 사자탈;1;hairacc_38_lionmask2
+I;나이트 갈레아;1;icon_item_accessory_chessKnight2
 I;질럿 컨트리션 코스튬;1;icon_item_zealot2_f
 I;질럿 코스튬;1;icon_item_zealot1_f
 I;카발리스트 코스튬;1;icon_item_cleric_kabbalist_f
@@ -29,8 +30,6 @@ G;Collection
 I;콜렉션:티메리스 사원;1;icon_item_box
 G;Event
 I;특성 포인트 1,000;8;icon_item_abilitypoint
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
 I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
@@ -74,7 +73,7 @@ I;보급용 작은 HP포션;33;item_HP_oil_1
 I;보급용 작은 SP포션;241;item_SP_requid_1
 I;보급용 작은 스태미나 알약;28;item_STA_pill_1
 I;붉은 케파 조각;4;OnionPiece_Red
-I;송편;17;icon_item_Songpyeon
+I;송편;23;icon_item_Songpyeon
 I;오르샤 워프 주문서;7;GolemMagicItem1
 I;이동속도 향상의 포션;1;item_speed_requid_1
 I;정착 지원 포션 Lv2;59;item_speed_requid_3
@@ -116,7 +115,6 @@ I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 G;Premium
 I;긴급 수리 키트;33;icon_item_repairkit
-I;랭크 초기화권 (30일);1;icon_item_rankreset_paper
 I;소울 크리스탈;270;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
@@ -126,9 +124,8 @@ I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
 I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
 I;스탯 초기화 포션;3;icon_item_statReset
-I;스탯 초기화 포션 (30일);1;icon_item_statReset
 I;워프 주문서;26;icon_item_warpPremium
-I;워프 주문서 10개 상자;1;icon_item_warpPremium_bundle
+I;워프 주문서 10개 상자;3;icon_item_warpPremium_bundle
 I;윈터펭 알;1;icon_item_egg_winterpeng
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -151,6 +148,9 @@ I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
 I;[For 10] 빛나는 황금 모루;1;icon_item_anvil_gold
 I;모루;12;icon_item_anvil
+I;5성 젬 연마제:14일;1;icon_item_powderp
+I;5성 젬 연마제:14일;1;icon_item_powderp
+I;5성 젬 연마제:14일;1;icon_item_powderp
 I;강화용 카드 : 500 (14일);1;monster_card
 I;강화용 카드 : 500 (14일);1;monster_card
 I;강화용 카드 : 500 (14일);1;monster_card

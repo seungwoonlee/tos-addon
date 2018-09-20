@@ -221,7 +221,7 @@ I;론도 껍질;16;icon_item_shell_blue
 I;미노스의 뼈;17;icon_item_bone
 I;아르마의 뿔;8;icon_item_shorthorn
 I;검은 주술인형의 핵;8;icon_item_core_yellow
-I;유리 조각;31;icon_item_pieceofglass
+I;유리 조각;32;icon_item_pieceofglass
 I;LV3 보물상자 열쇠;2;icon_item_key2
 I;그리바 갓;10;icon_item_mushroomcap
 I;박쥐 이빨;1;icon_item_tooth_white
@@ -480,7 +480,7 @@ I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;루팅 찬스 증가 포션;2;icon_item_looting_potion_01
 I;긴급 수리 키트;11;icon_item_repairkit
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
-I;농축 HP포션 LV15;18;icon_item_HP_Alche
+I;농축 HP포션 LV15;14;icon_item_HP_Alche
 I;케이트리스 용맹의 포션;1;icon_item_Drug_AGI2
 I;큰 HP포션;6;item_HP_oil_3
 I;큰 SP포션;8;item_SP_requid_3
@@ -494,7 +494,7 @@ I;루팅 찬스: 100;4;item_icon_luckypotion_100
 I;케이스타스 회복포션Lv2;10;item_HPSP_potion_2
 I;케이트리스 회복의 포션;1;icon_item_Drug_ATK2
 I;케이스타스 회복포션Lv3;6;item_HPSP_potion_3
-I;농축 SP포션 LV15;16;icon_item_SP_Alche
+I;농축 SP포션 LV15;9;icon_item_SP_Alche
 I;워시스;4;icon_item_Uosis
 I;송편;5;icon_item_Songpyeon
 I;블루 오브:유코푸스;1;icon_item_Dreamshade

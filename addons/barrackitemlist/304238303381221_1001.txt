@@ -26,7 +26,7 @@ I;보급용 작은 SP포션;88;item_SP_requid_1
 I;보급용 작은 스태미나 알약;22;item_STA_pill_1
 I;보급용 작은 회복포션;3;item_HPSP_potion_1
 I;붉은 케파 조각;3;OnionPiece_Red
-I;송편;18;icon_item_Songpyeon
+I;송편;24;icon_item_Songpyeon
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
@@ -127,9 +127,8 @@ I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스탯 초기화 포션;3;icon_item_statReset
-I;스탯 초기화 포션 (30일);1;icon_item_statReset
 I;워프 주문서;289;icon_item_warpPremium
-I;워프 주문서 10개 상자;3;icon_item_warpPremium_bundle
+I;워프 주문서 10개 상자;5;icon_item_warpPremium_bundle
 I;윈터펭 알;1;icon_item_egg_winterpeng
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -165,6 +164,9 @@ I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
 I;[For 10] 빛나는 황금 모루;1;icon_item_anvil_gold
 I;3성 젬 연마제;1;icon_item_powderp
+I;5성 젬 연마제:14일;1;icon_item_powderp
+I;5성 젬 연마제:14일;1;icon_item_powderp
+I;5성 젬 연마제:14일;1;icon_item_powderp
 I;마력 흡수침;1;icon_item_spellneedle
 I;매직 애로우;176;icon_item_magicarrow
 I;바브드 애로우;18;item_icon_arrow_barbedhead
