@@ -5,7 +5,6 @@ G;Drug
 I;100일 기념 포션;25;item_speed_requid_3
 I;HP 회복의 엘릭서 [이벤트];10;icon_item_HPelixir
 I;SP 회복의 엘릭서 [이벤트];10;icon_item_SPelixir
-I;[For 10] 축복이 깃든 씨앗;6;icon_item_event161215_01
 I;고농축 HP포션;359;item_HP_oil_3
 I;고농축 SP포션;360;item_SP_requid_3
 I;고농축 이동속도 증가 포션;5;item_speed_requid_1
@@ -29,11 +28,9 @@ I;폭죽;10;icon_item_firework
 I;송편;3;icon_item_Songpyeon
 I;LV3 경험치 카드;2;icon_item_expcard
 I;LV4 경험치 카드;2;icon_item_expcard
-I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;보급용 워프 주문서;19;GolemMagicItem1
 G;Event
 I;경험의 서:14일;1;icon_item_boostertoken
-I;[For 10] 레벨업 상자 (140레벨);1;icon_item_giftBox_2
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black
 G;Recipe
@@ -51,14 +48,6 @@ I;콜렉션:페레토리 구릉;1;icon_item_box
 G;Gem
 I;옐로우 젬;Lv1;item_icon_Star150
 G;Premium
-I;15레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;40레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;75레벨 무기 / 방어구 선택상자;2;icon_item_event_weaponbox1
-I;[For 10] 인스턴스 던전 1회 입장권;3;icon_item_indunonemoreEnter
-I;[For 10] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;[For 10] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;[For 10] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8

@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;141000;icon_item_silver
+I;실버;140980;icon_item_silver
 G;PasteBait
 I;[PC방] 화려한 지렁이;600;icon_item_Paste_Bait2_pc
 G;Drug
@@ -8,7 +8,6 @@ I;HP 회복 소형 엘릭서 ;30;icon_item_HPelixir_Small
 I;HP 회복의 엘릭서 [이벤트];10;icon_item_HPelixir
 I;SP 회복 소형 엘릭서 ;30;icon_item_SPelixir_Small
 I;SP 회복의 엘릭서 [이벤트];10;icon_item_SPelixir
-I;[For 10] 축복이 깃든 씨앗;14;icon_item_event161215_01
 I;농축 HP포션 LV15;24;icon_item_HP_Alche
 I;농축 SP포션 LV15;8;icon_item_SP_Alche
 I;농축 이동속도 증가 포션 LV15;9;item_speed_requid_1
@@ -32,10 +31,6 @@ I;해독제;22;icon_item_Quest_00020
 I;LV10 경험치 카드;2;icon_item_expcard
 I;LV6 경험치 카드;2;icon_item_expcard
 I;LV8 경험치 카드;3;icon_item_expcard
-I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
-I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
-I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
-I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;보급용 워프 주문서;23;GolemMagicItem1
 I;스킬 주문서;17;GolemMagicItem1
 I;TOS 플래카드;1;icon_item_artefact_Ticket_TOS
@@ -116,7 +111,6 @@ I;불릿 마커 휠러 코스튬;1;icon_item_bulletmarker03_f
 I;플레쳐 코스튬;1;icon_item_fletcher_f
 G;Premium
 I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
 I;긴급 수리 키트;7;icon_item_repairkit
 I;랭크 초기화권 (30일);1;icon_item_rankreset_paper
 I;소울 크리스탈;23;icon_item_soulCrystal
@@ -140,7 +134,6 @@ I;확성기 10개 상자;1;icon_item_Mike_bundle
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
-I;[For 10] 빛나는 황금 모루;1;icon_item_anvil_gold
 I;모루;14;icon_item_anvil
 I;황금 모루;1;icon_item_anvil_gold
 I;돌 탄환;2;icon_item_Misc_00001
@@ -161,7 +154,6 @@ I;펠트레민;3;item_icon_pideingot
 I;피데슘;15;5_item_ore_fluorite
 I;호박;58;22_item_ore_amber
 I;LV2 보물상자 열쇠;1;icon_item_key1
-I;[For 10] 우스카의 초대장;1;icon_item_event_invitation2
 I;거대한 갈고리;8;icon_item_claw_01
 I;그롤의 뿔;1;icon_item_shorthorn
 I;그리바루 방울;1;icon_item_crystal_yellow

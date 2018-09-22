@@ -7,28 +7,6 @@ I;보급용 미끼;608;icon_item_Paste_Bait_basic
 I;작은 은빛 물고기;6;icon_item_fish4
 G;Helmet
 I;송편 헬멧 코스튬;1;icon_item_helmet_songpyun
-G;Premium
-I;긴급 수리 키트;20;icon_item_repairkit
-I;랭크 초기화권 (30일);1;icon_item_rankreset_paper
-I;랭크 초기화권 (60일);1;icon_item_rankreset_paper
-I;소울 크리스탈;11;icon_item_soulCrystal
-I;스탯 초기화 포션 (30일);1;icon_item_statReset
-I;스탯 초기화 포션 (60일);1;icon_item_statReset
-I;워프 주문서;30;icon_item_warpPremium
-I;인스턴스 던전 배수 토큰;4;icon_item_indunexmode
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;x4 경험의 서;1;icon_item_expbookx4
-I;확성기;31;icon_item_Mike
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;스탯 초기화 포션(14일);1;icon_item_statReset
-I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Collection
 I;계시록 : 대립편 콜렉션;1;icon_item_holyark
 I;콜렉션:네프리타스 벼랑;1;icon_item_box
@@ -64,18 +42,34 @@ I;제작서-종이로 된 큐브(양손활);3;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 보급용 낚싯대;1;icon_item_Fishing_Rod_1
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
-G;Gem
-I;레드 젬;Lv5;item_icon_circle150
+G;Premium
+I;랭크 초기화권 (30일);1;icon_item_rankreset_paper
+I;랭크 초기화권 (60일);1;icon_item_rankreset_paper
+I;소울 크리스탈;11;icon_item_soulCrystal
+I;스탯 초기화 포션 (30일);1;icon_item_statReset
+I;스탯 초기화 포션 (60일);1;icon_item_statReset
+I;워프 주문서;30;icon_item_warpPremium
+I;인스턴스 던전 배수 토큰;4;icon_item_indunexmode
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;x4 경험의 서;1;icon_item_expbookx4
+I;확성기;31;icon_item_Mike
+I;스탯 초기화 포션(14일);1;icon_item_statReset
+I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Drug
 I;HP 회복의 엘릭서 [이벤트];10;icon_item_HPelixir
 I;SP 회복 소형 엘릭서 ;40;icon_item_SPelixir_Small
 I;SP 회복의 엘릭서 [이벤트];10;icon_item_SPelixir
-I;[For 10] 축복이 깃든 씨앗;13;icon_item_event161215_01
 I;[PC방] SP 회복 소형 엘릭서 ;17;icon_item_random_spellixerbox
 I;농축 HP포션 LV15;23;icon_item_HP_Alche
 I;농축 SP포션 LV15;17;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;40;item_speed_requid_1
-I;송편;6;icon_item_Songpyeon
 I;HP 회복 소형 엘릭서 ;30;icon_item_HPelixir_Small
 I;바루날레샤;2;icon_item_Varnalesa
 I;보급용 농축 HP포션 LV15;165;item_HP_oil_3
@@ -102,10 +96,6 @@ I;9랭크 카드;1;icon_item_expcard9
 I;LV2 경험치 카드;2;icon_item_expcard
 I;LV3 경험치 카드;2;icon_item_expcard
 I;LV6 경험치 카드;2;icon_item_expcard
-I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
-I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
-I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
-I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;보급용 워프 주문서;19;GolemMagicItem1
 I;은빛 물고기;30;icon_item_fish2
 I;클래스 경험치 복구 카드;1;icon_item_expcard_remain
@@ -127,7 +117,6 @@ I;붉은빛 플라워 헤어밴드;1;icon_item_redflowerband
 I;태양;1;icon_item_sun_acc
 I;탐험가용 큰 붉은꽃 머리장식;1;hairacc_hat072
 G;Material
-I;[For 10] 빛나는 황금 모루;1;icon_item_anvil_gold
 I;모루;19;icon_item_anvil
 I;황금 모루;2;icon_item_anvil_gold
 I;아틸로늄;11;18_item_plantite
@@ -138,7 +127,7 @@ I;주석;4;1_item_ore_copper
 I;펠트레민;6;item_icon_pideingot
 I;피데슘;13;5_item_ore_fluorite
 I;LV2 보물상자 열쇠;1;icon_item_key1
-I;[For 10] 우스카의 초대장;1;icon_item_event_invitation2
+I;탈트;59;30_item_ore_talt
 I;거대한 갈고리;9;icon_item_claw_01
 I;그루머 잎;6;icon_item_leaves_green
 I;글리자돈의 뼈;5;icon_item_bone

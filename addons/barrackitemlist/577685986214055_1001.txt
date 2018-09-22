@@ -27,13 +27,10 @@ I;정착 지원 포션;9;item_speed_requid_3
 I;농축 HP포션 LV15;24;icon_item_HP_Alche
 I;SP 회복 소형 엘릭서 ;5;icon_item_SPelixir_Small
 I;이동속도 향상의 포션;2;item_speed_requid_1
-I;[For 10] 축복이 깃든 씨앗;14;icon_item_event161215_01
 I;농축 SP포션 LV15;10;icon_item_SP_Alche
 I;송편;3;icon_item_Songpyeon
 I;보급용 워프 주문서;20;GolemMagicItem1
 I;은빛 물고기;44;icon_item_fish2
-I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
-I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;스킬 주문서;50;GolemMagicItem1
 I;다과 세트;1;icon_item_artefact_Tea_Set
 I;푸드 커버;1;icon_item_artefact_Dome_Cover
@@ -104,7 +101,6 @@ I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 I;낡은 보급용 낚싯대;1;icon_item_Fishing_Rod_1
 G;Premium
-I;x4 경험의 서;1;icon_item_expbookx4
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
@@ -113,7 +109,6 @@ I;x8 경험의 서;1;icon_item_expbookx8
 I;긴급 수리 키트;3;icon_item_repairkit
 I;스탯 초기화 포션(14일);1;icon_item_statReset
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
 I;소울 크리스탈;31;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스탯 초기화 포션 (60일);1;icon_item_statReset
@@ -217,7 +212,6 @@ I;메르겐 코스튬;1;icon_item_mergen_f
 G;Material
 I;황금 모루;1;icon_item_anvil_gold
 I;모루;7;icon_item_anvil
-I;[For 10] 빛나는 황금 모루;1;icon_item_anvil_gold
 I;돌 탄환;3;icon_item_Misc_00001
 I;파이라이트;2;32_item_ore_pyrite
 I;주석;1;1_item_ore_copper

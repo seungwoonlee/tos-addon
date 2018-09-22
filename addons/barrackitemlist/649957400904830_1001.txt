@@ -4,10 +4,12 @@ I;실버;8475100;icon_item_silver
 G;Drug
 I;HP 회복의 엘릭서 [이벤트];10;icon_item_HPelixir
 I;SP 회복의 엘릭서 [이벤트];10;icon_item_SPelixir
-I;[For 10] 축복이 깃든 씨앗;14;icon_item_event161215_01
 I;농축 HP포션 LV15;21;icon_item_HP_Alche
 I;농축 SP포션 LV15;21;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;37;item_speed_requid_1
+I;대왕 송편 (14일);1;icon_item_Large_Songpyeon
+I;대왕 송편 (14일);1;icon_item_Large_Songpyeon
+I;대왕 송편 (14일);1;icon_item_Large_Songpyeon
 I;딜겔레;3;icon_item_Dilgele
 I;라무넬레;3;icon_item_Ramunele
 I;루팅 찬스 증가 포션;3;icon_item_looting_potion_01
@@ -20,26 +22,22 @@ I;보급용 작은 HP포션;31;item_HP_oil_1
 I;보급용 작은 SP포션;310;item_SP_requid_1
 I;보급용 작은 스태미나 알약;23;item_STA_pill_1
 I;붉은 케파 조각;2;OnionPiece_Red
+I;송편;24;icon_item_Songpyeon
 I;오르샤 워프 주문서;2;GolemMagicItem1
 I;정착 지원 포션;9;item_speed_requid_3
 I;정착 지원 포션 Lv2;50;item_speed_requid_3
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
 I;포포리온 고기;7;icon_item_meat_02
 I;해독제;5;icon_item_Quest_00020
-I;송편;21;icon_item_Songpyeon
-I;대왕 송편 (14일);1;icon_item_Large_Songpyeon
-I;대왕 송편 (14일);1;icon_item_Large_Songpyeon
-I;대왕 송편 (14일);1;icon_item_Large_Songpyeon
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
 I;LV13 경험치 카드;2;icon_item_expcard
 I;LV14 경험치 카드;4;icon_item_expcard
-I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
-I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
-I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
-I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;레드 오브:위버;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;14;GolemMagicItem1
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
@@ -94,17 +92,17 @@ I;콜렉션:수정광산 2층;1;icon_item_box
 I;콜렉션:수정광산 3층;1;icon_item_box
 I;콜렉션:테넷 성당 지상 1층;1;icon_item_box
 G;Gem
+I;레드 젬;Lv1;item_icon_circle150
 I;레드 젬;Lv6;item_icon_circle150
 I;레드 젬;Lv6;item_icon_circle150
 I;레드 젬;Lv1;item_icon_circle150
 I;레드 젬;Lv1;item_icon_circle150
 I;레드 젬;Lv1;item_icon_circle150
 I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv5;item_icon_circle150
 I;레드 젬;Lv1;item_icon_circle150
 I;레드 젬;Lv1;item_icon_circle150
 I;레드 젬;Lv1;item_icon_circle150
-I;레드 젬;Lv1;item_icon_circle150
-I;레드 젬;Lv1;item_icon_circle150
 I;그린 젬;Lv1;item_icon_Dia150
 I;그린 젬;Lv1;item_icon_Dia150
 I;그린 젬;Lv1;item_icon_Dia150
@@ -115,7 +113,6 @@ I;그린 젬;Lv1;item_icon_Dia150
 I;그린 젬;Lv1;item_icon_Dia150
 I;그린 젬;Lv1;item_icon_Dia150
 I;그린 젬;Lv1;item_icon_Dia150
-I;블루 젬;Lv5;item_icon_Square150
 I;블루 젬;Lv1;item_icon_Square150
 I;블루 젬;Lv1;item_icon_Square150
 I;블루 젬;Lv1;item_icon_Square150
@@ -125,6 +122,7 @@ I;블루 젬;Lv1;item_icon_Square150
 I;블루 젬;Lv1;item_icon_Square150
 I;블루 젬;Lv1;item_icon_Square150
 I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv6;item_icon_Square150
 I;옐로우 젬;Lv1;item_icon_Star150
 I;옐로우 젬;Lv1;item_icon_Star150
 I;옐로우 젬;Lv1;item_icon_Star150
@@ -141,15 +139,14 @@ I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
 I;경험의 서;1;icon_item_boostertoken
 I;경험의 서;1;icon_item_boostertoken
 I;긴급 수리 키트;5;icon_item_repairkit
 I;랭크 초기화권 (30일);1;icon_item_rankreset_paper
 I;소울 크리스탈;8;icon_item_soulCrystal
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
 I;스탯 초기화 포션 (30일);1;icon_item_statReset
 I;스탯 초기화 포션 (60일);1;icon_item_statReset
+I;스탯 초기화 포션(14일);1;icon_item_statReset
 I;워프 주문서;1;icon_item_warpPremium
 I;워프 주문서 10개 상자;4;icon_item_warpPremium_bundle
 I;인스턴스 던전 배수 토큰;7;icon_item_indunexmode
@@ -174,15 +171,10 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
 I;전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
-I;스탯 초기화 포션(14일);1;icon_item_statReset
 I;확성기;50;icon_item_Mike
 I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
 G;Material
-I;[For 10] 빛나는 황금 모루;1;icon_item_anvil_gold
 I;모루;4;icon_item_anvil
-I;5성 젬 연마제:14일;1;icon_item_powderp
-I;5성 젬 연마제:14일;1;icon_item_powderp
-I;5성 젬 연마제:14일;1;icon_item_powderp
 I;괴황지;837;icon_item_guehwangji
 I;성수;180;icon_item_holywater
 I;홀리 파우더;74;icon_item_powderw
@@ -194,7 +186,6 @@ I;주석;2;1_item_ore_copper
 I;펠트레민;2;item_icon_pideingot
 I;피데슘;5;5_item_ore_fluorite
 I;LV2 보물상자 열쇠;1;icon_item_key1
-I;[For 10] 우스카의 초대장;1;icon_item_event_invitation2
 I;갈록 가죽;1;icon_item_Misc_00007
 I;거대한 갈고리;7;icon_item_claw_01
 I;그루머 잎;5;icon_item_leaves_green
@@ -241,16 +232,16 @@ I;하나밍 꽃잎;5;icon_item_HanamingPetal
 I;허밍버드의 날개;1;icon_item_bugwing
 I;귀환석;1;MercenaryBadge
 G;Quest
+I;공간의 문장;1;icon_item_void_01
 I;광산 마을의 식량;11;icon_item_Gem_Elemental8
 I;렘파르 점액;4;icon_item_Drug_51022
 I;마비가루;1;icon_item_powderw
 I;병사의 유품;6;icon_item_small_bag
 I;수정광산의 계시;1;icon_item_stonetablet
 I;연붉은 잎사귀;2;icon_item_leaves_red
-I;공간의 문장;1;icon_item_void_01
 I;유기용제;1;icon_item_Drug_CON1
-I;침묵 스크롤;1;icon_item_Spellbook_2
 I;음양사 본향 지원 명단;1;Siaul_Act3_Confirmation
+I;침묵 스크롤;1;icon_item_Spellbook_2
 G;Armor
 I;[For 10] 프리머스 제베넬리스 레더 팬츠 (30일);1;icon_item_leather_pants_1
 I;[For 10] 프리머스 제베넬리스 레더 아머 (30일);1;icon_item_leather_shirt_1

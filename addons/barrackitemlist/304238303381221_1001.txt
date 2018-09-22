@@ -1,13 +1,12 @@
 S;1001
 G;Unused
-I;실버;11300773;icon_item_silver
+I;실버;11005293;icon_item_silver
 G;SubWeapon
 I;눈꽃 스프레이;1;icon_item_snowflower
 I;핫팩;1;icon_item_hotpack
 G;Drug
 I;리사이클 메달;122;icon_item_recyclemedal
 I;SP 회복 소형 엘릭서 ;9;icon_item_SPelixir_Small
-I;[For 10] 축복이 깃든 씨앗;13;icon_item_event161215_01
 I;고농축 HP포션;172;item_HP_oil_3
 I;고농축 SP포션;142;item_SP_requid_3
 I;고농축 이동속도 증가 포션;20;item_speed_requid_1
@@ -26,7 +25,7 @@ I;보급용 작은 SP포션;88;item_SP_requid_1
 I;보급용 작은 스태미나 알약;22;item_STA_pill_1
 I;보급용 작은 회복포션;3;item_HPSP_potion_1
 I;붉은 케파 조각;3;OnionPiece_Red
-I;송편;24;icon_item_Songpyeon
+I;송편;30;icon_item_Songpyeon
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
@@ -46,14 +45,13 @@ I;폭죽;35;icon_item_firework
 I;해독제;7;icon_item_Quest_00020
 I;LV12 경험치 카드;4;icon_item_expcard
 I;LV6 경험치 카드;3;icon_item_expcard
-I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
-I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
-I;[For 10] 여신의 조각상;1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
 I;보급용 워프 주문서;16;GolemMagicItem1
 I;블루 오브:뇌옥투사;1;icon_item_Dreamshade
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
 I;다과 세트;1;icon_item_artefact_Tea_Set
 I;푸드 커버;1;icon_item_artefact_Dome_Cover
 I;눈 덮인 몬스터 카드첩;1;icon_item_Chrismas_Card
@@ -62,8 +60,6 @@ I;콜렉션:기원의 숲;1;icon_item_box
 G;Event
 I;특성 포인트 1,000;3;icon_item_abilitypoint
 I;특성 포인트 500;1;icon_item_abilitypoint2
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
 I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
 I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
@@ -109,16 +105,11 @@ I;제작서-여신의 축복석;5;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(캐논);2;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
-G;Gem
-I;레드 젬;Lv6;item_icon_circle150
 G;Helmet
 I;쑥송편 헬멧 코스튬;1;icon_item_helmet_songpyun2
+G;Card
+I;웨어울프 카드;Lv7;icon_item_card_util
 G;Premium
-I;[For 10] 인스턴스 던전 1회 입장권;2;icon_item_indunonemoreEnter
-I;[For 10] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;[For 10] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;[For 10] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;긴급 수리 키트;9;icon_item_repairkit
 I;빛나는 은빛 아이커 상자 (3개);1;icon_item_Premium_kit_Sliver_Box_A
 I;소울 크리스탈;325;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
@@ -158,15 +149,14 @@ I;특성 포인트 상자 S급;1;icon_item_Ability_coupon_box_S
 I;확성기;209;icon_item_Mike
 I;확성기 10개 상자;1;icon_item_Mike_bundle
 I;프리미엄 각성석;3;icon_item_awakeningstone
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
 I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
-I;[For 10] 빛나는 황금 모루;1;icon_item_anvil_gold
 I;3성 젬 연마제;1;icon_item_powderp
-I;5성 젬 연마제:14일;1;icon_item_powderp
-I;5성 젬 연마제:14일;1;icon_item_powderp
-I;5성 젬 연마제:14일;1;icon_item_powderp
 I;마력 흡수침;1;icon_item_spellneedle
 I;매직 애로우;176;icon_item_magicarrow
 I;바브드 애로우;18;item_icon_arrow_barbedhead
@@ -319,7 +309,11 @@ I;파괴된 결계의 조각;1;icon_item_pieceofglass
 I;파괴용 주술인형 소환서;1;GolemMagicItem1
 I;흩어진 기록지;15;GolemMagicItem1
 G;Armor
+I;베르타스 제베넬리스 레더 부츠;1;icon_item_leather_boots_1
+I;베르타스 제베넬리스 레더 글로브;1;icon_item_leather_glove_1
+I;베르타스 제베넬리스 레더 팬츠;1;icon_item_leather_pants_1
 I;팽글 플레이트 아머;1;icon_item_gladiuspangle_armor
+I;베르타스 제베넬리스 레더 아머;1;icon_item_leather_shirt_1
 I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
 I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
 I;크란토 브레이슬릿;1;item_bracelet_17
