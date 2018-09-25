@@ -1,12 +1,55 @@
 S;1001
 G;Unused
 I;실버;100000;icon_item_silver
-G;Helmet
-I;24K 금괴 멍멍 헬멧 코스튬;1;item_icon_helmet_goldstonedog01
-I;복실복실 황금개 헬멧 코스튬;1;item_icon_helmet_golddog
-I;쑥송편 헬멧 코스튬;1;icon_item_helmet_songpyun2
-I;어항 헬멧 코스튬;1;icon_item_helmet_fishbowl
-I;잭오랜턴 헬멧;1;icon_item_pumkin_helmet
+G;Gem
+I;레드 젬;Lv2;item_icon_circle150
+I;레드 젬;Lv2;item_icon_circle150
+I;레드 젬;Lv2;item_icon_circle150
+I;레드 젬;Lv2;item_icon_circle150
+I;그린 젬;Lv2;item_icon_Dia150
+I;블루 젬;Lv3;item_icon_Square150
+I;블루 젬;Lv3;item_icon_Square150
+I;블루 젬;Lv3;item_icon_Square150
+I;블루 젬;Lv3;item_icon_Square150
+I;옐로우 젬;Lv2;item_icon_Star150
+I;옐로우 젬;Lv2;item_icon_Star150
+G;Collection
+I;콜렉션:글라데 언덕길;1;icon_item_box
+I;콜렉션:기원의 숲;1;icon_item_box
+I;콜렉션:긴다리 계곡;1;icon_item_box
+I;콜렉션:나하스 숲;1;icon_item_box
+I;콜렉션:내성곽지구;1;icon_item_box
+I;콜렉션:네토 숲;1;icon_item_box
+I;콜렉션:네프리타스 벼랑;1;icon_item_box
+I;콜렉션:다이나 양봉지;1;icon_item_box
+I;콜렉션:대왕의 관문;1;icon_item_box
+I;콜렉션:덧댄다리 숲;1;icon_item_box
+I;콜렉션:딩고파실;1;icon_item_box
+I;콜렉션:록소나 장터;1;icon_item_box
+I;콜렉션:록소나 재건단 서관;1;icon_item_box
+I;콜렉션:마법사의 탑 2층;1;icon_item_box
+I;콜렉션:마법사의 탑 5층;1;icon_item_box
+I;콜렉션:마족수감소 1구역;1;icon_item_box
+I;콜렉션:모크슬 묘실;1;icon_item_box
+I;콜렉션:베야 골짜기;1;icon_item_box
+I;콜렉션:빌티스 숲;1;icon_item_box
+I;콜렉션:셉티니 골;1;icon_item_box
+I;콜렉션:스라우타스 협곡;1;icon_item_box
+I;콜렉션:시르드겔라 숲;1;icon_item_box
+I;콜렉션:아샤크 지하감옥 2층;1;icon_item_box
+I;콜렉션:아크멘스 능선;1;icon_item_box
+I;콜렉션:알레멧 숲;1;icon_item_box
+I;콜렉션:연안요새;1;icon_item_box
+I;콜렉션:왕릉 5층;1;icon_item_box
+I;콜렉션:우키스 경작지;1;icon_item_box
+I;콜렉션:이국 사랑;1;icon_item_box
+I;콜렉션:이브레 고원;1;icon_item_box
+I;콜렉션:중심시가;1;icon_item_box
+I;콜렉션:테넷 성당 지하 1층;1;icon_item_box
+I;콜렉션:테넷 화원;1;icon_item_box
+I;콜렉션:파수꾼의 묘역;1;icon_item_box
+I;콜렉션:페디미안 외곽;1;icon_item_box
+I;콜렉션:폴쳔이란 무엇인가;1;icon_item_box
 G;PasteBait
 I;작은 은빛 물고기;1;icon_item_fish4
 G;Drug
@@ -52,7 +95,6 @@ I;트린이날 폭죽;1;icon_item_firework
 I;페디미안 워프 주문서;9;GolemMagicItem1
 I;포포리온 고기;3;icon_item_meat_02
 I;해독제;5;icon_item_Quest_00020
-I;송편;9;icon_item_Songpyeon
 I;LV14 경험치 카드;30;icon_item_expcard
 I;동전 투호;1;icon_1710_thanksgiving_target
 I;레드 오브:메다키아;1;icon_item_Dreamshade_red
@@ -82,52 +124,15 @@ I;할로윈 팝업북;1;icon_item_halloween_popupbook
 I;신랑 비둘기 오르골;1;icon_item_MusicBox_Wedding01
 I;신부 비둘기 오르골;1;icon_item_MusicBox_Wedding02
 I;다과 세트;1;icon_item_artefact_Tea_Set
-I;바버샵 의자;1;icon_item_event_beauty_chair
-I;더 시원한 코코넛쥬스;1;icon_item_food_coconut
 I;더 맛있는 꼬치;1;icon_item_food_brochette
+I;더 시원한 코코넛쥬스;1;icon_item_food_coconut
+I;더 짜릿한 레몬아이스티;1;icon_item_food_mojito
+I;바버샵 의자;1;icon_item_event_beauty_chair
 I;사랑의 꽃 한송이;1;icon_item_aretfact_wedding04
 I;예식용 칼;1;icon_item_artefact_Decorative_knife
 I;클라페다 카프리콘즈 응원 슬로건;1;icon_item_aretfact_victory_purple
 I;푸드 커버;1;icon_item_artefact_Dome_Cover
 I;호박 등불;1;icon_item_artefact_pumkin_lamp
-I;더 짜릿한 레몬아이스티;1;icon_item_food_mojito
-G;Collection
-I;콜렉션:글라데 언덕길;1;icon_item_box
-I;콜렉션:기원의 숲;1;icon_item_box
-I;콜렉션:긴다리 계곡;1;icon_item_box
-I;콜렉션:나하스 숲;1;icon_item_box
-I;콜렉션:내성곽지구;1;icon_item_box
-I;콜렉션:네토 숲;1;icon_item_box
-I;콜렉션:네프리타스 벼랑;1;icon_item_box
-I;콜렉션:다이나 양봉지;1;icon_item_box
-I;콜렉션:대왕의 관문;1;icon_item_box
-I;콜렉션:덧댄다리 숲;1;icon_item_box
-I;콜렉션:딩고파실;1;icon_item_box
-I;콜렉션:록소나 장터;1;icon_item_box
-I;콜렉션:록소나 재건단 서관;1;icon_item_box
-I;콜렉션:마법사의 탑 2층;1;icon_item_box
-I;콜렉션:마법사의 탑 5층;1;icon_item_box
-I;콜렉션:마족수감소 1구역;1;icon_item_box
-I;콜렉션:모크슬 묘실;1;icon_item_box
-I;콜렉션:베야 골짜기;1;icon_item_box
-I;콜렉션:빌티스 숲;1;icon_item_box
-I;콜렉션:셉티니 골;1;icon_item_box
-I;콜렉션:스라우타스 협곡;1;icon_item_box
-I;콜렉션:시르드겔라 숲;1;icon_item_box
-I;콜렉션:아샤크 지하감옥 2층;1;icon_item_box
-I;콜렉션:아크멘스 능선;1;icon_item_box
-I;콜렉션:알레멧 숲;1;icon_item_box
-I;콜렉션:연안요새;1;icon_item_box
-I;콜렉션:왕릉 5층;1;icon_item_box
-I;콜렉션:우키스 경작지;1;icon_item_box
-I;콜렉션:이국 사랑;1;icon_item_box
-I;콜렉션:이브레 고원;1;icon_item_box
-I;콜렉션:중심시가;1;icon_item_box
-I;콜렉션:테넷 성당 지하 1층;1;icon_item_box
-I;콜렉션:테넷 화원;1;icon_item_box
-I;콜렉션:파수꾼의 묘역;1;icon_item_box
-I;콜렉션:페디미안 외곽;1;icon_item_box
-I;콜렉션:폴쳔이란 무엇인가;1;icon_item_box
 G;SubWeapon
 I;긴 암밴드;1;icon_item_armband_clothlong
 I;느낌있는 암밴드;1;icon_item_armband_exclamationMark_icon
@@ -152,6 +157,10 @@ I;크리스마스 핸드벨;1;icon_item_artefact_bell
 I;탐지기;1;icon_item_metaldetector
 I;파이프;1;icon_item_bubble_pipeb
 I;풍선피리;1;icon_item_balloon_pipe
+G;Event
+I;특성 포인트 1,000;3;icon_item_abilitypoint
+I;특성 포인트 100;35;icon_item_abilitypoint3
+I;연하장;1;icon_item_event_invitation2
 G;Book
 I;겨울의 부싯돌;1;icon_item_collection_00Basic
 I;겨울의 부싯돌;1;icon_item_collection_00Basic
@@ -213,9 +222,9 @@ I;퇴거 명령서;1;icon_item_magicpaper
 I;파우스타스의 일기;1;icon_item_collection_04Black
 I;허먼메데일 도하 사건;1;icon_item_collection_00Basic
 I;현대 마스터 총람 2권;1;icon_item_collection_01Red
-I;세이지의 기준점;1;icon_item_collection_01Red
-I;몬데롤 산의 여신의 처소 1권;1;icon_item_collection_03Blue
 I;공간의 책;1;icon_item_collection_00Basic
+I;몬데롤 산의 여신의 처소 1권;1;icon_item_collection_03Blue
+I;세이지의 기준점;1;icon_item_collection_01Red
 G;Recipe
 I;제작서-강화된 비스타 캐논;1;icon_item_weapon_misc3
 I;제작서-게일 슬래셔;5;icon_item_weapon_misc4
@@ -646,25 +655,22 @@ I;제작서-여신의 축복석;15;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
-G;Gem
-I;레드 젬;Lv2;item_icon_circle150
-I;레드 젬;Lv2;item_icon_circle150
-I;레드 젬;Lv2;item_icon_circle150
-I;레드 젬;Lv2;item_icon_circle150
-I;그린 젬;Lv2;item_icon_Dia150
-I;블루 젬;Lv3;item_icon_Square150
-I;블루 젬;Lv3;item_icon_Square150
-I;블루 젬;Lv3;item_icon_Square150
-I;블루 젬;Lv3;item_icon_Square150
-I;옐로우 젬;Lv2;item_icon_Star150
-I;옐로우 젬;Lv2;item_icon_Star150
-G;Event
-I;연하장;1;icon_item_event_invitation2
+G;Cube
+I;[PC방] TP 아이템 랜덤 상자;1;icon_item_random_cashbox
+G;Helmet
+I;24K 금괴 멍멍 헬멧 코스튬;1;item_icon_helmet_goldstonedog01
+I;복실복실 황금개 헬멧 코스튬;1;item_icon_helmet_golddog
+I;쑥송편 헬멧 코스튬;1;icon_item_helmet_songpyun2
+I;어항 헬멧 코스튬;1;icon_item_helmet_fishbowl
+I;잭오랜턴 헬멧;1;icon_item_pumkin_helmet
 G;Premium
+I;[PC방] 헤어 1회 50% 할인권;1;icon_item_HairCoupon_50_pc
+I;경험의 서 상자 (4개);1;icon_item_Premium_boostToken_Box_A
 I;고급 물약 상자;1;Icon_Item_Box_SP_HP
 I;고급 행운 상자;1;item_icon_luckybox_B
 I;긴급 수리 키트;5;icon_item_repairkit
 I;랭크 초기화권;1;icon_item_rankreset_paper
+I;루비 와인 염색약;1;haircolor_red
 I;리사이클 메달 상자 A급;1;Icon_Item_Recycle_Shop_Medal_Box_A
 I;리사이클 메달 상자 B급;1;Icon_Item_Recycle_Shop_Medal_Box_B
 I;리사이클 메달 상자 S급;1;Icon_Item_Recycle_Shop_Medal_Box_S
@@ -677,10 +683,13 @@ I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스탯 초기화 포션;1;icon_item_statReset
+I;어사 흑단령 선택 상자;1;icon_item_Inspector03_Box
 I;워프 주문서;79;icon_item_warpPremium
 I;워프 주문서 10개 상자;1;icon_item_warpPremium_bundle
 I;인스턴스 던전 배수 토큰;1;icon_item_indunexmode
 I;인스턴스 던전 소탕권 (1성);1;icon_item_induntheend
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -718,6 +727,8 @@ I;특성 포인트 상자 C급;1;icon_item_Ability_coupon_box_C
 I;특성 포인트 상자 C급;1;icon_item_Ability_coupon_box_C
 I;특성 포인트 상자 C급;1;icon_item_Ability_coupon_box_C
 I;특성 포인트 상자 C급;1;icon_item_Ability_coupon_box_C
+I;특성 포인트 상자 C급;1;icon_item_Ability_coupon_box_C
+I;특성 포인트 상자 C급;1;icon_item_Ability_coupon_box_C
 I;특성 포인트 상자 S급;1;icon_item_Ability_coupon_box_S
 I;특성 포인트 상자 S급;1;icon_item_Ability_coupon_box_S
 I;특성 포인트 상자 S급;1;icon_item_Ability_coupon_box_S
@@ -729,13 +740,8 @@ I;행운 상자;1;item_icon_luckybox_C
 I;행운 상자;1;item_icon_luckybox_C
 I;헤어 액세서리 선택 상자: 블루 앵커;1;icon_item_acc_hair_box1
 I;확성기;105;icon_item_Mike
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;마법 부여 스크롤;7;icon_item_enchantScroll
 I;빛나는 은빛 모루;2;icon_item_anvil_silver
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
 I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 I;검정 불량 서클 교복 코스튬(여);1;icon_item_badschooluniform_black_f
@@ -783,7 +789,7 @@ I;한가위 한복 코스튬(여);1;icon_item_hanbok02_f
 G;Material
 I;모루;11;icon_item_anvil
 I;마력 흡수침;26;icon_item_spellneedle
-I;분해의 망치;9;icon_item_farm47_wood_hammer
+I;분해의 망치;12;icon_item_farm47_wood_hammer
 I;기슬로티스;16;icon_item_Gyslotis
 I;칼사이트;1;14_item_ithildin
 I;크리오라이트;16;39_icon_item_Cry8rite
@@ -1228,6 +1234,7 @@ I;묘족두식;1;hairacc_wuguBand
 I;물빛 장미뿔;1;icon_item_bluerosehorn
 I;물빛 조개장식;1;icon_item_skyblue_shell
 I;물빛 조개장식;1;icon_item_skyblue_shell
+I;물빛 조개장식;1;icon_item_skyblue_shell
 I;민트초코컵케이크;1;hairacc_86_cupcake1
 I;민트초코컵케이크;1;hairacc_86_cupcake1
 I;민트초코컵케이크;1;hairacc_86_cupcake1
@@ -1266,9 +1273,12 @@ I;연잎;1;icon_item_Leaf_acc
 I;연잎;1;icon_item_Leaf_acc
 I;연잎;1;icon_item_Leaf_acc
 I;연잎;1;icon_item_Leaf_acc
+I;연잎;1;icon_item_Leaf_acc
 I;열쇠장식 모자;1;icon_item_Key_cross
 I;우산;1;icon_item_umbrella
 I;우산;1;icon_item_umbrella
+I;유니콘 뿔;1;hairacc_42_unicornhorn
+I;작은 사자탈;1;hairacc_37_lionmask1
 I;작은 사자탈;1;hairacc_37_lionmask1
 I;작은 사자탈;1;hairacc_37_lionmask1
 I;작은 사자탈;1;hairacc_37_lionmask1
