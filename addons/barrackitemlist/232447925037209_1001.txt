@@ -414,7 +414,7 @@ I;쿠게리 자비의 탈;52;icon_item_misc04_106
 I;초록 차콜워커의 뿔;2;icon_item_misc04_95
 I;나부의 온전한 꼬리;53;icon_item_misc04_63
 I;노란 카로의 더듬이;52;icon_item_misc04_68
-I;모닝버드의 꼬리;36;icon_item_misc04_73
+I;모닝버드의 꼬리;39;icon_item_misc04_73
 I;동굴 러바인러바의 가시;1;icon_item_misc04_70
 I;크레토의 깃털;4;icon_item_misc_0518
 I;쿠게리 누마니의 방울;1;icon_item_misc04_97

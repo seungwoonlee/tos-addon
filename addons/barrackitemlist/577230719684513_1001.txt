@@ -43,11 +43,13 @@ G;FishingRod
 I;낡은 보급용 낚싯대;1;icon_item_Fishing_Rod_1
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 G;Premium
+I;긴급 수리 키트;20;icon_item_repairkit
 I;랭크 초기화권 (30일);1;icon_item_rankreset_paper
 I;랭크 초기화권 (60일);1;icon_item_rankreset_paper
 I;소울 크리스탈;11;icon_item_soulCrystal
 I;스탯 초기화 포션 (30일);1;icon_item_statReset
 I;스탯 초기화 포션 (60일);1;icon_item_statReset
+I;스탯 초기화 포션(14일);1;icon_item_statReset
 I;워프 주문서;30;icon_item_warpPremium
 I;인스턴스 던전 배수 토큰;4;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -58,11 +60,10 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;x4 경험의 서;1;icon_item_expbookx4
 I;확성기;31;icon_item_Mike
-I;스탯 초기화 포션(14일);1;icon_item_statReset
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Drug
+I;HP 회복 소형 엘릭서 ;30;icon_item_HPelixir_Small
 I;HP 회복의 엘릭서 [이벤트];10;icon_item_HPelixir
 I;SP 회복 소형 엘릭서 ;40;icon_item_SPelixir_Small
 I;SP 회복의 엘릭서 [이벤트];10;icon_item_SPelixir
@@ -70,7 +71,6 @@ I;[PC방] SP 회복 소형 엘릭서 ;17;icon_item_random_spellixerbox
 I;농축 HP포션 LV15;23;icon_item_HP_Alche
 I;농축 SP포션 LV15;17;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;40;item_speed_requid_1
-I;HP 회복 소형 엘릭서 ;30;icon_item_HPelixir_Small
 I;바루날레샤;2;icon_item_Varnalesa
 I;보급용 농축 HP포션 LV15;165;item_HP_oil_3
 I;보급용 농축 SP포션 LV15;179;item_SP_requid_3
@@ -127,7 +127,6 @@ I;주석;4;1_item_ore_copper
 I;펠트레민;6;item_icon_pideingot
 I;피데슘;13;5_item_ore_fluorite
 I;LV2 보물상자 열쇠;1;icon_item_key1
-I;탈트;59;30_item_ore_talt
 I;거대한 갈고리;9;icon_item_claw_01
 I;그루머 잎;6;icon_item_leaves_green
 I;글리자돈의 뼈;5;icon_item_bone
@@ -176,19 +175,19 @@ I;허밍버드의 날개;2;icon_item_bugwing
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01
-I;꼬질꼬질한 꾸러미;9;icon_item_small_bag
 I;공구박스;1;icon_item_Quest_00017
-I;루클리스 시대의 기록;4;icon_item_stonepaper_01
+I;꼬질꼬질한 꾸러미;9;icon_item_small_bag
 I;단단한 나뭇조각;3;icon_item_wood_1
+I;루클리스 시대의 기록;4;icon_item_stonepaper_01
+I;마력 추적지도 : 테브린 종유동 1구역;1;GolemMagicItem1
 I;보주 결정;1;icon_item_EvilEnergy_Powder
 I;비상 동력장치;1;icon_item_Ore_00009
 I;수정광산의 계시;1;icon_item_stonetablet
 I;연습용 목인의 잔해;1;icon_item_small_bag
-I;마력 추적지도 : 테브린 종유동 1구역;1;GolemMagicItem1
 I;유기용제;1;icon_item_Drug_CON1
+I;음양사 본향 지원 명단;1;Siaul_Act3_Confirmation
 I;의식용 밧줄;1;icon_item_tentaclel
 I;테넷 성당의 계시;1;icon_item_stonetablet
-I;음양사 본향 지원 명단;1;Siaul_Act3_Confirmation
 G;Weapon
 I;(바랜)미간티스 소드;1;icon_item_miegantis_sword
 I;페버디마스 소드;1;icon_item_pabudimas_sword

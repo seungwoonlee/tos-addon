@@ -1,18 +1,111 @@
 S;1001
 G;Unused
 I;실버;100000;icon_item_silver
-G;Gem
-I;레드 젬;Lv2;item_icon_circle150
-I;레드 젬;Lv2;item_icon_circle150
-I;레드 젬;Lv2;item_icon_circle150
-I;레드 젬;Lv2;item_icon_circle150
-I;그린 젬;Lv2;item_icon_Dia150
-I;블루 젬;Lv3;item_icon_Square150
-I;블루 젬;Lv3;item_icon_Square150
-I;블루 젬;Lv3;item_icon_Square150
-I;블루 젬;Lv3;item_icon_Square150
-I;옐로우 젬;Lv2;item_icon_Star150
-I;옐로우 젬;Lv2;item_icon_Star150
+G;SubWeapon
+I;긴 암밴드;1;icon_item_armband_clothlong
+I;느낌있는 암밴드;1;icon_item_armband_exclamationMark_icon
+I;디오니스 암밴드;1;icon_item_armband_dinios
+I;리본 암밴드;1;icon_item_armband_ribbon
+I;매듭진 암밴드;1;icon_item_armband_cloth
+I;서포터즈 암밴드;1;icon_item_armband_supporter_soccer
+I;엄지척 암밴드;1;icon_item_armband_facebook
+I;잎사귀 무늬 암밴드;1;icon_item_armband_leaf
+I;지구의 행복 암밴드;1;icon_item_armband_g9
+I;눈꽃 스프레이;1;icon_item_snowflower
+I;두근두근 웨딩 부케;1;icon_item_bouquet01
+I;등대 조명;1;icon_item_lighthouse_stick
+I;망원경;1;icon_item_scope_marin
+I;버블스틱;1;icon_item_artefact_bublestick
+I;부부젤라;1;icon_item_vuvuzela
+I;삽;1;icon_item_shovel
+I;수박 아이스크림;1;icon_item_artefact_watermelon
+I;좌절 깃발;1;OTL_flag
+I;체스 타이머;1;icon_item_chess_timer
+I;크리스마스 핸드벨;1;icon_item_artefact_bell
+I;탐지기;1;icon_item_metaldetector
+I;파이프;1;icon_item_bubble_pipeb
+I;풍선피리;1;icon_item_balloon_pipe
+G;PasteBait
+I;작은 은빛 물고기;1;icon_item_fish4
+G;Drug
+I;리사이클 메달;48;icon_item_recyclemedal
+I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
+I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
+I;고농축 SP포션;50;item_SP_requid_3
+I;고농축 이동속도 증가 포션;10;item_speed_requid_1
+I;공기 정화 수정;1;14_item_ithildin
+I;광역 공격 비율 증가 포션 LV15;1;item_speed_requid_1
+I;농축 SP포션 LV15;16;icon_item_SP_Alche
+I;농축 이동속도 증가 포션 LV15;2;item_speed_requid_1
+I;농축 이동속도 향상의 포션;2;item_speed_requid_1
+I;대왕 꿀송편;1;icon_item_Largehoney_Songpyeon
+I;딜겔레;14;icon_item_Dilgele
+I;딸기;6;icon_item_Strawberry
+I;라무넬레;2;icon_item_Ramunele
+I;레드옥스;2;icon_item_Red_Ox
+I;루팅 찬스 증가 포션;4;icon_item_looting_potion_01
+I;루팅 찬스: 100;8;item_icon_luckypotion_100
+I;매두스;41;icon_item_Medus
+I;바루날레샤;10;icon_item_Varnalesa
+I;붉은 케파 조각;3;OnionPiece_Red
+I;빻은 수정가루;1;icon_item_powderw
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;오르샤 워프 주문서;10;GolemMagicItem1
+I;워시스;13;icon_item_Uosis
+I;웨딩 케이크;3;icon_item_weddingcake
+I;정착 지원 포션 Lv2;29;item_speed_requid_3
+I;축복이 깃든 씨앗;24;icon_item_event161215_01
+I;컴패니언 먹이;2;icon_item_meat_01
+I;케이트리스 수호의 포션;1;icon_item_Drug_DEF2
+I;케이트리스 용맹의 포션;1;icon_item_Drug_AGI2
+I;클라페다 워프 주문서;20;GolemMagicItem1
+I;트린이날 폭죽;5;icon_item_firework
+I;트린이날 폭죽;1;icon_item_firework
+I;페디미안 워프 주문서;9;GolemMagicItem1
+I;포포리온 고기;3;icon_item_meat_02
+I;해독제;5;icon_item_Quest_00020
+I;LV14 경험치 카드;30;icon_item_expcard
+I;동전 투호;1;icon_1710_thanksgiving_target
+I;레드 오브:메다키아;1;icon_item_Dreamshade_red
+I;레드 오브:베스퍼;1;icon_item_Dreamshade_red
+I;레드 오브:붉은 케파;1;icon_item_Dreamshade_red
+I;레드 오브:인프로 락터;1;icon_item_Dreamshade_red
+I;레드 오브:코도모르;1;icon_item_Dreamshade_red
+I;레드 오브:하나밍;1;icon_item_Dreamshade_red
+I;레드 오브:허니빈;1;icon_item_Dreamshade_red
+I;블루 오브:바본;1;icon_item_Dreamshade
+I;블루 오브:아슈롱;1;icon_item_Dreamshade
+I;블루 오브:유코푸스;1;icon_item_Dreamshade
+I;블루 오브:인프로 락터;1;icon_item_Dreamshade
+I;블루 오브:인프로 버크;1;icon_item_Dreamshade
+I;블루 오브:폰델;1;icon_item_Dreamshade
+I;블루 오브:호그마 주술사;1;icon_item_Dreamshade
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;은빛 물고기;5;icon_item_fish2
+I;종이상자;1;icon_item_paperbox
+I;할로윈 팝업북;1;icon_item_halloween_popupbook
+I;신랑 비둘기 오르골;1;icon_item_MusicBox_Wedding01
+I;신부 비둘기 오르골;1;icon_item_MusicBox_Wedding02
+I;다과 세트;1;icon_item_artefact_Tea_Set
+I;더 맛있는 꼬치;1;icon_item_food_brochette
+I;더 시원한 코코넛쥬스;1;icon_item_food_coconut
+I;더 짜릿한 레몬아이스티;1;icon_item_food_mojito
+I;바버샵 의자;1;icon_item_event_beauty_chair
+I;사랑의 꽃 한송이;1;icon_item_aretfact_wedding04
+I;예식용 칼;1;icon_item_artefact_Decorative_knife
+I;클라페다 카프리콘즈 응원 슬로건;1;icon_item_aretfact_victory_purple
+I;푸드 커버;1;icon_item_artefact_Dome_Cover
+I;호박 등불;1;icon_item_artefact_pumkin_lamp
 G;Collection
 I;콜렉션:글라데 언덕길;1;icon_item_box
 I;콜렉션:기원의 숲;1;icon_item_box
@@ -50,113 +143,6 @@ I;콜렉션:테넷 화원;1;icon_item_box
 I;콜렉션:파수꾼의 묘역;1;icon_item_box
 I;콜렉션:페디미안 외곽;1;icon_item_box
 I;콜렉션:폴쳔이란 무엇인가;1;icon_item_box
-G;PasteBait
-I;작은 은빛 물고기;1;icon_item_fish4
-G;Drug
-I;리사이클 메달;48;icon_item_recyclemedal
-I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
-I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;고농축 SP포션;50;item_SP_requid_3
-I;고농축 이동속도 증가 포션;10;item_speed_requid_1
-I;공기 정화 수정;1;14_item_ithildin
-I;광역 공격 비율 증가 포션 LV15;1;item_speed_requid_1
-I;농축 SP포션 LV15;16;icon_item_SP_Alche
-I;농축 이동속도 증가 포션 LV15;2;item_speed_requid_1
-I;농축 이동속도 향상의 포션;2;item_speed_requid_1
-I;대왕 꿀송편;1;icon_item_Largehoney_Songpyeon
-I;딜겔레;14;icon_item_Dilgele
-I;딸기;6;icon_item_Strawberry
-I;라무넬레;2;icon_item_Ramunele
-I;레드옥스;2;icon_item_Red_Ox
-I;루팅 찬스 증가 포션;4;icon_item_looting_potion_01
-I;루팅 찬스: 100;8;item_icon_luckypotion_100
-I;매두스;41;icon_item_Medus
-I;바루날레샤;10;icon_item_Varnalesa
-I;붉은 케파 조각;3;OnionPiece_Red
-I;빻은 수정가루;1;icon_item_powderw
-I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;오르샤 워프 주문서;10;GolemMagicItem1
-I;워시스;10;icon_item_Uosis
-I;웨딩 케이크;3;icon_item_weddingcake
-I;정착 지원 포션 Lv2;29;item_speed_requid_3
-I;축복이 깃든 씨앗;26;icon_item_event161215_01
-I;컴패니언 먹이;2;icon_item_meat_01
-I;케이트리스 수호의 포션;1;icon_item_Drug_DEF2
-I;케이트리스 용맹의 포션;1;icon_item_Drug_AGI2
-I;클라페다 워프 주문서;20;GolemMagicItem1
-I;트린이날 폭죽;5;icon_item_firework
-I;트린이날 폭죽;1;icon_item_firework
-I;페디미안 워프 주문서;9;GolemMagicItem1
-I;포포리온 고기;3;icon_item_meat_02
-I;해독제;5;icon_item_Quest_00020
-I;LV14 경험치 카드;30;icon_item_expcard
-I;동전 투호;1;icon_1710_thanksgiving_target
-I;레드 오브:메다키아;1;icon_item_Dreamshade_red
-I;레드 오브:베스퍼;1;icon_item_Dreamshade_red
-I;레드 오브:붉은 케파;1;icon_item_Dreamshade_red
-I;레드 오브:인프로 락터;1;icon_item_Dreamshade_red
-I;레드 오브:코도모르;1;icon_item_Dreamshade_red
-I;레드 오브:하나밍;1;icon_item_Dreamshade_red
-I;레드 오브:허니빈;1;icon_item_Dreamshade_red
-I;블루 오브:바본;1;icon_item_Dreamshade
-I;블루 오브:아슈롱;1;icon_item_Dreamshade
-I;블루 오브:유코푸스;1;icon_item_Dreamshade
-I;블루 오브:인프로 락터;1;icon_item_Dreamshade
-I;블루 오브:인프로 버크;1;icon_item_Dreamshade
-I;블루 오브:폰델;1;icon_item_Dreamshade
-I;블루 오브:호그마 주술사;1;icon_item_Dreamshade
-I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;은빛 물고기;5;icon_item_fish2
-I;종이상자;1;icon_item_paperbox
-I;할로윈 팝업북;1;icon_item_halloween_popupbook
-I;신랑 비둘기 오르골;1;icon_item_MusicBox_Wedding01
-I;신부 비둘기 오르골;1;icon_item_MusicBox_Wedding02
-I;다과 세트;1;icon_item_artefact_Tea_Set
-I;더 맛있는 꼬치;1;icon_item_food_brochette
-I;더 시원한 코코넛쥬스;1;icon_item_food_coconut
-I;더 짜릿한 레몬아이스티;1;icon_item_food_mojito
-I;바버샵 의자;1;icon_item_event_beauty_chair
-I;사랑의 꽃 한송이;1;icon_item_aretfact_wedding04
-I;예식용 칼;1;icon_item_artefact_Decorative_knife
-I;클라페다 카프리콘즈 응원 슬로건;1;icon_item_aretfact_victory_purple
-I;푸드 커버;1;icon_item_artefact_Dome_Cover
-I;호박 등불;1;icon_item_artefact_pumkin_lamp
-G;SubWeapon
-I;긴 암밴드;1;icon_item_armband_clothlong
-I;느낌있는 암밴드;1;icon_item_armband_exclamationMark_icon
-I;디오니스 암밴드;1;icon_item_armband_dinios
-I;리본 암밴드;1;icon_item_armband_ribbon
-I;매듭진 암밴드;1;icon_item_armband_cloth
-I;서포터즈 암밴드;1;icon_item_armband_supporter_soccer
-I;엄지척 암밴드;1;icon_item_armband_facebook
-I;잎사귀 무늬 암밴드;1;icon_item_armband_leaf
-I;지구의 행복 암밴드;1;icon_item_armband_g9
-I;눈꽃 스프레이;1;icon_item_snowflower
-I;두근두근 웨딩 부케;1;icon_item_bouquet01
-I;등대 조명;1;icon_item_lighthouse_stick
-I;망원경;1;icon_item_scope_marin
-I;버블스틱;1;icon_item_artefact_bublestick
-I;부부젤라;1;icon_item_vuvuzela
-I;삽;1;icon_item_shovel
-I;수박 아이스크림;1;icon_item_artefact_watermelon
-I;좌절 깃발;1;OTL_flag
-I;체스 타이머;1;icon_item_chess_timer
-I;크리스마스 핸드벨;1;icon_item_artefact_bell
-I;탐지기;1;icon_item_metaldetector
-I;파이프;1;icon_item_bubble_pipeb
-I;풍선피리;1;icon_item_balloon_pipe
 G;Event
 I;특성 포인트 1,000;3;icon_item_abilitypoint
 I;특성 포인트 100;35;icon_item_abilitypoint3
@@ -655,8 +641,18 @@ I;제작서-여신의 축복석;15;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
-G;Cube
-I;[PC방] TP 아이템 랜덤 상자;1;icon_item_random_cashbox
+G;Gem
+I;레드 젬;Lv2;item_icon_circle150
+I;레드 젬;Lv2;item_icon_circle150
+I;레드 젬;Lv2;item_icon_circle150
+I;레드 젬;Lv2;item_icon_circle150
+I;그린 젬;Lv2;item_icon_Dia150
+I;블루 젬;Lv3;item_icon_Square150
+I;블루 젬;Lv3;item_icon_Square150
+I;블루 젬;Lv3;item_icon_Square150
+I;블루 젬;Lv3;item_icon_Square150
+I;옐로우 젬;Lv2;item_icon_Star150
+I;옐로우 젬;Lv2;item_icon_Star150
 G;Helmet
 I;24K 금괴 멍멍 헬멧 코스튬;1;item_icon_helmet_goldstonedog01
 I;복실복실 황금개 헬멧 코스튬;1;item_icon_helmet_golddog
@@ -675,7 +671,7 @@ I;리사이클 메달 상자 A급;1;Icon_Item_Recycle_Shop_Medal_Box_A
 I;리사이클 메달 상자 B급;1;Icon_Item_Recycle_Shop_Medal_Box_B
 I;리사이클 메달 상자 S급;1;Icon_Item_Recycle_Shop_Medal_Box_S
 I;마법 부여 스크롤 상자 (10장);1;icon_item_Premium_magicscroll_01_Box_A
-I;소울 크리스탈;65;icon_item_soulCrystal
+I;소울 크리스탈;69;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
@@ -739,7 +735,7 @@ I;특성 포인트 상자 S급;1;icon_item_Ability_coupon_box_S
 I;행운 상자;1;item_icon_luckybox_C
 I;행운 상자;1;item_icon_luckybox_C
 I;헤어 액세서리 선택 상자: 블루 앵커;1;icon_item_acc_hair_box1
-I;확성기;105;icon_item_Mike
+I;확성기;106;icon_item_Mike
 I;마법 부여 스크롤;7;icon_item_enchantScroll
 I;빛나는 은빛 모루;2;icon_item_anvil_silver
 I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f
@@ -788,6 +784,8 @@ I;하급 용병 코스튬(여);1;icon_item_lowtactic01_f
 I;한가위 한복 코스튬(여);1;icon_item_hanbok02_f
 G;Material
 I;모루;11;icon_item_anvil
+I;은빛 모루(14일);1;icon_item_anvil_silver
+I;은빛 모루(14일);1;icon_item_anvil_silver
 I;마력 흡수침;26;icon_item_spellneedle
 I;분해의 망치;12;icon_item_farm47_wood_hammer
 I;기슬로티스;16;icon_item_Gyslotis
@@ -1168,6 +1166,7 @@ I;히밀의 유산;1;item_bracelet_10_1
 I;강아지 풍선;1;icon_item_dogballoon
 I;강철 투구;1;hairacc_35_helm3
 I;검은 깃털 장식;1;icon_item_hat90
+I;검은 깃털 장식;1;icon_item_hat90
 I;검은 사각 모자;1;hairacc_71_squarehat
 I;검은색 왕관;1;christmasmage
 I;검은색 왕관;1;christmasmage
@@ -1230,12 +1229,8 @@ I;머슈카리아 모자;1;hairacc_23_mushcariahat
 I;머슈카리아 모자;1;hairacc_23_mushcariahat
 I;메르겐 모자;1;hairacc_89_mergenhat
 I;메이드 머리띠;1;hairacc_53_maidhat
-I;묘족두식;1;hairacc_wuguBand
 I;물빛 장미뿔;1;icon_item_bluerosehorn
 I;물빛 조개장식;1;icon_item_skyblue_shell
-I;물빛 조개장식;1;icon_item_skyblue_shell
-I;물빛 조개장식;1;icon_item_skyblue_shell
-I;민트초코컵케이크;1;hairacc_86_cupcake1
 I;민트초코컵케이크;1;hairacc_86_cupcake1
 I;민트초코컵케이크;1;hairacc_86_cupcake1
 I;민트초코컵케이크;1;hairacc_86_cupcake1
@@ -1245,7 +1240,6 @@ I;복숭아빛 장미뿔;1;icon_item_pink_rose_gaur
 I;복숭아빛 장미뿔;1;icon_item_pink_rose_gaur
 I;부의 상징;1;hairacc_28_goldbar
 I;부족장 머리 장식;1;hairacc_hat028
-I;분홍깃털장식 화관;1;hairacc_hat070
 I;분홍깃털장식 화관;1;hairacc_hat070
 I;분홍깃털장식 화관;1;hairacc_hat070
 I;분홍깃털장식 화관;1;hairacc_hat070
@@ -1269,26 +1263,20 @@ I;암탉 머리 장식;1;Hat_628294
 I;얼음 주머니;1;hairacc_9_icepack
 I;여우가면;1;hairacc_40_foxmask
 I;연어알 롤;1;icon_item_sushi8
-I;연잎;1;icon_item_Leaf_acc
-I;연잎;1;icon_item_Leaf_acc
-I;연잎;1;icon_item_Leaf_acc
-I;연잎;1;icon_item_Leaf_acc
+I;머슈카리아 모자;1;hairacc_23_mushcariahat
 I;연잎;1;icon_item_Leaf_acc
 I;열쇠장식 모자;1;icon_item_Key_cross
 I;우산;1;icon_item_umbrella
 I;우산;1;icon_item_umbrella
+I;묘족두식;1;hairacc_wuguBand
 I;유니콘 뿔;1;hairacc_42_unicornhorn
 I;작은 사자탈;1;hairacc_37_lionmask1
-I;작은 사자탈;1;hairacc_37_lionmask1
-I;작은 사자탈;1;hairacc_37_lionmask1
-I;작은 사자탈;1;hairacc_37_lionmask1
+I;제식모;1;hairacc_4_traincaptaincap
 I;잠자는 표범;1;icon_item_sleeping_leopard
 I;잭오랜턴 헤어장식;1;Hat_jackolantern
 I;잭오랜턴 헤어장식;1;Hat_jackolantern
 I;족두리;1;hairacc_82_jokdoori
 I;족두리;1;hairacc_82_jokdoori
-I;족두리;1;hairacc_82_jokdoori
-I;종이배;1;icon_item_papership
 I;종이배;1;icon_item_papership
 I;주술사 가면;1;hairacc_60_shamanmask
 I;참치초밥;1;icon_item_sushi4
@@ -1326,6 +1314,7 @@ I;햄스터;1;icon_item_Hamster
 I;호랑이 가면;1;hairacc_55_tigermask
 I;화분;1;icon_item_accessory_pollen
 I;흰 열쇠장식 모자;1;icon_item_white_cloud
+I;케파 인형;1;hairacc_48_cepadoll
 I;[이벤트] 분홍색 사탕;1;icon_item_redBall
 I;고양이귀;1;icon_item_cap_3
 I;고양이귀;1;icon_item_cap_3

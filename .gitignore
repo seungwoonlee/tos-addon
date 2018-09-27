@@ -3,8 +3,6 @@ patch/
 release/*
 release/**/
 !release/lua/
-!release/user.xml
-!release/user_c.xml
 !release/serverlist_recent.xml
 !release/release.revision.txt
 !release/hotkey*.*
