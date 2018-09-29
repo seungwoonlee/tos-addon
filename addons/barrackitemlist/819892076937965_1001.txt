@@ -1,0 +1,189 @@
+S;1001
+G;Unused
+I;실버;279348;icon_item_silver
+G;Drug
+I;보급용 작은 HP포션;42;item_HP_oil_1
+I;보급용 작은 SP포션;372;item_SP_requid_1
+I;보급용 작은 스태미나 알약;28;item_STA_pill_1
+I;보급용 이동속도 증가 포션;3;item_speed_requid_1
+I;송편;4;icon_item_Songpyeon
+I;포포리온 고기;13;icon_item_meat_02
+I;붉은 케파 조각;3;OnionPiece_Red
+I;농축 SP포션 LV15;20;icon_item_SP_Alche
+I;농축 HP포션 LV15;19;icon_item_HP_Alche
+I;보급용 작은 회복포션;3;item_HPSP_potion_1
+I;바루날레샤;4;icon_item_Varnalesa
+I;딜겔레;10;icon_item_Dilgele
+I;발래리요나스;6;icon_item_Valerijonas
+I;라무넬레;3;icon_item_Ramunele
+I;LV1 경험치 카드;105;icon_item_expcard
+I;LV2 경험치 카드;202;icon_item_expcard
+I;LV5 경험치 카드;48;icon_item_expcard
+I;LV3 경험치 카드;140;icon_item_expcard
+I;LV6 경험치 카드;36;icon_item_expcard
+I;LV7 경험치 카드;26;icon_item_expcard
+I;LV4 경험치 카드;40;icon_item_expcard
+I;보급용 워프 주문서;27;GolemMagicItem1
+I;레드 오브:부베 약탈자;1;icon_item_Dreamshade_red
+I;레드 오브:유코푸스;1;icon_item_Dreamshade_red
+I;블루 오브:박쥐;1;icon_item_Dreamshade
+G;Book
+I;카듀멜 시대의 갑주;1;icon_item_collection_04Black
+I;낡은 일기;1;icon_item_collection_04Black
+I;리디아 샤펜과 플레쳐;1;icon_item_collection_00Basic
+I;리디아 샤펜의 교차선;1;icon_item_collection_04Black
+I;리디아 샤펜의 오늬;1;icon_item_collection_01Red
+I;리디아 샤펜과 럼펠스틸스킨;1;icon_item_collection_02green
+I;아트만의 확장;1;icon_item_collection_03Blue
+I;찢어진 일기의 일부 1;1;icon_item_paperpiece
+G;Recipe
+I;제작서-아라스의 폴쳔;1;icon_item_weapon_misc3
+I;제작서-레드 베리스 글로브;1;icon_item_gloves_misc3
+I;제작서-추종자의 레더 아머;1;icon_item_shirts_misc3
+I;제작서-인섹트 건틀릿;2;icon_item_gloves_misc3
+I;제작서-네펜더스 글로브;1;icon_item_gloves_misc3
+I;제작서-테넷 체인 팬츠;1;icon_item_pants_misc3
+I;제작서-산양 뿔;1;icon_item_helm_misc1
+G;Gem
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
+G;Armor
+I;금테 투구;1;hairacc_34_helm2
+I;흰꽃 머리핀;1;hairacc_15_flowerribbon
+I;링커 코스튬;1;icon_item_linker_f
+G;Material
+I;연습용 모루;2;icon_item_anvil
+I;주석;3;1_item_ore_copper
+I;가넷;2;26_item_ore_garnet
+I;박쥐의 날개;54;icon_item_batwing
+I;하나밍 꽃잎;20;icon_item_HanamingPetal
+I;인프로 락터의 껍질;3;icon_item_shell
+I;잎방개의 껍질;6;icon_item_shell_green
+I;플로르;3;icon_item_crystal_green
+I;인프로 락터의 뼈;1;icon_item_bone
+I;츄파카브라 이빨;3;icon_item_tooth_white
+I;부베족의 증표;25;icon_item_bubetoken
+I;츄파카브라 가죽;1;icon_item_Misc_00007
+I;위버 더듬이;10;icon_item_feeler_black
+I;포쿠부 가죽;8;icon_item_Misc_00011
+I;부베 활대;4;icon_item_bubebow
+I;유코푸스 잎;52;icon_item_leaves_blue
+I;LV2 보물상자 열쇠;4;icon_item_key1
+I;스톤오르카의 핵;23;icon_item_core_yellow
+I;라플라워 뿌리;2;icon_item_onionroot
+I;케파 줄기;18;icon_item_stem_green
+I;보름달 조각;225;icon_item_topaz_piece
+I;에큐바이트 더듬이;24;icon_item_feeler_purple
+I;에큐바이트 이빨;9;icon_item_tooth_blue
+I;에큐바이트 수정;1;icon_item_Crystal_00005
+I;수정거미 더듬이;8;icon_item_feeler_blue
+I;부베 투사의 피;1;icon_item_Drug_51013
+I;치넨시 잎;3;icon_item_bokchoyleaf
+I;츄파루카 털;3;icon_item_fur_05Gray
+I;찢어진 종이조각;1;icon_item_flag_hohen
+I;푸른 듀마로의 발톱;2;icon_item_claw_00Basic
+I;박쥐 이빨;1;icon_item_tooth_white
+I;바브 더듬이;16;icon_item_feeler_black
+I;바브의 껍질;1;icon_item_shell_blackbrown
+I;그루머 잎;10;icon_item_leaves_green
+I;지그너츠 줄기;6;icon_item_zignuts
+I;판토족의 뿔;18;icon_item_pantohorn
+I;리플라이 날개;6;icon_item_bugwing
+I;밴시의 사념체;2;icon_item_spirit_orange
+I;식칼;6;icon_item_knife01
+I;거대한 갈고리;8;icon_item_claw_01
+I;허밍버드의 날개;1;icon_item_bugwing
+I;말라두의 고기;32;icon_item_meat_02
+I;씨드미아 씨앗;3;icon_item_seed_brown
+I;요노움의 핵;20;icon_item_core_purple
+I;코릴러스의 뿔;9;icon_item_pantohorn
+I;글리자돈의 뼈;1;icon_item_bone
+I;작은 마족의 뿔;4;icon_item_pantohorn
+I;갈록 가죽;2;icon_item_Misc_00007
+I;시체의 손;13;icon_item_misc_spector_gh
+I;이노움의 핵;31;icon_item_core_purple
+I;이노움의 파편;2;icon_item_Misc_00004
+I;피렌트 꽃;1;icon_item_firentflower
+I;티피오의 꽃술;9;icon_item_tipiostamen
+I;레지네이트;1;16_item_treenite
+I;도요르 잎다발;2;icon_item_doyorleaf
+I;귀환석;1;MercenaryBadge
+G;Quest
+I;음양사 본향 지원 명단;1;Siaul_Act3_Confirmation
+I;리디아 샤펜의 오늬;1;icon_item_collection_01Red
+I;수정광산의 계시;1;icon_item_stonetablet
+I;연습용 목인의 잔해;1;icon_item_small_bag
+I;공구박스;1;icon_item_Quest_00017
+I;밧줄;1;icon_item_Leash
+I;공간의 문장;1;icon_item_void_01
+I;테넷 성당의 계시;1;icon_item_stonetablet
+I;단단한 나뭇조각;1;icon_item_wood_1
+I;타누의 정화석;12;icon_item_orb_1
+G;Collection
+I;콜렉션:샤울레이 서쪽 숲;1;icon_item_box
+I;콜렉션:샤울레이 동쪽 숲;1;icon_item_box
+I;콜렉션:샤울레이 광산 마을;1;icon_item_box
+I;콜렉션:수정광산 1층;1;icon_item_box
+I;콜렉션:수정광산 2층;1;icon_item_box
+I;콜렉션:수정광산 3층;1;icon_item_box
+I;계시록 : 대립편 콜렉션;1;icon_item_holyark
+I;콜렉션:렘파라사 연못;1;icon_item_box
+I;콜렉션:덧댄다리 숲;1;icon_item_box
+I;콜렉션:초보자의 무기;1;icon_item_box
+I;콜렉션:초보자의 방어구;1;icon_item_box
+I;콜렉션:파우피스 나루;1;icon_item_box
+I;콜렉션:아샤크 지하감옥 1층;1;icon_item_box
+I;콜렉션:아샤크 지하감옥 3층;1;icon_item_box
+I;콜렉션:스라우타스 협곡;1;icon_item_box
+I;콜렉션:겔리 고원;1;icon_item_box
+I;콜렉션:네프리타스 벼랑;1;icon_item_box
+I;콜렉션:테넷 화원;1;icon_item_box
+I;콜렉션:파수꾼의 묘역;1;icon_item_box
+I;콜렉션:테넷 성당 지상 1층;1;icon_item_box
+I;콜렉션:테넷 성당 지상 2층;1;icon_item_box
+I;콜렉션:베야 골짜기;1;icon_item_box

@@ -1,0 +1,122 @@
+S;1001
+G;Unused
+I;실버;100000;icon_item_silver
+G;Drug
+I;보급용 작은 스태미나 알약;18;item_STA_pill_1
+I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
+I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
+I;농축 HP포션 LV15;11;icon_item_HP_Alche
+I;오르샤 워프 주문서;11;GolemMagicItem1
+I;페디미안 워프 주문서;22;GolemMagicItem1
+I;농축 SP포션 LV15;18;icon_item_SP_Alche
+I;클라페다 워프 주문서;8;GolemMagicItem1
+I;해독제;10;icon_item_Quest_00020
+I;붉은 케파 조각;1;OnionPiece_Red
+I;포포리온 고기;5;icon_item_meat_02
+I;보급용 작은 SP포션;35;item_SP_requid_1
+I;보급용 작은 HP포션;4;item_HP_oil_1
+I;보급용 이동속도 증가 포션;3;item_speed_requid_1
+I;보급용 워프 주문서;6;GolemMagicItem1
+I;LV1 경험치 카드;59;icon_item_expcard
+I;LV2 경험치 카드;24;icon_item_expcard
+I;LV5 경험치 카드;49;icon_item_expcard
+I;LV3 경험치 카드;52;icon_item_expcard
+I;LV6 경험치 카드;43;icon_item_expcard
+I;LV8 경험치 카드;32;icon_item_expcard
+I;LV7 경험치 카드;26;icon_item_expcard
+I;LV4 경험치 카드;52;icon_item_expcard
+I;LV13 경험치 카드;34;icon_item_expcard
+I;LV9 경험치 카드;30;icon_item_expcard
+I;LV10 경험치 카드;32;icon_item_expcard
+I;LV11 경험치 카드;44;icon_item_expcard
+I;LV14 경험치 카드;71;icon_item_expcard
+I;LV12 경험치 카드;14;icon_item_expcard
+G;Book
+I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
+G;Recipe
+I;제작서-페디미안 글로브;1;icon_item_gloves_misc1
+I;제작서-x4 경험의 서;2;icon_item_recipe_misc1
+I;제작서-x8 경험의 서;2;icon_item_recipe_misc1
+G;Collection
+I;콜렉션:샤울레이 광산 마을;1;icon_item_box
+I;콜렉션:샤울레이 동쪽 숲;1;icon_item_box
+I;콜렉션:샤울레이 서쪽 숲;1;icon_item_box
+I;콜렉션:왕릉 2층;1;icon_item_box
+I;콜렉션:파수꾼의 묘역;1;icon_item_box
+I;콜렉션:기원의 숲;1;icon_item_box
+I;콜렉션:테브린 종유동 1구역;1;icon_item_box
+I;콜렉션:네프리타스 벼랑;1;icon_item_box
+G;Premium
+I;소울 크리스탈;15;icon_item_soulCrystal
+I;워프 주문서;15;icon_item_warpPremium
+I;확성기;15;icon_item_Mike
+G;Material
+I;모루;11;icon_item_anvil
+I;연습용 모루;1;icon_item_anvil
+I;망토;9;icon_item_cape
+I;조각용 나무;1;icon_item_wood_5
+I;성수;328;icon_item_holywater
+I;기슬로티스;475;icon_item_Gyslotis
+I;홀리 파우더;2790;icon_item_powderw
+I;레비 털;72;icon_item_fur_01Yellow
+I;양피지;4;icon_item_Misc_00020
+I;장작;12;icon_item_woodpiece
+I;할로우벤터의 손뼈;3;icon_item_bone
+I;말라두의 고기;13;icon_item_meat_02
+I;판토족의 뿔;1;icon_item_pantohorn
+I;물푸레나무;15;icon_item_wood_2
+I;소나무;1;icon_item_wood_3
+I;유코푸스 잎;6;icon_item_leaves_blue
+I;츄파카브라 이빨;9;icon_item_tooth_white
+I;위버 더듬이;3;icon_item_feeler_black
+I;츄파카브라 가죽;1;icon_item_Misc_00007
+I;포쿠부 가죽;1;icon_item_Misc_00011
+I;부베족의 증표;1;icon_item_bubetoken
+I;톤투리아의 가시;1;icon_item_thorn_Yellow
+I;케파 줄기;2;icon_item_stem_green
+I;잎방개의 껍질;1;icon_item_shell_green
+I;인프로 블러드 줄기;1;icon_item_stem_gray
+I;붉은 코카트 깃털;1;icon_item_feather_cockatries_red
+I;비카라스의 핵;4;icon_item_core_yellow
+I;베카라베의 껍질;4;icon_item_shell_yellow
+I;베스퍼의 무게추;3;icon_item_ballast
+I;나무 말뚝;7;icon_item_wood_3
+I;스타울리트 심장;2;item_icon_heart_red
+I;코도모르 가시;1;icon_item_thorn_blue
+I;락콘의 핵;1;38_item_ore_mercury
+I;플락의 갑옷조각;1;icon_item_FORMINE_ARMOR_SCAPULAR
+I;락코프의 핵;1;38_item_ore_mercury
+I;거대한 갈고리;2;icon_item_claw_01
+I;식칼;4;icon_item_knife01
+I;밴시의 사념체;1;icon_item_spirit_orange
+I;씨드미아 씨앗;1;icon_item_seed_brown
+I;치넨시 잎;1;icon_item_bokchoyleaf
+I;늙은 케파 껍질;1;icon_item_onionpiece
+I;주술인형의 핵;1;icon_item_core_red
+I;귀환석;1;MercenaryBadge
+G;Quest
+I;음양사 본향 지원 명단;1;Siaul_Act3_Confirmation
+I;로그 마스터의 주머니;1;icon_item_farm47_sack_01
+I;허밀가의 붉은 수정;1;icon_item_Gem_Stone_STR
+I;제거티 여신의 수정;1;14_item_ithildin
+I;먼지묻은 유적지 파편;1;icon_item_stonepiece_01Yellow
+I;수액수집기;1;icon_item_stickw
+I;몽당 나무의 수액;52;icon_item_Drug_CON2
+I;유적 파편;11;icon_item_stonepiece_01Yellow_01
+I;조잡한 탐사막대;1;icon_item_Lrod
+I;섀퍼 마스터가 준 주머니;1;icon_item_small_bag
+I;연습용 목인의 잔해;1;icon_item_small_bag
+I;공구박스;1;icon_item_Quest_00017
+I;지휘관 줄리안의 명령서;1;icon_item_Scroll
+I;영험한 가루;1;icon_item_sesami
+I;마력 추적지도 : 테브린 종유동 1구역;1;GolemMagicItem1
+I;광산 마을의 식량;2;icon_item_Gem_Elemental8
+I;병사의 유품;2;icon_item_small_bag
+I;단단한 나뭇조각;1;icon_item_wood_1
+I;밧줄;1;icon_item_Leash
+G;Armor
+I;엑소시스트 루브릭 코스튬;1;icon_item_Exorcist04_f
+I;엑소시스트 소울 바인더 코스튬;1;icon_item_Exorcist02_f
+I;크리비 코스튬;1;icon_item_kribi_f
+I;사두 코스튬;1;icon_item_sadhu_f
+I;엑소시스트 코스튬;1;icon_item_Exorcist01_f

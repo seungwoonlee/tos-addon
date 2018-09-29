@@ -1,0 +1,21 @@
+S;1001
+G;Unused
+I;실버;454;icon_item_silver
+G;Drug
+I;보급용 작은 HP포션;28;item_HP_oil_1
+I;보급용 작은 SP포션;23;item_SP_requid_1
+I;보급용 작은 스태미나 알약;23;item_STA_pill_1
+I;보급용 이동속도 증가 포션;3;item_speed_requid_1
+I;정착 지원 포션 Lv2;10;item_speed_requid_3
+G;Material
+I;잎방개의 껍질;9;icon_item_shell_green
+I;케파 줄기;6;icon_item_stem_green
+I;하나밍 꽃잎;1;icon_item_HanamingPetal
+I;귀환석;1;MercenaryBadge
+G;Armor
+I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
+I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
+I;크리스탈 뱅글;1;item_bracelet_15
+G;Weapon
+I;슈페리어 글라디우스;1;icon_item_Sword_22
+I;오래된 글라디우스;1;icon_item_Sword_22
