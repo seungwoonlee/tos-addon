@@ -110,7 +110,7 @@ I;케이스타스 회복포션Lv4;101;item_HPSP_potion_3
 I;클라페다 워프 주문서;11;GolemMagicItem1
 I;포포리온 고기;9;icon_item_meat_02
 I;폭죽;34;icon_item_firework
-I;송편;47;icon_item_Songpyeon
+I;송편;50;icon_item_Songpyeon
 I;파티 폭죽 (14일);1;icon_item_firework
 I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
 I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
@@ -148,6 +148,7 @@ I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스탯 초기화 포션;3;icon_item_statReset
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
 I;워프 주문서;20;icon_item_warpPremium
 I;워프 주문서 10개 상자;3;icon_item_warpPremium_bundle
 I;윈터펭 알;1;icon_item_egg_winterpeng
@@ -156,6 +157,8 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;확성기;50;icon_item_Mike
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
 I;토큰;1;icon_item_token
 I;프리미엄 각성석;2;icon_item_awakeningstone
 I;2018 나무나무 코스튬(남);1;icon_item_event_2018_arbor_m

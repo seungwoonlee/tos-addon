@@ -42,6 +42,9 @@ I;특성 포인트 상자 S급;1;icon_item_Ability_coupon_box_S
 I;파스텔 그린 염색약;1;haircolor_green
 I;확성기;209;icon_item_Mike
 I;확성기 10개 상자;1;icon_item_Mike_bundle
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
 I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
 I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
 I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
@@ -61,8 +64,6 @@ I;고농축 이동속도 증가 포션;20;item_speed_requid_1
 I;농축 HP포션 LV15;19;icon_item_HP_Alche
 I;농축 SP포션 LV15;2;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;60;item_speed_requid_1
-I;대왕 송편 (14일);1;icon_item_Large_Songpyeon
-I;대왕 송편 (14일);1;icon_item_Large_Songpyeon
 I;레드옥스;6;icon_item_Red_Ox
 I;루팅 찬스 증가 포션;9;icon_item_looting_potion_01
 I;바루날레샤;1;icon_item_Varnalesa
@@ -73,7 +74,7 @@ I;보급용 작은 SP포션;88;item_SP_requid_1
 I;보급용 작은 스태미나 알약;22;item_STA_pill_1
 I;보급용 작은 회복포션;3;item_HPSP_potion_1
 I;붉은 케파 조각;3;OnionPiece_Red
-I;송편;51;icon_item_Songpyeon
+I;송편;54;icon_item_Songpyeon
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
@@ -112,9 +113,6 @@ I;콜렉션:기원의 숲;1;icon_item_box
 G;Event
 I;특성 포인트 1,000;6;icon_item_abilitypoint
 I;특성 포인트 500;1;icon_item_abilitypoint2
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
 I;연하장;1;icon_item_event_invitation2
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE

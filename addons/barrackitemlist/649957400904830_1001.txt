@@ -20,7 +20,7 @@ I;보급용 작은 HP포션;31;item_HP_oil_1
 I;보급용 작은 SP포션;310;item_SP_requid_1
 I;보급용 작은 스태미나 알약;22;item_STA_pill_1
 I;붉은 케파 조각;2;OnionPiece_Red
-I;송편;38;icon_item_Songpyeon
+I;송편;41;icon_item_Songpyeon
 I;오르샤 워프 주문서;2;GolemMagicItem1
 I;정착 지원 포션;9;item_speed_requid_3
 I;정착 지원 포션 Lv2;49;item_speed_requid_3
@@ -242,6 +242,7 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;애쉬 그레이 염색약;1;haircolor_gray
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -258,4 +259,6 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
 I;전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
 I;확성기;51;icon_item_Mike
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
 I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
