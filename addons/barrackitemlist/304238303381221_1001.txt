@@ -3,7 +3,7 @@ G;Unused
 I;실버;11407093;icon_item_silver
 G;Premium
 I;빛나는 은빛 아이커 상자 (3개);1;icon_item_Premium_kit_Sliver_Box_A
-I;소울 크리스탈;325;icon_item_soulCrystal
+I;소울 크리스탈;330;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
@@ -40,15 +40,16 @@ I;특성 포인트 상자 B급;1;icon_item_Ability_coupon_box_B
 I;특성 포인트 상자 B급;1;icon_item_Ability_coupon_box_B
 I;특성 포인트 상자 S급;1;icon_item_Ability_coupon_box_S
 I;파스텔 그린 염색약;1;haircolor_green
-I;확성기;209;icon_item_Mike
+I;확성기;210;icon_item_Mike
 I;확성기 10개 상자;1;icon_item_Mike_bundle
 I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
 I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
 I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
+I;확성기 50개 상자;1;icon_item_Mike_bundle
 I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
 I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
 I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(거래불가);1;icon_item_enchantScroll
+I;마법 부여 스크롤(거래불가);2;icon_item_enchantScroll
 I;프리미엄 각성석;3;icon_item_awakeningstone
 I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
@@ -64,6 +65,8 @@ I;고농축 이동속도 증가 포션;20;item_speed_requid_1
 I;농축 HP포션 LV15;19;icon_item_HP_Alche
 I;농축 SP포션 LV15;2;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;60;item_speed_requid_1
+I;HP 회복의 엘릭서 [이벤트];10;icon_item_HPelixir
+I;SP 회복의 엘릭서 [이벤트];10;icon_item_SPelixir
 I;레드옥스;6;icon_item_Red_Ox
 I;루팅 찬스 증가 포션;9;icon_item_looting_potion_01
 I;바루날레샤;1;icon_item_Varnalesa
@@ -74,7 +77,7 @@ I;보급용 작은 SP포션;88;item_SP_requid_1
 I;보급용 작은 스태미나 알약;22;item_STA_pill_1
 I;보급용 작은 회복포션;3;item_HPSP_potion_1
 I;붉은 케파 조각;3;OnionPiece_Red
-I;송편;54;icon_item_Songpyeon
+I;송편;69;icon_item_Songpyeon
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
@@ -82,8 +85,6 @@ I;오르샤 워프 주문서;13;GolemMagicItem1
 I;정착 지원 포션;10;item_speed_requid_3
 I;정착 지원 포션 Lv2;87;item_speed_requid_3
 I;축복이 깃든 씨앗;7;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
 I;케이스타스 수호의 포션;1;icon_item_Drug_exDEF1
 I;케이스타스 용맹의 포션;3;icon_item_Drug_exATK1
 I;케이스타스 회복포션Lv4;21;item_HPSP_potion_3
@@ -172,9 +173,12 @@ I;케파 인형;1;hairacc_48_cepadoll
 I;레인저 코스튬;1;icon_item_ranger_f
 I;로그 코스튬;1;icon_item_rogue_f
 I;응사 코스튬;1;icon_item_falconer_f
+I;사심이 담긴 상소문;1;icon_item_wing_scroll2
 G;Material
 I;은빛 모루(14일);1;icon_item_anvil_silver
 I;은빛 모루(14일);1;icon_item_anvil_silver
+I;황금 모루(14일);1;icon_item_anvil_gold
+I;황금 모루(14일);1;icon_item_anvil_gold
 I;3성 젬 연마제;1;icon_item_powderp
 I;마력 흡수침;1;icon_item_spellneedle
 I;매직 애로우;176;icon_item_magicarrow

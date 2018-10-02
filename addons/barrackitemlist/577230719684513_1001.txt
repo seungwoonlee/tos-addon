@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;3004533;icon_item_silver
+I;실버;3004493;icon_item_silver
 G;PasteBait
 I;[PC방] 화려한 지렁이;800;icon_item_Paste_Bait2_pc
 I;보급용 미끼;608;icon_item_Paste_Bait_basic
@@ -44,12 +44,9 @@ I;낡은 보급용 낚싯대;1;icon_item_Fishing_Rod_1
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 G;Premium
 I;긴급 수리 키트;20;icon_item_repairkit
-I;랭크 초기화권 (30일);1;icon_item_rankreset_paper
 I;랭크 초기화권 (60일);1;icon_item_rankreset_paper
 I;소울 크리스탈;11;icon_item_soulCrystal
-I;스탯 초기화 포션 (30일);1;icon_item_statReset
 I;스탯 초기화 포션 (60일);1;icon_item_statReset
-I;스탯 초기화 포션(14일);1;icon_item_statReset
 I;워프 주문서;30;icon_item_warpPremium
 I;인스턴스 던전 배수 토큰;4;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -64,9 +61,7 @@ I;확성기;31;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Drug
 I;HP 회복 소형 엘릭서 ;30;icon_item_HPelixir_Small
-I;HP 회복의 엘릭서 [이벤트];10;icon_item_HPelixir
 I;SP 회복 소형 엘릭서 ;40;icon_item_SPelixir_Small
-I;SP 회복의 엘릭서 [이벤트];10;icon_item_SPelixir
 I;[PC방] SP 회복 소형 엘릭서 ;17;icon_item_random_spellixerbox
 I;농축 HP포션 LV15;23;icon_item_HP_Alche
 I;농축 SP포션 LV15;17;icon_item_SP_Alche

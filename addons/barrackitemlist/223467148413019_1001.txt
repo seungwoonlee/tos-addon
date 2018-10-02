@@ -3,7 +3,6 @@ G;Unused
 I;실버;100000;icon_item_silver
 G;Drug
 I;보급용 레드옥스;8;icon_item_Red_Ox
-I;농축 HP포션 LV10;1;icon_item_HP_Alche
 I;발래리요나스;2;icon_item_Valerijonas
 I;보급용 작은 회복포션;3;item_HPSP_potion_1
 I;바루날레샤;4;icon_item_Varnalesa
@@ -25,8 +24,8 @@ I;붉은 케파 조각;1;OnionPiece_Red
 I;농축 HP포션 LV15;22;icon_item_HP_Alche
 I;폭죽;15;icon_item_firework
 I;포포리온 고기;8;icon_item_meat_02
-I;보급용 SP포션;22;item_SP_requid_2
-I;보급용 HP포션;17;item_HP_oil_2
+I;보급용 SP포션;20;item_SP_requid_2
+I;보급용 HP포션;15;item_HP_oil_2
 I;치명타 공격력 증가 포션;2;item_speed_requid_1
 I;보급용 큰 HP포션;5;item_HP_oil_3
 I;스태미나 알약;10;item_STA_pill_2
@@ -40,12 +39,10 @@ I;케이스타스 회복포션Lv4;81;item_HPSP_potion_3
 I;물리+마법 방어력 포션;1;item_speed_requid_1
 I;이동속도 향상의 포션;2;item_speed_requid_1
 I;농축 SP포션 LV15;10;icon_item_SP_Alche
-I;정착 지원 포션 Lv2;9;item_speed_requid_3
+I;정착 지원 포션 Lv2;8;item_speed_requid_3
 I;케이스타스 회복포션Lv2;10;item_HPSP_potion_2
 I;케이트리스 용맹의 포션;10;icon_item_Drug_AGI2
 I;대왕 송편 (14일);1;icon_item_Large_Songpyeon
-I;대왕 송편 (14일);1;icon_item_Large_Songpyeon
-I;송편;2;icon_item_Songpyeon
 I;대왕 송편 (14일);1;icon_item_Large_Songpyeon
 I;보급용 워프 주문서;15;GolemMagicItem1
 I;레드 오브:인프로홀더 궁수;1;icon_item_Dreamshade_red
@@ -86,9 +83,6 @@ I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
 I;성직자용 심플 컬러 코스튬(여);1;cleric_simplecolor_f
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
-G;Armor
-I;드루이드 코스튬;1;icon_item_druid_f
-I;팔라딘 코스튬;1;icon_item_paladin_f
 G;Material
 I;가벼운 모루;1;icon_item_anvil
 I;모루;13;icon_item_anvil
@@ -97,7 +91,6 @@ I;파이라이트;6;32_item_ore_pyrite
 I;크리오라이트;4;39_icon_item_Cry8rite
 I;주석;1;1_item_ore_copper
 I;호박;12;22_item_ore_amber
-I;이오니움;8;icon_item_crystal_yellow
 I;유리 조각;11;icon_item_pieceofglass
 I;씨드미아 씨앗;8;icon_item_seed_brown
 I;지그너츠 줄기;4;icon_item_zignuts
@@ -248,5 +241,6 @@ I;비밀 상자 열쇠;1;icon_item_Quest_00014
 I;영험한 가루;1;icon_item_sesami
 I;마력이 농축된 뿔;1;icon_item_claw_hohen
 I;왕의 목소리 영약;1;item_HPSP_potion_3
-G;Weapon
-I;프리머스 라파이 투 핸드 메이스;1;icon_item_mace_twohand_lapai
+G;Armor
+I;드루이드 코스튬;1;icon_item_druid_f
+I;팔라딘 코스튬;1;icon_item_paladin_f

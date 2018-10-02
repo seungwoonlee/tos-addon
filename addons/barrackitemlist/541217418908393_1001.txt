@@ -229,6 +229,7 @@ I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01
 I;공구박스;1;icon_item_Quest_00017
+I;낡은 피리;1;icon_item_flute
 I;단단한 나뭇조각;1;icon_item_wood_1
 I;독특한 산호 조각;1;icon_item_coral
 I;물병;1;icon_item_Quest_00020
@@ -238,7 +239,7 @@ I;비상 동력장치;1;icon_item_Ore_00009
 I;수정광산의 계시;1;icon_item_stonetablet
 I;순례자의 표식;30;neck_pilgrim_01
 I;연습용 목인의 잔해;1;icon_item_small_bag
-I;낡은 피리;1;icon_item_flute
+I;음양사 본향 지원 명단;1;Siaul_Act3_Confirmation
 I;인프로버크 정신지배석;1;icon_item_Velorb
 I;제거티 여신의 수정;1;14_item_ithildin
 I;칙명 위임장;1;Siaul_Act3_Confirmation
@@ -248,6 +249,5 @@ I;푸른 산호;5;icon_item_coral2
 I;허밀가의 붉은 수정;1;icon_item_Gem_Stone_STR
 I;홍염의 보석;1;icon_item_crimson2
 I;화살 묶음;1;item_icon_barbedhead_arrow
-I;음양사 본향 지원 명단;1;Siaul_Act3_Confirmation
 G;Weapon
 I;[For 10] 프리머스 라파이 보우 (30일);1;icon_item_bow_lapai

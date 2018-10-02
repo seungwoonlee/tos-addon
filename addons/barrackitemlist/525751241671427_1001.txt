@@ -212,7 +212,6 @@ I;푸른 램프의 기름;7;icon_item_liquid
 I;마력 추적지도 : 살비야스 숲;1;GolemMagicItem1
 I;흩어진 기록지;15;GolemMagicItem1
 G;Armor
-I;나이트 아머;1;icon_item_shirts_knight
 I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
 I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
 I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
@@ -242,12 +241,10 @@ I;스틸 네클리스;1;item_necklace_10
 I;스틸 네클리스;1;item_necklace_10
 I;식탐의 목걸이;1;item_NECK_PILGRIM_01_PWR
 I;실버 탈리스만;1;item_necklace_04
-I;애니무스;1;item_necklace_07
-I;어보미네이션 네클리스;1;item_necklace_01
+I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
 I;유코푸스 네클리스;1;item_necklace_11
 I;일렉투스;1;item_necklace_19
 I;츄파카브라 네클리스;1;item_necklace_11
-I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
 I;카너버 네클리스;1;item_necklace_17
 I;카너버 네클리스;1;item_necklace_17
 I;케파 팬던트;1;item_necklace_10
@@ -272,9 +269,6 @@ I;슈페리어 펄 브레이슬릿;1;item_bracelet_05
 I;스머르토 브레이슬릿;1;item_bracelet_22
 I;실버 브레이슬릿;1;item_bracelet_04
 I;안티 다크 브레이슬릿;1;item_bracelet_14
-I;어보미네이션 브레이슬릿;1;item_bracelet_03
-I;영주 헤먼데일의 브레이슬릿;1;icon_item_eventbracelet01
-I;영주 헤먼데일의 브레이슬릿;1;icon_item_eventbracelet01
 I;영주 헤먼데일의 브레이슬릿;1;icon_item_eventbracelet01
 I;자카리엘 뱅글;1;item_bracelet_10
 I;자카리엘 뱅글;1;item_bracelet_10

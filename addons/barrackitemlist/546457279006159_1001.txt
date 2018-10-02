@@ -22,7 +22,6 @@ I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;농축 SP포션 LV15;4;icon_item_SP_Alche
 I;케이스타스 회복포션Lv4;48;item_HPSP_potion_3
-I;송편;7;icon_item_Songpyeon
 I;보급용 워프 주문서;23;GolemMagicItem1
 I;은빛 물고기;20;icon_item_fish2
 I;레드 오브:리자드맨;1;icon_item_Dreamshade_red
@@ -112,7 +111,7 @@ I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;파이라이트;5;32_item_ore_pyrite
-I;홀리 파우더;545;icon_item_powderw
+I;홀리 파우더;500;icon_item_powderw
 I;호박;4;22_item_ore_amber
 I;주석;2;1_item_ore_copper
 I;잎방개의 껍질;2;icon_item_shell_green
@@ -254,7 +253,6 @@ I;수정거미 더듬이;15;icon_item_feeler_blue
 I;노란 페이그 클램퍼의 천조각;4;icon_item_clothpiece_brown
 I;노란 페이그 쉬어러의 천조각;1;icon_item_clothpiece_brown
 I;초록 페이그 널스의 천조각;1;icon_item_clothpiece_green
-I;로데리옷의 망치;1;icon_item_misc04_24
 I;레무리아의 꼬리;1;icon_item_Quest_00017
 I;찢어진 종이조각;1;icon_item_flag_hohen
 I;쉬타임 파편;1;icon_item_Misc_00004

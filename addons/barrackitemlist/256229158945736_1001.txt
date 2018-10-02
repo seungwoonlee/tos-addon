@@ -1,103 +1,18 @@
 S;1001
 G;Unused
-I;실버;332286;icon_item_silver
+I;실버;365586;icon_item_silver
+G;Armor
+I;닉스 나이트 그리브;1;icon_item_arkishknight_boots
+I;틸라 레더 글로브;1;icon_item_gloves_gairas_gray
+I;틸라 글로브;1;icon_item_gloves_sage_white
+I;베르타스 로들렌 실드;1;icon_item_shield_ishick
+I;부베 네클리스;1;item_necklace_18
+I;아우르 메달;1;item_necklace_19
+I;유코푸스 네클리스;1;item_necklace_11
+I;홈 파인 뱅글;1;item_bracelet_15
+I;딥디르비 코스튬;1;icon_item_dievdirbys_f
 G;Helmet
 I;송편 헬멧 코스튬;1;icon_item_helmet_songpyun
-G;Premium
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;챌린지 포탈 생성 스크롤;5;icon_item_challengemode_scroll
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;스탯 초기화 포션 (60일);1;icon_item_statReset
-I;워프 주문서;238;icon_item_warpPremium
-I;인스턴스 던전 배수 토큰;2;icon_item_indunexmode
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;확성기;182;icon_item_Mike
-I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Collection
 I;콜렉션:관문로;1;icon_item_box
 I;콜렉션:네프리타스 벼랑;1;icon_item_box
@@ -109,6 +24,8 @@ I;콜렉션:자카리엘 교차로;1;icon_item_box
 I;콜렉션:코발트 숲;1;icon_item_box
 I;콜렉션:마족수감소 1구역;1;icon_item_box
 I;콜렉션:마족수감소 2구역;1;icon_item_box
+G;SubWeapon
+I;스케티스 대거;1;icon_item_dagger_emeraldskull
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black
 G;Recipe
@@ -217,15 +134,101 @@ I;옐로우 젬;Lv2;item_icon_Star150
 G;Card
 I;아르마오스 카드;Lv1;icon_item_card_def
 I;아르마오스 카드;Lv1;icon_item_card_def
-G;Armor
-I;틸라 레더 글로브;1;icon_item_gloves_gairas_gray
-I;틸라 글로브;1;icon_item_gloves_sage_white
-I;베르타스 로들렌 실드;1;icon_item_shield_ishick
-I;부베 네클리스;1;item_necklace_18
-I;아우르 메달;1;item_necklace_19
-I;유코푸스 네클리스;1;item_necklace_11
-I;홈 파인 뱅글;1;item_bracelet_15
-I;딥디르비 코스튬;1;icon_item_dievdirbys_f
+G;Premium
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;챌린지 포탈 생성 스크롤;5;icon_item_challengemode_scroll
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;스탯 초기화 포션 (60일);1;icon_item_statReset
+I;워프 주문서;238;icon_item_warpPremium
+I;인스턴스 던전 배수 토큰;2;icon_item_indunexmode
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;확성기;182;icon_item_Mike
+I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
 I;연습용 모루;1;icon_item_anvil
 I;마력 흡수침;1;icon_item_spellneedle
@@ -284,8 +287,11 @@ I;광산 마을의 식량;8;icon_item_Gem_Elemental8
 I;광산 나침반;1;icon_item_compass
 I;하우벅 봉인조각;1;icon_item_Bezoari
 G;Weapon
+I;프리머스 크리지우스 슈터;1;icon_item_crossbow_diamond
 I;파이브 해머;1;mace_blacksmith
 I;아스턴 레이피어;1;Fencer_cristalrapier
+I;듀리스 에페;1;rapier_epee_red
+I;아다타 쇼브스리;1;warrior_f_spear_chauve_souris_green
 I;아스턴 로드;1;icon_item_ring2
 I;서번트 로드;1;icon_item_rune_staff
 I;아스턴 로드;1;icon_item_ring2

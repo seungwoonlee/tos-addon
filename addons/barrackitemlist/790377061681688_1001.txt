@@ -26,7 +26,6 @@ I;농축 SP포션 LV15;27;icon_item_SP_Alche
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;농축 HP포션 LV15;41;icon_item_HP_Alche
-I;송편;3;icon_item_Songpyeon
 I;보급용 워프 주문서;22;GolemMagicItem1
 I;은빛 물고기;4;icon_item_fish2
 I;LV13 경험치 카드;19;icon_item_expcard

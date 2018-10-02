@@ -76,12 +76,6 @@ I;긴급 수리 키트;10;icon_item_repairkit
 I;소울 크리스탈;10;icon_item_soulCrystal
 I;워프 주문서;9;icon_item_warpPremium
 I;인스턴스 던전 배수 토큰;10;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -112,7 +106,6 @@ I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
 I;전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
 I;확성기;152;icon_item_Mike
 I;확성기 10개 상자;1;icon_item_Mike_bundle
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
 I;축제용 심플 코스튬(남);1;icon_item_simple_festival_m
 G;Armor
 I;바르그아르 플레이트 건틀릿;1;icon_item_vargu_gloves

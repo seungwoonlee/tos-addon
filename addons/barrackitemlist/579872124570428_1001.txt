@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;92190;icon_item_silver
+I;실버;515190;icon_item_silver
 G;Drug
 I;SP 회복 소형 엘릭서 ;5;icon_item_SPelixir_Small
 I;농축 HP포션 LV15;14;icon_item_HP_Alche
@@ -107,7 +107,6 @@ I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;긴급 수리 키트;12;icon_item_repairkit
-I;스탯 초기화 포션(14일);1;icon_item_statReset
 I;소울 크리스탈;255;icon_item_soulCrystal
 I;워프 주문서;188;icon_item_warpPremium
 I;워프 주문서 10개 상자;2;icon_item_warpPremium_bundle
@@ -185,14 +184,17 @@ I;확성기;202;icon_item_Mike
 I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Armor
+I;카울라스 레더 부츠;1;icon_item_boots_kaulas
 I;카프리선 부츠;1;icon_item_boots_brigan
 I;엘고스 부츠;1;icon_item_boots_scholar
+I;베르타스 카울라스 레더 글로브;1;icon_item_gloves_kaulas
 I;카프리선 글로브;1;icon_item_gloves_brigan
 I;(바랜)칼리니스 글로브;1;icon_item_gloves_kailinis
 I;카프리선 팬츠;1;icon_item_pants_brigan
 I;(바랜)칼리니스 팬츠;1;icon_item_pants_kailinis
 I;(바랜)미간티스 실드;1;icon_item_miegantis_shield
 I;페버디마스 실드;1;icon_item_pabudimas_shield
+I;베르타스 카울라스 레더 아머;1;icon_item_shirts_kaulas
 I;카프리선 아머;1;icon_item_shirts_brigan
 I;(바랜)칼리니스 로브;1;icon_item_shirts_kailinis
 I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14

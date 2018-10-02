@@ -2,8 +2,8 @@ S;1001
 G;Unused
 I;실버;9776900;icon_item_silver
 G;Drug
-I;HP 회복의 엘릭서 [이벤트];10;icon_item_HPelixir
-I;SP 회복의 엘릭서 [이벤트];10;icon_item_SPelixir
+I;HP 회복의 엘릭서 [이벤트];20;icon_item_HPelixir
+I;SP 회복의 엘릭서 [이벤트];20;icon_item_SPelixir
 I;농축 HP포션 LV15;21;icon_item_HP_Alche
 I;농축 SP포션 LV15;13;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;37;item_speed_requid_1
@@ -20,12 +20,10 @@ I;보급용 작은 HP포션;31;item_HP_oil_1
 I;보급용 작은 SP포션;310;item_SP_requid_1
 I;보급용 작은 스태미나 알약;22;item_STA_pill_1
 I;붉은 케파 조각;2;OnionPiece_Red
-I;송편;41;icon_item_Songpyeon
+I;송편;53;icon_item_Songpyeon
 I;오르샤 워프 주문서;2;GolemMagicItem1
 I;정착 지원 포션;9;item_speed_requid_3
 I;정착 지원 포션 Lv2;49;item_speed_requid_3
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
 I;파티 폭죽 (14일);1;icon_item_firework
 I;포포리온 고기;7;icon_item_meat_02
 I;해독제;5;icon_item_Quest_00020
@@ -151,7 +149,8 @@ G;Material
 I;모루;4;icon_item_anvil
 I;은빛 모루(14일);1;icon_item_anvil_silver
 I;은빛 모루(14일);1;icon_item_anvil_silver
-I;여신의 축복석;2;icon_item_transcendence_Stone
+I;황금 모루(14일);1;icon_item_anvil_gold
+I;황금 모루(14일);1;icon_item_anvil_gold
 I;괴황지;684;icon_item_guehwangji
 I;성수;180;icon_item_holywater
 I;홀리 파우더;29;icon_item_powderw
@@ -234,7 +233,7 @@ I;랭크 초기화권 (30일);1;icon_item_rankreset_paper
 I;소울 크리스탈;8;icon_item_soulCrystal
 I;스탯 초기화 포션 (30일);1;icon_item_statReset
 I;스탯 초기화 포션 (60일);1;icon_item_statReset
-I;스탯 초기화 포션(14일);1;icon_item_statReset
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
 I;워프 주문서;41;icon_item_warpPremium
 I;인스턴스 던전 배수 토큰;5;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -261,4 +260,8 @@ I;전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
 I;확성기;51;icon_item_Mike
 I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
 I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
+I;확성기 50개 상자;1;icon_item_Mike_bundle
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f

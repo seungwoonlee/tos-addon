@@ -107,7 +107,6 @@ I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;긴급 수리 키트;3;icon_item_repairkit
-I;스탯 초기화 포션(14일);1;icon_item_statReset
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;소울 크리스탈;31;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill

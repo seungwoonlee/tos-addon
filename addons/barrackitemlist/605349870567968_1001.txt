@@ -48,7 +48,6 @@ I;특대형 SP포션;2;item_SP_requid_3
 I;파편 단지;102;icon_item_potb
 I;페디미안 워프 주문서;5;GolemMagicItem1
 I;포포리온 고기;21;icon_item_meat_02
-I;송편;6;icon_item_Songpyeon
 I;은빛 물고기;67;icon_item_fish2
 I;LV10 경험치 카드;2;icon_item_expcard
 I;LV13 경험치 카드;7;icon_item_expcard
@@ -145,26 +144,37 @@ I;섀도우맨서 코스튬;1;icon_item_mage_shadowmancer_f
 I;소서러 코스튬;1;icon_item_sorcerer_f
 G;Gem
 I;레드 젬;Lv4;item_icon_circle150
+I;레드 젬;Lv2;item_icon_circle150
 I;레드 젬;Lv4;item_icon_circle150
+I;레드 젬;Lv2;item_icon_circle150
 I;레드 젬;Lv4;item_icon_circle150
+I;레드 젬;Lv2;item_icon_circle150
+I;레드 젬;Lv2;item_icon_circle150
 I;레드 젬;Lv4;item_icon_circle150
 I;그린 젬;Lv4;item_icon_Dia150
 I;그린 젬;Lv4;item_icon_Dia150
 I;그린 젬;Lv4;item_icon_Dia150
 I;그린 젬;Lv4;item_icon_Dia150
 I;그린 젬;Lv4;item_icon_Dia150
+I;그린 젬;Lv2;item_icon_Dia150
+I;블루 젬;Lv3;item_icon_Square150
+I;블루 젬;Lv4;item_icon_Square150
+I;블루 젬;Lv4;item_icon_Square150
+I;블루 젬;Lv3;item_icon_Square150
+I;블루 젬;Lv4;item_icon_Square150
+I;블루 젬;Lv3;item_icon_Square150
 I;블루 젬;Lv4;item_icon_Square150
 I;블루 젬;Lv4;item_icon_Square150
 I;블루 젬;Lv4;item_icon_Square150
-I;블루 젬;Lv4;item_icon_Square150
-I;블루 젬;Lv4;item_icon_Square150
-I;블루 젬;Lv4;item_icon_Square150
+I;블루 젬;Lv3;item_icon_Square150
 I;블루 젬;Lv4;item_icon_Square150
 I;옐로우 젬;Lv4;item_icon_Star150
 I;옐로우 젬;Lv4;item_icon_Star150
 I;옐로우 젬;Lv4;item_icon_Star150
 I;옐로우 젬;Lv4;item_icon_Star150
+I;옐로우 젬;Lv2;item_icon_Star150
 I;옐로우 젬;Lv4;item_icon_Star150
+I;옐로우 젬;Lv2;item_icon_Star150
 I;옐로우 젬;Lv4;item_icon_Star150
 I;옐로우 젬;Lv4;item_icon_Star150
 I;화이트 젬;Lv3;item_icon_twentyside150
@@ -293,7 +303,7 @@ I;채퍼리션 카드;Lv1;icon_item_card_atk
 I;채퍼리션 카드;Lv10;icon_item_card_atk
 I;체이퍼 카드;Lv1;icon_item_card_atk
 I;케파치프틴 카드;Lv1;icon_item_card_atk
-I;켄타우로스 카드;Lv8;icon_item_card_atk
+I;켄타우로스 카드;Lv9;icon_item_card_atk
 I;코럽티드 카드;Lv1;icon_item_card_atk
 I;클라이멘 카드;Lv1;icon_item_card_atk
 I;툼로드 카드;Lv1;icon_item_card_atk
@@ -306,6 +316,7 @@ I;프로스터 로드 카드;Lv1;icon_item_card_atk
 I;클라이멘 카드;Lv1;icon_item_card_atk
 I;모야브루카 카드;Lv1;icon_item_card_atk
 I;아콘 카드;Lv1;icon_item_card_atk
+I;부베 투사 카드;Lv1;icon_item_card_atk
 I;고르곤 카드;Lv1;icon_item_card_def
 I;고르곤 카드;Lv1;icon_item_card_def
 I;고르곤 카드;Lv1;icon_item_card_def
@@ -333,10 +344,6 @@ I;콜리멘시아 카드;Lv1;icon_item_card_def
 I;프로골라 카드;Lv1;icon_item_card_def
 I;플람미두스 카드;Lv1;icon_item_card_def
 I;회색 골렘 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
 I;가이갈라스 카드;Lv1;icon_item_card_util
 I;샐러맨더 카드;Lv1;icon_item_card_util
 I;네옵 카드;Lv1;icon_item_card_util
@@ -383,6 +390,7 @@ I;페릿머로더 카드;Lv1;icon_item_card_util
 I;포아타 카드;Lv1;icon_item_card_util
 I;하르피아 카드;Lv1;icon_item_card_util
 I;게이징 골렘 카드;Lv1;icon_item_card_util
+I;비테레지나 카드;Lv1;icon_item_card_util
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium

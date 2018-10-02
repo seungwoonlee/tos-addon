@@ -35,10 +35,6 @@ I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;농축 HP포션 LV15;18;icon_item_HP_Alche
 I;루팅 찬스 증가 포션;1;icon_item_looting_potion_01
 I;농축 SP포션 LV15;20;icon_item_SP_Alche
-I;송편;5;icon_item_Songpyeon
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
 I;블루 오브:코릴러스;1;icon_item_Dreamshade
 I;보급용 워프 주문서;25;GolemMagicItem1
 I;블루 오브:갈색 테라임프;2;icon_item_Dreamshade

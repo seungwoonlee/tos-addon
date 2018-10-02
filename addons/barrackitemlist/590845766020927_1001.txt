@@ -1,49 +1,8 @@
 S;1001
 G;Unused
-I;실버;6972317;icon_item_silver
-G;Drug
-I;보급용 작은 HP포션;9;item_HP_oil_1
-I;보급용 작은 SP포션;149;item_SP_requid_1
-I;보급용 작은 스태미나 알약;20;item_STA_pill_1
-I;보급용 이동속도 증가 포션;2;item_speed_requid_1
-I;포포리온 고기;16;icon_item_meat_02
-I;정착 지원 포션 Lv2;83;item_speed_requid_3
-I;케이스타스 수호의 포션;2;icon_item_Drug_exDEF1
-I;바루날레샤;208;icon_item_Varnalesa
-I;레드옥스;1;icon_item_Red_Ox
-I;붉은 케파 조각;1;OnionPiece_Red
-I;발래리요나스;2;icon_item_Valerijonas
-I;아말라스;1;icon_item_Amalas
-I;농축 이동속도 향상의 포션;60;item_speed_requid_1
-I;클라페다 워프 주문서;20;GolemMagicItem1
-I;오르샤 워프 주문서;2;GolemMagicItem1
-I;해독제;10;icon_item_Quest_00020
-I;농축 SP포션 LV15;48;icon_item_SP_Alche
-I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;축복이 깃든 씨앗;7;icon_item_event161215_01
-I;딸기;2;icon_item_Strawberry
-I;워시스;46;icon_item_Uosis
-I;파편 단지;190;icon_item_potb
-I;루팅 찬스 증가 포션;5;icon_item_looting_potion_01
-I;SP 회복 소형 엘릭서 ;5;icon_item_SPelixir_Small
-I;보급용 농축 HP포션 LV15;99;item_HP_oil_3
-I;보급용 농축 SP포션 LV15;100;item_SP_requid_3
-I;농축 HP포션 LV15;44;icon_item_HP_Alche
-I;송편;12;icon_item_Songpyeon
-I;보급용 워프 주문서;11;GolemMagicItem1
-I;레드 오브:갈색 로델린;1;icon_item_Dreamshade_red
-I;은빛 물고기;36;icon_item_fish2
-I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;크리스마스 산타 팝업북;1;icon_item_christmastree02_popupbook
-I;다과 세트;1;icon_item_artefact_Tea_Set
-I;TOS 플래카드;1;icon_item_artefact_Ticket_TOS
-I;푸드 커버;1;icon_item_artefact_Dome_Cover
-I;다과 세트;1;icon_item_artefact_Tea_Set
-I;클라페다 카프리콘즈 응원 슬로건;1;icon_item_aretfact_victory_purple
-I;눈 덮인 몬스터 카드첩;1;icon_item_Chrismas_Card
-I;인챈트탄;88;icon_item_panto_core
+I;실버;6743245;icon_item_silver
+G;Event
+I;연하장;1;icon_item_event_invitation2
 G;Collection
 I;콜렉션:겔리 고원;1;icon_item_box
 I;콜렉션:파마르 숲;1;icon_item_box
@@ -94,11 +53,49 @@ G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 I;낡은 보급용 낚싯대;1;icon_item_Fishing_Rod_1
-G;Event
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
-I;연하장;1;icon_item_event_invitation2
+G;Drug
+I;보급용 작은 HP포션;9;item_HP_oil_1
+I;보급용 작은 SP포션;149;item_SP_requid_1
+I;보급용 작은 스태미나 알약;20;item_STA_pill_1
+I;보급용 이동속도 증가 포션;2;item_speed_requid_1
+I;포포리온 고기;16;icon_item_meat_02
+I;정착 지원 포션 Lv2;83;item_speed_requid_3
+I;케이스타스 수호의 포션;2;icon_item_Drug_exDEF1
+I;바루날레샤;208;icon_item_Varnalesa
+I;레드옥스;1;icon_item_Red_Ox
+I;붉은 케파 조각;1;OnionPiece_Red
+I;발래리요나스;2;icon_item_Valerijonas
+I;아말라스;1;icon_item_Amalas
+I;농축 이동속도 향상의 포션;60;item_speed_requid_1
+I;클라페다 워프 주문서;20;GolemMagicItem1
+I;오르샤 워프 주문서;2;GolemMagicItem1
+I;해독제;10;icon_item_Quest_00020
+I;농축 SP포션 LV15;48;icon_item_SP_Alche
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;축복이 깃든 씨앗;7;icon_item_event161215_01
+I;딸기;2;icon_item_Strawberry
+I;워시스;46;icon_item_Uosis
+I;파편 단지;190;icon_item_potb
+I;루팅 찬스 증가 포션;5;icon_item_looting_potion_01
+I;SP 회복 소형 엘릭서 ;5;icon_item_SPelixir_Small
+I;보급용 농축 HP포션 LV15;99;item_HP_oil_3
+I;보급용 농축 SP포션 LV15;100;item_SP_requid_3
+I;농축 HP포션 LV15;44;icon_item_HP_Alche
+I;송편;15;icon_item_Songpyeon
+I;보급용 워프 주문서;11;GolemMagicItem1
+I;레드 오브:갈색 로델린;1;icon_item_Dreamshade_red
+I;은빛 물고기;36;icon_item_fish2
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;크리스마스 산타 팝업북;1;icon_item_christmastree02_popupbook
+I;다과 세트;1;icon_item_artefact_Tea_Set
+I;TOS 플래카드;1;icon_item_artefact_Ticket_TOS
+I;푸드 커버;1;icon_item_artefact_Dome_Cover
+I;다과 세트;1;icon_item_artefact_Tea_Set
+I;클라페다 카프리콘즈 응원 슬로건;1;icon_item_aretfact_victory_purple
+I;눈 덮인 몬스터 카드첩;1;icon_item_Chrismas_Card
+I;인챈트탄;88;icon_item_panto_core
 G;Card
 I;템플슈터 카드;Lv10;icon_item_card_stat
 I;래밴자드 카드;Lv1;icon_item_card_stat
@@ -121,22 +118,18 @@ I;랭크 초기화권 (60일);1;icon_item_rankreset_paper
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;확성기 10개 상자;1;icon_item_Mike_bundle
 I;토큰;1;icon_item_token
-I;랭크 초기화권 (14일);1;icon_item_rankreset_paper
-I;랭크 초기화권 (14일);1;icon_item_rankreset_paper
-I;스탯 초기화 포션(14일);1;icon_item_statReset
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
-I;스탯 초기화 포션(14일);1;icon_item_statReset
 I;긴급 수리 키트;10;icon_item_repairkit
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;소울 크리스탈;65;icon_item_soulCrystal
+I;소울 크리스탈;70;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
-I;워프 주문서;50;icon_item_warpPremium
+I;워프 주문서;58;icon_item_warpPremium
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -167,6 +160,7 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;확성기;52;icon_item_Mike
+I;마법 부여 스크롤(거래불가);1;icon_item_enchantScroll
 I;상어 해적단 코스튬(여);1;icon_item_cosair03_f
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 I;2018 나무나무 코스튬(남);1;icon_item_event_2018_arbor_m
@@ -252,7 +246,7 @@ I;사우가의 핵;1;icon_item_core_yellow
 I;갈색 라프세이프 잎;6;icon_item_leaves_lapasape_brown
 I;초록 미노스의 털;14;icon_item_fur_02Green
 I;테라늄;10;36_item_ore_lapis_philosophorum
-I;각성 가루;49;icon_item_wakepowder
+I;각성 가루;228;icon_item_wakepowder
 I;사디피 결정 Lv1;6;KQ_recipe_hethran_material_1_1
 I;오넨 정수 Lv1;3;KQ_recipe_hethran_material_1_2
 I;팔라팜 조각 Lv1;1;KQ_recipe_hethran_material_1_3
