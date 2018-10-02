@@ -784,7 +784,7 @@ I;은빛 모루(14일);1;icon_item_anvil_silver
 I;황금 모루(14일);1;icon_item_anvil_gold
 I;황금 모루(14일);1;icon_item_anvil_gold
 I;마력 흡수침;31;icon_item_spellneedle
-I;분해의 망치;31;icon_item_farm47_wood_hammer
+I;분해의 망치;32;icon_item_farm47_wood_hammer
 I;기슬로티스;16;icon_item_Gyslotis
 I;칼사이트;11;14_item_ithildin
 I;크리오라이트;16;39_icon_item_Cry8rite
@@ -1168,6 +1168,7 @@ I;귀족 모자;1;hairacc_hat009
 I;금테 투구;1;hairacc_34_helm2
 I;금테 투구;1;hairacc_34_helm2
 I;금테 투구;1;hairacc_34_helm2
+I;종이배;1;icon_item_papership
 I;금테 투구;1;hairacc_34_helm2
 I;금테 투구;1;hairacc_34_helm2
 I;금테 투구;1;hairacc_34_helm2
@@ -1267,8 +1268,6 @@ I;종이배;1;icon_item_papership
 I;주술사 가면;1;hairacc_60_shamanmask
 I;참치초밥;1;icon_item_sushi4
 I;축구 사랑 헤어밴드;1;icon_item_accessory_soccer_ball
-I;케파 인형;1;hairacc_48_cepadoll
-I;케파 인형;1;hairacc_48_cepadoll
 I;케파 인형;1;hairacc_48_cepadoll
 I;케파 인형;1;hairacc_48_cepadoll
 I;케파 인형;1;hairacc_48_cepadoll
