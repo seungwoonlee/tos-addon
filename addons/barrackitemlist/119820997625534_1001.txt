@@ -4,10 +4,10 @@ I;실버;1335832;icon_item_silver
 G;SubWeapon
 I;핫팩;1;icon_item_hotpack
 G;Collection
-I;콜렉션:마법사의 탑 2층;1;icon_item_box
-I;콜렉션:마법사의 탑 3층;1;icon_item_box
-I;콜렉션:마법사의 탑 4층;1;icon_item_box
-I;콜렉션:비에타 계곡;1;icon_item_box
+I;컬렉션:마법사의 탑 2층;1;icon_item_box
+I;컬렉션:마법사의 탑 3층;1;icon_item_box
+I;컬렉션:마법사의 탑 4층;1;icon_item_box
+I;컬렉션:비에타 계곡;1;icon_item_box
 G;PasteBait
 I;작은 은빛 물고기;8;icon_item_fish4
 I;지렁이;541;icon_item_Paste_Bait_basic
@@ -95,7 +95,6 @@ I;보급용 작은 HP포션;19;item_HP_oil_1
 I;보급용 작은 SP포션;234;item_SP_requid_1
 I;보급용 작은 스태미나 알약;22;item_STA_pill_1
 I;보급용 작은 회복포션;2;item_HPSP_potion_1
-I;송편;65;icon_item_Songpyeon
 I;아말라스;2;icon_item_Amalas
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
@@ -122,6 +121,7 @@ I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
 I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
 I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
 I;은빛 물고기;90;icon_item_fish2
+I;칭호 - OTP는 0원 보안은 영원;1;icon_item_holyark
 I;TOS 플래카드;1;icon_item_artefact_Ticket_TOS
 I;예식용 칼;1;icon_item_artefact_Decorative_knife
 I;푸드 커버;1;icon_item_artefact_Dome_Cover
@@ -157,6 +157,7 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;토큰;1;icon_item_token
 I;확성기;51;icon_item_Mike
 I;확성기 50개 상자;1;icon_item_Mike_bundle
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;프리미엄 각성석;2;icon_item_awakeningstone
 I;2018 나무나무 코스튬(남);1;icon_item_event_2018_arbor_m
 I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f

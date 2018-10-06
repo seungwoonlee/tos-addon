@@ -25,12 +25,13 @@ I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;농축 SP포션 LV15;29;icon_item_SP_Alche
 I;보급용 워프 주문서;11;GolemMagicItem1
-I;LV14 경험치 카드;13;icon_item_expcard
+I;LV14 경험치 카드;21;icon_item_expcard
 I;공격 부스터 LV10;1;icon_item_booster_1
 I;스킬 주문서;19;GolemMagicItem1
 I;신속의 마석;1;icon_item_gimmick_movecrystal
 G;SubWeapon
 I;느낌있는 암밴드;1;icon_item_armband_exclamationMark_icon
+I;잠자리 암밴드;1;icon_item_armband_dragonfly1
 G;Book
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
 I;찢어진 일기의 일부 2;1;icon_item_paperpiece
@@ -56,40 +57,44 @@ I;제작서-x4 경험의 서;1;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 G;Collection
-I;콜렉션:쿨레 고개;1;icon_item_box
-I;콜렉션:스팔빈가스 숲;1;icon_item_box
-I;콜렉션:제로멜 공원;1;icon_item_box
-I;콜렉션:티메리스 사원;1;icon_item_box
-I;콜렉션:요나엘 기념구;1;icon_item_box
-I;콜렉션:라다르 숲;1;icon_item_box
-I;콜렉션:도심성벽 제 8구역;1;icon_item_box
-I;콜렉션:테브린 종유동 2구역;1;icon_item_box
-I;콜렉션:테브린 종유동 5구역;1;icon_item_box
-I;콜렉션:테브린 종유동 4구역;1;icon_item_box
-I;콜렉션:테브린 종유동 1구역;1;icon_item_box
-I;콜렉션:타니엘 1세 기념구;1;icon_item_box
-I;콜렉션:알렘빅 동굴;1;icon_item_box
-I;콜렉션:지마 수코트;1;icon_item_box
-I;콜렉션:노브리어 숲;1;icon_item_box
-I;콜렉션:몰로게오 숲;1;icon_item_box
-I;콜렉션:피스티스 숲;1;icon_item_box
-I;콜렉션:에메트 숲;1;icon_item_box
-I;콜렉션:실라 숲;1;icon_item_box
-I;콜렉션:아르커스 숲;1;icon_item_box
-I;콜렉션:네토 숲;1;icon_item_box
-I;콜렉션:파마르 숲;1;icon_item_box
-I;콜렉션:마족수감소 1구역;1;icon_item_box
-I;콜렉션:기원의 숲;1;icon_item_box
-I;콜렉션:왕릉 건축자 예배당;1;icon_item_box
+I;컬렉션:쿨레 고개;1;icon_item_box
+I;컬렉션:스팔빈가스 숲;1;icon_item_box
+I;컬렉션:제로멜 공원;1;icon_item_box
+I;컬렉션:티메리스 사원;1;icon_item_box
+I;컬렉션:요나엘 기념구;1;icon_item_box
+I;컬렉션:라다르 숲;1;icon_item_box
+I;컬렉션:도심성벽 제 8구역;1;icon_item_box
+I;컬렉션:테브린 종유동 2구역;1;icon_item_box
+I;컬렉션:테브린 종유동 5구역;1;icon_item_box
+I;컬렉션:테브린 종유동 4구역;1;icon_item_box
+I;컬렉션:테브린 종유동 1구역;1;icon_item_box
+I;컬렉션:타니엘 1세 기념구;1;icon_item_box
+I;컬렉션:알렘빅 동굴;1;icon_item_box
+I;컬렉션:지마 수코트;1;icon_item_box
+I;컬렉션:노브리어 숲;1;icon_item_box
+I;컬렉션:몰로게오 숲;1;icon_item_box
+I;컬렉션:피스티스 숲;1;icon_item_box
+I;컬렉션:에메트 숲;1;icon_item_box
+I;컬렉션:실라 숲;1;icon_item_box
+I;컬렉션:아르커스 숲;1;icon_item_box
+I;컬렉션:네토 숲;1;icon_item_box
+I;컬렉션:파마르 숲;1;icon_item_box
+I;컬렉션:마족수감소 1구역;1;icon_item_box
+I;컬렉션:기원의 숲;1;icon_item_box
+I;컬렉션:왕릉 건축자 예배당;1;icon_item_box
 G;Armor
 I;금강불개 무사 헬멧 코스튬;1;item_icon_Helmet_goldamor01_f
 I;크리비 코스튬;1;icon_item_kribi_f
 I;몽크 코스튬;1;icon_item_monk_f
 I;인퀴지터 코스튬;1;icon_item_inquisitor_f
 G;Premium
+I;긴급 수리 키트;3;icon_item_repairkit
+I;랭크 초기화권 (14일);1;icon_item_rankreset_paper
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
+I;스탯 초기화 포션(14일);1;icon_item_statReset
 I;확성기;15;icon_item_Mike
+I;스탯 초기화 포션(14일);1;icon_item_statReset
 I;몽크 스페셜 코스튬(여);1;icon_item_Cleric_monk_f
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
@@ -273,6 +278,7 @@ I;푸른 수호 거미 다리;3;icon_item_leg_defenderSpider_blue
 I;푸른 누오의 뿔;1;icon_item_horn_nuo_blue
 I;붉은 소켓의 뿔;3;icon_item_horn_socket_red
 I;푸른 누카 갑옷 파편;3;icon_item_armor_nuka_blue
+I;노란 리프넛의 온전한 날개;1;icon_item_misc04_65
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;수정광산의 계시;1;icon_item_stonetablet

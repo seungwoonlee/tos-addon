@@ -35,7 +35,7 @@ I;오르샤 워프 주문서;10;GolemMagicItem1
 I;워시스;1;icon_item_Uosis
 I;웨딩 케이크;3;icon_item_weddingcake
 I;정착 지원 포션 Lv2;29;item_speed_requid_3
-I;축복이 깃든 씨앗;24;icon_item_event161215_01
+I;축복이 깃든 씨앗;25;icon_item_event161215_01
 I;컴패니언 먹이;2;icon_item_meat_01
 I;케이트리스 수호의 포션;1;icon_item_Drug_DEF2
 I;케이트리스 용맹의 포션;1;icon_item_Drug_AGI2
@@ -48,7 +48,7 @@ I;해독제;5;icon_item_Quest_00020
 I;농축 HP포션 LV15;27;icon_item_HP_Alche
 I;HP 회복의 엘릭서 [이벤트];10;icon_item_HPelixir
 I;SP 회복의 엘릭서 [이벤트];10;icon_item_SPelixir
-I;송편;10;icon_item_Songpyeon
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;치명타 공격력 증가 포션;1;item_speed_requid_1
 I;마이트 포션;1;item_speed_requid_1
 I;LV14 경험치 카드;44;icon_item_expcard
@@ -74,57 +74,57 @@ I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;은빛 물고기;5;icon_item_fish2
-I;종이상자;1;icon_item_paperbox
 I;할로윈 팝업북;1;icon_item_halloween_popupbook
 I;신랑 비둘기 오르골;1;icon_item_MusicBox_Wedding01
 I;신부 비둘기 오르골;1;icon_item_MusicBox_Wedding02
+I;종이상자;1;icon_item_paperbox
 I;다과 세트;1;icon_item_artefact_Tea_Set
-I;더 맛있는 꼬치;1;icon_item_food_brochette
 I;더 시원한 코코넛쥬스;1;icon_item_food_coconut
-I;더 짜릿한 레몬아이스티;1;icon_item_food_mojito
+I;더 맛있는 꼬치;1;icon_item_food_brochette
 I;바버샵 의자;1;icon_item_event_beauty_chair
 I;사랑의 꽃 한송이;1;icon_item_aretfact_wedding04
 I;예식용 칼;1;icon_item_artefact_Decorative_knife
 I;클라페다 카프리콘즈 응원 슬로건;1;icon_item_aretfact_victory_purple
 I;푸드 커버;1;icon_item_artefact_Dome_Cover
 I;호박 등불;1;icon_item_artefact_pumkin_lamp
+I;더 짜릿한 레몬아이스티;1;icon_item_food_mojito
 G;Collection
-I;콜렉션:글라데 언덕길;1;icon_item_box
-I;콜렉션:기원의 숲;1;icon_item_box
-I;콜렉션:긴다리 계곡;1;icon_item_box
-I;콜렉션:나하스 숲;1;icon_item_box
-I;콜렉션:내성곽지구;1;icon_item_box
-I;콜렉션:네토 숲;1;icon_item_box
-I;콜렉션:네프리타스 벼랑;1;icon_item_box
-I;콜렉션:다이나 양봉지;1;icon_item_box
-I;콜렉션:대왕의 관문;1;icon_item_box
-I;콜렉션:덧댄다리 숲;1;icon_item_box
-I;콜렉션:딩고파실;1;icon_item_box
-I;콜렉션:록소나 장터;1;icon_item_box
-I;콜렉션:록소나 재건단 서관;1;icon_item_box
-I;콜렉션:마법사의 탑 2층;1;icon_item_box
-I;콜렉션:마법사의 탑 5층;1;icon_item_box
-I;콜렉션:마족수감소 1구역;1;icon_item_box
-I;콜렉션:모크슬 묘실;1;icon_item_box
-I;콜렉션:베야 골짜기;1;icon_item_box
-I;콜렉션:빌티스 숲;1;icon_item_box
-I;콜렉션:셉티니 골;1;icon_item_box
-I;콜렉션:스라우타스 협곡;1;icon_item_box
-I;콜렉션:시르드겔라 숲;1;icon_item_box
-I;콜렉션:아샤크 지하감옥 2층;1;icon_item_box
-I;콜렉션:아크멘스 능선;1;icon_item_box
-I;콜렉션:알레멧 숲;1;icon_item_box
-I;콜렉션:연안요새;1;icon_item_box
-I;콜렉션:왕릉 5층;1;icon_item_box
-I;콜렉션:우키스 경작지;1;icon_item_box
-I;콜렉션:이국 사랑;1;icon_item_box
-I;콜렉션:이브레 고원;1;icon_item_box
-I;콜렉션:중심시가;1;icon_item_box
-I;콜렉션:테넷 성당 지하 1층;1;icon_item_box
-I;콜렉션:테넷 화원;1;icon_item_box
-I;콜렉션:파수꾼의 묘역;1;icon_item_box
-I;콜렉션:페디미안 외곽;1;icon_item_box
-I;콜렉션:폴쳔이란 무엇인가;1;icon_item_box
+I;컬렉션:글라데 언덕길;1;icon_item_box
+I;컬렉션:기원의 숲;1;icon_item_box
+I;컬렉션:긴다리 계곡;1;icon_item_box
+I;컬렉션:나하스 숲;1;icon_item_box
+I;컬렉션:내성곽지구;1;icon_item_box
+I;컬렉션:네토 숲;1;icon_item_box
+I;컬렉션:네프리타스 벼랑;1;icon_item_box
+I;컬렉션:다이나 양봉지;1;icon_item_box
+I;컬렉션:대왕의 관문;1;icon_item_box
+I;컬렉션:덧댄다리 숲;1;icon_item_box
+I;컬렉션:딩고파실;1;icon_item_box
+I;컬렉션:록소나 장터;1;icon_item_box
+I;컬렉션:록소나 재건단 서관;1;icon_item_box
+I;컬렉션:마법사의 탑 2층;1;icon_item_box
+I;컬렉션:마법사의 탑 5층;1;icon_item_box
+I;컬렉션:마족수감소 1구역;1;icon_item_box
+I;컬렉션:모크슬 묘실;1;icon_item_box
+I;컬렉션:베야 골짜기;1;icon_item_box
+I;컬렉션:빌티스 숲;1;icon_item_box
+I;컬렉션:셉티니 골;1;icon_item_box
+I;컬렉션:스라우타스 협곡;1;icon_item_box
+I;컬렉션:시르드겔라 숲;1;icon_item_box
+I;컬렉션:아샤크 지하감옥 2층;1;icon_item_box
+I;컬렉션:아크멘스 능선;1;icon_item_box
+I;컬렉션:알레멧 숲;1;icon_item_box
+I;컬렉션:연안요새;1;icon_item_box
+I;컬렉션:왕릉 5층;1;icon_item_box
+I;컬렉션:우키스 경작지;1;icon_item_box
+I;컬렉션:이국 사랑;1;icon_item_box
+I;컬렉션:이브레 고원;1;icon_item_box
+I;컬렉션:중심시가;1;icon_item_box
+I;컬렉션:테넷 성당 지하 1층;1;icon_item_box
+I;컬렉션:테넷 화원;1;icon_item_box
+I;컬렉션:파수꾼의 묘역;1;icon_item_box
+I;컬렉션:페디미안 외곽;1;icon_item_box
+I;컬렉션:폴쳔이란 무엇인가;1;icon_item_box
 G;Event
 I;특성 포인트 1,000;3;icon_item_abilitypoint
 I;특성 포인트 100;40;icon_item_abilitypoint3
@@ -655,12 +655,12 @@ I;쑥송편 헬멧 코스튬;1;icon_item_helmet_songpyun2
 I;어항 헬멧 코스튬;1;icon_item_helmet_fishbowl
 I;잭오랜턴 헬멧;1;icon_item_pumkin_helmet
 G;Premium
+I;[PC방] 해금권 선택 상자;1;icon_item_pc_unlock_box
 I;경험의 서 상자 (4개);1;icon_item_Premium_boostToken_Box_A
 I;고급 물약 상자;1;Icon_Item_Box_SP_HP
 I;고급 행운 상자;1;item_icon_luckybox_B
 I;긴급 수리 키트;5;icon_item_repairkit
 I;랭크 초기화권;1;icon_item_rankreset_paper
-I;루비 와인 염색약;1;haircolor_red
 I;리사이클 메달 상자 A급;1;Icon_Item_Recycle_Shop_Medal_Box_A
 I;리사이클 메달 상자 B급;1;Icon_Item_Recycle_Shop_Medal_Box_B
 I;리사이클 메달 상자 S급;1;Icon_Item_Recycle_Shop_Medal_Box_S
@@ -1081,7 +1081,7 @@ I;플락의 갑옷조각;5;icon_item_FORMINE_ARMOR_SCAPULAR
 I;플로론의 잎;2;icon_item_leaf
 I;피노의 줄기;2;icon_item_stem_brown
 I;피라콘 잎;41;icon_item_leaves_red
-I;피렌트 꽃;39;icon_item_firentflower
+I;피렌트 꽃;43;icon_item_firentflower
 I;하나밍 꽃잎;4;icon_item_HanamingPetal
 I;하나밍 아로마;1;icon_item_CalmIncense
 I;하루갈 가죽;5;icon_item_Misc_00009
@@ -1262,7 +1262,6 @@ I;잠자는 표범;1;icon_item_sleeping_leopard
 I;잭오랜턴 헤어장식;1;Hat_jackolantern
 I;잭오랜턴 헤어장식;1;Hat_jackolantern
 I;제식모;1;hairacc_4_traincaptaincap
-I;족두리;1;hairacc_82_jokdoori
 I;족두리;1;hairacc_82_jokdoori
 I;종이배;1;icon_item_papership
 I;주술사 가면;1;hairacc_60_shamanmask

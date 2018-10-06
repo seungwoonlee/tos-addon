@@ -38,7 +38,7 @@ I;농축 SP포션 LV15;20;icon_item_SP_Alche
 I;블루 오브:코릴러스;1;icon_item_Dreamshade
 I;보급용 워프 주문서;25;GolemMagicItem1
 I;블루 오브:갈색 테라임프;2;icon_item_Dreamshade
-I;LV14 경험치 카드;6;icon_item_expcard
+I;LV14 경험치 카드;26;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
 I;스킬 주문서;4;GolemMagicItem1
 I;스킬 주문서;4;GolemMagicItem1

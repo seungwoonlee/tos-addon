@@ -8,17 +8,16 @@ I;보급용 이동속도 증가 포션;3;item_speed_requid_1
 I;정착 지원 포션;5;item_speed_requid_3
 I;큰 스태미나 알약;6;item_STA_pill_3
 I;바루날레샤;4;icon_item_Varnalesa
-I;보급용 SP포션;33;item_SP_requid_2
+I;보급용 SP포션;32;item_SP_requid_2
 I;붉은 케파 조각;3;OnionPiece_Red
 I;보급용 작은 회복포션;3;item_HPSP_potion_1
 I;오르샤 워프 주문서;10;GolemMagicItem1
 I;클라페다 워프 주문서;11;GolemMagicItem1
 I;페디미안 워프 주문서;5;GolemMagicItem1
-I;농축 HP포션 LV15;24;icon_item_HP_Alche
+I;농축 HP포션 LV15;22;icon_item_HP_Alche
 I;발래리요나스;5;icon_item_Valerijonas
 I;케이스타스 용맹의 포션;4;icon_item_Drug_exATK1
 I;케이스타스 수호의 포션;1;icon_item_Drug_exDEF1
-I;보급용 HP포션;1;item_HP_oil_2
 I;물리+마법 방어력 포션;1;item_speed_requid_1
 I;치명타 공격력 증가 포션;1;item_speed_requid_1
 I;보급용 큰 HP포션;3;item_HP_oil_3
@@ -31,13 +30,13 @@ I;해독제;7;icon_item_Quest_00020
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;케이스타스 회복포션Lv4;7;item_HPSP_potion_3
-I;농축 SP포션 LV15;36;icon_item_SP_Alche
+I;농축 SP포션 LV15;32;icon_item_SP_Alche
 I;아비에테;2;icon_item_Aviete
 I;딸기;3;icon_item_Strawberry
 I;정착 지원 포션 Lv2;6;item_speed_requid_3
 I;보급용 워프 주문서;22;GolemMagicItem1
 I;LV2 경험치 카드;6;icon_item_expcard
-I;LV14 경험치 카드;6;icon_item_expcard
+I;LV14 경험치 카드;14;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
 I;스킬 주문서;17;GolemMagicItem1
 G;SubWeapon
@@ -108,6 +107,14 @@ I;전문 퀘스트 5회 도전권;6;icon_item_classmajorquestCount
 I;확성기;15;icon_item_Mike
 I;마법 부여 스크롤(거래불가);2;icon_item_enchantScroll
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
+G;Armor
+I;불릿 마커 휠러 코스튬;1;icon_item_bulletmarker03_f
+I;불릿 마커 매처 코스튬;1;icon_item_bulletmarker02_f
+I;슈바르츠라이터 코스튬;1;icon_item_SchwarzeReiter_f
+I;불릿 마커 코스튬;1;icon_item_bulletmarker_f
+I;레인저 코스튬;1;icon_item_ranger_f
+I;로그 코스튬;1;icon_item_rogue_f
+I;하카펠 코스튬;1;icon_item_hakapalle_f
 G;Material
 I;황금 모루;5;icon_item_anvil_gold
 I;모루;10;icon_item_anvil
@@ -285,11 +292,5 @@ I;행상인의 바지;1;icon_item_clothpiece_white
 I;행상인의 셔츠;1;icon_item_clothpiece_white
 I;세이지 마스터의 편지;1;icon_item_loveletter
 I;세이지 마스터의 편지;1;icon_item_loveletter
-G;Armor
-I;불릿 마커 휠러 코스튬;1;icon_item_bulletmarker03_f
-I;불릿 마커 매처 코스튬;1;icon_item_bulletmarker02_f
-I;슈바르츠라이터 코스튬;1;icon_item_SchwarzeReiter_f
-I;불릿 마커 코스튬;1;icon_item_bulletmarker_f
-I;레인저 코스튬;1;icon_item_ranger_f
-I;로그 코스튬;1;icon_item_rogue_f
-I;하카펠 코스튬;1;icon_item_hakapalle_f
+G;Weapon
+I;이스발리티;1;icon_item_cracked_shooter

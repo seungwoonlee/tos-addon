@@ -25,7 +25,7 @@ I;땅 속성 저항력 포션;1;icon_item_Seed_HR1
 I;케이스타스 용맹의 포션;2;icon_item_Drug_exATK1
 I;폭죽;20;icon_item_firework
 I;아말라스;1;icon_item_Amalas
-I;농축 HP포션 LV15;19;icon_item_HP_Alche
+I;농축 HP포션 LV15;18;icon_item_HP_Alche
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;케이스타스 회복포션Lv4;78;item_HPSP_potion_3
@@ -34,10 +34,11 @@ I;워시스;3;icon_item_Uosis
 I;긴급 수리 키트;2;icon_item_repairkit
 I;보급용 워프 주문서;2;GolemMagicItem1
 I;LV6 경험치 카드;1;icon_item_expcard
+I;LV14 경험치 카드;20;icon_item_expcard
 I;스킬 주문서;50;GolemMagicItem1
 I;스킬 주문서;18;GolemMagicItem1
 I;디스펠러;10;icon_item_grimoire_blue
-I;인챈트탄;90;icon_item_panto_core
+I;인챈트탄;79;icon_item_panto_core
 G;SubWeapon
 I;(바랜)스몰 크리스타라스;1;icon_item_dagger_cristal
 G;Book
@@ -87,8 +88,8 @@ G;Material
 I;모루;2;icon_item_anvil
 I;마력 흡수침;3;icon_item_spellneedle
 I;파이라이트;23;32_item_ore_pyrite
-I;룬 스톤;261;icon_item_rune_stone_board
-I;크리오라이트;306;39_icon_item_Cry8rite
+I;룬 스톤;253;icon_item_rune_stone_board
+I;크리오라이트;296;39_icon_item_Cry8rite
 I;빈 스펠북;10;icon_item_emptySpellBook
 I;인프로 락터의 껍질;3;icon_item_shell
 I;치넨시 잎;3;icon_item_bokchoyleaf

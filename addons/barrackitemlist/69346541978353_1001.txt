@@ -27,16 +27,15 @@ I;라무넬레;4;icon_item_Ramunele
 I;농축 SP포션 LV15;9;icon_item_SP_Alche
 I;블루 오브:붉은 케파;1;icon_item_Dreamshade
 I;레드 오브:붉은 케파;1;icon_item_Dreamshade_red
-I;종이상자;1;icon_item_paperbox
 I;블루 오브:푸른 티니 궁수;1;icon_item_Dreamshade
 I;LV11 경험치 카드;16;icon_item_expcard
 I;LV13 경험치 카드;4;icon_item_expcard
 I;레드 오브:붉은 슬라임;1;icon_item_Dreamshade_red
-I;LV14 경험치 카드;4;icon_item_expcard
+I;LV14 경험치 카드;22;icon_item_expcard
 I;LV10 경험치 카드;1;icon_item_expcard
 I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
 I;스킬 주문서;9;GolemMagicItem1
+I;종이상자;1;icon_item_paperbox
 G;SubWeapon
 I;좌절 깃발;1;OTL_flag
 I;크리스마스 핸드벨;1;icon_item_artefact_bell
@@ -71,44 +70,44 @@ I;베이키얼의 답장;1;icon_item_indulgence
 G;Recipe
 I;제작서-스네이크 보우;1;icon_item_weapon_misc3
 G;Collection
-I;콜렉션:그리나스 구릉지;1;icon_item_box
-I;콜렉션:아르커스 숲;1;icon_item_box
-I;콜렉션:지마 수코트;1;icon_item_box
-I;콜렉션:파마르 숲;1;icon_item_box
-I;콜렉션:티메리스 사원;1;icon_item_box
-I;콜렉션:에메트 숲;1;icon_item_box
-I;콜렉션:피스티스 숲;1;icon_item_box
-I;콜렉션:노브리어 숲;1;icon_item_box
-I;콜렉션:유데이안 숲;1;icon_item_box
-I;콜렉션:실라 숲;1;icon_item_box
-I;콜렉션:테브린 종유동 5구역;1;icon_item_box
-I;콜렉션:지부리나스 숲;1;icon_item_box
-I;콜렉션:알렘빅 동굴;1;icon_item_box
-I;콜렉션:스팔빈가스 숲;1;icon_item_box
-I;콜렉션:테브린 종유동 1구역;1;icon_item_box
-I;콜렉션:테브린 종유동 3구역;1;icon_item_box
-I;콜렉션:쿨레 고개;1;icon_item_box
-I;콜렉션:라다르 숲;1;icon_item_box
-I;콜렉션:도심성벽 제 8구역;1;icon_item_box
-I;콜렉션:테브린 종유동 2구역;1;icon_item_box
-I;콜렉션:테브린 종유동 4구역;1;icon_item_box
-I;콜렉션:요나엘 기념구;1;icon_item_box
-I;콜렉션:제로멜 공원;1;icon_item_box
-I;콜렉션:칼라일의 영묘;1;icon_item_box
-I;콜렉션:델무어 외성;1;icon_item_box
-I;콜렉션:델무어 장원;1;icon_item_box
-I;콜렉션:델무어 소작촌;1;icon_item_box
-I;콜렉션:그리나스 숲길;1;icon_item_box
-I;콜렉션:토페스 보루 1층;1;icon_item_box
-I;콜렉션:긴다리 계곡;1;icon_item_box
-I;콜렉션:왕릉 건축자 예배당;1;icon_item_box
-I;콜렉션:초보자의 방어구;1;icon_item_box
-I;콜렉션:틸타스 협곡;1;icon_item_box
-I;콜렉션:파수꾼의 묘역;1;icon_item_box
-I;콜렉션:페레토리 구릉;1;icon_item_box
-I;콜렉션:카듀멜 절벽;1;icon_item_box
-I;콜렉션:크란토 연안;1;icon_item_box
-I;콜렉션:쇠락한 르귄가문의 저택;1;icon_item_box
+I;컬렉션:그리나스 구릉지;1;icon_item_box
+I;컬렉션:아르커스 숲;1;icon_item_box
+I;컬렉션:지마 수코트;1;icon_item_box
+I;컬렉션:파마르 숲;1;icon_item_box
+I;컬렉션:티메리스 사원;1;icon_item_box
+I;컬렉션:에메트 숲;1;icon_item_box
+I;컬렉션:피스티스 숲;1;icon_item_box
+I;컬렉션:노브리어 숲;1;icon_item_box
+I;컬렉션:유데이안 숲;1;icon_item_box
+I;컬렉션:실라 숲;1;icon_item_box
+I;컬렉션:테브린 종유동 5구역;1;icon_item_box
+I;컬렉션:지부리나스 숲;1;icon_item_box
+I;컬렉션:알렘빅 동굴;1;icon_item_box
+I;컬렉션:스팔빈가스 숲;1;icon_item_box
+I;컬렉션:테브린 종유동 1구역;1;icon_item_box
+I;컬렉션:테브린 종유동 3구역;1;icon_item_box
+I;컬렉션:쿨레 고개;1;icon_item_box
+I;컬렉션:라다르 숲;1;icon_item_box
+I;컬렉션:도심성벽 제 8구역;1;icon_item_box
+I;컬렉션:테브린 종유동 2구역;1;icon_item_box
+I;컬렉션:테브린 종유동 4구역;1;icon_item_box
+I;컬렉션:요나엘 기념구;1;icon_item_box
+I;컬렉션:제로멜 공원;1;icon_item_box
+I;컬렉션:칼라일의 영묘;1;icon_item_box
+I;컬렉션:델무어 외성;1;icon_item_box
+I;컬렉션:델무어 장원;1;icon_item_box
+I;컬렉션:델무어 소작촌;1;icon_item_box
+I;컬렉션:그리나스 숲길;1;icon_item_box
+I;컬렉션:토페스 보루 1층;1;icon_item_box
+I;컬렉션:긴다리 계곡;1;icon_item_box
+I;컬렉션:왕릉 건축자 예배당;1;icon_item_box
+I;컬렉션:초보자의 방어구;1;icon_item_box
+I;컬렉션:틸타스 협곡;1;icon_item_box
+I;컬렉션:파수꾼의 묘역;1;icon_item_box
+I;컬렉션:페레토리 구릉;1;icon_item_box
+I;컬렉션:카듀멜 절벽;1;icon_item_box
+I;컬렉션:크란토 연안;1;icon_item_box
+I;컬렉션:쇠락한 르귄가문의 저택;1;icon_item_box
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium

@@ -71,31 +71,31 @@ I;제작서-x4 경험의 서;1;icon_item_recipe_misc1
 I;제작서-레이드 포탈 스톤;7;icon_item_recipe_misc1
 I;제작서-영웅의 징벌 포션: 변이;1;icon_item_recipe_misc1
 G;Collection
-I;콜렉션:제로멜 공원;1;icon_item_box
-I;콜렉션:요나엘 기념구;1;icon_item_box
-I;콜렉션:도심성벽 제 8구역;1;icon_item_box
-I;콜렉션:테브린 종유동 2구역;1;icon_item_box
-I;콜렉션:테브린 종유동 5구역;1;icon_item_box
-I;콜렉션:테브린 종유동 4구역;1;icon_item_box
-I;콜렉션:테브린 종유동 1구역;1;icon_item_box
-I;콜렉션:타니엘 1세 기념구;1;icon_item_box
-I;콜렉션:알렘빅 동굴;1;icon_item_box
-I;콜렉션:노브리어 숲;1;icon_item_box
-I;콜렉션:유데이안 숲;1;icon_item_box
-I;콜렉션:몰로게오 숲;1;icon_item_box
-I;콜렉션:피스티스 숲;1;icon_item_box
-I;콜렉션:에메트 숲;1;icon_item_box
-I;콜렉션:실라 숲;1;icon_item_box
-I;콜렉션:아르커스 숲;1;icon_item_box
-I;콜렉션:기원의 숲;1;icon_item_box
-I;콜렉션:그리나스 숲길;1;icon_item_box
-I;콜렉션:긴다리 계곡;1;icon_item_box
-I;콜렉션:람스티스 협곡;1;icon_item_box
-I;콜렉션:왕릉 건축자 예배당;1;icon_item_box
-I;콜렉션:틸타스 협곡;1;icon_item_box
-I;콜렉션:왕릉 노역자 숙소;1;icon_item_box
-I;콜렉션:해안 지역;1;icon_item_box
-I;콜렉션:지마 수코트;1;icon_item_box
+I;컬렉션:제로멜 공원;1;icon_item_box
+I;컬렉션:요나엘 기념구;1;icon_item_box
+I;컬렉션:도심성벽 제 8구역;1;icon_item_box
+I;컬렉션:테브린 종유동 2구역;1;icon_item_box
+I;컬렉션:테브린 종유동 5구역;1;icon_item_box
+I;컬렉션:테브린 종유동 4구역;1;icon_item_box
+I;컬렉션:테브린 종유동 1구역;1;icon_item_box
+I;컬렉션:타니엘 1세 기념구;1;icon_item_box
+I;컬렉션:알렘빅 동굴;1;icon_item_box
+I;컬렉션:노브리어 숲;1;icon_item_box
+I;컬렉션:유데이안 숲;1;icon_item_box
+I;컬렉션:몰로게오 숲;1;icon_item_box
+I;컬렉션:피스티스 숲;1;icon_item_box
+I;컬렉션:에메트 숲;1;icon_item_box
+I;컬렉션:실라 숲;1;icon_item_box
+I;컬렉션:아르커스 숲;1;icon_item_box
+I;컬렉션:기원의 숲;1;icon_item_box
+I;컬렉션:그리나스 숲길;1;icon_item_box
+I;컬렉션:긴다리 계곡;1;icon_item_box
+I;컬렉션:람스티스 협곡;1;icon_item_box
+I;컬렉션:왕릉 건축자 예배당;1;icon_item_box
+I;컬렉션:틸타스 협곡;1;icon_item_box
+I;컬렉션:왕릉 노역자 숙소;1;icon_item_box
+I;컬렉션:해안 지역;1;icon_item_box
+I;컬렉션:지마 수코트;1;icon_item_box
 G;Armor
 I;레인저 코스튬;1;icon_item_ranger_f
 I;로그 코스튬;1;icon_item_rogue_f

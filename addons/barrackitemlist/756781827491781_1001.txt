@@ -24,7 +24,7 @@ I;블루 오브:폰델;1;icon_item_Dreamshade
 I;블루 오브:몽당 나무;1;icon_item_Dreamshade
 I;블루 오브:뇌옥투사;1;icon_item_Dreamshade
 I;블루 오브:하나밍;1;icon_item_Dreamshade
-I;LV14 경험치 카드;25;icon_item_expcard
+I;LV14 경험치 카드;29;icon_item_expcard
 I;LV10 경험치 카드;2;icon_item_expcard
 I;LV13 경험치 카드;3;icon_item_expcard
 G;SubWeapon

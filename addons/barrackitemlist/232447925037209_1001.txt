@@ -84,47 +84,47 @@ I;제작서-종이로 된 큐브(양손활);2;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(양손둔기);2;icon_item_recipe_misc1
 I;제작서-레이드 포탈 스톤;12;icon_item_recipe_misc1
 G;Collection
-I;콜렉션:스벤티마스 유형지;1;icon_item_box
-I;콜렉션:카듀멜 절벽;1;icon_item_box
-I;콜렉션:강철 고원;1;icon_item_box
-I;콜렉션:그리나스 숲길;1;icon_item_box
-I;콜렉션:테브린 종유동 1구역;1;icon_item_box
-I;콜렉션:스팔빈가스 숲;1;icon_item_box
-I;콜렉션:실라 숲;1;icon_item_box
-I;콜렉션:기원의 숲;1;icon_item_box
-I;콜렉션:라다르 숲;1;icon_item_box
-I;콜렉션:지마 수코트;1;icon_item_box
-I;콜렉션:파수꾼의 묘역;1;icon_item_box
-I;콜렉션:네토 숲;1;icon_item_box
-I;콜렉션:카틴 숲 입구;1;icon_item_box
-I;콜렉션:포슬린키스 숲;1;icon_item_box
-I;콜렉션:초보자의 방어구;1;icon_item_box
-I;콜렉션:도심성벽 제 8구역;1;icon_item_box
-I;콜렉션:테브린 종유동 2구역;1;icon_item_box
-I;콜렉션:노브리어 숲;1;icon_item_box
-I;콜렉션:그리나스 구릉지;1;icon_item_box
-I;콜렉션:티메리스 사원;1;icon_item_box
-I;콜렉션:마족수감소 1구역;1;icon_item_box
-I;콜렉션:테브린 종유동 3구역;1;icon_item_box
-I;콜렉션:셉티니 골;1;icon_item_box
-I;콜렉션:테브린 종유동 5구역;1;icon_item_box
-I;콜렉션:테브린 종유동 4구역;1;icon_item_box
-I;콜렉션:요나엘 기념구;1;icon_item_box
-I;콜렉션:왕릉 건축자 예배당;1;icon_item_box
-I;콜렉션:아르커스 숲;1;icon_item_box
-I;콜렉션:지부리나스 숲;1;icon_item_box
-I;콜렉션:타니엘 1세 기념구;1;icon_item_box
-I;콜렉션:쿨레 고개;1;icon_item_box
-I;콜렉션:여신의 옛뜰;1;icon_item_box
-I;콜렉션:파마르 숲;1;icon_item_box
-I;콜렉션:몰로게오 숲;1;icon_item_box
-I;콜렉션:샤울레이 동쪽 숲;1;icon_item_box
-I;콜렉션:제로멜 공원;1;icon_item_box
-I;콜렉션:긴다리 계곡;1;icon_item_box
-I;콜렉션:알렘빅 동굴;1;icon_item_box
-I;콜렉션:이국 사랑;1;icon_item_box
-I;콜렉션:나뮤 사원터;1;icon_item_box
-I;콜렉션:나르바스 사원 지역;1;icon_item_box
+I;컬렉션:스벤티마스 유형지;1;icon_item_box
+I;컬렉션:카듀멜 절벽;1;icon_item_box
+I;컬렉션:강철 고원;1;icon_item_box
+I;컬렉션:그리나스 숲길;1;icon_item_box
+I;컬렉션:테브린 종유동 1구역;1;icon_item_box
+I;컬렉션:스팔빈가스 숲;1;icon_item_box
+I;컬렉션:실라 숲;1;icon_item_box
+I;컬렉션:기원의 숲;1;icon_item_box
+I;컬렉션:라다르 숲;1;icon_item_box
+I;컬렉션:지마 수코트;1;icon_item_box
+I;컬렉션:파수꾼의 묘역;1;icon_item_box
+I;컬렉션:네토 숲;1;icon_item_box
+I;컬렉션:카틴 숲 입구;1;icon_item_box
+I;컬렉션:포슬린키스 숲;1;icon_item_box
+I;컬렉션:초보자의 방어구;1;icon_item_box
+I;컬렉션:도심성벽 제 8구역;1;icon_item_box
+I;컬렉션:테브린 종유동 2구역;1;icon_item_box
+I;컬렉션:노브리어 숲;1;icon_item_box
+I;컬렉션:그리나스 구릉지;1;icon_item_box
+I;컬렉션:티메리스 사원;1;icon_item_box
+I;컬렉션:마족수감소 1구역;1;icon_item_box
+I;컬렉션:테브린 종유동 3구역;1;icon_item_box
+I;컬렉션:셉티니 골;1;icon_item_box
+I;컬렉션:테브린 종유동 5구역;1;icon_item_box
+I;컬렉션:테브린 종유동 4구역;1;icon_item_box
+I;컬렉션:요나엘 기념구;1;icon_item_box
+I;컬렉션:왕릉 건축자 예배당;1;icon_item_box
+I;컬렉션:아르커스 숲;1;icon_item_box
+I;컬렉션:지부리나스 숲;1;icon_item_box
+I;컬렉션:타니엘 1세 기념구;1;icon_item_box
+I;컬렉션:쿨레 고개;1;icon_item_box
+I;컬렉션:여신의 옛뜰;1;icon_item_box
+I;컬렉션:파마르 숲;1;icon_item_box
+I;컬렉션:몰로게오 숲;1;icon_item_box
+I;컬렉션:샤울레이 동쪽 숲;1;icon_item_box
+I;컬렉션:제로멜 공원;1;icon_item_box
+I;컬렉션:긴다리 계곡;1;icon_item_box
+I;컬렉션:알렘빅 동굴;1;icon_item_box
+I;컬렉션:이국 사랑;1;icon_item_box
+I;컬렉션:나뮤 사원터;1;icon_item_box
+I;컬렉션:나르바스 사원 지역;1;icon_item_box
 G;Armor
 I;엘리멘탈리스트 코스튬;1;icon_item_warrock_f
 I;워록 코스튬;1;icon_item_mage_warlock_f
@@ -477,7 +477,6 @@ I;케이스타스 회복포션Lv3;6;item_HPSP_potion_3
 I;블루 오브:유코푸스;1;icon_item_Dreamshade
 I;보급용 워프 주문서;6;GolemMagicItem1
 I;블루 오브:푸른 호헨 메인;1;icon_item_Dreamshade
-I;종이상자;1;icon_item_paperbox
 I;블루 오브:초록 플라메;1;icon_item_Dreamshade
 I;LV10 경험치 카드;5;icon_item_expcard
 I;LV14 경험치 카드;24;icon_item_expcard
@@ -487,6 +486,7 @@ I;LV8 경험치 카드;4;icon_item_expcard
 I;디스펠러;17;icon_item_grimoire_blue
 I;스킬 주문서;11;GolemMagicItem1
 I;스킬 주문서;2;GolemMagicItem1
+I;종이상자;1;icon_item_paperbox
 I;예식용 칼;1;icon_item_artefact_Decorative_knife
 I;몬스터 카드첩 : 그린;7;icon_item_green_cardbook
 I;몬스터 카드첩 : 블랙;1;icon_item_curse_cardbook

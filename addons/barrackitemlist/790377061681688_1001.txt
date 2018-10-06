@@ -31,7 +31,7 @@ I;은빛 물고기;4;icon_item_fish2
 I;LV13 경험치 카드;19;icon_item_expcard
 I;LV10 경험치 카드;22;icon_item_expcard
 I;LV11 경험치 카드;6;icon_item_expcard
-I;LV14 경험치 카드;64;icon_item_expcard
+I;LV14 경험치 카드;72;icon_item_expcard
 I;레드 오브:판토 궁수;1;icon_item_Dreamshade_red
 I;레드 오브:폰드;1;icon_item_Dreamshade_red
 I;블루 오브:러바인러바;1;icon_item_Dreamshade

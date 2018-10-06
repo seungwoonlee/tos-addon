@@ -30,6 +30,7 @@ I;농축 HP포션 LV15;3;icon_item_HP_Alche
 I;케이스타스 회복포션Lv4;9;item_HPSP_potion_3
 I;농축 이동속도 증가 포션 LV15;4;item_speed_requid_1
 I;보급용 워프 주문서;2;GolemMagicItem1
+I;LV14 경험치 카드;8;icon_item_expcard
 I;스킬 주문서;21;GolemMagicItem1
 I;디스펠러;10;icon_item_grimoire_blue
 I;스킬 주문서;1;GolemMagicItem1

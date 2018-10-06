@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;99940;icon_item_silver
+I;실버;100000;icon_item_silver
 G;Drug
 I;라프세이프 버섯;4;icon_item_Pinemushroom
 I;발래리요나스;6;icon_item_Valerijonas
@@ -46,7 +46,7 @@ I;파티 폭죽 (14일);1;icon_item_firework
 I;파티 폭죽 (14일);1;icon_item_firework
 I;보급용 워프 주문서;16;GolemMagicItem1
 I;레드 오브:붉은 소켓 궁수;1;icon_item_Dreamshade_red
-I;LV14 경험치 카드;47;icon_item_expcard
+I;LV14 경험치 카드;55;icon_item_expcard
 I;레드 오브:쿠게리 발저;1;icon_item_Dreamshade_red
 I;은빛 물고기;2;icon_item_fish2
 I;LV6 경험치 카드;7;icon_item_expcard
@@ -79,43 +79,43 @@ I;제작서-레이드 포탈 스톤;5;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 G;Collection
-I;콜렉션:테넷 성당 지상 2층;1;icon_item_box
-I;콜렉션:노바하 공회소;1;icon_item_box
-I;콜렉션:렘파라사 연못;1;icon_item_box
-I;콜렉션:테넷 화원;1;icon_item_box
-I;콜렉션:노바하 별관;1;icon_item_box
-I;콜렉션:수정광산 3층;1;icon_item_box
-I;콜렉션:샤울레이 동쪽 숲;1;icon_item_box
-I;콜렉션:크니도스 숲;1;icon_item_box
-I;콜렉션:아샤크 지하감옥 2층;1;icon_item_box
-I;콜렉션:베야 골짜기;1;icon_item_box
-I;콜렉션:덧댄다리 숲;1;icon_item_box
-I;콜렉션:초보자의 무기;1;icon_item_box
-I;콜렉션:이국 사랑;1;icon_item_box
-I;콜렉션:코루 숲;1;icon_item_box
-I;콜렉션:아샤크 지하감옥 1층;1;icon_item_box
-I;콜렉션:스라우타스 협곡;1;icon_item_box
-I;콜렉션:수정광산 2층;1;icon_item_box
-I;콜렉션:테넷 성당 지상 1층;1;icon_item_box
-I;콜렉션:다단 숲;1;icon_item_box
-I;콜렉션:샤울레이 서쪽 숲;1;icon_item_box
-I;콜렉션:겔리 고원;1;icon_item_box
-I;콜렉션:아샤크 지하감옥 3층;1;icon_item_box
-I;콜렉션:샤울레이 광산 마을;1;icon_item_box
-I;계시록 : 대립편 콜렉션;1;icon_item_holyark
-I;콜렉션:초보자의 방어구;1;icon_item_box
-I;콜렉션:네프리타스 벼랑;1;icon_item_box
-I;콜렉션:수정광산 1층;1;icon_item_box
-I;콜렉션:여신의 옛뜰;1;icon_item_box
-I;콜렉션:지마 수코트;1;icon_item_box
-I;콜렉션:람스티스 협곡;1;icon_item_box
-I;콜렉션:세이르 숲;1;icon_item_box
-I;콜렉션:큰아귀 길;1;icon_item_box
-I;콜렉션:크란토 연안;1;icon_item_box
-I;콜렉션:긴다리 계곡;1;icon_item_box
-I;콜렉션:필그림 들길;1;icon_item_box
-I;콜렉션:기원의 숲;1;icon_item_box
-I;콜렉션:알레멧 숲;1;icon_item_box
+I;컬렉션:테넷 성당 지상 2층;1;icon_item_box
+I;컬렉션:노바하 공회소;1;icon_item_box
+I;컬렉션:렘파라사 연못;1;icon_item_box
+I;컬렉션:테넷 화원;1;icon_item_box
+I;컬렉션:노바하 별관;1;icon_item_box
+I;컬렉션:수정광산 3층;1;icon_item_box
+I;컬렉션:샤울레이 동쪽 숲;1;icon_item_box
+I;컬렉션:크니도스 숲;1;icon_item_box
+I;컬렉션:아샤크 지하감옥 2층;1;icon_item_box
+I;컬렉션:베야 골짜기;1;icon_item_box
+I;컬렉션:덧댄다리 숲;1;icon_item_box
+I;컬렉션:초보자의 무기;1;icon_item_box
+I;컬렉션:이국 사랑;1;icon_item_box
+I;컬렉션:코루 숲;1;icon_item_box
+I;컬렉션:아샤크 지하감옥 1층;1;icon_item_box
+I;컬렉션:스라우타스 협곡;1;icon_item_box
+I;컬렉션:수정광산 2층;1;icon_item_box
+I;컬렉션:테넷 성당 지상 1층;1;icon_item_box
+I;컬렉션:다단 숲;1;icon_item_box
+I;컬렉션:샤울레이 서쪽 숲;1;icon_item_box
+I;컬렉션:겔리 고원;1;icon_item_box
+I;컬렉션:아샤크 지하감옥 3층;1;icon_item_box
+I;컬렉션:샤울레이 광산 마을;1;icon_item_box
+I;계시록 : 대립편 컬렉션;1;icon_item_holyark
+I;컬렉션:초보자의 방어구;1;icon_item_box
+I;컬렉션:네프리타스 벼랑;1;icon_item_box
+I;컬렉션:수정광산 1층;1;icon_item_box
+I;컬렉션:여신의 옛뜰;1;icon_item_box
+I;컬렉션:지마 수코트;1;icon_item_box
+I;컬렉션:람스티스 협곡;1;icon_item_box
+I;컬렉션:세이르 숲;1;icon_item_box
+I;컬렉션:큰아귀 길;1;icon_item_box
+I;컬렉션:크란토 연안;1;icon_item_box
+I;컬렉션:긴다리 계곡;1;icon_item_box
+I;컬렉션:필그림 들길;1;icon_item_box
+I;컬렉션:기원의 숲;1;icon_item_box
+I;컬렉션:알레멧 숲;1;icon_item_box
 G;Armor
 I;아크메이지 뱅글;1;item_bracelet_12_blue
 I;머슈카리아 모자;1;hairacc_23_mushcariahat

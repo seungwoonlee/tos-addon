@@ -32,7 +32,7 @@ I;농축 SP포션 LV15;41;icon_item_SP_Alche
 I;붉은 케파 조각;1;OnionPiece_Red
 I;블루 오브:부베 주술사;1;icon_item_Dreamshade
 I;레드 오브:분홍 츄파루카;1;icon_item_Dreamshade_red
-I;LV14 경험치 카드;21;icon_item_expcard
+I;LV14 경험치 카드;39;icon_item_expcard
 I;LV13 경험치 카드;7;icon_item_expcard
 I;LV6 경험치 카드;1;icon_item_expcard
 I;LV10 경험치 카드;1;icon_item_expcard

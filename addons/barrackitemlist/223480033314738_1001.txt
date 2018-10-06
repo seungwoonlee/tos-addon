@@ -24,11 +24,11 @@ I;라프세이프 버섯;2;icon_item_Pinemushroom
 I;해독제;5;icon_item_Quest_00020
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;농축 HP포션 LV15;8;icon_item_HP_Alche
+I;농축 HP포션 LV15;6;icon_item_HP_Alche
 I;케이스타스 회복포션Lv4;111;item_HPSP_potion_3
-I;농축 SP포션 LV15;11;icon_item_SP_Alche
+I;농축 SP포션 LV15;10;icon_item_SP_Alche
 I;레드 오브:말라두;1;icon_item_Dreamshade_red
-I;LV14 경험치 카드;13;icon_item_expcard
+I;LV14 경험치 카드;17;icon_item_expcard
 I;스킬 주문서;10;GolemMagicItem1
 I;디스펠러;10;icon_item_grimoire_blue
 G;SubWeapon
@@ -44,25 +44,24 @@ I;베이키얼의 답장;1;icon_item_indulgence
 I;부스러져가는 공문;1;icon_item_magicpaper
 I;낡은 일기;1;icon_item_collection_04Black
 G;Recipe
-I;제작서-뚫어뻥;2;icon_item_weapon_misc5
+I;제작서-뚫어뻥;4;icon_item_weapon_misc5
 G;Collection
-I;콜렉션:이브레 고원;1;icon_item_box
-I;콜렉션:스벤티마스 유형지;1;icon_item_box
-I;콜렉션:스팔빈가스 숲;1;icon_item_box
-I;콜렉션:라다르 숲;1;icon_item_box
-I;콜렉션:실라 숲;1;icon_item_box
-I;콜렉션:기원의 숲;1;icon_item_box
-I;콜렉션:그리나스 숲길;1;icon_item_box
+I;컬렉션:이브레 고원;1;icon_item_box
+I;컬렉션:스벤티마스 유형지;1;icon_item_box
+I;컬렉션:스팔빈가스 숲;1;icon_item_box
+I;컬렉션:라다르 숲;1;icon_item_box
+I;컬렉션:실라 숲;1;icon_item_box
+I;컬렉션:기원의 숲;1;icon_item_box
+I;컬렉션:그리나스 숲길;1;icon_item_box
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
 I;확성기;15;icon_item_Mike
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
-G;Armor
-I;레다스 실드;1;beadshield_blue
-I;캐터프랙트 코스튬;1;icon_item_cataphract_f
-I;펠타스타 코스튬;1;icon_item_Peltasta_f
-I;하플라이트 코스튬;1;icon_item_hoplites_f
 G;Material
 I;모루;3;icon_item_anvil
 I;파이라이트;4;32_item_ore_pyrite
@@ -224,5 +223,7 @@ I;영험한 가루;1;icon_item_sesami
 I;오래된 도구;8;icon_item_farm47_wood_hammer
 I;흩어진 기록지;15;GolemMagicItem1
 I;허밀가의 붉은 수정;1;icon_item_Gem_Stone_STR
-G;Weapon
-I;카타콤 파이크;1;thspear_lightning_purple
+G;Armor
+I;캐터프랙트 코스튬;1;icon_item_cataphract_f
+I;펠타스타 코스튬;1;icon_item_Peltasta_f
+I;하플라이트 코스튬;1;icon_item_hoplites_f

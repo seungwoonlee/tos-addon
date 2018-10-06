@@ -1,14 +1,23 @@
 S;1001
 G;Unused
-I;실버;9216100;icon_item_silver
+I;실버;9935975;icon_item_silver
+G;Event
+I;연하장;1;icon_item_event_invitation2
+I;강화 실버 할인 쿠폰 : 10만 실버;10;icon_item_reinforce_100000coupon
+G;Collection
+I;컬렉션:티메리스 사원;1;icon_item_box
+G;PasteBait
+I;작은 은빛 물고기;12;icon_item_fish4
+G;Helmet
+I;쑥송편 헬멧 코스튬;1;icon_item_helmet_songpyun2
+I;송편 헬멧 코스튬;1;icon_item_helmet_songpyun
 G;Premium
 I;윈터펭 알;1;icon_item_egg_winterpeng
 I;확성기 50개 상자;1;icon_item_Mike_bundle
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
+I;인스턴스 던전 배수 토큰;1;icon_item_indunexmode
 I;경험의 서;1;icon_item_boostertoken
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -19,30 +28,20 @@ I;워프 주문서;34;icon_item_warpPremium
 I;긴급 수리 키트;38;icon_item_repairkit
 I;워프 주문서 10개 상자;3;icon_item_warpPremium_bundle
 I;파스텔 그린 염색약;1;haircolor_green
-I;인스턴스 던전 배수 토큰;2;icon_item_indunexmode
 I;스탯 초기화 포션;3;icon_item_statReset
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
-I;확성기;65;icon_item_Mike
+I;확성기;66;icon_item_Mike
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;소울 크리스탈;279;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f
-I;2018 나무나무 코스튬(남);1;icon_item_event_2018_arbor_m
-I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 I;상어 해적단 코스튬(여);1;icon_item_cosair03_f
 I;벚꽃 로맨스 세일러복 코스튬(여);1;icon_item_pink_Sailor01_f
-G;PasteBait
-I;작은 은빛 물고기;12;icon_item_fish4
-G;Helmet
-I;쑥송편 헬멧 코스튬;1;icon_item_helmet_songpyun2
-I;송편 헬멧 코스튬;1;icon_item_helmet_songpyun
-G;Collection
-I;콜렉션:티메리스 사원;1;icon_item_box
 G;SubWeapon
 I;버블스틱;1;icon_item_artefact_bublestick
 I;핫팩;1;icon_item_hotpack
@@ -63,8 +62,6 @@ I;제작서-산양 뿔;1;icon_item_helm_misc1
 I;제작서-매직 탈리스만;1;icon_item_necklace_misc3
 I;제작서-x4 경험의 서;2;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(양손활);3;icon_item_recipe_misc1
-G;Event
-I;연하장;1;icon_item_event_invitation2
 G;Drug
 I;리사이클 메달;60;icon_item_recyclemedal
 I;[PC방] SP 회복 소형 엘릭서 ;10;icon_item_random_spellixerbox
@@ -75,7 +72,6 @@ I;보급용 작은 SP포션;240;item_SP_requid_1
 I;농축 이동속도 향상의 포션;40;item_speed_requid_1
 I;농축 HP포션 LV15;12;icon_item_HP_Alche
 I;SP 회복 소형 엘릭서 ;5;icon_item_SPelixir_Small
-I;송편;62;icon_item_Songpyeon
 I;루팅 찬스 증가 포션;9;icon_item_looting_potion_01
 I;보급용 작은 HP포션;32;item_HP_oil_1
 I;케이스타스 용맹의 포션;3;icon_item_Drug_exATK1
@@ -91,7 +87,6 @@ I;바루날레샤;5;icon_item_Varnalesa
 I;붉은 케파 조각;4;OnionPiece_Red
 I;클라페다 워프 주문서;2;GolemMagicItem1
 I;파티 폭죽 (14일);1;icon_item_firework
-I;파티 폭죽 (14일);1;icon_item_firework
 I;정착 지원 포션 Lv2;59;item_speed_requid_3
 I;고농축 이동속도 증가 포션;13;item_speed_requid_1
 I;축복이 깃든 씨앗;4;icon_item_event161215_01
@@ -105,25 +100,25 @@ I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;LV4 경험치 카드;2;icon_item_expcard
 I;스킬 주문서;8;GolemMagicItem1
 I;TOS 플래카드;1;icon_item_artefact_Ticket_TOS
 I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
 I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
 I;눈 덮인 몬스터 카드첩;1;icon_item_Chrismas_Card
 I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
+G;Cube
+I;[PC방] 성장 지원 상자;1;icon_item_box_pc_month
 G;Card
 I;링크롤러 카드;Lv7;icon_item_card_stat
+I;바를킹 카드;Lv1;icon_item_card_def
 G;Armor
 I;바스티클 그리브;1;icon_item_iorn_boots_1
-I;(바랜)워메이지 부츠;1;icon_item_warmage_boots
+I;갈라티카 그리브;1;icon_item_boots_frost
 I;네펜더스 글로브;1;icon_item_gloves_vine
-I;크라이지어스 플레이트 팬츠;1;icon_item_pants_kryzius
-I;바스티클 플레이트 팬츠;1;icon_item_iorn_pants_1
-I;(바랜)워메이지 팬츠;1;icon_item_warmage_pants
+I;갈라티카 플레이트 팬츠;1;icon_item_pants_frost
 I;(바랜)로들렌 실드;1;icon_item_shield_ishick
-I;페버디마스 실드;1;icon_item_pabudimas_shield
-I;베르타스 바스티클 플레이트 아머;1;icon_item_iorn_shirt_1
-I;(바랜)워메이지 로브;1;icon_item_warmage_robe
+I;갈라티카 플레이트 아머;1;icon_item_shirts_frost
 I;츄파카브라 네클리스;1;item_necklace_11
 I;나이트 갈레아;1;icon_item_accessory_chessKnight2
 I;큰 사자탈;1;hairacc_38_lionmask2
@@ -141,13 +136,13 @@ I;은빛 모루(14일);1;icon_item_anvil_silver
 I;은빛 모루(14일);1;icon_item_anvil_silver
 I;파이라이트;4;32_item_ore_pyrite
 I;크리오라이트;2;39_icon_item_Cry8rite
-I;홀리 파우더;415;icon_item_powderw
+I;홀리 파우더;385;icon_item_powderw
 I;아틸로늄;19;18_item_plantite
-I;안데슘;14;icon_item_crystal_red
+I;안데슘;15;icon_item_crystal_red
 I;피데슘;13;5_item_ore_fluorite
-I;이오니움;13;icon_item_crystal_yellow
+I;이오니움;14;icon_item_crystal_yellow
 I;펠트레민;3;item_icon_pideingot
-I;울스터마이트;3;item_icon_teraingot
+I;울스터마이트;4;item_icon_teraingot
 I;호박;1;22_item_ore_amber
 I;말라두의 고기;50;icon_item_meat_02
 I;요노움의 핵;41;icon_item_core_purple
@@ -157,7 +152,7 @@ I;박쥐의 날개;27;icon_item_batwing
 I;유코푸스 잎;24;icon_item_leaves_blue
 I;케파 줄기;17;icon_item_stem_green
 I;스톤오르카의 핵;16;icon_item_core_yellow
-I;테라늄;13;36_item_ore_lapis_philosophorum
+I;테라늄;16;36_item_ore_lapis_philosophorum
 I;츄파카브라 이빨;13;icon_item_tooth_white
 I;에큐바이트 더듬이;11;icon_item_feeler_purple
 I;수정거미 더듬이;11;icon_item_feeler_blue
@@ -251,7 +246,6 @@ I;스타울리트 심장;1;item_icon_heart_red
 I;암몬 등뼈;1;icon_item_bone
 I;마이즈 포자 주머니;1;icon_item_maizespore
 I;물푸레나무;3;icon_item_wood_2
-I;보름달 조각;3;icon_item_topaz_piece
 I;떡갈나무;4;icon_item_wood_1
 I;귀환석;1;MercenaryBadge
 G;Quest
@@ -275,3 +269,4 @@ I;(바랜)레이네 메이스;1;icon_item_mace_orchid
 I;페버디마스 투 핸드 메이스;1;icon_item_pabudimas_mace_twohand
 I;프리머스 라파이 투 핸드 메이스;1;icon_item_mace_twohand_lapai
 I;프리머스 라파이 투 핸드 메이스;1;icon_item_mace_twohand_lapai
+I;[결속] 베르타스 라파이 투 핸드 메이스;1;icon_item_mace_twohand_lapai

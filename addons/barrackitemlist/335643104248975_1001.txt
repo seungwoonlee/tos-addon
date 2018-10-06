@@ -23,11 +23,9 @@ I;블루 오브:하나밍;1;icon_item_Dreamshade
 I;레드 오브:하나밍;1;icon_item_Dreamshade_red
 I;블루 오브:긴팔 나무;1;icon_item_Dreamshade
 I;블루 오브:뇌옥투사;1;icon_item_Dreamshade
-I;LV14 경험치 카드;12;icon_item_expcard
+I;LV14 경험치 카드;20;icon_item_expcard
 I;스킬 주문서;3;GolemMagicItem1
 I;디스펠러;10;icon_item_grimoire_blue
-G;SubWeapon
-I;라파이 대거;1;icon_item_dagger_lapai
 G;Book
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
 I;찢어진 일기의 일부 4;1;icon_item_paperpiece
@@ -43,6 +41,8 @@ I;부스러져가는 공문;1;icon_item_magicpaper
 I;록소나 내전 제 1장;1;icon_item_collection_01Red
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;록소나 내전 제 2장;1;icon_item_collection_04Black
+G;FishingRod
+I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 G;Collection
 I;콜렉션:엘고스 수도원 별관;1;icon_item_box
 I;콜렉션:스팔빈가스 숲;1;icon_item_box
@@ -52,10 +52,8 @@ I;콜렉션:기원의 숲;1;icon_item_box
 I;콜렉션:티메리스 사원;1;icon_item_box
 I;콜렉션:테브린 종유동 1구역;1;icon_item_box
 I;콜렉션:관문로;1;icon_item_box
-G;FishingRod
-I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
-G;Cube
-I;란코 호수 던전 큐브;18;icon_item_cube2
+G;Helmet
+I;송편 헬멧 코스튬;1;icon_item_helmet_songpyun
 G;Premium
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
@@ -63,23 +61,6 @@ I;벚꽃 로맨스 세일러복 코스튬(여);1;icon_item_pink_Sailor01_f
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 I;레드 메이드 코스튬(여);1;icon_item_maiduniform_red_f
 I;초대에 응한 자 코스튬(여);1;icon_item_blacksuit01_f
-G;Armor
-I;(바랜)워메이지 부츠;1;icon_item_warmage_boots
-I;프리머스 바스티클 건틀릿;1;icon_item_iorn_glove_1
-I;(바랜)스우리트 플레이트 팬츠;1;icon_item_swoolite_leg
-I;(바랜)이글스타 레더 아머;1;icon_item_eaglestar_armor
-I;애니무스;1;item_necklace_07
-I;분노의 목걸이;1;item_NECK_PILGRIM_03_SPR
-I;크리스탈 뱅글;1;item_bracelet_15
-I;자카리엘 뱅글;1;item_bracelet_10
-I;자카리엘 뱅글;1;item_bracelet_10
-I;질럿 컨트리션 코스튬;1;icon_item_zealot2_f
-I;질럿 퍼티션 코스튬;1;icon_item_zealot4_f
-I;엑소시스트 루브릭 코스튬;1;icon_item_Exorcist04_f
-I;엑소시스트 코스튬;1;icon_item_Exorcist01_f
-I;프리스트 코스튬;1;icon_item_prist_f
-I;파드너 코스튬;1;icon_item_pardoner_f
-I;버텍스 비콘;1;icon_item_SpecialCostume_exorcist_both
 G;Material
 I;황금 모루;1;icon_item_anvil_gold
 I;모루;43;icon_item_anvil
@@ -284,5 +265,13 @@ I;광신도의 수정 목걸이;1;icon_item_blacknecklace
 I;마력 추적지도 : 테브린 종유동 1구역;1;GolemMagicItem1
 I;펜듈럼;1;icon_item_pendulum
 I;지휘관 줄리안의 명령서;1;icon_item_Scroll
-G;Weapon
-I;윈디아 로드;1;icon_item_staff_holeofglory
+G;Armor
+I;애니무스;1;item_necklace_07
+I;크리스탈 뱅글;1;item_bracelet_15
+I;질럿 컨트리션 코스튬;1;icon_item_zealot2_f
+I;질럿 퍼티션 코스튬;1;icon_item_zealot4_f
+I;엑소시스트 루브릭 코스튬;1;icon_item_Exorcist04_f
+I;엑소시스트 코스튬;1;icon_item_Exorcist01_f
+I;프리스트 코스튬;1;icon_item_prist_f
+I;파드너 코스튬;1;icon_item_pardoner_f
+I;버텍스 비콘;1;icon_item_SpecialCostume_exorcist_both

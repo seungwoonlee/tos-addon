@@ -43,7 +43,7 @@ I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;농축 HP포션 LV15;4;icon_item_HP_Alche
 I;보급용 워프 주문서;20;GolemMagicItem1
 I;블루 오브:폰델;1;icon_item_Dreamshade
-I;LV14 경험치 카드;8;icon_item_expcard
+I;LV14 경험치 카드;16;icon_item_expcard
 I;디스펠러;1;icon_item_grimoire_blue
 G;SubWeapon
 I;잎사귀 무늬 암밴드;1;icon_item_armband_leaf
