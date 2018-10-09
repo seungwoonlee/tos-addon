@@ -62,43 +62,43 @@ I;제작서-슈페리어 로얄 가드 건틀릿;3;icon_item_gloves_misc1
 I;제작서-x8 경험의 서;1;icon_item_recipe_misc1
 I;제작서-레이드 포탈 스톤;2;icon_item_recipe_misc1
 G;Collection
-I;콜렉션:큰아귀 길;1;icon_item_box
-I;계시록 : 대립편 콜렉션;1;icon_item_holyark
-I;콜렉션:테넷 성당 지하 1층;1;icon_item_box
-I;콜렉션:샤울레이 동쪽 숲;1;icon_item_box
-I;콜렉션:겔리 고원;1;icon_item_box
-I;콜렉션:렘파라사 연못;1;icon_item_box
-I;콜렉션:샤울레이 서쪽 숲;1;icon_item_box
-I;콜렉션:테넷 화원;1;icon_item_box
-I;콜렉션:필그림 들길;1;icon_item_box
-I;콜렉션:네프리타스 벼랑;1;icon_item_box
-I;콜렉션:기티스의 개척지;1;icon_item_box
-I;콜렉션:샤울레이 광산 마을;1;icon_item_box
-I;콜렉션:자카리엘 교차로;1;icon_item_box
-I;콜렉션:수정광산 3층;1;icon_item_box
-I;콜렉션:코루 숲;1;icon_item_box
-I;콜렉션:스라우타스 협곡;1;icon_item_box
-I;콜렉션:여신의 옛뜰;1;icon_item_box
-I;콜렉션:셉티니 골;1;icon_item_box
-I;콜렉션:베야 골짜기;1;icon_item_box
-I;콜렉션:비에타 계곡;1;icon_item_box
-I;콜렉션:빌나 숲;1;icon_item_box
-I;콜렉션:다이나 양봉지;1;icon_item_box
-I;콜렉션:빌티스 숲;1;icon_item_box
-I;콜렉션:코발트 숲;1;icon_item_box
-I;콜렉션:글라데 언덕길;1;icon_item_box
-I;콜렉션:봄볕나무 숲;1;icon_item_box
-I;콜렉션:강철 고원;1;icon_item_box
-I;콜렉션:라다르 숲;1;icon_item_box
-I;콜렉션:실라 숲;1;icon_item_box
-I;콜렉션:기원의 숲;1;icon_item_box
-I;콜렉션:스팔빈가스 숲;1;icon_item_box
-I;콜렉션:아샤크 지하감옥 1층;1;icon_item_box
-I;콜렉션:틸타스 협곡;1;icon_item_box
-I;콜렉션:테넷 성당 지상 2층;1;icon_item_box
-I;콜렉션:왕릉 건축자 예배당;1;icon_item_box
-I;콜렉션:테넷 성당 지상 1층;1;icon_item_box
-I;콜렉션:긴다리 계곡;1;icon_item_box
+I;컬렉션:큰아귀 길;1;icon_item_box
+I;계시록 : 대립편 컬렉션;1;icon_item_holyark
+I;컬렉션:테넷 성당 지하 1층;1;icon_item_box
+I;컬렉션:샤울레이 동쪽 숲;1;icon_item_box
+I;컬렉션:겔리 고원;1;icon_item_box
+I;컬렉션:렘파라사 연못;1;icon_item_box
+I;컬렉션:샤울레이 서쪽 숲;1;icon_item_box
+I;컬렉션:테넷 화원;1;icon_item_box
+I;컬렉션:필그림 들길;1;icon_item_box
+I;컬렉션:네프리타스 벼랑;1;icon_item_box
+I;컬렉션:기티스의 개척지;1;icon_item_box
+I;컬렉션:샤울레이 광산 마을;1;icon_item_box
+I;컬렉션:자카리엘 교차로;1;icon_item_box
+I;컬렉션:수정광산 3층;1;icon_item_box
+I;컬렉션:코루 숲;1;icon_item_box
+I;컬렉션:스라우타스 협곡;1;icon_item_box
+I;컬렉션:여신의 옛뜰;1;icon_item_box
+I;컬렉션:셉티니 골;1;icon_item_box
+I;컬렉션:베야 골짜기;1;icon_item_box
+I;컬렉션:비에타 계곡;1;icon_item_box
+I;컬렉션:빌나 숲;1;icon_item_box
+I;컬렉션:다이나 양봉지;1;icon_item_box
+I;컬렉션:빌티스 숲;1;icon_item_box
+I;컬렉션:코발트 숲;1;icon_item_box
+I;컬렉션:글라데 언덕길;1;icon_item_box
+I;컬렉션:봄볕나무 숲;1;icon_item_box
+I;컬렉션:강철 고원;1;icon_item_box
+I;컬렉션:라다르 숲;1;icon_item_box
+I;컬렉션:실라 숲;1;icon_item_box
+I;컬렉션:기원의 숲;1;icon_item_box
+I;컬렉션:스팔빈가스 숲;1;icon_item_box
+I;컬렉션:아샤크 지하감옥 1층;1;icon_item_box
+I;컬렉션:틸타스 협곡;1;icon_item_box
+I;컬렉션:테넷 성당 지상 2층;1;icon_item_box
+I;컬렉션:왕릉 건축자 예배당;1;icon_item_box
+I;컬렉션:테넷 성당 지상 1층;1;icon_item_box
+I;컬렉션:긴다리 계곡;1;icon_item_box
 G;Premium
 I;랭크 초기화권 (60일);1;icon_item_rankreset_paper
 I;소울 크리스탈;15;icon_item_soulCrystal

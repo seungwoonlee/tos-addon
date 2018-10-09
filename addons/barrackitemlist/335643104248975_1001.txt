@@ -44,14 +44,14 @@ I;록소나 내전 제 2장;1;icon_item_collection_04Black
 G;FishingRod
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 G;Collection
-I;콜렉션:엘고스 수도원 별관;1;icon_item_box
-I;콜렉션:스팔빈가스 숲;1;icon_item_box
-I;콜렉션:라다르 숲;1;icon_item_box
-I;콜렉션:실라 숲;1;icon_item_box
-I;콜렉션:기원의 숲;1;icon_item_box
-I;콜렉션:티메리스 사원;1;icon_item_box
-I;콜렉션:테브린 종유동 1구역;1;icon_item_box
-I;콜렉션:관문로;1;icon_item_box
+I;컬렉션:엘고스 수도원 별관;1;icon_item_box
+I;컬렉션:스팔빈가스 숲;1;icon_item_box
+I;컬렉션:라다르 숲;1;icon_item_box
+I;컬렉션:실라 숲;1;icon_item_box
+I;컬렉션:기원의 숲;1;icon_item_box
+I;컬렉션:티메리스 사원;1;icon_item_box
+I;컬렉션:테브린 종유동 1구역;1;icon_item_box
+I;컬렉션:관문로;1;icon_item_box
 G;Helmet
 I;송편 헬멧 코스튬;1;icon_item_helmet_songpyun
 G;Premium
@@ -270,7 +270,7 @@ I;애니무스;1;item_necklace_07
 I;크리스탈 뱅글;1;item_bracelet_15
 I;질럿 컨트리션 코스튬;1;icon_item_zealot2_f
 I;질럿 퍼티션 코스튬;1;icon_item_zealot4_f
-I;엑소시스트 루브릭 코스튬;1;icon_item_Exorcist04_f
+I;엑소시스트 소울 바인더 코스튬;1;icon_item_Exorcist02_f
 I;엑소시스트 코스튬;1;icon_item_Exorcist01_f
 I;프리스트 코스튬;1;icon_item_prist_f
 I;파드너 코스튬;1;icon_item_pardoner_f

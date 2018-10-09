@@ -78,42 +78,42 @@ I;제작서-레이드 포탈 스톤;1;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 G;Collection
-I;콜렉션:샤울레이 서쪽 숲;1;icon_item_box
-I;콜렉션:샤울레이 동쪽 숲;1;icon_item_box
-I;콜렉션:수정광산 2층;1;icon_item_box
-I;콜렉션:수정광산 1층;1;icon_item_box
-I;콜렉션:스라우타스 협곡;1;icon_item_box
-I;콜렉션:코발트 숲;1;icon_item_box
-I;콜렉션:아샤크 지하감옥 2층;1;icon_item_box
-I;콜렉션:렘파라사 연못;1;icon_item_box
-I;콜렉션:샤울레이 광산 마을;1;icon_item_box
-I;계시록 : 대립편 콜렉션;1;icon_item_holyark
-I;콜렉션:덧댄다리 숲;1;icon_item_box
-I;콜렉션:초보자의 무기;1;icon_item_box
-I;콜렉션:수정광산 3층;1;icon_item_box
-I;콜렉션:초보자의 방어구;1;icon_item_box
-I;콜렉션:파우피스 나루;1;icon_item_box
-I;콜렉션:아샤크 지하감옥 3층;1;icon_item_box
-I;콜렉션:테넷 화원;1;icon_item_box
-I;콜렉션:겔리 고원;1;icon_item_box
-I;콜렉션:아샤크 지하감옥 1층;1;icon_item_box
-I;콜렉션:다이나 양봉지;1;icon_item_box
-I;콜렉션:베야 골짜기;1;icon_item_box
-I;콜렉션:네프리타스 벼랑;1;icon_item_box
-I;콜렉션:테넷 성당 지상 2층;1;icon_item_box
-I;콜렉션:비에타 계곡;1;icon_item_box
-I;콜렉션:페레토리 구릉;1;icon_item_box
-I;콜렉션:중심시가;1;icon_item_box
-I;콜렉션:마족수감소 2구역;1;icon_item_box
-I;콜렉션:마족수감소 1구역;1;icon_item_box
-I;콜렉션:마족수감소 3구역;1;icon_item_box
-I;콜렉션:드바시아 고개;1;icon_item_box
-I;콜렉션:베르크티 광장;1;icon_item_box
-I;콜렉션:연안요새;1;icon_item_box
+I;컬렉션:샤울레이 서쪽 숲;1;icon_item_box
+I;컬렉션:샤울레이 동쪽 숲;1;icon_item_box
+I;컬렉션:수정광산 2층;1;icon_item_box
+I;컬렉션:수정광산 1층;1;icon_item_box
+I;컬렉션:스라우타스 협곡;1;icon_item_box
+I;컬렉션:코발트 숲;1;icon_item_box
+I;컬렉션:아샤크 지하감옥 2층;1;icon_item_box
+I;컬렉션:렘파라사 연못;1;icon_item_box
+I;컬렉션:샤울레이 광산 마을;1;icon_item_box
+I;계시록 : 대립편 컬렉션;1;icon_item_holyark
+I;컬렉션:덧댄다리 숲;1;icon_item_box
+I;컬렉션:초보자의 무기;1;icon_item_box
+I;컬렉션:수정광산 3층;1;icon_item_box
+I;컬렉션:초보자의 방어구;1;icon_item_box
+I;컬렉션:파우피스 나루;1;icon_item_box
+I;컬렉션:아샤크 지하감옥 3층;1;icon_item_box
+I;컬렉션:테넷 화원;1;icon_item_box
+I;컬렉션:겔리 고원;1;icon_item_box
+I;컬렉션:아샤크 지하감옥 1층;1;icon_item_box
+I;컬렉션:다이나 양봉지;1;icon_item_box
+I;컬렉션:베야 골짜기;1;icon_item_box
+I;컬렉션:네프리타스 벼랑;1;icon_item_box
+I;컬렉션:테넷 성당 지상 2층;1;icon_item_box
+I;컬렉션:비에타 계곡;1;icon_item_box
+I;컬렉션:페레토리 구릉;1;icon_item_box
+I;컬렉션:중심시가;1;icon_item_box
+I;컬렉션:마족수감소 2구역;1;icon_item_box
+I;컬렉션:마족수감소 1구역;1;icon_item_box
+I;컬렉션:마족수감소 3구역;1;icon_item_box
+I;컬렉션:드바시아 고개;1;icon_item_box
+I;컬렉션:베르크티 광장;1;icon_item_box
+I;컬렉션:연안요새;1;icon_item_box
 I;몬스터 표본 세트;1;icon_item_box
-I;콜렉션:셉티니 골;1;icon_item_box
-I;콜렉션:크란토 연안;1;icon_item_box
-I;콜렉션:스토가스 고원;1;icon_item_box
+I;컬렉션:셉티니 골;1;icon_item_box
+I;컬렉션:크란토 연안;1;icon_item_box
+I;컬렉션:스토가스 고원;1;icon_item_box
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium

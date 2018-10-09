@@ -162,6 +162,7 @@ I;하급 용병 코스튬(여);1;icon_item_lowtactic01_f
 I;하이랜더 스페셜 코스튬(여);1;icon_item_warrior_highrander_f
 G;Material
 I;모루;8;icon_item_anvil
+I;2성 젬 연마제;1;icon_item_powderp
 I;크리오라이트;14;39_icon_item_Cry8rite
 I;실드 차저;10;icon_item_ShieldCharge
 I;파이라이트;19;32_item_ore_pyrite
@@ -349,7 +350,6 @@ I;포쿠본 가죽;15;icon_item_Misc_00009
 I;폰델 샤프트;1;38_item_ore_mercury
 I;폴리부 잎;2;icon_item_leaves_red
 I;푸른 누오의 뿔;15;icon_item_horn_nuo_blue
-I;푸른 누카 갑옷 파편;5;icon_item_armor_nuka_blue
 I;푸른 듀마로의 발톱;7;icon_item_claw_00Basic
 I;푸른 라프세이프 이빨;3;icon_item_tooth_blue
 I;푸른 리디메드 줄기;7;icon_item_stem_gray
@@ -415,9 +415,6 @@ I;향초;1;icon_item_candle
 I;허밀가의 붉은 수정;1;icon_item_Gem_Stone_STR
 I;휠렌의 증표;1;icon_item_Gem_Elemental17
 G;Armor
-I;늘어진 나무늘보;1;icon_item_sloth_pink
-I;작은 사자탈;1;hairacc_37_lionmask1
-I;늘어진 나무늘보;1;icon_item_sloth_pink
 I;도펠죌트너 코스튬;1;icon_item_doppelsoldner_f
 I;바바리안 코스튬;1;icon_item_barbarian_f
 I;템플러 코스튬;1;icon_item_warrior_templar_f

@@ -10,7 +10,7 @@ I;보급용 작은 SP포션;125;item_SP_requid_1
 I;보급용 작은 스태미나 알약;25;item_STA_pill_1
 I;포포리온 고기;8;icon_item_meat_02
 I;바루날레샤;1;icon_item_Varnalesa
-I;농축 HP포션 LV15;13;icon_item_HP_Alche
+I;농축 HP포션 LV15;7;icon_item_HP_Alche
 I;폭죽;25;icon_item_firework
 I;아비에테;1;icon_item_Aviete
 I;케이스타스 회복포션Lv4;3;item_HPSP_potion_3
@@ -18,7 +18,7 @@ I;농축 SP포션 LV15;11;icon_item_SP_Alche
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;보급용 워프 주문서;7;GolemMagicItem1
-I;LV14 경험치 카드;26;icon_item_expcard
+I;LV14 경험치 카드;39;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
 I;스킬 주문서;2;GolemMagicItem1
 G;SubWeapon
@@ -70,15 +70,6 @@ I;컬렉션:람스티스 협곡;1;icon_item_box
 I;컬렉션:사크니스 벌판;1;icon_item_box
 I;컬렉션:드바시아 고개;1;icon_item_box
 I;컬렉션:틸타스 협곡;1;icon_item_box
-G;Premium
-I;랭크 초기화권 (14일);1;icon_item_rankreset_paper
-I;소울 크리스탈;15;icon_item_soulCrystal
-I;워프 주문서;15;icon_item_warpPremium
-I;랭크 초기화권 (14일);1;icon_item_rankreset_paper
-I;스탯 초기화 포션(14일);1;icon_item_statReset
-I;확성기;15;icon_item_Mike
-I;스탯 초기화 포션(14일);1;icon_item_statReset
-I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Card
 I;자우라 카드;Lv10;icon_item_card_def
 G;Armor
@@ -89,13 +80,14 @@ I;룬캐스터 코스튬;1;icon_item_mage_runecaster_f
 G;Material
 I;모루;6;icon_item_anvil
 I;황금 모루;3;icon_item_anvil_gold
+I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;파이라이트;4;32_item_ore_pyrite
 I;크리오라이트;7;39_icon_item_Cry8rite
 I;마법 가루;5;icon_item_MagicPowder
-I;시간의 결정 파편;602;icon_item_spacepiece
-I;시간의 결정;16;icon_item_timespace
-I;빈 스펠북;30;icon_item_emptySpellBook
-I;룬 스톤;945;icon_item_rune_stone_board
+I;시간의 결정 파편;549;icon_item_spacepiece
+I;빈 스펠북;18;icon_item_emptySpellBook
+I;룬 스톤;894;icon_item_rune_stone_board
+I;시간의 결정;97;icon_item_timespace
 I;주석;2;1_item_ore_copper
 I;호박;6;22_item_ore_amber
 I;마이즈 포자 주머니;3;icon_item_maizespore
@@ -239,6 +231,7 @@ I;미끈한 수액;1;icon_item_Drug_51021
 I;쿠게리의 천조각;4;icon_item_clothpiece_white
 I;포탈 스톤;124;icon_item_portalstone
 I;트리피드 가시;1;icon_item_thorn_green
+I;루나엔젤의 나팔;2;icon_item_misc_0511
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;일회용 시약병;1;icon_item_Quest_00020
@@ -267,5 +260,12 @@ I;영기가 흐르는 돌;5;icon_item_Gem_Stone_CON
 I;오래된 기둥 조각;3;icon_item_statuepiece
 I;작은 돌 조각;1;icon_item_Misc_00004
 I;고고학자의 징표;1;neck_pilgrim_02
-G;Weapon
-I;이그니션;1;icon_item_ignition
+I;거대 마력원;12;icon_item_Gem_Stone_INT
+G;Premium
+I;랭크 초기화권 (14일);1;icon_item_rankreset_paper
+I;소울 크리스탈;15;icon_item_soulCrystal
+I;워프 주문서;15;icon_item_warpPremium
+I;랭크 초기화권 (14일);1;icon_item_rankreset_paper
+I;스탯 초기화 포션(14일);1;icon_item_statReset
+I;확성기;15;icon_item_Mike
+I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f

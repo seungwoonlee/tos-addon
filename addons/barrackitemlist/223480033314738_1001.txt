@@ -24,9 +24,9 @@ I;라프세이프 버섯;2;icon_item_Pinemushroom
 I;해독제;5;icon_item_Quest_00020
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;농축 HP포션 LV15;6;icon_item_HP_Alche
+I;농축 HP포션 LV15;5;icon_item_HP_Alche
 I;케이스타스 회복포션Lv4;111;item_HPSP_potion_3
-I;농축 SP포션 LV15;10;icon_item_SP_Alche
+I;농축 SP포션 LV15;9;icon_item_SP_Alche
 I;레드 오브:말라두;1;icon_item_Dreamshade_red
 I;LV14 경험치 카드;17;icon_item_expcard
 I;스킬 주문서;10;GolemMagicItem1

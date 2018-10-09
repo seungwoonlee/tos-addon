@@ -33,6 +33,7 @@ I;블루 오브:이노움;1;icon_item_Dreamshade
 I;블루 오브:츄파카브라;1;icon_item_Dreamshade
 I;블루 오브:코왁;1;icon_item_Dreamshade
 I;블루 오브:하루갈;1;icon_item_Dreamshade
+I;이모티콘: 큐폴(더블피스);1;icon_item_Misc_00021
 I;스킬 주문서;1;GolemMagicItem1
 G;SubWeapon
 I;디오니스 암밴드;1;icon_item_armband_dinios

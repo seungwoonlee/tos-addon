@@ -57,27 +57,25 @@ I;낡은 일기;1;icon_item_collection_04Black
 G;Recipe
 I;제작서-레이드 포탈 스톤;1;icon_item_recipe_misc1
 G;Collection
-I;콜렉션:알렘빅 동굴;1;icon_item_box
-I;콜렉션:노브리어 숲;1;icon_item_box
-I;콜렉션:피스티스 숲;1;icon_item_box
-I;콜렉션:에메트 숲;1;icon_item_box
-I;콜렉션:실라 숲;1;icon_item_box
-I;콜렉션:아르커스 숲;1;icon_item_box
-I;콜렉션:파마르 숲;1;icon_item_box
-I;콜렉션:기원의 숲;1;icon_item_box
-I;콜렉션:스팔빈가스 숲;1;icon_item_box
-I;콜렉션:테브린 종유동 1구역;1;icon_item_box
-I;콜렉션:포슬린키스 숲;1;icon_item_box
-I;콜렉션:셉티니 골;1;icon_item_box
-I;콜렉션:드바시아 고개;1;icon_item_box
-I;콜렉션:긴다리 계곡;1;icon_item_box
+I;컬렉션:알렘빅 동굴;1;icon_item_box
+I;컬렉션:노브리어 숲;1;icon_item_box
+I;컬렉션:피스티스 숲;1;icon_item_box
+I;컬렉션:에메트 숲;1;icon_item_box
+I;컬렉션:실라 숲;1;icon_item_box
+I;컬렉션:아르커스 숲;1;icon_item_box
+I;컬렉션:파마르 숲;1;icon_item_box
+I;컬렉션:기원의 숲;1;icon_item_box
+I;컬렉션:스팔빈가스 숲;1;icon_item_box
+I;컬렉션:테브린 종유동 1구역;1;icon_item_box
+I;컬렉션:포슬린키스 숲;1;icon_item_box
+I;컬렉션:셉티니 골;1;icon_item_box
+I;컬렉션:드바시아 고개;1;icon_item_box
+I;컬렉션:긴다리 계곡;1;icon_item_box
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
-G;Event
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
 G;Armor
 I;베르타스 제베넬리스 레더 부츠;1;icon_item_leather_boots_1
 I;베르타스 갈라티카 건틀릿;1;icon_item_gloves_frost

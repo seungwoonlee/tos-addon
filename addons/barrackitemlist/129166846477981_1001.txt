@@ -89,8 +89,8 @@ I;카롤리스 이야기 2권;1;icon_item_collection_02green
 I;타다 만 일지를 적은 메모;1;icon_item_paperpiece
 I;파우스타스의 일기;1;icon_item_collection_04Black
 I;현대 마스터 총람 2권;1;icon_item_collection_01Red
-I;공간의 책;1;icon_item_collection_00Basic
 I;몬데롤 산의 여신의 처소 1권;1;icon_item_collection_03Blue
+I;공간의 책;1;icon_item_collection_00Basic
 I;세이지의 기준점;1;icon_item_collection_01Red
 G;Recipe
 I;제작서-x4 경험의 서;6;icon_item_recipe_misc1
@@ -480,7 +480,6 @@ I;프리머스 바스티클 건틀릿;1;icon_item_iorn_glove_1
 I;프리머스 제베넬리스 레더 글로브;1;icon_item_leather_glove_1
 I;베르타스 플라네타 팬츠;1;icon_item_baronwear_pants
 I;프리머스 바스티클 플레이트 팬츠;1;icon_item_iorn_pants_1
-I;프리머스 이렐리스 팬츠;1;icon_item_cloth_pants_1
 I;프리머스 제베넬리스 레더 팬츠;1;icon_item_leather_pants_1
 I;프리머스 즈바이더 실드;1;icon_item_shield_nicopolis1
 I;프리머스 바스티클 플레이트 아머;1;icon_item_iorn_shirt_1

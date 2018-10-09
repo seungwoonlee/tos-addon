@@ -33,23 +33,23 @@ I;클라페다 워프 주문서;13;GolemMagicItem1
 I;페디미안 워프 주문서;5;GolemMagicItem1
 I;포포리온 고기;11;icon_item_meat_02
 I;해독제;14;icon_item_Quest_00020
-I;LV14 경험치 카드;22;icon_item_expcard
 I;LV6 경험치 카드;14;icon_item_expcard
 I;LV7 경험치 카드;8;icon_item_expcard
 I;LV8 경험치 카드;4;icon_item_expcard
 I;레드 오브:검은 드레이크;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;13;GolemMagicItem1
 I;블루 오브:유코푸스;1;icon_item_Dreamshade
+I;LV14 경험치 카드;22;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
 I;스킬 주문서;5;GolemMagicItem1
 G;Book
+I;순례자의 쪽지;1;icon_item_Paper1
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;그을린 실마리;1;icon_item_PILGRIM_PIECE
 I;낡은 일기;1;icon_item_collection_04Black
 I;마지막 기록;1;icon_item_paperpiece
 I;버려진 일기장;1;icon_item_collection_00Basic
 I;부스러져가는 공문;1;icon_item_magicpaper
-I;순례자의 쪽지;1;icon_item_Paper1
 I;유언장;1;icon_item_Paper1
 I;찢어진 일기;1;icon_item_magicpaper
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
@@ -63,7 +63,7 @@ I;제작서-x8 경험의 서;1;icon_item_recipe_misc1
 I;제작서-레이드 포탈 스톤;2;icon_item_recipe_misc1
 G;Collection
 I;컬렉션:기원의 숲;1;icon_item_box
-I;컬렉션:긴다리 계곡;1;icon_item_box
+I;컬렉션:테브린 종유동 1구역;1;icon_item_box
 I;컬렉션:노브리어 숲;1;icon_item_box
 I;컬렉션:라다르 숲;1;icon_item_box
 I;컬렉션:스팔빈가스 숲;1;icon_item_box
@@ -73,7 +73,7 @@ I;컬렉션:알렘빅 동굴;1;icon_item_box
 I;컬렉션:에메트 숲;1;icon_item_box
 I;컬렉션:왕릉 건축자 예배당;1;icon_item_box
 I;컬렉션:유데이안 숲;1;icon_item_box
-I;컬렉션:테브린 종유동 1구역;1;icon_item_box
+I;컬렉션:긴다리 계곡;1;icon_item_box
 I;컬렉션:티메리스 사원;1;icon_item_box
 I;컬렉션:피스티스 숲;1;icon_item_box
 G;Premium
@@ -252,11 +252,11 @@ G;Quest
 I;가시숲의 계시;1;icon_item_stonetablet
 I;공간의 문장;1;icon_item_void_01
 I;공구박스;1;icon_item_Quest_00017
-I;광신도의 수정 목걸이;1;icon_item_blacknecklace
+I;미약한 영혼;2;icon_item_spirit_blue
 I;광신도의 수정 목걸이;1;icon_item_blacknecklace
 I;광신도의 수정 목걸이;1;icon_item_blacknecklace
 I;꼬질꼬질한 꾸러미;9;icon_item_small_bag
-I;단단한 나뭇조각;6;icon_item_wood_1
+I;광신도의 수정 목걸이;1;icon_item_blacknecklace
 I;독초;2;icon_item_grassbladeb
 I;둘케의 짐꾸러미;2;icon_item_sidebag
 I;레타스 개울가에서 주운 편지;1;icon_item_paper
@@ -264,7 +264,7 @@ I;루클리스 부대 인장;1;icon_item_Gem_Elemental17
 I;마력 감지 나침반;1;icon_item_compass
 I;마력 추적지도 : 테브린 종유동 1구역;1;GolemMagicItem1
 I;먼지묻은 유적지 파편;12;icon_item_stonepiece_01Yellow
-I;미약한 영혼;2;icon_item_spirit_blue
+I;단단한 나뭇조각;6;icon_item_wood_1
 I;수정광산의 계시;1;icon_item_stonetablet
 I;순례자의 표식;31;neck_pilgrim_01
 I;신비한 빛을 내는 결정;23;37_item_ore_sulfur

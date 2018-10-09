@@ -331,7 +331,6 @@ I;콜리멘시아 카드;Lv1;icon_item_card_def
 I;프로골라 카드;Lv1;icon_item_card_def
 I;플람미두스 카드;Lv1;icon_item_card_def
 I;회색 골렘 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
 I;가이갈라스 카드;Lv1;icon_item_card_util
 I;샐러맨더 카드;Lv1;icon_item_card_util
 I;네옵 카드;Lv1;icon_item_card_util

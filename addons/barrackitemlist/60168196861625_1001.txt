@@ -10,7 +10,7 @@ I;발래리요나스;1;icon_item_Valerijonas
 I;바루날레샤;12;icon_item_Varnalesa
 I;해독제;8;icon_item_Quest_00020
 I;매두스;12;icon_item_Medus
-I;HP포션;7;item_HP_oil_2
+I;HP포션;6;item_HP_oil_2
 I;오르샤 워프 주문서;11;GolemMagicItem1
 I;클라페다 워프 주문서;12;GolemMagicItem1
 I;딸기;15;icon_item_Strawberry
@@ -37,8 +37,6 @@ I;LV13 경험치 카드;7;icon_item_expcard
 I;LV6 경험치 카드;1;icon_item_expcard
 I;LV10 경험치 카드;1;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
-G;Event
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
@@ -67,41 +65,41 @@ I;리디아 샤펜과 럼펠스틸스킨;1;icon_item_collection_02green
 G;Recipe
 I;제작서-레이드 포탈 스톤;5;icon_item_recipe_misc1
 G;Collection
-I;콜렉션:벨라이 숲;1;icon_item_box
-I;콜렉션:아르커스 숲;1;icon_item_box
-I;콜렉션:지마 수코트;1;icon_item_box
-I;콜렉션:파마르 숲;1;icon_item_box
-I;콜렉션:티메리스 사원;1;icon_item_box
-I;콜렉션:에메트 숲;1;icon_item_box
-I;콜렉션:피스티스 숲;1;icon_item_box
-I;콜렉션:유데이안 숲;1;icon_item_box
-I;콜렉션:몰로게오 숲;1;icon_item_box
-I;콜렉션:실라 숲;1;icon_item_box
-I;콜렉션:테브린 종유동 5구역;1;icon_item_box
-I;콜렉션:지부리나스 숲;1;icon_item_box
-I;콜렉션:알렘빅 동굴;1;icon_item_box
-I;콜렉션:스팔빈가스 숲;1;icon_item_box
-I;콜렉션:테브린 종유동 3구역;1;icon_item_box
-I;콜렉션:쿨레 고개;1;icon_item_box
-I;콜렉션:테브린 종유동 1구역;1;icon_item_box
-I;콜렉션:라다르 숲;1;icon_item_box
-I;콜렉션:도심성벽 제 8구역;1;icon_item_box
-I;콜렉션:테브린 종유동 2구역;1;icon_item_box
-I;콜렉션:테브린 종유동 4구역;1;icon_item_box
-I;콜렉션:요나엘 기념구;1;icon_item_box
-I;콜렉션:기원의 숲;1;icon_item_box
-I;콜렉션:테넷 성당 지상 2층;1;icon_item_box
-I;콜렉션:마법사의 탑 2층;1;icon_item_box
-I;콜렉션:곤충 혐오;1;icon_item_box
-I;콜렉션:사크니스 벌판;1;icon_item_box
-I;콜렉션:포슬린키스 숲;1;icon_item_box
-I;콜렉션:왕릉 노역자 숙소;1;icon_item_box
-I;콜렉션:틸타스 협곡;1;icon_item_box
-I;콜렉션:파수꾼의 묘역;1;icon_item_box
-I;콜렉션:매너클 묘지;1;icon_item_box
-I;콜렉션:레타스 개울가;1;icon_item_box
-I;콜렉션:테넷 성당 지상 1층;1;icon_item_box
-I;콜렉션:초보자의 방어구;1;icon_item_box
+I;컬렉션:벨라이 숲;1;icon_item_box
+I;컬렉션:아르커스 숲;1;icon_item_box
+I;컬렉션:지마 수코트;1;icon_item_box
+I;컬렉션:파마르 숲;1;icon_item_box
+I;컬렉션:티메리스 사원;1;icon_item_box
+I;컬렉션:에메트 숲;1;icon_item_box
+I;컬렉션:피스티스 숲;1;icon_item_box
+I;컬렉션:유데이안 숲;1;icon_item_box
+I;컬렉션:몰로게오 숲;1;icon_item_box
+I;컬렉션:실라 숲;1;icon_item_box
+I;컬렉션:테브린 종유동 5구역;1;icon_item_box
+I;컬렉션:지부리나스 숲;1;icon_item_box
+I;컬렉션:알렘빅 동굴;1;icon_item_box
+I;컬렉션:스팔빈가스 숲;1;icon_item_box
+I;컬렉션:테브린 종유동 3구역;1;icon_item_box
+I;컬렉션:쿨레 고개;1;icon_item_box
+I;컬렉션:테브린 종유동 1구역;1;icon_item_box
+I;컬렉션:라다르 숲;1;icon_item_box
+I;컬렉션:도심성벽 제 8구역;1;icon_item_box
+I;컬렉션:테브린 종유동 2구역;1;icon_item_box
+I;컬렉션:테브린 종유동 4구역;1;icon_item_box
+I;컬렉션:요나엘 기념구;1;icon_item_box
+I;컬렉션:기원의 숲;1;icon_item_box
+I;컬렉션:테넷 성당 지상 2층;1;icon_item_box
+I;컬렉션:마법사의 탑 2층;1;icon_item_box
+I;컬렉션:곤충 혐오;1;icon_item_box
+I;컬렉션:사크니스 벌판;1;icon_item_box
+I;컬렉션:포슬린키스 숲;1;icon_item_box
+I;컬렉션:왕릉 노역자 숙소;1;icon_item_box
+I;컬렉션:틸타스 협곡;1;icon_item_box
+I;컬렉션:파수꾼의 묘역;1;icon_item_box
+I;컬렉션:매너클 묘지;1;icon_item_box
+I;컬렉션:레타스 개울가;1;icon_item_box
+I;컬렉션:테넷 성당 지상 1층;1;icon_item_box
+I;컬렉션:초보자의 방어구;1;icon_item_box
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium

@@ -40,15 +40,15 @@ I;제작서-x4 경험의 서;5;icon_item_recipe_misc1
 I;제작서-x8 경험의 서;3;icon_item_recipe_misc1
 I;제작서-레이드 포탈 스톤;11;icon_item_recipe_misc1
 G;Collection
-I;콜렉션:나하스 숲;1;icon_item_box
-I;콜렉션:내성곽지구;1;icon_item_box
-I;콜렉션:네토 숲;1;icon_item_box
-I;콜렉션:실라 숲;1;icon_item_box
-I;콜렉션:라다르 숲;1;icon_item_box
-I;콜렉션:스팔빈가스 숲;1;icon_item_box
-I;콜렉션:기원의 숲;1;icon_item_box
-I;콜렉션:지마 수코트;1;icon_item_box
-I;콜렉션:큰아귀 길;1;icon_item_box
+I;컬렉션:나하스 숲;1;icon_item_box
+I;컬렉션:내성곽지구;1;icon_item_box
+I;컬렉션:네토 숲;1;icon_item_box
+I;컬렉션:실라 숲;1;icon_item_box
+I;컬렉션:라다르 숲;1;icon_item_box
+I;컬렉션:스팔빈가스 숲;1;icon_item_box
+I;컬렉션:기원의 숲;1;icon_item_box
+I;컬렉션:지마 수코트;1;icon_item_box
+I;컬렉션:큰아귀 길;1;icon_item_box
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium

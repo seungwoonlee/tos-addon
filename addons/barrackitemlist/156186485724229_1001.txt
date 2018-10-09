@@ -3,7 +3,7 @@ G;Unused
 I;실버;100000;icon_item_silver
 G;Drug
 I;보급용 이동속도 증가 포션;9;item_speed_requid_1
-I;포포리온 고기;9;icon_item_meat_02
+I;포포리온 고기;15;icon_item_meat_02
 I;바루날레샤;2;icon_item_Varnalesa
 I;해독제;12;icon_item_Quest_00020
 I;복숭아;23;icon_item_Peach
@@ -16,7 +16,7 @@ I;오르샤 워프 주문서;3;GolemMagicItem1
 I;클라페다 워프 주문서;2;GolemMagicItem1
 I;보급용 레드옥스;8;icon_item_Red_Ox
 I;고농축 SP포션;5;item_SP_requid_3
-I;농축 SP포션 LV15;9;icon_item_SP_Alche
+I;농축 SP포션 LV15;10;icon_item_SP_Alche
 I;보급용 SP포션;12;item_SP_requid_2
 I;마이트 포션;1;item_speed_requid_1
 I;보급용 큰 HP포션;2;item_HP_oil_3
@@ -25,7 +25,7 @@ I;땅 속성 저항력 포션;1;icon_item_Seed_HR1
 I;케이스타스 용맹의 포션;2;icon_item_Drug_exATK1
 I;폭죽;20;icon_item_firework
 I;아말라스;1;icon_item_Amalas
-I;농축 HP포션 LV15;18;icon_item_HP_Alche
+I;농축 HP포션 LV15;20;icon_item_HP_Alche
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;케이스타스 회복포션Lv4;78;item_HPSP_potion_3
@@ -34,11 +34,12 @@ I;워시스;3;icon_item_Uosis
 I;긴급 수리 키트;2;icon_item_repairkit
 I;보급용 워프 주문서;2;GolemMagicItem1
 I;LV6 경험치 카드;1;icon_item_expcard
-I;LV14 경험치 카드;20;icon_item_expcard
+I;LV14 경험치 카드;25;icon_item_expcard
 I;스킬 주문서;50;GolemMagicItem1
 I;스킬 주문서;18;GolemMagicItem1
 I;디스펠러;10;icon_item_grimoire_blue
-I;인챈트탄;79;icon_item_panto_core
+I;스킬 주문서;18;GolemMagicItem1
+I;인챈트탄;57;icon_item_panto_core
 G;SubWeapon
 I;(바랜)스몰 크리스타라스;1;icon_item_dagger_cristal
 G;Book
@@ -62,24 +63,25 @@ I;남작 사병 차고스의 일지;1;icon_item_diary
 G;Recipe
 I;제작서-살타스 스태프;1;icon_item_weapon_misc3
 G;Collection
-I;콜렉션:틸라 수도원;1;icon_item_box
-I;콜렉션:테브린 종유동 1구역;1;icon_item_box
-I;콜렉션:스팔빈가스 숲;1;icon_item_box
-I;콜렉션:라다르 숲;1;icon_item_box
-I;콜렉션:실라 숲;1;icon_item_box
-I;콜렉션:엘고스 수도원 본원;1;icon_item_box
-I;콜렉션:알레멧 숲;1;icon_item_box
-I;콜렉션:갈르엣 평야;1;icon_item_box
-I;콜렉션:왕릉 노역자 숙소;1;icon_item_box
-I;콜렉션:왕릉 건축자 예배당;1;icon_item_box
-I;콜렉션:사크니스 벌판;1;icon_item_box
-I;콜렉션:드바시아 고개;1;icon_item_box
+I;컬렉션:틸라 수도원;1;icon_item_box
+I;컬렉션:테브린 종유동 1구역;1;icon_item_box
+I;컬렉션:스팔빈가스 숲;1;icon_item_box
+I;컬렉션:라다르 숲;1;icon_item_box
+I;컬렉션:실라 숲;1;icon_item_box
+I;컬렉션:엘고스 수도원 본원;1;icon_item_box
+I;컬렉션:알레멧 숲;1;icon_item_box
+I;컬렉션:갈르엣 평야;1;icon_item_box
+I;컬렉션:왕릉 노역자 숙소;1;icon_item_box
+I;컬렉션:왕릉 건축자 예배당;1;icon_item_box
+I;컬렉션:사크니스 벌판;1;icon_item_box
+I;컬렉션:드바시아 고개;1;icon_item_box
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
 G;Armor
 I;(바랜)옥시니스 부츠;1;icon_item_boots_Auksinis
+I;라파이 실드;1;icon_item_shield_lapai
 I;사이코키노 코스튬;1;icon_item_psychokinesist_f
 I;룬캐스터 코스튬;1;icon_item_mage_runecaster_f
 I;크리오맨서 코스튬;1;icon_item_kriomancer_f
@@ -88,15 +90,15 @@ G;Material
 I;모루;2;icon_item_anvil
 I;마력 흡수침;3;icon_item_spellneedle
 I;파이라이트;23;32_item_ore_pyrite
-I;룬 스톤;253;icon_item_rune_stone_board
-I;크리오라이트;296;39_icon_item_Cry8rite
+I;룬 스톤;246;icon_item_rune_stone_board
+I;크리오라이트;276;39_icon_item_Cry8rite
 I;빈 스펠북;10;icon_item_emptySpellBook
 I;인프로 락터의 껍질;3;icon_item_shell
 I;치넨시 잎;3;icon_item_bokchoyleaf
 I;포쿠부 가죽;9;icon_item_Misc_00011
 I;LV2 보물상자 열쇠;6;icon_item_key1
 I;츄파루카 털;6;icon_item_fur_05Gray
-I;츄파카브라 이빨;12;icon_item_tooth_white
+I;츄파카브라 이빨;14;icon_item_tooth_white
 I;츄파카브라 가죽;2;icon_item_Misc_00007
 I;부베족의 증표;46;icon_item_bubetoken
 I;록타눈 깃털;7;icon_item_feather_00Basic
@@ -228,7 +230,10 @@ I;낚시대;1;icon_item_fishingrod
 I;라우지누테의 껍질;2;icon_item_shell_red
 I;미끈한 수액;5;icon_item_Drug_51021
 I;트리굴 줄기;2;icon_item_stem_brown
+I;루나엔젤의 나팔;3;icon_item_misc_0511
+I;위버 더듬이;1;icon_item_feeler_black
 I;귀환석;1;MercenaryBadge
+I;특성 포인트 100;1;icon_item_abilitypoint3
 G;Quest
 I;수정광산의 계시;1;icon_item_stonetablet
 I;가시숲의 계시;1;icon_item_stonetablet
