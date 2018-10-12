@@ -6,7 +6,7 @@ I;라프세이프 버섯;4;icon_item_Pinemushroom
 I;발래리요나스;6;icon_item_Valerijonas
 I;라무넬레;3;icon_item_Ramunele
 I;보급용 작은 HP포션;31;item_HP_oil_1
-I;보급용 작은 SP포션;498;item_SP_requid_1
+I;보급용 작은 SP포션;497;item_SP_requid_1
 I;보급용 작은 스태미나 알약;25;item_STA_pill_1
 I;보급용 이동속도 증가 포션;3;item_speed_requid_1
 I;붉은 케파 조각;3;OnionPiece_Red
@@ -28,7 +28,6 @@ I;해독제;10;icon_item_Quest_00020
 I;이동속도 향상의 포션;3;item_speed_requid_1
 I;긴급 수리 키트;2;icon_item_repairkit
 I;농축 SP포션 LV15;30;icon_item_SP_Alche
-I;HP포션;3;item_HP_oil_2
 I;큰 HP포션;3;item_HP_oil_3
 I;큰 SP포션;5;item_SP_requid_3
 I;대형 HP포션;4;item_HP_oil_3
@@ -41,9 +40,6 @@ I;루팅 찬스: 100;2;item_icon_luckypotion_100
 I;케이스타스 회복포션Lv2;5;item_HPSP_potion_2
 I;케이트리스 수호의 포션;1;icon_item_Drug_DEF2
 I;케이스타스 회복포션Lv3;3;item_HPSP_potion_3
-I;파티 폭죽 (14일);1;icon_item_firework
-I;파티 폭죽 (14일);1;icon_item_firework
-I;파티 폭죽 (14일);1;icon_item_firework
 I;보급용 워프 주문서;16;GolemMagicItem1
 I;레드 오브:붉은 소켓 궁수;1;icon_item_Dreamshade_red
 I;LV14 경험치 카드;55;icon_item_expcard
@@ -67,13 +63,12 @@ I;아트만의 확장;1;icon_item_collection_03Blue
 I;버려진 일기장;1;icon_item_collection_00Basic
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 G;Recipe
-I;제작서-마시니오스 투 핸드 소드;1;icon_item_weapon_misc5
 I;제작서-미르티 브레이슬릿;6;icon_item_bracelet_misc4
 I;제작서-아키바 브레이슬릿;7;icon_item_bracelet_misc4
-I;제작서-레다스 네클리스;1;icon_item_necklace_misc3
 I;제작서-우프올 펄 브레이슬릿;11;icon_item_bracelet_misc4
 I;제작서-피크오 펄 브레이슬릿;4;icon_item_bracelet_misc4
 I;제작서-아크메이지 뱅글;2;icon_item_bracelet_misc4
+I;제작서-제메이 네클리스;2;icon_item_necklace_misc3
 I;제작서-x8 경험의 서;5;icon_item_recipe_misc1
 I;제작서-레이드 포탈 스톤;5;icon_item_recipe_misc1
 G;FishingRod
@@ -117,8 +112,6 @@ I;컬렉션:필그림 들길;1;icon_item_box
 I;컬렉션:기원의 숲;1;icon_item_box
 I;컬렉션:알레멧 숲;1;icon_item_box
 G;Armor
-I;아크메이지 뱅글;1;item_bracelet_12_blue
-I;머슈카리아 모자;1;hairacc_23_mushcariahat
 I;사이코키노 코스튬;1;icon_item_psychokinesist_f
 I;쏘마터지 코스튬;1;icon_item_thaumaturge_f
 I;음양사의 왕국의상 코스튬;1;icon_item_wizard_onmyoji02_f
@@ -126,10 +119,15 @@ I;음양사의 왕실예복 코스튬;1;icon_item_wizard_onmyoji04_f
 I;음양사의 가운 코스튬;1;icon_item_wizard_onmyoji01_f
 G;Material
 I;종이 인형;4740;icon_item_paperdoll
-I;마법 가루;35;icon_item_MagicPowder
 I;크리오라이트;1;39_icon_item_Cry8rite
 I;주석;4;1_item_ore_copper
 I;호박;17;22_item_ore_amber
+I;뉴클 가루;59;icon_item_breakpowder_1
+I;사파이어;1;39_icon_item_Cry8rite
+I;오팔;1;25_item_ore_opal
+I;이오니움;1;icon_item_crystal_yellow
+I;펠트레민;1;item_icon_pideingot
+I;피데슘;2;5_item_ore_fluorite
 I;이노움의 핵;15;icon_item_core_purple
 I;이노움의 파편;1;icon_item_Misc_00004
 I;쉬타임 파편;10;icon_item_Misc_00004
@@ -226,7 +224,6 @@ I;나무 말뚝;2;icon_item_wood_3
 I;묘지 골렘의 핵;13;icon_item_core_blue
 I;굵은 체인;1;icon_item_chain
 I;야크야크의 뿔;6;icon_item_misc_0517
-I;바를스키퍼의 검신;43;icon_item_misc_0513
 I;니므라랜서의 창;6;icon_item_misc_0509
 I;크레토의 깃털;7;icon_item_misc_0518
 I;푸른 콜리멘 꽃;1;icon_item_flower_colimen_blue
@@ -236,6 +233,7 @@ I;부어의 딱딱한 부리;10;icon_item_misc_0515
 I;누크의 질 좋은 가죽;6;icon_item_misc_0516
 I;나뭇가지;2;icon_item_branch_00Basic
 I;돌;1;icon_item_Misc_00004
+I;테라늄;2;36_item_ore_lapis_philosophorum
 I;루나엔젤의 나팔;1;icon_item_misc_0511
 I;차원 탐색 스크롤;1;GolemMagicItem1
 I;귀환석;1;MercenaryBadge

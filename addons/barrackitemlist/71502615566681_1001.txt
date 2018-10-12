@@ -1,14 +1,14 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;100001;icon_item_silver
 G;Drug
 I;100일 기념 포션;1;item_speed_requid_3
-I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
-I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
+I;HP 회복 소형 엘릭서 ;9;icon_item_HPelixir_Small
+I;SP 회복 소형 엘릭서 ;9;icon_item_SPelixir_Small
 I;고농축 이동속도 증가 포션;10;item_speed_requid_1
 I;농축 HP포션 LV10;33;icon_item_HP_Alche
-I;농축 HP포션 LV15;31;icon_item_HP_Alche
-I;농축 SP포션 LV15;45;icon_item_SP_Alche
+I;농축 HP포션 LV15;23;icon_item_HP_Alche
+I;농축 SP포션 LV15;30;icon_item_SP_Alche
 I;딸기;44;icon_item_Strawberry
 I;라프세이프 버섯;1;icon_item_Pinemushroom
 I;마법 공격력 포션;3;item_speed_requid_1
@@ -34,11 +34,10 @@ I;케이스타스 수호의 포션;2;icon_item_Drug_exDEF1
 I;큰 스태미나 알약;10;item_STA_pill_3
 I;클라페다 워프 주문서;11;GolemMagicItem1
 I;폭죽;35;icon_item_firework
+I;LV14 경험치 카드;18;icon_item_expcard
 I;레드 오브:트리암불로;1;icon_item_Dreamshade_red
-I;LV14 경험치 카드;15;icon_item_expcard
 I;스킬 주문서;17;GolemMagicItem1
 G;Book
-I;버려진 일기장;1;icon_item_collection_00Basic
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;그을린 실마리;1;icon_item_PILGRIM_PIECE
 I;낡은 일기;1;icon_item_collection_04Black
@@ -49,6 +48,7 @@ I;리디아 샤펜과 럼펠스틸스킨;1;icon_item_collection_02green
 I;리디아 샤펜과 플레쳐;1;icon_item_collection_00Basic
 I;리디아 샤펜의 교차선;1;icon_item_collection_04Black
 I;리디아 샤펜의 오늬;1;icon_item_collection_01Red
+I;버려진 일기장;1;icon_item_collection_00Basic
 I;베이키얼의 답장;1;icon_item_indulgence
 I;분노로 휘갈긴 일지;1;icon_item_magicpaper
 I;순례자의 쪽지;1;icon_item_Paper1
@@ -70,52 +70,51 @@ G;Recipe
 I;제작서-마가스 슈터;1;icon_item_weapon_misc4
 I;제작서-여신의 축복석;5;icon_item_recipe_misc1
 G;Collection
-I;콜렉션:기원의 숲;1;icon_item_box
-I;콜렉션:긴다리 계곡;1;icon_item_box
-I;콜렉션:네토 숲;1;icon_item_box
-I;콜렉션:노브리어 숲;1;icon_item_box
-I;콜렉션:도심성벽 제 8구역;1;icon_item_box
-I;콜렉션:라다르 숲;1;icon_item_box
-I;콜렉션:몰로게오 숲;1;icon_item_box
-I;콜렉션:스팔빈가스 숲;1;icon_item_box
-I;콜렉션:실라 숲;1;icon_item_box
-I;콜렉션:아르커스 숲;1;icon_item_box
-I;콜렉션:알렘빅 동굴;1;icon_item_box
-I;콜렉션:에메트 숲;1;icon_item_box
-I;콜렉션:왕릉 건축자 예배당;1;icon_item_box
-I;콜렉션:왕릉 노역자 숙소;1;icon_item_box
-I;콜렉션:요나엘 기념구;1;icon_item_box
-I;콜렉션:유데이안 숲;1;icon_item_box
-I;콜렉션:제로멜 공원;1;icon_item_box
-I;콜렉션:지마 수코트;1;icon_item_box
-I;콜렉션:쿨레 고개;1;icon_item_box
-I;콜렉션:타니엘 1세 기념구;1;icon_item_box
-I;콜렉션:테넷 성당 지상 1층;1;icon_item_box
-I;콜렉션:테브린 종유동 1구역;1;icon_item_box
-I;콜렉션:테브린 종유동 2구역;1;icon_item_box
-I;콜렉션:테브린 종유동 3구역;1;icon_item_box
-I;콜렉션:테브린 종유동 4구역;1;icon_item_box
-I;콜렉션:테브린 종유동 5구역;1;icon_item_box
-I;콜렉션:티메리스 사원;1;icon_item_box
-I;콜렉션:틸타스 협곡;1;icon_item_box
-I;콜렉션:파마르 숲;1;icon_item_box
-I;콜렉션:피스티스 숲;1;icon_item_box
+I;컬렉션:기원의 숲;1;icon_item_box
+I;컬렉션:긴다리 계곡;1;icon_item_box
+I;컬렉션:네토 숲;1;icon_item_box
+I;컬렉션:노브리어 숲;1;icon_item_box
+I;컬렉션:도심성벽 제 8구역;1;icon_item_box
+I;컬렉션:라다르 숲;1;icon_item_box
+I;컬렉션:몰로게오 숲;1;icon_item_box
+I;컬렉션:스팔빈가스 숲;1;icon_item_box
+I;컬렉션:실라 숲;1;icon_item_box
+I;컬렉션:아르커스 숲;1;icon_item_box
+I;컬렉션:알렘빅 동굴;1;icon_item_box
+I;컬렉션:에메트 숲;1;icon_item_box
+I;컬렉션:왕릉 건축자 예배당;1;icon_item_box
+I;컬렉션:왕릉 노역자 숙소;1;icon_item_box
+I;컬렉션:요나엘 기념구;1;icon_item_box
+I;컬렉션:유데이안 숲;1;icon_item_box
+I;컬렉션:제로멜 공원;1;icon_item_box
+I;컬렉션:지마 수코트;1;icon_item_box
+I;컬렉션:쿨레 고개;1;icon_item_box
+I;컬렉션:타니엘 1세 기념구;1;icon_item_box
+I;컬렉션:테넷 성당 지상 1층;1;icon_item_box
+I;컬렉션:테브린 종유동 1구역;1;icon_item_box
+I;컬렉션:테브린 종유동 2구역;1;icon_item_box
+I;컬렉션:테브린 종유동 3구역;1;icon_item_box
+I;컬렉션:테브린 종유동 4구역;1;icon_item_box
+I;컬렉션:테브린 종유동 5구역;1;icon_item_box
+I;컬렉션:티메리스 사원;1;icon_item_box
+I;컬렉션:틸타스 협곡;1;icon_item_box
+I;컬렉션:파마르 숲;1;icon_item_box
+I;컬렉션:피스티스 숲;1;icon_item_box
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Armor
-I;(바랜)워메이지 글로브;1;icon_item_warmage_gloves
-I;로그 코스튬;1;icon_item_rogue_f
 I;감정사 코스튬;1;icon_item_appraiser_f
+I;로그 코스튬;1;icon_item_rogue_f
 I;쿼렐슈터 코스튬;1;icon_item_quarrelshooter_f
 G;Material
 I;모루;10;icon_item_anvil
 I;황금 모루;3;icon_item_anvil_gold
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;크리오라이트;17;39_icon_item_Cry8rite
 I;돌 탄환;9;icon_item_Misc_00001
+I;크리오라이트;17;39_icon_item_Cry8rite
 I;파이라이트;47;32_item_ore_pyrite
 I;주석;1;1_item_ore_copper
 I;LV2 보물상자 열쇠;4;icon_item_key1
@@ -285,21 +284,21 @@ I;귀환석;1;MercenaryBadge
 G;Quest
 I;가시숲의 계시;1;icon_item_stonetablet
 I;공간의 문장;1;icon_item_void_01
-I;빛나는 이끼;5;icon_item_fur_02Green
-I;순례자의 표식;30;neck_pilgrim_01
+I;끈적이는 체액;8;item_HPSP_potion_2
+I;단서 메모;1;icon_item_diary
 I;대성당의 계시;1;icon_item_stonetablet
 I;데메트리우스의 연구 기록;1;icon_item_collection_04Black
-I;끈적이는 체액;8;item_HPSP_potion_2
-I;마력 억제 수정 파편;1;icon_item_orb_1
-I;단서 메모;1;icon_item_diary
-I;마법사의 탑의 계시;1;icon_item_stonetablet
-I;마력 추적지도 : 테브린 종유동 1구역;1;GolemMagicItem1
 I;로그 마스터의 주머니;1;icon_item_farm47_sack_01
+I;마력 억제 수정 파편;1;icon_item_orb_1
+I;마력 추적지도 : 테브린 종유동 1구역;1;GolemMagicItem1
+I;마법사의 탑의 계시;1;icon_item_stonetablet
+I;빛나는 이끼;5;icon_item_fur_02Green
+I;섀퍼 마스터가 준 주머니;1;icon_item_small_bag
 I;석화 융해제;1;icon_item_SoulStone_60031
 I;세이지 마스터의 편지;1;icon_item_loveletter
 I;세이지 마스터의 편지;1;icon_item_loveletter
 I;수정광산의 계시;1;icon_item_stonetablet
-I;섀퍼 마스터가 준 주머니;1;icon_item_small_bag
+I;순례자의 표식;30;neck_pilgrim_01
 I;아이트바라스의 기록;1;icon_item_diary
 I;액상 융해제;1;icon_item_oli2
 I;어두운 결정;8;icon_item_orb2
@@ -313,6 +312,6 @@ I;칼레이마스 감옥의 계시;1;icon_item_stonetablet
 I;테넷 성당의 계시;1;icon_item_stonetablet
 I;펜듈럼;1;icon_item_pendulum
 I;푸른 원혼;1;icon_item_core_04Blue
+I;트라시움 조각;13;icon_item_gimmick_scaredcrystal
 G;Weapon
 I;베르타스 즈바이더 머스킷;1;icon_item_mus_nicopolis1
-I;프리머스 라파이 머스킷;1;icon_item_rifle_lapai

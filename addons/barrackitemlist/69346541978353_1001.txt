@@ -21,10 +21,10 @@ I;스태미나 알약;1;item_STA_pill_2
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;케이스타스 HP포션 Lv2;5;item_HP_oil_2
 I;이동속도 향상의 포션;2;item_speed_requid_1
-I;농축 HP포션 LV15;38;icon_item_HP_Alche
+I;농축 HP포션 LV15;37;icon_item_HP_Alche
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;라무넬레;4;icon_item_Ramunele
-I;농축 SP포션 LV15;9;icon_item_SP_Alche
+I;농축 SP포션 LV15;6;icon_item_SP_Alche
 I;블루 오브:붉은 케파;1;icon_item_Dreamshade
 I;레드 오브:붉은 케파;1;icon_item_Dreamshade_red
 I;블루 오브:푸른 티니 궁수;1;icon_item_Dreamshade
@@ -33,7 +33,6 @@ I;LV13 경험치 카드;4;icon_item_expcard
 I;레드 오브:붉은 슬라임;1;icon_item_Dreamshade_red
 I;LV14 경험치 카드;22;icon_item_expcard
 I;LV10 경험치 카드;1;icon_item_expcard
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
 I;스킬 주문서;9;GolemMagicItem1
 I;종이상자;1;icon_item_paperbox
 G;SubWeapon
@@ -234,7 +233,6 @@ I;신나바르;16;35_item_ore_phlogiston
 I;LV3 보물상자 열쇠;1;icon_item_key2
 I;주술인형의 핵;6;icon_item_core_red
 I;검은 주술인형의 핵;8;icon_item_core_yellow
-I;크로뉴트의 뼈;12;icon_item_bone
 I;지그너츠 줄기;6;icon_item_zignuts
 I;멘티우드의 껍질;5;icon_item_shell_purple
 I;케포 껍질;17;icon_item_onionpiece

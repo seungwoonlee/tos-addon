@@ -1,33 +1,32 @@
 S;1001
 G;Unused
-I;실버;96800;icon_item_silver
+I;실버;100000;icon_item_silver
 G;PasteBait
 I;작은 은빛 물고기;1;icon_item_fish4
 G;Drug
 I;리사이클 메달;48;icon_item_recyclemedal
-I;HP 회복 소형 엘릭서 ;1;icon_item_HPelixir_Small
-I;HP 회복의 엘릭서 [이벤트];10;icon_item_HPelixir
+I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;SP 회복의 엘릭서 [이벤트];10;icon_item_SPelixir
+I;고농축 HP포션;1;item_HP_oil_3
 I;고농축 SP포션;50;item_SP_requid_3
 I;고농축 이동속도 증가 포션;10;item_speed_requid_1
 I;공기 정화 수정;1;14_item_ithildin
 I;광역 공격 비율 증가 포션 LV15;1;item_speed_requid_1
-I;농축 HP포션 LV15;17;icon_item_HP_Alche
-I;농축 SP포션 LV15;6;icon_item_SP_Alche
+I;농축 HP포션 LV15;25;icon_item_HP_Alche
+I;농축 SP포션 LV15;21;icon_item_SP_Alche
 I;농축 이동속도 증가 포션 LV15;2;item_speed_requid_1
 I;농축 이동속도 향상의 포션;2;item_speed_requid_1
 I;대왕 꿀송편;1;icon_item_Largehoney_Songpyeon
-I;딜겔레;14;icon_item_Dilgele
+I;딜겔레;16;icon_item_Dilgele
 I;딸기;6;icon_item_Strawberry
 I;라무넬레;2;icon_item_Ramunele
 I;레드옥스;2;icon_item_Red_Ox
 I;루팅 찬스 증가 포션;4;icon_item_looting_potion_01
 I;루팅 찬스: 100;8;item_icon_luckypotion_100
+I;루팅 찬스: 300;2;item_icon_luckypotion_300
 I;마이트 포션;1;item_speed_requid_1
 I;매두스;41;icon_item_Medus
-I;바루날레샤;9;icon_item_Varnalesa
-I;붉은 케파 조각;3;OnionPiece_Red
+I;바루날레샤;8;icon_item_Varnalesa
 I;빻은 수정가루;1;icon_item_powderw
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
@@ -51,7 +50,7 @@ I;트린이날 폭죽;1;icon_item_firework
 I;페디미안 워프 주문서;9;GolemMagicItem1
 I;포포리온 고기;3;icon_item_meat_02
 I;해독제;5;icon_item_Quest_00020
-I;LV14 경험치 카드;44;icon_item_expcard
+I;LV14 경험치 카드;112;icon_item_expcard
 I;동전 투호;1;icon_1710_thanksgiving_target
 I;레드 오브:메다키아;1;icon_item_Dreamshade_red
 I;레드 오브:베스퍼;1;icon_item_Dreamshade_red
@@ -88,7 +87,6 @@ I;종이상자;1;icon_item_paperbox
 I;클라페다 카프리콘즈 응원 슬로건;1;icon_item_aretfact_victory_purple
 I;푸드 커버;1;icon_item_artefact_Dome_Cover
 I;호박 등불;1;icon_item_artefact_pumkin_lamp
-I;몬스터 카드첩 : 블루;1;icon_item_blue_cardbook
 G;Collection
 I;컬렉션:글라데 언덕길;1;icon_item_box
 I;컬렉션:기원의 숲;1;icon_item_box
@@ -551,6 +549,7 @@ I;제작서-턴 플레이트 그리브;1;icon_item_boots_misc3
 I;제작서-턴 플레이트 레깅스;1;icon_item_pants_misc3
 I;제작서-턴 플레이트 아머;1;icon_item_shirts_misc3
 I;제작서-테넷 체인 메일;6;icon_item_shirts_misc3
+I;제작서-테넷 체인 팬츠;2;icon_item_pants_misc3
 I;제작서-틸라 로브;1;icon_item_shirts_misc3
 I;제작서-틸라 부츠;1;icon_item_boots_misc3
 I;제작서-틸라 팬츠;1;icon_item_pants_misc3
@@ -656,13 +655,10 @@ I;쑥송편 헬멧 코스튬;1;icon_item_helmet_songpyun2
 I;어항 헬멧 코스튬;1;icon_item_helmet_fishbowl
 I;잭오랜턴 헬멧;1;icon_item_pumkin_helmet
 G;Premium
-I;[PC방] 해금권 선택 상자;1;icon_item_pc_unlock_box
 I;[PC방] 헤어 1회 50% 할인권;1;icon_item_HairCoupon_50_pc
-I;[PC방] 헤어 1회 무료 이용권;1;icon_item_HairCoupon_100_pc
 I;경험의 서 상자 (4개);1;icon_item_Premium_boostToken_Box_A
 I;경험의 서 상자 (4개);1;icon_item_Premium_boostToken_Box_A
 I;고급 물약 상자;1;Icon_Item_Box_SP_HP
-I;고급 행운 상자;1;item_icon_luckybox_B
 I;긴급 수리 키트;5;icon_item_repairkit
 I;랭크 초기화권;1;icon_item_rankreset_paper
 I;리사이클 메달 상자 A급;1;Icon_Item_Recycle_Shop_Medal_Box_A
@@ -678,7 +674,7 @@ I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스탯 초기화 포션;1;icon_item_statReset
 I;어사 흑단령 선택 상자;1;icon_item_Inspector03_Box
-I;워프 주문서;86;icon_item_warpPremium
+I;워프 주문서;85;icon_item_warpPremium
 I;워프 주문서 10개 상자;1;icon_item_warpPremium_bundle
 I;인스턴스 던전 배수 토큰;1;icon_item_indunexmode
 I;인스턴스 던전 소탕권 (1성);1;icon_item_induntheend
@@ -790,10 +786,11 @@ I;분해의 망치;32;icon_item_farm47_wood_hammer
 I;기슬로티스;16;icon_item_Gyslotis
 I;칼사이트;11;14_item_ithildin
 I;크리오라이트;16;39_icon_item_Cry8rite
-I;파이라이트;102;32_item_ore_pyrite
+I;파이라이트;48;32_item_ore_pyrite
 I;도마뱀 호박;1;23_item_ore_amber_lizard
 I;압시듐 광석;16;8_item_ore_platinum
 I;주석;7;1_item_ore_copper
+I;토파즈;3;24_item_ore_topaz
 I;호박;50;22_item_ore_amber
 I;LV2 보물상자 열쇠;4;icon_item_key1
 I;각성 가루;41;icon_item_wakepowder
@@ -817,7 +814,7 @@ I;그루머 잎;1;icon_item_leaves_green
 I;글리자돈의 뼈;6;icon_item_bone
 I;글리자돈의 심장;2;item_icon_heart_purple
 I;글리퀘어의 핵;4;icon_item_core_yellow
-I;금괴;2;icon_item_goldbar_s
+I;금괴;1;icon_item_goldbar_s
 I;나무 말뚝;5;icon_item_wood_3
 I;나뭇가지;2;icon_item_branch_00Basic
 I;낚시대;21;icon_item_fishingrod
@@ -834,9 +831,9 @@ I;도도새 컴패니언 교환권;4;icon_item_indulgence
 I;도요르 잎다발;1;icon_item_doyorleaf
 I;돌;9;icon_item_Misc_00004
 I;드레이크 고기;4;icon_item_meat_02
-I;드레이크의 피막;2;icon_item_batwing
+I;드레이크의 피막;1;icon_item_batwing
 I;떡갈나무;15;icon_item_wood_1
-I;라플라워 뿌리;33;icon_item_onionroot
+I;라플라워 뿌리;32;icon_item_onionroot
 I;라플렛 꽃;7;icon_item_raffletflfower
 I;락터의 껍질;4;icon_item_shell_green
 I;램베어 뼈;27;icon_item_bone
@@ -913,7 +910,7 @@ I;사막 츄파카브라 가죽;2;icon_item_Misc_00008
 I;사막 츄파카브라 고기;13;icon_item_meat_01
 I;사우가의 동력기관;7;icon_item_gele_gear_02
 I;사우가의 핵;11;icon_item_core_yellow
-I;사크몰리 줄기;31;icon_item_stem_gray
+I;사크몰리 줄기;32;icon_item_stem_gray
 I;삼나무;9;icon_item_wood_4
 I;샤울렘 가면;22;icon_item_mask_siaulago
 I;샤울렘 털잎;2;icon_item_leaves_yellow
@@ -921,14 +918,14 @@ I;소나무;8;icon_item_wood_3
 I;소켓의 껍질;29;icon_item_shell_blue
 I;소켓의 뿔;8;icon_item_pantohorn
 I;송진;9;37_item_ore_sulfur
-I;수은;28;38_item_ore_mercury
+I;수은;27;38_item_ore_mercury
 I;수정거미 더듬이;14;icon_item_feeler_blue
 I;수정거미 수정;2;icon_item_Crystal_00005
 I;쉬레디드의 천조각;13;icon_item_clothpiece_red
 I;쉬타임 파편;37;icon_item_Misc_00004
 I;스타울리트 심장;5;item_icon_heart_red
 I;스톤오르카의 핵;46;icon_item_core_yellow
-I;시드 오일;2;icon_item_holywater_empty
+I;시드 오일;1;icon_item_holywater_empty
 I;시스트 가시;2;icon_item_thorn_green
 I;시체의 손;70;icon_item_misc_spector_gh
 I;식칼;34;icon_item_knife01
@@ -939,15 +936,15 @@ I;아르마의 뿔;3;icon_item_shorthorn
 I;아모리 판금;13;icon_item_ironbar03_s
 I;아슈롱 줄기;7;icon_item_stem_gray
 I;아클라스 날개;3;icon_item_batwing
-I;아클라스의 가면;7;icon_item_mask_pendinmire
-I;아클라스의 갑옷조각;4;icon_item_FORMINE_ARMOR_SCAPULAR
+I;아클라스의 가면;8;icon_item_mask_pendinmire
+I;아클라스의 갑옷조각;5;icon_item_FORMINE_ARMOR_SCAPULAR
 I;악취나는 줄기;36;icon_item_stem_bassmell
 I;암몬 등뼈;15;icon_item_bone
-I;어둠 결정 파편;15;icon_item_darkCrystal_piece
-I;얼음 조각;2;12_item_silver
+I;어둠 결정 파편;14;icon_item_darkCrystal_piece
+I;얼음 조각;1;12_item_silver
 I;얼타눈 깃털;10;icon_item_feather_03Green
 I;에큐바이트 더듬이;3;icon_item_feeler_purple
-I;에큐바이트 수정;2;icon_item_Crystal_00005
+I;에큐바이트 수정;1;icon_item_Crystal_00005
 I;에테나늄 Lv1;1;KQ_recipe_hethran_material_1_4
 I;에하드의 핵;33;icon_item_core_yellow
 I;엘로마고 잎;7;icon_item_leaves_blue
@@ -959,9 +956,10 @@ I;요노움의 핵;36;icon_item_core_purple
 I;우펜트의 껍질;19;icon_item_Misc_00015
 I;웬디고 이빨;14;icon_item_tooth_white
 I;위버 더듬이;14;icon_item_feeler_black
+I;유니콘의 뼈;2;icon_item_bone
 I;유리 조각;9;icon_item_pieceofglass
 I;유코테일 꼬리;8;icon_item_tail_jukotail
-I;유코푸스 잎;64;icon_item_leaves_blue
+I;유코푸스 잎;68;icon_item_leaves_blue
 I;유황;3;37_item_ore_sulfur
 I;은괴;6;icon_item_ironbar_s
 I;이끼;4;icon_item_grassbladeg
@@ -977,7 +975,7 @@ I;장작;8;icon_item_woodpiece
 I;정련 주괴;1;icon_item_ironbar01_s
 I;제페토 잎;2;icon_item_leaves_green
 I;제페토의 줄기;22;icon_item_stem_brown
-I;족쇄;19;icon_item_legiron
+I;족쇄;18;icon_item_legiron
 I;졸렘의 핵;7;icon_item_core_yellow
 I;주술인형의 솜;1;icon_item_cotton
 I;주술인형의 핵;4;icon_item_core_red
@@ -1021,7 +1019,7 @@ I;카로 잎사귀;4;icon_item_leaves_green
 I;카타콤 잎방개의 껍질;5;icon_item_shell_purple
 I;케놀 수정;3;icon_item_Crystal_00005
 I;케파 날개;16;icon_item_batwing
-I;케파 줄기;80;icon_item_stem_green
+I;케파 줄기;86;icon_item_stem_green
 I;케포 껍질;8;icon_item_onionpiece
 I;케포 솜털;26;icon_item_cotton
 I;코도모르 가시;1;icon_item_thorn_blue
@@ -1032,12 +1030,13 @@ I;콜리플라워의 줄기;13;icon_item_stem_brown
 I;쿠게리 솜털;1;icon_item_fur_00White
 I;쿠게리 심바니의 모자장식;1;icon_item_misc04_104
 I;쿠게리의 천조각;4;icon_item_clothpiece_white
-I;크로뉴트의 뼈;2;icon_item_bone
+I;크로뉴트의 뼈;1;icon_item_bone
 I;크로마독 뼈;23;icon_item_bone
 I;크루마보 잎;19;icon_item_leaves_green
 I;타마 잎;74;icon_item_leaves_red
 I;타마의 껍질;1;icon_item_tamashell
 I;탈라 궁수의 부러진 화살;1;icon_item_small_bag
+I;테라늄;2;36_item_ore_lapis_philosophorum
 I;테라임프 장식;1;icon_item_horn_tiny_blue
 I;톤투리아의 가시;19;icon_item_thorn_Yellow
 I;투스리콘 날개;1;icon_item_batwing
@@ -1063,7 +1062,6 @@ I;푸른 라프세이프 이빨;4;icon_item_tooth_blue
 I;푸른 레푸스버니의 뼈;17;icon_item_bone
 I;푸른 리디메드 줄기;7;icon_item_stem_gray
 I;푸른 비토우 날개;6;icon_item_batwing
-I;푸른 수염;1;icon_item_beard_blue
 I;푸른 수호 거미 다리;15;icon_item_leg_defenderSpider_blue
 I;푸른 스피온 가죽;4;icon_item_Misc_00007
 I;푸른 엘렛의 마스크;8;icon_item_mask_elet_blue
@@ -1085,13 +1083,12 @@ I;피노의 줄기;2;icon_item_stem_brown
 I;피라콘 잎;41;icon_item_leaves_red
 I;피렌트 꽃;43;icon_item_firentflower
 I;하나밍 꽃잎;4;icon_item_HanamingPetal
-I;하나밍 아로마;1;icon_item_CalmIncense
 I;하루갈 가죽;5;icon_item_Misc_00009
 I;하루갈 뼈;25;icon_item_bone
 I;하밍 잎;7;icon_item_leaves_green
 I;하얀 스피온 털;6;icon_item_fur_spion_white
 I;하얀 웬디고 활대;71;icon_item_bow_wendigo_white
-I;하얀 점액;2;38_item_ore_mercury
+I;하얀 점액;1;38_item_ore_mercury
 I;하얀 체인;14;icon_item_chain
 I;하이 부베족의 증표;16;icon_item_bubetoken
 I;할로우벤터의 사념체;7;icon_item_spirit_purple
@@ -1113,9 +1110,11 @@ I;공간의 문장;1;icon_item_void_01
 I;대지의 요새의 계시;1;icon_item_stonetablet
 I;데메트리우스의 연구 기록;1;icon_item_collection_04Black
 I;레티아리이 훈련 확인 구슬;1;icon_item_orb_1
+I;마력 제어 주문서;1;GolemMagicItem2
 I;마력 추적지도 : 살비야스 숲;1;GolemMagicItem1
 I;반짝이는 붉은 조각;1;icon_item_Gem_Stone_STR
 I;반짝이는 푸른 조각;2;icon_item_Gem_Stone_INT
+I;별의 탑의 계시;1;icon_item_stonetablet
 I;불타는 결정;1;icon_item_spirit_red
 I;붉은 원혼;10;icon_item_core_00Red
 I;수도사가 준 메모지;1;icon_item_paper
@@ -1142,8 +1141,6 @@ I;치킨 푸들 헤드(여);1;icon_item_helmet_poodle_f
 I;케파 헤드(여);1;icon_item_helmet_kepa_f
 I;포포리온 헤드(여);1;icon_item_helmet_popolion_f
 I;하나밍 헤드(여);1;icon_item_helmet_hanaming_f
-I;라이타스 부츠;1;icon_item_9rank_cloth_01_boots
-I;라이타스 글로브;1;icon_item_9rank_cloth_01_glove
 I;룬 팬던트;1;item_necklace_10
 I;애니무스;1;item_necklace_07
 I;케파 팬던트;1;item_necklace_10
@@ -1153,8 +1150,6 @@ I;브레이슬릿 오브 린네;1;item_bracelet_18
 I;브레이슬릿 오브 린네;1;item_bracelet_18
 I;샤펜의 팔찌 조각;1;item_bracelet_02_3
 I;샤펜의 팔찌 조각;1;item_bracelet_02_3
-I;위저드 브레이슬릿;1;item_bracelet_15
-I;위저드 브레이슬릿;1;item_bracelet_15
 I;강아지 풍선;1;icon_item_dogballoon
 I;강철 투구;1;hairacc_35_helm3
 I;검은 깃털 장식;1;icon_item_hat90
@@ -1220,8 +1215,10 @@ I;머슈카리아 모자;1;hairacc_23_mushcariahat
 I;머슈카리아 모자;1;hairacc_23_mushcariahat
 I;메르겐 모자;1;hairacc_89_mergenhat
 I;묘족두식;1;hairacc_wuguBand
+I;묘족두식;1;hairacc_wuguBand
 I;물빛 장미뿔;1;icon_item_bluerosehorn
 I;물빛 조개장식;1;icon_item_skyblue_shell
+I;민트초코컵케이크;1;hairacc_86_cupcake1
 I;민트초코컵케이크;1;hairacc_86_cupcake1
 I;민트초코컵케이크;1;hairacc_86_cupcake1
 I;민트초코컵케이크;1;hairacc_86_cupcake1
@@ -1264,6 +1261,7 @@ I;잭오랜턴 헤어장식;1;Hat_jackolantern
 I;잭오랜턴 헤어장식;1;Hat_jackolantern
 I;제식모;1;hairacc_4_traincaptaincap
 I;족두리;1;hairacc_82_jokdoori
+I;종이배;1;icon_item_papership
 I;종이배;1;icon_item_papership
 I;종이배;1;icon_item_papership
 I;주술사 가면;1;hairacc_60_shamanmask

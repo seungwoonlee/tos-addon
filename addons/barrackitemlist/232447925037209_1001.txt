@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;100001;icon_item_silver
 G;Helmet
 I;잭오랜턴 헬멧;1;icon_item_pumkin_helmet
 G;SubWeapon
@@ -238,7 +238,6 @@ I;로모르 잎;18;icon_item_leaves_green
 I;허밍버드의 날개;9;icon_item_bugwing
 I;사크몰리 줄기;19;icon_item_stem_gray
 I;츄파루카 털;7;icon_item_fur_05Gray
-I;페이그 헝겊;2;icon_item_clothpiece_brown
 I;리자드맨 뼈;17;icon_item_bone
 I;루바보스 가죽;5;icon_item_Misc_00010
 I;글리프링 파편;24;icon_item_Misc_00006
@@ -270,7 +269,6 @@ I;레무리아 가죽;1;icon_item_fur_06Brown
 I;붉은 빅 그리바 갓;2;icon_item_mushroomcap
 I;코카트리스 가죽;1;icon_item_Misc_00012
 I;주황 샤울라브 가면;6;icon_item_mask_pendinmire
-I;크로뉴트의 뼈;5;icon_item_bone
 I;메다키아의 뿔;2;pokubu_horn
 I;도요르 잎다발;2;icon_item_doyorleaf
 I;단단한 껍질;23;icon_item_shell_yellow
@@ -364,7 +362,7 @@ I;쿠게리 발저의 꽃바구니;64;icon_item_misc04_99
 I;체이퍼러의 날개;1;icon_item_bugwing
 I;푸른 라프세이프 이빨;2;icon_item_tooth_blue
 I;고사루의 뼈;2;icon_item_bone
-I;노란 리프넛의 꼬리;70;icon_item_misc04_64
+I;노란 리프넛의 꼬리;73;icon_item_misc04_64
 I;쿠게리 심바니의 검;43;icon_item_misc04_103
 I;노란 리프넛 날개;1;icon_item_batwing
 I;노란 페이그 클램퍼의 천조각;13;icon_item_clothpiece_brown
@@ -396,9 +394,9 @@ I;초록 차로그의 뿔;66;icon_item_misc04_93
 I;주황 그루머의 더듬이;55;icon_item_misc04_90
 I;쿠게리 자비의 탈;52;icon_item_misc04_106
 I;초록 차콜워커의 뿔;2;icon_item_misc04_95
-I;나부의 온전한 꼬리;53;icon_item_misc04_63
+I;나부의 온전한 꼬리;56;icon_item_misc04_63
 I;노란 카로의 더듬이;52;icon_item_misc04_68
-I;모닝버드의 꼬리;39;icon_item_misc04_73
+I;모닝버드의 꼬리;42;icon_item_misc04_73
 I;쿠게리 누마니의 방울;1;icon_item_misc04_97
 I;찢어진 책장;1;icon_item_paperpiece
 I;마른 흙;1;icon_item_Misc_00004
@@ -490,4 +488,5 @@ I;종이상자;1;icon_item_paperbox
 I;예식용 칼;1;icon_item_artefact_Decorative_knife
 I;몬스터 카드첩 : 그린;7;icon_item_green_cardbook
 I;몬스터 카드첩 : 블랙;1;icon_item_curse_cardbook
-I;몬스터 카드첩 : 블루;1;icon_item_blue_cardbook
+I;몬스터 카드첩 : 블루;3;icon_item_blue_cardbook
+I;몬스터 카드첩 : 레드;1;icon_item_red_cardbook
