@@ -17,7 +17,7 @@ I;농축 SP포션 LV15;21;icon_item_SP_Alche
 I;농축 이동속도 증가 포션 LV15;2;item_speed_requid_1
 I;농축 이동속도 향상의 포션;2;item_speed_requid_1
 I;대왕 꿀송편;1;icon_item_Largehoney_Songpyeon
-I;딜겔레;16;icon_item_Dilgele
+I;딜겔레;110;icon_item_Dilgele
 I;딸기;6;icon_item_Strawberry
 I;라무넬레;2;icon_item_Ramunele
 I;레드옥스;2;icon_item_Red_Ox
@@ -36,7 +36,7 @@ I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;오르샤 워프 주문서;10;GolemMagicItem1
-I;워시스;1;icon_item_Uosis
+I;워시스;19;icon_item_Uosis
 I;웨딩 케이크;3;icon_item_weddingcake
 I;정착 지원 포션 Lv2;29;item_speed_requid_3
 I;축복이 깃든 씨앗;25;icon_item_event161215_01
@@ -50,6 +50,7 @@ I;트린이날 폭죽;1;icon_item_firework
 I;페디미안 워프 주문서;9;GolemMagicItem1
 I;포포리온 고기;3;icon_item_meat_02
 I;해독제;5;icon_item_Quest_00020
+I;라오도넬리스;18;icon_item_Raudonelis
 I;LV14 경험치 카드;112;icon_item_expcard
 I;동전 투호;1;icon_1710_thanksgiving_target
 I;레드 오브:메다키아;1;icon_item_Dreamshade_red
@@ -88,42 +89,42 @@ I;클라페다 카프리콘즈 응원 슬로건;1;icon_item_aretfact_victory_pur
 I;푸드 커버;1;icon_item_artefact_Dome_Cover
 I;호박 등불;1;icon_item_artefact_pumkin_lamp
 G;Collection
-I;컬렉션:글라데 언덕길;1;icon_item_box
-I;컬렉션:기원의 숲;1;icon_item_box
-I;컬렉션:긴다리 계곡;1;icon_item_box
-I;컬렉션:나하스 숲;1;icon_item_box
-I;컬렉션:내성곽지구;1;icon_item_box
-I;컬렉션:네토 숲;1;icon_item_box
-I;컬렉션:네프리타스 벼랑;1;icon_item_box
-I;컬렉션:다이나 양봉지;1;icon_item_box
-I;컬렉션:대왕의 관문;1;icon_item_box
-I;컬렉션:덧댄다리 숲;1;icon_item_box
-I;컬렉션:딩고파실;1;icon_item_box
-I;컬렉션:록소나 장터;1;icon_item_box
-I;컬렉션:록소나 재건단 서관;1;icon_item_box
-I;컬렉션:마법사의 탑 2층;1;icon_item_box
-I;컬렉션:마법사의 탑 5층;1;icon_item_box
-I;컬렉션:마족수감소 1구역;1;icon_item_box
-I;컬렉션:모크슬 묘실;1;icon_item_box
-I;컬렉션:베야 골짜기;1;icon_item_box
-I;컬렉션:빌티스 숲;1;icon_item_box
-I;컬렉션:셉티니 골;1;icon_item_box
-I;컬렉션:스라우타스 협곡;1;icon_item_box
-I;컬렉션:시르드겔라 숲;1;icon_item_box
-I;컬렉션:아샤크 지하감옥 2층;1;icon_item_box
-I;컬렉션:아크멘스 능선;1;icon_item_box
-I;컬렉션:알레멧 숲;1;icon_item_box
-I;컬렉션:연안요새;1;icon_item_box
-I;컬렉션:왕릉 5층;1;icon_item_box
-I;컬렉션:우키스 경작지;1;icon_item_box
-I;컬렉션:이국 사랑;1;icon_item_box
-I;컬렉션:이브레 고원;1;icon_item_box
-I;컬렉션:중심시가;1;icon_item_box
-I;컬렉션:테넷 성당 지하 1층;1;icon_item_box
-I;컬렉션:테넷 화원;1;icon_item_box
-I;컬렉션:파수꾼의 묘역;1;icon_item_box
-I;컬렉션:페디미안 외곽;1;icon_item_box
-I;컬렉션:폴쳔이란 무엇인가;1;icon_item_box
+I;컬렉션: 글라데 언덕길;1;icon_item_box
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 긴다리 계곡;1;icon_item_box
+I;컬렉션: 나하스 숲;1;icon_item_box
+I;컬렉션: 내성곽지구;1;icon_item_box
+I;컬렉션: 네토 숲;1;icon_item_box
+I;컬렉션: 네프리타스 벼랑;1;icon_item_box
+I;컬렉션: 다이나 양봉지;1;icon_item_box
+I;컬렉션: 대왕의 관문;1;icon_item_box
+I;컬렉션: 덧댄다리 숲;1;icon_item_box
+I;컬렉션: 딩고파실;1;icon_item_box
+I;컬렉션: 록소나 장터;1;icon_item_box
+I;컬렉션: 록소나 재건단 서관;1;icon_item_box
+I;컬렉션: 마법사의 탑 2층;1;icon_item_box
+I;컬렉션: 마법사의 탑 5층;1;icon_item_box
+I;컬렉션: 마족수감소 1구역;1;icon_item_box
+I;컬렉션: 모크슬 묘실;1;icon_item_box
+I;컬렉션: 베야 골짜기;1;icon_item_box
+I;컬렉션: 빌티스 숲;1;icon_item_box
+I;컬렉션: 셉티니 골;1;icon_item_box
+I;컬렉션: 스라우타스 협곡;1;icon_item_box
+I;컬렉션: 시르드겔라 숲;1;icon_item_box
+I;컬렉션: 아샤크 지하감옥 2층;1;icon_item_box
+I;컬렉션: 아크멘스 능선;1;icon_item_box
+I;컬렉션: 알레멧 숲;1;icon_item_box
+I;컬렉션: 연안요새;1;icon_item_box
+I;컬렉션: 왕릉 5층;1;icon_item_box
+I;컬렉션: 우키스 경작지;1;icon_item_box
+I;컬렉션: 이국 사랑;1;icon_item_box
+I;컬렉션: 이브레 고원;1;icon_item_box
+I;컬렉션: 중심시가;1;icon_item_box
+I;컬렉션: 테넷 성당 지하 1층;1;icon_item_box
+I;컬렉션: 테넷 화원;1;icon_item_box
+I;컬렉션: 파수꾼의 묘역;1;icon_item_box
+I;컬렉션: 페디미안 외곽;1;icon_item_box
+I;컬렉션: 폴쳔이란 무엇인가;1;icon_item_box
 G;Event
 I;특성 포인트 1,000;3;icon_item_abilitypoint
 I;특성 포인트 100;40;icon_item_abilitypoint3
@@ -431,7 +432,7 @@ I;제작서-라이브러리안 팬츠;3;icon_item_pants_misc1
 I;제작서-라이온 헤드 실드;4;icon_item_shirts_misc4
 I;제작서-라이트 플레이트 레깅스;4;icon_item_pants_misc3
 I;제작서-라이트 플레이트 아머;2;icon_item_shirts_misc3
-I;제작서-레드 베리스 글로브;5;icon_item_gloves_misc3
+I;제작서-레드 베리스 글로브;6;icon_item_gloves_misc3
 I;제작서-로얄 가드 건틀릿;9;icon_item_gloves_misc1
 I;제작서-로얄 가드 그리브;7;icon_item_boots_misc1
 I;제작서-로얄 가드 팬츠;11;icon_item_pants_misc1
@@ -679,11 +680,6 @@ I;워프 주문서 10개 상자;1;icon_item_warpPremium_bundle
 I;인스턴스 던전 배수 토큰;1;icon_item_indunexmode
 I;인스턴스 던전 소탕권 (1성);1;icon_item_induntheend
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
 I;전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
 I;전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
@@ -733,6 +729,7 @@ I;행운 상자;1;item_icon_luckybox_C
 I;헤어 액세서리 선택 상자: 블루 앵커;1;icon_item_acc_hair_box1
 I;확성기;106;icon_item_Mike
 I;확성기 50개 상자;1;icon_item_Mike_bundle
+I;[PC방] 염색 1회 50% 할인권;1;icon_item_DyeCoupon_50_pc
 I;마법 부여 스크롤;7;icon_item_enchantScroll
 I;빛나는 은빛 모루;2;icon_item_anvil_silver
 I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f
@@ -1141,7 +1138,6 @@ I;치킨 푸들 헤드(여);1;icon_item_helmet_poodle_f
 I;케파 헤드(여);1;icon_item_helmet_kepa_f
 I;포포리온 헤드(여);1;icon_item_helmet_popolion_f
 I;하나밍 헤드(여);1;icon_item_helmet_hanaming_f
-I;룬 팬던트;1;item_necklace_10
 I;애니무스;1;item_necklace_07
 I;케파 팬던트;1;item_necklace_10
 I;탈리스만;1;item_necklace_19
@@ -1240,6 +1236,7 @@ I;블랙 체커;1;icon_item_Black_checker
 I;새싹;1;hairacc_61_sprout
 I;새싹;1;hairacc_61_sprout
 I;새싹;1;hairacc_61_sprout
+I;새싹;1;hairacc_61_sprout
 I;세일러 베레모;1;icon_item_accessory_papermarincap
 I;스파르타 투구;1;icon_item_red_long_helmet
 I;스페이드 군관 모자;1;hairacc_hat_trump_war
@@ -1277,6 +1274,8 @@ I;케파 인형;1;hairacc_48_cepadoll
 I;케파 인형;1;hairacc_48_cepadoll
 I;케파 인형;1;hairacc_48_cepadoll
 I;케파 인형;1;hairacc_48_cepadoll
+I;케파 인형;1;hairacc_48_cepadoll
+I;케파 인형;1;hairacc_48_cepadoll
 I;퀸체스말 모자;1;icon_item_KingCrown
 I;크리스마스 고깔 모자;1;christmascornhat
 I;큰 사자탈;1;hairacc_38_lionmask2
@@ -1284,6 +1283,7 @@ I;태양;1;icon_item_sun_acc
 I;태엽;1;icon_item_Spring
 I;태엽;1;icon_item_Spring
 I;토끼모양 컵케잌;1;christmasarcher
+I;파인애플;1;hairacc_75_pineapple
 I;파인애플;1;hairacc_75_pineapple
 I;포포리온 인형;1;accessory_hat_poporion
 I;푸딩;1;hairacc_80_fez
