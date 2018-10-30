@@ -5,7 +5,7 @@ G;Drug
 I;클라페다 워프 주문서;10;GolemMagicItem1
 I;오르샤 워프 주문서;3;GolemMagicItem1
 I;바루날레샤;2;icon_item_Varnalesa
-I;농축 HP포션 LV15;7;icon_item_HP_Alche
+I;농축 HP포션 LV15;1;icon_item_HP_Alche
 I;라프세이프 버섯;7;icon_item_Pinemushroom
 I;포포리온 고기;29;icon_item_meat_02
 I;붉은 케파 조각;3;OnionPiece_Red
@@ -16,17 +16,16 @@ I;케이스타스 수호의 포션;9;icon_item_Drug_exDEF1
 I;케이스타스 용맹의 포션;9;icon_item_Drug_exATK1
 I;보급용 농축 HP포션 LV15;20;item_HP_oil_3
 I;고농축 HP포션;20;item_HP_oil_3
-I;케이스타스 회복포션Lv4;12;item_HPSP_potion_3
-I;HP 회복 소형 엘릭서 ;9;icon_item_HPelixir_Small
+I;케이스타스 회복포션Lv4;10;item_HPSP_potion_3
+I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;보급용 작은 SP포션;45;item_SP_requid_1
 I;보급용 작은 HP포션;5;item_HP_oil_1
-I;농축 SP포션 LV15;8;icon_item_SP_Alche
 I;레드옥스;2;icon_item_Red_Ox
 I;레드 오브:코릴러스;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;24;GolemMagicItem1
 I;레드 오브:갈색 스타울리트 궁수;1;icon_item_Dreamshade_red
-I;LV14 경험치 카드;18;icon_item_expcard
+I;LV14 경험치 카드;20;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
@@ -37,62 +36,60 @@ I;찢어진 일기의 일부 1;1;icon_item_paperpiece
 G;Recipe
 I;제작서-x8 경험의 서;2;icon_item_recipe_misc1
 G;Collection
-I;컬렉션:노바하 공회소;1;icon_item_box
-I;컬렉션:쇠락한 르귄가문의 저택;1;icon_item_box
-I;컬렉션:네프리타스 벼랑;1;icon_item_box
-I;컬렉션:테넷 화원;1;icon_item_box
-I;컬렉션:수정광산 1층;1;icon_item_box
-I;컬렉션:테넷 성당 지상 2층;1;icon_item_box
-I;컬렉션:테넷 성당 지상 1층;1;icon_item_box
-I;컬렉션:크니도스 숲;1;icon_item_box
-I;컬렉션:샤울레이 서쪽 숲;1;icon_item_box
-I;컬렉션:노바하 별관;1;icon_item_box
-I;컬렉션:샤울레이 동쪽 숲;1;icon_item_box
-I;컬렉션:필그림 들길;1;icon_item_box
-I;컬렉션:테넷 성당 지하 1층;1;icon_item_box
-I;컬렉션:겔리 고원;1;icon_item_box
-I;컬렉션:수정광산 2층;1;icon_item_box
-I;컬렉션:렘파라사 연못;1;icon_item_box
-I;컬렉션:수정광산 3층;1;icon_item_box
-I;컬렉션:다단 숲;1;icon_item_box
-I;컬렉션:스라우타스 협곡;1;icon_item_box
-I;컬렉션:코루 숲;1;icon_item_box
-I;계시록 : 대립편 컬렉션;1;icon_item_holyark
-I;컬렉션:큰아귀 길;1;icon_item_box
-I;컬렉션:베야 골짜기;1;icon_item_box
-I;컬렉션:라우키메 저습지;1;icon_item_box
-I;컬렉션:다이나 양봉지;1;icon_item_box
-I;컬렉션:셉티니 골;1;icon_item_box
-I;컬렉션:틸라 수도원;1;icon_item_box
-I;컬렉션:자카리엘 교차로;1;icon_item_box
-I;컬렉션:비에타 계곡;1;icon_item_box
-I;컬렉션:모크슬 묘실;1;icon_item_box
-I;컬렉션:봄볕나무 숲;1;icon_item_box
-I;컬렉션:빌나 숲;1;icon_item_box
-I;컬렉션:글라데 언덕길;1;icon_item_box
-I;컬렉션:마법사의 탑 1층;1;icon_item_box
-I;컬렉션:코발트 숲;1;icon_item_box
-I;컬렉션:우키스 경작지;1;icon_item_box
-I;컬렉션:록소나 재건단 서관;1;icon_item_box
-I;컬렉션:베르크티 광장;1;icon_item_box
-I;컬렉션:루클리스 거리;1;icon_item_box
-I;컬렉션:제단로;1;icon_item_box
-I;컬렉션:기원의 숲;1;icon_item_box
-I;컬렉션:라다르 숲;1;icon_item_box
-I;컬렉션:실라 숲;1;icon_item_box
-I;컬렉션:스팔빈가스 숲;1;icon_item_box
-I;컬렉션:초보자의 방어구;1;icon_item_box
-I;컬렉션:덧댄다리 숲;1;icon_item_box
-I;컬렉션:초보자의 무기;1;icon_item_box
-I;컬렉션:그리나스 숲길;1;icon_item_box
-I;컬렉션:노브리어 숲;1;icon_item_box
+I;컬렉션: 노바하 공회소;1;icon_item_box
+I;컬렉션: 쇠락한 르귄가문의 저택;1;icon_item_box
+I;컬렉션: 네프리타스 벼랑;1;icon_item_box
+I;컬렉션: 테넷 화원;1;icon_item_box
+I;컬렉션: 수정광산 1층;1;icon_item_box
+I;컬렉션: 테넷 성당 지상 2층;1;icon_item_box
+I;컬렉션: 테넷 성당 지상 1층;1;icon_item_box
+I;컬렉션: 크니도스 숲;1;icon_item_box
+I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
+I;컬렉션: 노바하 별관;1;icon_item_box
+I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
+I;컬렉션: 필그림 들길;1;icon_item_box
+I;컬렉션: 테넷 성당 지하 1층;1;icon_item_box
+I;컬렉션: 겔리 고원;1;icon_item_box
+I;컬렉션: 수정광산 2층;1;icon_item_box
+I;컬렉션: 렘파라사 연못;1;icon_item_box
+I;컬렉션: 수정광산 3층;1;icon_item_box
+I;컬렉션: 다단 숲;1;icon_item_box
+I;컬렉션: 스라우타스 협곡;1;icon_item_box
+I;컬렉션: 코루 숲;1;icon_item_box
+I;계시록: 대립편 컬렉션;1;icon_item_holyark
+I;컬렉션: 큰아귀 길;1;icon_item_box
+I;컬렉션: 베야 골짜기;1;icon_item_box
+I;컬렉션: 라우키메 저습지;1;icon_item_box
+I;컬렉션: 다이나 양봉지;1;icon_item_box
+I;컬렉션: 셉티니 골;1;icon_item_box
+I;컬렉션: 틸라 수도원;1;icon_item_box
+I;컬렉션: 자카리엘 교차로;1;icon_item_box
+I;컬렉션: 비에타 계곡;1;icon_item_box
+I;컬렉션: 모크슬 묘실;1;icon_item_box
+I;컬렉션: 봄볕나무 숲;1;icon_item_box
+I;컬렉션: 빌나 숲;1;icon_item_box
+I;컬렉션: 글라데 언덕길;1;icon_item_box
+I;컬렉션: 마법사의 탑 1층;1;icon_item_box
+I;컬렉션: 코발트 숲;1;icon_item_box
+I;컬렉션: 우키스 경작지;1;icon_item_box
+I;컬렉션: 록소나 재건단 서관;1;icon_item_box
+I;컬렉션: 베르크티 광장;1;icon_item_box
+I;컬렉션: 루클리스 거리;1;icon_item_box
+I;컬렉션: 제단로;1;icon_item_box
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 라다르 숲;1;icon_item_box
+I;컬렉션: 실라 숲;1;icon_item_box
+I;컬렉션: 스팔빈가스 숲;1;icon_item_box
+I;컬렉션: 초보자의 방어구;1;icon_item_box
+I;컬렉션: 덧댄다리 숲;1;icon_item_box
+I;컬렉션: 초보자의 무기;1;icon_item_box
+I;컬렉션: 그리나스 숲길;1;icon_item_box
+I;컬렉션: 노브리어 숲;1;icon_item_box
+G;Cube
+I;수수께끼 큐브;1;icon_item_cube4
 G;Premium
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;확성기;15;icon_item_Mike
 I;전사용 스쿨룩 코스튬(여);1;icon_item_warrior_school_f
 I;전사용 세일러복 코스튬(여);1;icon_item_warrior_schoolsalor_f
@@ -108,6 +105,7 @@ I;하이랜더 코스튬;1;icon_item_highlander_f
 I;시노비 코스튬;1;icon_item_shinobi_f
 G;Material
 I;모루;20;icon_item_anvil
+I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;크리오라이트;2;39_icon_item_Cry8rite
 I;파이라이트;3;32_item_ore_pyrite
 I;인법용 폭약;176;icon_item_shinobibomb
@@ -276,5 +274,8 @@ I;사악한 마력이 담긴 핵;10;icon_item_core_06Black
 I;펜듈럼;1;icon_item_pendulum
 I;단서 메모;1;icon_item_diary
 I;마력 추적지도 : 살비야스 숲;1;GolemMagicItem1
+I;트라시움 조각;13;icon_item_gimmick_scaredcrystal
 G;Weapon
-I;베르타스 즈바이더 투 핸드 소드;1;icon_item_thsword_nicopolis1
+I;마시니오스 투 핸드 소드;1;icon_item_sword_twohand_masinos
+I;사크미스;1;icon_item_sword_noroi_TH
+I;프리머스 즈바이더 투 핸드 소드;1;icon_item_thsword_nicopolis1

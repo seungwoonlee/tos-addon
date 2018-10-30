@@ -39,9 +39,9 @@ I;제작서-샤인 브레이슬릿;1;icon_item_bracelet_misc3
 I;제작서-컨트롤 뱅글;1;icon_item_bracelet_misc3
 I;제작서-x4 경험의 서;1;icon_item_recipe_misc1
 G;Collection
-I;콜렉션:겔리 고원;1;icon_item_box
-I;콜렉션:네프리타스 벼랑;1;icon_item_box
-I;콜렉션:왕릉 건축자 예배당;1;icon_item_box
+I;컬렉션: 겔리 고원;1;icon_item_box
+I;컬렉션: 네프리타스 벼랑;1;icon_item_box
+I;컬렉션: 왕릉 건축자 예배당;1;icon_item_box
 G;Premium
 I;x4 경험의 서;1;icon_item_expbookx4
 I;x8 경험의 서;1;icon_item_expbookx8

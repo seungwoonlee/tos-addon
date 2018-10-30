@@ -1,13 +1,11 @@
 S;1001
 G;Unused
-I;실버;1335832;icon_item_silver
+I;실버;12744645;icon_item_silver
 G;SubWeapon
 I;핫팩;1;icon_item_hotpack
 G;Collection
-I;컬렉션:마법사의 탑 2층;1;icon_item_box
-I;컬렉션:마법사의 탑 3층;1;icon_item_box
-I;컬렉션:마법사의 탑 4층;1;icon_item_box
-I;컬렉션:비에타 계곡;1;icon_item_box
+I;컬렉션: 마법사의 탑 2층;1;icon_item_box
+I;컬렉션: 비에타 계곡;1;icon_item_box
 G;PasteBait
 I;작은 은빛 물고기;8;icon_item_fish4
 I;지렁이;541;icon_item_Paste_Bait_basic
@@ -16,9 +14,7 @@ I;송편 헬멧 코스튬;1;icon_item_helmet_songpyun
 I;쑥송편 헬멧 코스튬;1;icon_item_helmet_songpyun2
 G;Armor
 I;브리간딘 팬츠;1;icon_item_pants_brigan
-I;이스턴 레더 팬츠;1;icon_item_eastengarden_pants
 I;라이트 로네사 뱅글;1;item_bracelet_15
-I;머슈카리아 모자;1;hairacc_23_mushcariahat
 I;푸른 해군 선원모;1;hairacc_hat015
 I;큰 흰꽃 머리장식;1;hairacc_hat071
 I;마타도르 벨라니멀 코스튬;1;icon_item_warrior_matador03_f
@@ -29,7 +25,8 @@ I;커세어 코스튬;1;icon_item_corsair_f
 I;펜서 코스튬;1;icon_item_fencer_f
 I;사심이 담긴 상소문;1;icon_item_wing_scroll2
 G;Event
-I;특성 포인트 1,000;9;icon_item_abilitypoint
+I;특성 포인트 500;1;icon_item_abilitypoint2
+I;특성 포인트 1,000;10;icon_item_abilitypoint
 I;강화 실버 할인 쿠폰 : 10만 실버;4;icon_item_reinforce_100000coupon
 I;연하장;1;icon_item_event_invitation2
 G;Book
@@ -106,9 +103,6 @@ I;케이스타스 수호의 포션;1;icon_item_Drug_exDEF1
 I;케이스타스 용맹의 포션;3;icon_item_Drug_exATK1
 I;케이스타스 회복포션Lv4;101;item_HPSP_potion_3
 I;클라페다 워프 주문서;11;GolemMagicItem1
-I;파티 폭죽 (14일);1;icon_item_firework
-I;파티 폭죽 (14일);1;icon_item_firework
-I;파티 폭죽 (14일);1;icon_item_firework
 I;포포리온 고기;9;icon_item_meat_02
 I;폭죽;34;icon_item_firework
 I;LV3 경험치 카드;3;icon_item_expcard
@@ -117,18 +111,10 @@ I;보급용 워프 주문서;16;GolemMagicItem1
 I;블루 오브:벨레그;1;icon_item_Dreamshade
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
 I;은빛 물고기;90;icon_item_fish2
-I;칭호 - OTP는 0원 보안은 영원;1;icon_item_holyark
 I;TOS 플래카드;1;icon_item_artefact_Ticket_TOS
-I;예식용 칼;1;icon_item_artefact_Decorative_knife
 I;푸드 커버;1;icon_item_artefact_Dome_Cover
 I;눈 덮인 몬스터 카드첩;1;icon_item_Chrismas_Card
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
 G;Card
 I;벨니아몽키 카드;Lv10;icon_item_card_atk
 I;벨니아몽키 카드;Lv6;icon_item_card_atk
@@ -146,10 +132,7 @@ I;애쉬 블론드 염색약;1;haircolor_blond
 I;워프 주문서;28;icon_item_warpPremium
 I;워프 주문서 10개 상자;3;icon_item_warpPremium_bundle
 I;윈터펭 알;1;icon_item_egg_winterpeng
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
-I;인스턴스 던전 배수 토큰;2;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰;4;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -159,18 +142,10 @@ I;확성기;51;icon_item_Mike
 I;확성기 50개 상자;1;icon_item_Mike_bundle
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;프리미엄 각성석;2;icon_item_awakeningstone
-I;2018 나무나무 코스튬(남);1;icon_item_event_2018_arbor_m
-I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f
+I;마법 부여 스크롤(거래불가);1;icon_item_enchantScroll
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
-I;상어 해적단 코스튬(여);1;icon_item_cosair03_f
-I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
-I;하급 용병 코스튬(여);1;icon_item_lowtactic01_f
 G;Material
 I;모루;28;icon_item_anvil
-I;은빛 모루(14일);1;icon_item_anvil_silver
-I;은빛 모루(14일);1;icon_item_anvil_silver
-I;황금 모루(14일);1;icon_item_anvil_gold
-I;황금 모루(14일);1;icon_item_anvil_gold
 I;크리오라이트;3;39_icon_item_Cry8rite
 I;파이라이트;6;32_item_ore_pyrite
 I;아틸로늄;21;18_item_plantite
@@ -192,7 +167,7 @@ I;노란 요노움의 핵;1;icon_item_core_yellow
 I;노란 폴리부의 가죽;1;icon_item_Misc_00010
 I;누덕고치의 껍질;1;icon_item_shell_blue
 I;단델의 날개;3;icon_item_batwing
-I;데스모두스 이빨;22;icon_item_tooth_yellow
+I;데스모두스 이빨;21;icon_item_tooth_yellow
 I;드레이크 고기;3;icon_item_meat_02
 I;떡갈나무;1;icon_item_wood_1
 I;러블렘 파편;1;icon_item_Misc_00006
@@ -211,7 +186,7 @@ I;멜리치 껍질;1;icon_item_shell_yellow
 I;묘지 골렘의 핵;3;icon_item_core_blue
 I;물푸레나무;17;icon_item_wood_2
 I;미끈한 수액;1;icon_item_Drug_51021
-I;미니번 가죽;6;icon_item_Misc_00007
+I;미니번 가죽;5;icon_item_Misc_00007
 I;바브 더듬이;1;icon_item_feeler_black
 I;박쥐의 날개;20;icon_item_batwing
 I;밴시의 사념체;3;icon_item_spirit_orange
@@ -232,7 +207,7 @@ I;스타울리트 심장;1;item_icon_heart_red
 I;스톤오르카의 핵;7;icon_item_core_yellow
 I;시스트 가시;1;icon_item_thorn_green
 I;식칼;4;icon_item_knife01
-I;신나바르;12;35_item_ore_phlogiston
+I;신나바르;11;35_item_ore_phlogiston
 I;씨드미아 씨앗;7;icon_item_seed_brown
 I;에큐바이트 더듬이;8;icon_item_feeler_purple
 I;에하드의 핵;1;icon_item_core_yellow
@@ -241,7 +216,7 @@ I;요노움의 핵;8;icon_item_core_purple
 I;웬디고 송곳니;1;icon_item_tooth_white
 I;웬디고 이빨;1;icon_item_tooth_white
 I;위버 더듬이;9;icon_item_feeler_black
-I;유리 조각;12;icon_item_pieceofglass
+I;유리 조각;11;icon_item_pieceofglass
 I;유코푸스 잎;18;icon_item_leaves_blue
 I;유황;1;37_item_ore_sulfur
 I;이노움의 핵;2;icon_item_core_purple

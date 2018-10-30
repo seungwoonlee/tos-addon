@@ -1,10 +1,11 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;103700;icon_item_silver
 G;PasteBait
-I;작은 은빛 물고기;1;icon_item_fish4
+I;작은 은빛 물고기;4;icon_item_fish4
+I;문어;81;icon_item_octopus
 G;Drug
-I;리사이클 메달;48;icon_item_recyclemedal
+I;리사이클 메달;288;icon_item_recyclemedal
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;고농축 HP포션;1;item_HP_oil_3
@@ -20,6 +21,7 @@ I;대왕 꿀송편;1;icon_item_Largehoney_Songpyeon
 I;딜겔레;110;icon_item_Dilgele
 I;딸기;6;icon_item_Strawberry
 I;라무넬레;2;icon_item_Ramunele
+I;라오도넬리스;18;icon_item_Raudonelis
 I;레드옥스;2;icon_item_Red_Ox
 I;루팅 찬스 증가 포션;4;icon_item_looting_potion_01
 I;루팅 찬스: 100;8;item_icon_luckypotion_100
@@ -36,7 +38,7 @@ I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;오르샤 워프 주문서;10;GolemMagicItem1
-I;워시스;19;icon_item_Uosis
+I;워시스;22;icon_item_Uosis
 I;웨딩 케이크;3;icon_item_weddingcake
 I;정착 지원 포션 Lv2;29;item_speed_requid_3
 I;축복이 깃든 씨앗;25;icon_item_event161215_01
@@ -50,7 +52,6 @@ I;트린이날 폭죽;1;icon_item_firework
 I;페디미안 워프 주문서;9;GolemMagicItem1
 I;포포리온 고기;3;icon_item_meat_02
 I;해독제;5;icon_item_Quest_00020
-I;라오도넬리스;18;icon_item_Raudonelis
 I;LV14 경험치 카드;112;icon_item_expcard
 I;동전 투호;1;icon_1710_thanksgiving_target
 I;레드 오브:메다키아;1;icon_item_Dreamshade_red
@@ -127,8 +128,8 @@ I;컬렉션: 페디미안 외곽;1;icon_item_box
 I;컬렉션: 폴쳔이란 무엇인가;1;icon_item_box
 G;Event
 I;특성 포인트 1,000;3;icon_item_abilitypoint
-I;특성 포인트 100;40;icon_item_abilitypoint3
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
+I;특성 포인트 100;44;icon_item_abilitypoint3
+I;특성 포인트 500;1;icon_item_abilitypoint2
 I;연하장;1;icon_item_event_invitation2
 G;Book
 I;겨울의 부싯돌;1;icon_item_collection_00Basic
@@ -304,7 +305,6 @@ I;제작서-슈페리어 리치 보우;1;icon_item_weapon_misc1
 I;제작서-슈페리어 망고슈;1;icon_item_weapon_misc1
 I;제작서-슈페리어 부라와;1;icon_item_weapon_misc1
 I;제작서-슈페리어 아스트로 스태프;1;icon_item_weapon_misc1
-I;제작서-슈페리어 추라;1;icon_item_weapon_misc1
 I;제작서-슈페리어 캐논;1;icon_item_weapon_misc1
 I;제작서-슈페리어 코페론 소드;1;icon_item_weapon_misc1
 I;제작서-슈페리어 크랙드 슈터;1;icon_item_weapon_misc1
@@ -436,7 +436,6 @@ I;제작서-레드 베리스 글로브;6;icon_item_gloves_misc3
 I;제작서-로얄 가드 건틀릿;9;icon_item_gloves_misc1
 I;제작서-로얄 가드 그리브;7;icon_item_boots_misc1
 I;제작서-로얄 가드 팬츠;11;icon_item_pants_misc1
-I;제작서-로얄 메이지 글로브;1;icon_item_gloves_misc1
 I;제작서-로얄 메이지 로브;6;icon_item_shirts_misc1
 I;제작서-로얄 메이지 부츠;2;icon_item_boots_misc1
 I;제작서-로얄 메이지 팬츠;8;icon_item_pants_misc1
@@ -495,11 +494,10 @@ I;제작서-슈페리어 로얄 가드 건틀릿;5;icon_item_gloves_misc1
 I;제작서-슈페리어 로얄 가드 그리브;5;icon_item_boots_misc1
 I;제작서-슈페리어 로얄 가드 아머;5;icon_item_shirts_misc1
 I;제작서-슈페리어 로얄 가드 팬츠;10;icon_item_pants_misc1
-I;제작서-슈페리어 로얄 메이지 글로브;2;icon_item_gloves_misc1
+I;제작서-슈페리어 로얄 메이지 글로브;1;icon_item_gloves_misc1
 I;제작서-슈페리어 로얄 메이지 로브;2;icon_item_shirts_misc1
 I;제작서-슈페리어 로얄 메이지 팬츠;3;icon_item_pants_misc1
 I;제작서-슈페리어 밴딧 글로브;2;icon_item_gloves_misc1
-I;제작서-슈페리어 밴딧 부츠;1;icon_item_boots_misc1
 I;제작서-슈페리어 밴딧 아머;1;icon_item_shirts_misc1
 I;제작서-슈페리어 스커미셔 글로브;1;icon_item_gloves_misc1
 I;제작서-슈페리어 스커미셔 부츠;1;icon_item_boots_misc1
@@ -656,6 +654,7 @@ I;쑥송편 헬멧 코스튬;1;icon_item_helmet_songpyun2
 I;어항 헬멧 코스튬;1;icon_item_helmet_fishbowl
 I;잭오랜턴 헬멧;1;icon_item_pumkin_helmet
 G;Premium
+I;[PC방] 해금권 선택 상자;1;icon_item_pc_unlock_box
 I;[PC방] 헤어 1회 50% 할인권;1;icon_item_HairCoupon_50_pc
 I;경험의 서 상자 (4개);1;icon_item_Premium_boostToken_Box_A
 I;경험의 서 상자 (4개);1;icon_item_Premium_boostToken_Box_A
@@ -729,11 +728,13 @@ I;행운 상자;1;item_icon_luckybox_C
 I;헤어 액세서리 선택 상자: 블루 앵커;1;icon_item_acc_hair_box1
 I;확성기;106;icon_item_Mike
 I;확성기 50개 상자;1;icon_item_Mike_bundle
-I;[PC방] 염색 1회 50% 할인권;1;icon_item_DyeCoupon_50_pc
+I;스파이더 웹 코스튬 선택 상자;1;icon_item_Halloween_box03
+I;경험의 서;1;icon_item_boostertoken
 I;마법 부여 스크롤;7;icon_item_enchantScroll
 I;빛나는 은빛 모루;2;icon_item_anvil_silver
 I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
+I;검정 불량 서클 교복 코스튬(여);1;icon_item_badschooluniform_black_f
 I;그리타 코스튬;1;icon_item_mage_grita_f
 I;동물 인형 코스튬;1;icon_item_poporion_body_f
 I;레드 메이드 코스튬(여);1;icon_item_maiduniform_red_f
@@ -774,11 +775,10 @@ I;퓨어 화이트 간호사 코스튬(여);1;icon_item_nurse03_f
 I;프릴 장식 페어리 코스튬(여);1;icon_item_flowercostume04_f
 I;하급 용병 코스튬(여);1;icon_item_lowtactic01_f
 I;한가위 한복 코스튬(여);1;icon_item_hanbok02_f
+I;스파이더 웹 코스튬(여);1;icon_item_HalloweenBat_Unifom_f
 G;Material
 I;모루;11;icon_item_anvil
-I;황금 모루(14일);1;icon_item_anvil_gold
-I;황금 모루(14일);1;icon_item_anvil_gold
-I;마력 흡수침;32;icon_item_spellneedle
+I;마력 흡수침;35;icon_item_spellneedle
 I;분해의 망치;32;icon_item_farm47_wood_hammer
 I;기슬로티스;16;icon_item_Gyslotis
 I;칼사이트;11;14_item_ithildin
@@ -795,7 +795,7 @@ I;갈고리;6;icon_item_claw_01
 I;갈록 가죽;1;icon_item_Misc_00007
 I;갈색 라프세이프 잎;21;icon_item_leaves_lapasape_brown
 I;갈색 램베어 뼈;4;icon_item_bone
-I;갈색 스타울리트 투구 파편;8;icon_item_helm_stoulet
+I;갈색 스타울리트 투구 파편;9;icon_item_helm_stoulet
 I;갈색 콜리멘 꽃;16;icon_item_flower_colimen_brown
 I;갈색 티니의 뼈;48;icon_item_bone
 I;갈색 티니의 뿔;8;icon_item_horn_tiny_brown
@@ -818,11 +818,11 @@ I;낚시대;21;icon_item_fishingrod
 I;노란 이노움의 핵;4;icon_item_core_yellow
 I;노란 콜리플라이 수술;99;icon_item_stamen_colifly_yellow
 I;누덕고치의 껍질;2;icon_item_shell_blue
-I;단델의 날개;39;icon_item_batwing
+I;단델의 날개;27;icon_item_batwing
 I;닻;3;icon_item_ironbar03_s
 I;대리석 파편;5;icon_item_Misc_00005
 I;던볼의 가시;4;icon_item_thorn_brown
-I;데드본스캡의 가면;23;icon_item_Quest_00017
+I;데드본스캡의 가면;22;icon_item_Quest_00017
 I;덴덴 꽃잎;1;icon_item_leaves_blue
 I;도도새 컴패니언 교환권;4;icon_item_indulgence
 I;도요르 잎다발;1;icon_item_doyorleaf
@@ -878,7 +878,6 @@ I;부채잎;9;icon_item_leaf
 I;붉은 누오의 뿔;3;icon_item_horn_nuo_red
 I;붉은 닻의 조각;1;icon_item_small_bag
 I;붉은 더키의 가시;5;icon_item_thorn_red
-I;붉은 레푸스버니 꼬리;3;icon_item_tail_repusbunny_red
 I;붉은 빅 그리바 갓;2;icon_item_mushroomcap
 I;붉은 소켓의 뿔;5;icon_item_horn_socket_red
 I;붉은 수호 거미의 눈;3;icon_item_eye_defenderSpider_red
@@ -912,7 +911,7 @@ I;삼나무;9;icon_item_wood_4
 I;샤울렘 가면;22;icon_item_mask_siaulago
 I;샤울렘 털잎;2;icon_item_leaves_yellow
 I;소나무;8;icon_item_wood_3
-I;소켓의 껍질;29;icon_item_shell_blue
+I;소켓의 껍질;24;icon_item_shell_blue
 I;소켓의 뿔;8;icon_item_pantohorn
 I;송진;9;37_item_ore_sulfur
 I;수은;27;38_item_ore_mercury
@@ -960,7 +959,7 @@ I;유코푸스 잎;68;icon_item_leaves_blue
 I;유황;3;37_item_ore_sulfur
 I;은괴;6;icon_item_ironbar_s
 I;이끼;4;icon_item_grassbladeg
-I;이노움의 핵;1;icon_item_core_purple
+I;이노움의 핵;2;icon_item_core_purple
 I;인프로 락터의 껍질;20;icon_item_shell
 I;인프로 락터의 뼈;5;icon_item_bone
 I;인프로 버크의 껍질;1;icon_item_shell_red
@@ -982,7 +981,7 @@ I;주황 샤울라브 가면;7;icon_item_mask_pendinmire
 I;지그너츠 줄기;12;icon_item_zignuts
 I;지누테의 껍질;5;icon_item_shell_blue
 I;지푸라기;3;icon_item_leaves_yellow
-I;집게발;6;icon_item_Quest_00017
+I;집게발;5;icon_item_Quest_00017
 I;짧은 목재;25;icon_item_wood_4
 I;찢어진 책장;3;icon_item_paperpiece
 I;천 조각;3;icon_item_clothpiece_green
@@ -1014,9 +1013,9 @@ I;치넨시 잎;11;icon_item_bokchoyleaf
 I;카라스 파편;12;icon_item_Misc_00006
 I;카로 잎사귀;4;icon_item_leaves_green
 I;카타콤 잎방개의 껍질;5;icon_item_shell_purple
-I;케놀 수정;3;icon_item_Crystal_00005
+I;케놀 수정;4;icon_item_Crystal_00005
 I;케파 날개;16;icon_item_batwing
-I;케파 줄기;86;icon_item_stem_green
+I;케파 줄기;87;icon_item_stem_green
 I;케포 껍질;8;icon_item_onionpiece
 I;케포 솜털;26;icon_item_cotton
 I;코도모르 가시;1;icon_item_thorn_blue
@@ -1042,7 +1041,7 @@ I;트리굴 줄기;1;icon_item_stem_brown
 I;트리펠리의 결정;9;icon_item_crystal_yellow
 I;트리피드 가시;5;icon_item_thorn_green
 I;티켄의 뼈;1;icon_item_bone
-I;판토족의 뿔;3;icon_item_pantohorn
+I;판토족의 뿔;4;icon_item_pantohorn
 I;팔라팜 조각 Lv1;17;KQ_recipe_hethran_material_1_3
 I;페릿의 털;42;icon_item_fur_spion_white
 I;펜딘마이어 가면;2;icon_item_mask_pendinmire
@@ -1070,7 +1069,6 @@ I;푸른 타누의 잎;3;icon_item_leaves_blue
 I;푸른 템플슬레이브의 두건;4;icon_item_hood_templeslave_blue
 I;푸른 티니의 뿔;9;icon_item_horn_tiny_blue
 I;푸른 페이그 도퍼의 천조각;7;icon_item_clothpiece_green
-I;푸른 하루갈 갈기;11;icon_item_mane_harugal_blue
 I;푸른 호헨 갈기;2;icon_item_fur_03Blue
 I;푸른 호헨 굴락의 뿔;1;icon_item_horn_hohenGulak_blue
 I;플라스크;90;icon_item_Vial
@@ -1294,6 +1292,12 @@ I;햄스터;1;icon_item_Hamster
 I;호랑이 가면;1;hairacc_55_tigermask
 I;화분;1;icon_item_accessory_pollen
 I;흰 열쇠장식 모자;1;icon_item_white_cloud
+I;유니콘 뿔;1;hairacc_42_unicornhorn
+I;늘어진 나무늘보;1;icon_item_sloth_pink
+I;작은 사자탈;1;hairacc_37_lionmask1
+I;강아지 풍선;1;icon_item_dogballoon
+I;물빛 조개장식;1;icon_item_skyblue_shell
+I;강아지 풍선;1;icon_item_dogballoon
 I;[이벤트] 분홍색 사탕;1;icon_item_redBall
 I;고양이귀;1;icon_item_cap_3
 I;고양이귀;1;icon_item_cap_3
@@ -1314,6 +1318,7 @@ I;블루 앵커;1;icon_item_accessory_anchor
 I;산양 뿔;1;hairacc_43_sheephorn
 I;젖소 머리띠;1;hairacc_36_cow
 I;젖소 머리띠;1;hairacc_36_cow
+I;검은 고양이 귀;1;icon_item_accessory_blackcat
 I;계란 후라이;1;hairacc_62_friedegg
 I;계란 후라이;1;hairacc_62_friedegg
 I;고급스런 머리핀;1;hairacc_58_metaltassel

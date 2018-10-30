@@ -17,21 +17,21 @@ I;제작서-x8 경험의 서;6;icon_item_recipe_misc1
 I;제작서-여신의 축복석;5;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(리볼버);3;icon_item_recipe_misc1
 G;Cube
-I;[PC방] TP 아이템 랜덤 상자;1;icon_item_random_cashbox
 I;[PC방] 성장 지원 상자;1;icon_item_box_pc_month
 G;Premium
-I;랭크 초기화권 (60일);1;icon_item_rankreset_paper
+I;경험의 서;1;icon_item_boostertoken
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;확성기 10개 상자;1;icon_item_Mike_bundle
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;토큰;1;icon_item_token
+I;인스턴스 던전 배수 토큰;2;icon_item_indunexmode
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
-I;긴급 수리 키트;10;icon_item_repairkit
+I;긴급 수리 키트;13;icon_item_repairkit
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;소울 크리스탈;70;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
@@ -67,7 +67,6 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;확성기;52;icon_item_Mike
-I;마법 부여 스크롤(거래불가);1;icon_item_enchantScroll
 I;상어 해적단 코스튬(여);1;icon_item_cosair03_f
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 I;2018 나무나무 코스튬(남);1;icon_item_event_2018_arbor_m
@@ -78,7 +77,7 @@ I;연습용 모루;1;icon_item_anvil
 I;모루;1;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;마법 가루;965;icon_item_MagicPowder
-I;빈 스펠북;39;icon_item_emptySpellBook
+I;빈 스펠북;38;icon_item_emptySpellBook
 I;주석;2;1_item_ore_copper
 I;호박;8;22_item_ore_amber
 I;아틸로늄;15;18_item_plantite
@@ -152,7 +151,7 @@ I;사우가의 핵;1;icon_item_core_yellow
 I;갈색 라프세이프 잎;6;icon_item_leaves_lapasape_brown
 I;초록 미노스의 털;14;icon_item_fur_02Green
 I;테라늄;10;36_item_ore_lapis_philosophorum
-I;각성 가루;228;icon_item_wakepowder
+I;각성 가루;97;icon_item_wakepowder
 I;사디피 결정 Lv1;6;KQ_recipe_hethran_material_1_1
 I;오넨 정수 Lv1;3;KQ_recipe_hethran_material_1_2
 I;팔라팜 조각 Lv1;1;KQ_recipe_hethran_material_1_3
@@ -175,7 +174,7 @@ I;씨앗;1;icon_item_Olive
 I;펜듈럼;1;icon_item_pendulum
 I;음양사 본향 지원 명단;1;Siaul_Act3_Confirmation
 G;Unused
-I;실버;6743245;icon_item_silver
+I;실버;7657045;icon_item_silver
 G;PasteBait
 I;작은 은빛 물고기;5;icon_item_fish4
 G;Drug
@@ -205,7 +204,9 @@ I;루팅 찬스 증가 포션;5;icon_item_looting_potion_01
 I;SP 회복 소형 엘릭서 ;5;icon_item_SPelixir_Small
 I;보급용 농축 HP포션 LV15;99;item_HP_oil_3
 I;보급용 농축 SP포션 LV15;100;item_SP_requid_3
+I;호박사탕;1;icon_item_Pumpkin
 I;농축 HP포션 LV15;44;icon_item_HP_Alche
+I;할로윈 폭죽;1;icon_item_firework
 I;보급용 워프 주문서;11;GolemMagicItem1
 I;레드 오브:갈색 로델린;1;icon_item_Dreamshade_red
 I;은빛 물고기;36;icon_item_fish2
@@ -219,7 +220,7 @@ I;푸드 커버;1;icon_item_artefact_Dome_Cover
 I;다과 세트;1;icon_item_artefact_Tea_Set
 I;클라페다 카프리콘즈 응원 슬로건;1;icon_item_aretfact_victory_purple
 I;눈 덮인 몬스터 카드첩;1;icon_item_Chrismas_Card
-I;인챈트탄;88;icon_item_panto_core
+I;인챈트탄;87;icon_item_panto_core
 G;SubWeapon
 I;눈꽃 스프레이;1;icon_item_snowflower
 G;Book
@@ -248,13 +249,17 @@ I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;하르피아 카드;Lv5;icon_item_card_util
 G;Collection
-I;컬렉션:겔리 고원;1;icon_item_box
+I;컬렉션: 겔리 고원;1;icon_item_box
 G;Armor
 I;크라이지어스 그리브;1;icon_item_boots_kryzius
 I;제베넬리스 레더 부츠;1;icon_item_leather_boots_1
 I;이브레 부츠;1;icon_item_boots_animalLeather
+I;베르타스 이렐리스 부츠;1;icon_item_cloth_boots_1
+I;베르타스 이렐리스 글로브;1;icon_item_cloth_glove_1
 I;크라이지어스 플레이트 팬츠;1;icon_item_pants_kryzius
+I;베르타스 이렐리스 팬츠;1;icon_item_cloth_pants_1
 I;크라이지어스 플레이트 아머;1;icon_item_shirts_kryzius
+I;베르타스 이렐리스 로브;1;icon_item_cloth_shirt_1
 I;츄파카브라 네클리스;1;item_necklace_11
 I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
 I;노비스 뱅글;1;item_bracelet_15
@@ -271,3 +276,4 @@ G;Weapon
 I;(바랜)페버디마스 로드;1;icon_item_pabudimas_rod
 I;[결속] 베르타스 라파이 로드;1;icon_item_rod_lapai
 I;(바랜)페버디마스 스태프;1;icon_item_pabudimas_staff
+I;[결속] 베르타스 라파이 스태프;1;icon_item_staff_lapai

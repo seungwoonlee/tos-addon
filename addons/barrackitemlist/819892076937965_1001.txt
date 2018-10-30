@@ -7,10 +7,12 @@ I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;고농축 HP포션;40;item_HP_oil_3
 I;고농축 SP포션;40;item_SP_requid_3
 I;고농축 이동속도 증가 포션;10;item_speed_requid_1
-I;농축 HP포션 LV15;27;icon_item_HP_Alche
+I;농축 HP포션 LV15;25;icon_item_HP_Alche
 I;농축 SP포션 LV15;12;icon_item_SP_Alche
+I;호박사탕;2;icon_item_Pumpkin
 I;딸기;26;icon_item_Strawberry
 I;라무넬레;5;icon_item_Ramunele
+I;할로윈 폭죽;2;icon_item_firework
 I;라프세이프 버섯;16;icon_item_Pinemushroom
 I;매두스;27;icon_item_Medus
 I;바루날레샤;11;icon_item_Varnalesa
@@ -26,8 +28,6 @@ I;샐러드;5;icon_item_salad
 I;아말라스;5;icon_item_Amalas
 I;아비에테;34;icon_item_Aviete
 I;오르샤 워프 주문서;6;GolemMagicItem1
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
 I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
 I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
 I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
@@ -69,95 +69,6 @@ I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
 I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
 I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
 I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-G;Collection
-I;계시록: 대립편 컬렉션;1;icon_item_holyark
-I;계시록: 이면편 컬렉션;1;icon_item_holyark
-I;몬스터 표본 세트;1;icon_item_box
-I;컬렉션: 강철 고원;1;icon_item_box
-I;컬렉션: 겔리 고원;1;icon_item_box
-I;컬렉션: 관문로;1;icon_item_box
-I;컬렉션: 긴다리 계곡;1;icon_item_box
-I;컬렉션: 내성곽지구;1;icon_item_box
-I;컬렉션: 네프리타스 벼랑;1;icon_item_box
-I;컬렉션: 노바하 공회소;1;icon_item_box
-I;컬렉션: 노바하 별관;1;icon_item_box
-I;컬렉션: 노브리어 숲;1;icon_item_box
-I;컬렉션: 다단 숲;1;icon_item_box
-I;컬렉션: 대성당 대회랑;1;icon_item_box
-I;컬렉션: 대성당 본당;1;icon_item_box
-I;컬렉션: 대성당 지성소;1;icon_item_box
-I;컬렉션: 대성당 참회로;1;icon_item_box
-I;컬렉션: 대왕의 관문;1;icon_item_box
-I;컬렉션: 덧댄다리 숲;1;icon_item_box
-I;컬렉션: 람스티스 협곡;1;icon_item_box
-I;컬렉션: 렘파라사 연못;1;icon_item_box
-I;컬렉션: 루카스 고원;1;icon_item_box
-I;컬렉션: 마당 고원;1;icon_item_box
-I;컬렉션: 마법사의 탑 1층;1;icon_item_box
-I;컬렉션: 마법사의 탑 2층;1;icon_item_box
-I;컬렉션: 마법사의 탑 3층;1;icon_item_box
-I;컬렉션: 마법사의 탑 4층;1;icon_item_box
-I;컬렉션: 마족수감소 1구역;1;icon_item_box
-I;컬렉션: 마족수감소 2구역;1;icon_item_box
-I;컬렉션: 마족수감소 3구역;1;icon_item_box
-I;컬렉션: 마족수감소 4구역;1;icon_item_box
-I;컬렉션: 마족수감소 5구역;1;icon_item_box
-I;컬렉션: 베야 골짜기;1;icon_item_box
-I;컬렉션: 비에타 계곡;1;icon_item_box
-I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
-I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
-I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
-I;컬렉션: 셉티니 골;1;icon_item_box
-I;컬렉션: 수정광산 1층;1;icon_item_box
-I;컬렉션: 수정광산 2층;1;icon_item_box
-I;컬렉션: 수정광산 3층;1;icon_item_box
-I;컬렉션: 스라우타스 협곡;1;icon_item_box
-I;컬렉션: 스벤티마스 유형지;1;icon_item_box
-I;컬렉션: 시르드겔라 숲;1;icon_item_box
-I;컬렉션: 아샤크 지하감옥 1층;1;icon_item_box
-I;컬렉션: 아샤크 지하감옥 3층;1;icon_item_box
-I;컬렉션: 아크멘스 능선;1;icon_item_box
-I;컬렉션: 여신과 마족의 서약;1;icon_item_box
-I;컬렉션: 여신의 옛뜰;1;icon_item_box
-I;컬렉션: 왕릉 1층;1;icon_item_box
-I;컬렉션: 왕릉 2층;1;icon_item_box
-I;컬렉션: 왕릉 4층;1;icon_item_box
-I;컬렉션: 왕릉 5층;1;icon_item_box
-I;컬렉션: 왕릉 건축자 예배당;1;icon_item_box
-I;컬렉션: 왕의 고원;1;icon_item_box
-I;컬렉션: 요나엘 기념구;1;icon_item_box
-I;컬렉션: 유데이안 숲;1;icon_item_box
-I;컬렉션: 이국 사랑;1;icon_item_box
-I;컬렉션: 이기티 연안;1;icon_item_box
-I;컬렉션: 이브레 고원;1;icon_item_box
-I;컬렉션: 자카리엘 교차로;1;icon_item_box
-I;컬렉션: 제단로;1;icon_item_box
-I;컬렉션: 제로멜 공원;1;icon_item_box
-I;컬렉션: 지마 수코트;1;icon_item_box
-I;컬렉션: 초보자의 무기;1;icon_item_box
-I;컬렉션: 초보자의 방어구;1;icon_item_box
-I;컬렉션: 카듀멜 절벽;1;icon_item_box
-I;컬렉션: 카롤리스 샘터;1;icon_item_box
-I;컬렉션: 코루 숲;1;icon_item_box
-I;컬렉션: 코발트 숲;1;icon_item_box
-I;컬렉션: 크란토 연안;1;icon_item_box
-I;컬렉션: 크바일라스 숲;1;icon_item_box
-I;컬렉션: 테넷 성당 지상 1층;1;icon_item_box
-I;컬렉션: 테넷 성당 지상 2층;1;icon_item_box
-I;컬렉션: 테넷 화원;1;icon_item_box
-I;컬렉션: 테브린 종유동 1구역;1;icon_item_box
-I;컬렉션: 테브린 종유동 2구역;1;icon_item_box
-I;컬렉션: 테브린 종유동 3구역;1;icon_item_box
-I;컬렉션: 테브린 종유동 4구역;1;icon_item_box
-I;컬렉션: 테브린 종유동 5구역;1;icon_item_box
-I;컬렉션: 틸타스 협곡;1;icon_item_box
-I;컬렉션: 파수꾼의 묘역;1;icon_item_box
-I;컬렉션: 파우피스 나루;1;icon_item_box
-I;컬렉션: 패슬렙타스;1;icon_item_box
-I;컬렉션: 페디미안 외곽;1;icon_item_box
-I;컬렉션: 해안 지역;1;icon_item_box
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black
 I;대해적과 하이레번 하권;1;icon_item_collection_00Basic
@@ -263,35 +174,99 @@ I;제작서-슈페리어 리추얼 네클리스;1;icon_item_necklace_misc1
 I;제작서-아티카 네클리스;1;icon_item_necklace_misc4
 I;제작서-자카리엘 뱅글;1;icon_item_bracelet_misc4
 I;제작서-레이드 포탈 스톤;2;icon_item_recipe_misc1
-G;Premium
-I;확성기;1;icon_item_Mike
-I;위저드 스페셜 코스튬(여);1;icon_item_mage_costume01_3_f
-G;Gem
-I;레드 젬;Lv1;item_icon_circle150
-I;그린 젬;Lv1;item_icon_Dia150
-I;블루 젬;Lv1;item_icon_Square150
-I;옐로우 젬;Lv1;item_icon_Star150
+G;Collection
+I;계시록: 대립편 컬렉션;1;icon_item_holyark
+I;계시록: 이면편 컬렉션;1;icon_item_holyark
+I;몬스터 표본 세트;1;icon_item_box
+I;컬렉션: 강철 고원;1;icon_item_box
+I;컬렉션: 겔리 고원;1;icon_item_box
+I;컬렉션: 관문로;1;icon_item_box
+I;컬렉션: 긴다리 계곡;1;icon_item_box
+I;컬렉션: 내성곽지구;1;icon_item_box
+I;컬렉션: 네프리타스 벼랑;1;icon_item_box
+I;컬렉션: 노바하 공회소;1;icon_item_box
+I;컬렉션: 노바하 별관;1;icon_item_box
+I;컬렉션: 노브리어 숲;1;icon_item_box
+I;컬렉션: 다단 숲;1;icon_item_box
+I;컬렉션: 대성당 대회랑;1;icon_item_box
+I;컬렉션: 대성당 본당;1;icon_item_box
+I;컬렉션: 대성당 지성소;1;icon_item_box
+I;컬렉션: 대성당 참회로;1;icon_item_box
+I;컬렉션: 대왕의 관문;1;icon_item_box
+I;컬렉션: 덧댄다리 숲;1;icon_item_box
+I;컬렉션: 람스티스 협곡;1;icon_item_box
+I;컬렉션: 렘파라사 연못;1;icon_item_box
+I;컬렉션: 루카스 고원;1;icon_item_box
+I;컬렉션: 마당 고원;1;icon_item_box
+I;컬렉션: 마법사의 탑 1층;1;icon_item_box
+I;컬렉션: 마법사의 탑 2층;1;icon_item_box
+I;컬렉션: 마법사의 탑 3층;1;icon_item_box
+I;컬렉션: 마법사의 탑 4층;1;icon_item_box
+I;컬렉션: 마족수감소 1구역;1;icon_item_box
+I;컬렉션: 마족수감소 2구역;1;icon_item_box
+I;컬렉션: 마족수감소 3구역;1;icon_item_box
+I;컬렉션: 마족수감소 4구역;1;icon_item_box
+I;컬렉션: 마족수감소 5구역;1;icon_item_box
+I;컬렉션: 베야 골짜기;1;icon_item_box
+I;컬렉션: 비에타 계곡;1;icon_item_box
+I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
+I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
+I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
+I;컬렉션: 셉티니 골;1;icon_item_box
+I;컬렉션: 수정광산 1층;1;icon_item_box
+I;컬렉션: 수정광산 2층;1;icon_item_box
+I;컬렉션: 수정광산 3층;1;icon_item_box
+I;컬렉션: 스라우타스 협곡;1;icon_item_box
+I;컬렉션: 스벤티마스 유형지;1;icon_item_box
+I;컬렉션: 시르드겔라 숲;1;icon_item_box
+I;컬렉션: 아샤크 지하감옥 1층;1;icon_item_box
+I;컬렉션: 아샤크 지하감옥 3층;1;icon_item_box
+I;컬렉션: 아크멘스 능선;1;icon_item_box
+I;컬렉션: 여신과 마족의 서약;1;icon_item_box
+I;컬렉션: 여신의 옛뜰;1;icon_item_box
+I;컬렉션: 왕릉 1층;1;icon_item_box
+I;컬렉션: 왕릉 2층;1;icon_item_box
+I;컬렉션: 왕릉 4층;1;icon_item_box
+I;컬렉션: 왕릉 5층;1;icon_item_box
+I;컬렉션: 왕릉 건축자 예배당;1;icon_item_box
+I;컬렉션: 왕의 고원;1;icon_item_box
+I;컬렉션: 요나엘 기념구;1;icon_item_box
+I;컬렉션: 유데이안 숲;1;icon_item_box
+I;컬렉션: 이국 사랑;1;icon_item_box
+I;컬렉션: 이기티 연안;1;icon_item_box
+I;컬렉션: 이브레 고원;1;icon_item_box
+I;컬렉션: 자카리엘 교차로;1;icon_item_box
+I;컬렉션: 제단로;1;icon_item_box
+I;컬렉션: 제로멜 공원;1;icon_item_box
+I;컬렉션: 지마 수코트;1;icon_item_box
+I;컬렉션: 초보자의 무기;1;icon_item_box
+I;컬렉션: 초보자의 방어구;1;icon_item_box
+I;컬렉션: 카듀멜 절벽;1;icon_item_box
+I;컬렉션: 카롤리스 샘터;1;icon_item_box
+I;컬렉션: 코루 숲;1;icon_item_box
+I;컬렉션: 코발트 숲;1;icon_item_box
+I;컬렉션: 크란토 연안;1;icon_item_box
+I;컬렉션: 크바일라스 숲;1;icon_item_box
+I;컬렉션: 테넷 성당 지상 1층;1;icon_item_box
+I;컬렉션: 테넷 성당 지상 2층;1;icon_item_box
+I;컬렉션: 테넷 화원;1;icon_item_box
+I;컬렉션: 테브린 종유동 1구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 2구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 3구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 4구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 5구역;1;icon_item_box
+I;컬렉션: 틸타스 협곡;1;icon_item_box
+I;컬렉션: 파수꾼의 묘역;1;icon_item_box
+I;컬렉션: 파우피스 나루;1;icon_item_box
+I;컬렉션: 패슬렙타스;1;icon_item_box
+I;컬렉션: 페디미안 외곽;1;icon_item_box
+I;컬렉션: 해안 지역;1;icon_item_box
 G;Card
 I;프로스터 로드 카드;Lv10;icon_item_card_atk
-G;Armor
-I;내추럴 웨이브;1;hair_silvia
-I;(바랜)워메이지 부츠;1;icon_item_warmage_boots
-I;(바랜)크라이지어스 그리브;1;icon_item_boots_kryzius
-I;(바랜)워메이지 글로브;1;icon_item_warmage_gloves
-I;베르타스 크라이지어스 건틀릿;1;icon_item_gloves_kryzius
-I;(바랜)워메이지 팬츠;1;icon_item_warmage_pants
-I;(바랜)크라이지어스 플레이트 팬츠;1;icon_item_pants_kryzius
-I;프리머스 크라이지어스 플레이트 팬츠;1;icon_item_pants_kryzius
-I;(바랜)크라이지어스 플레이트 아머;1;icon_item_shirts_kryzius
-I;제메이 네클리스;1;item_necklace_16
-I;금테 투구;1;hairacc_34_helm2
-I;둥지튼 알;1;hairacc_1_egg
-I;푸딩;1;hairacc_80_fez
-I;단풍잎;1;hairacc_13_maple
-I;은행잎;1;hairacc_14_ginkgoleaf
-I;링커 코스튬;1;icon_item_linker_f
-I;세이지 코스튬;1;icon_item_mage_sage_f
-I;소서러 코스튬;1;icon_item_sorcerer_f
+I;마르녹스 카드;Lv10;icon_item_card_util
+G;Premium
+I;확성기;2;icon_item_Mike
+I;위저드 스페셜 코스튬(여);1;icon_item_mage_costume01_3_f
 G;Material
 I;모루;20;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
@@ -309,7 +284,7 @@ I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;빈 스펠북;9;icon_item_emptySpellBook
+I;빈 스펠북;3;icon_item_emptySpellBook
 I;크리오라이트;9;39_icon_item_Cry8rite
 I;파이라이트;15;32_item_ore_pyrite
 I;압시듐 광석;10;8_item_ore_platinum
@@ -340,6 +315,7 @@ I;노란 파이란 날개;9;icon_item_batwing
 I;누더기 도살자의 도끼조각;6;icon_item_misc04_111
 I;누덕고치의 껍질;9;icon_item_shell_blue
 I;누덕새 날개;15;icon_item_batwing
+I;테라늄;5;36_item_ore_lapis_philosophorum
 I;단단한 껍질;38;icon_item_shell_yellow
 I;단단한 론도 껍질;6;icon_item_shell_blue
 I;단델의 날개;42;icon_item_batwing
@@ -409,7 +385,7 @@ I;사우가의 핵;14;icon_item_core_yellow
 I;사크몰리 줄기;1;icon_item_stem_gray
 I;서약의 석판;1;icon_item_stonetablet2
 I;소나무;8;icon_item_wood_3
-I;소켓의 껍질;17;icon_item_shell_blue
+I;소켓의 껍질;12;icon_item_shell_blue
 I;송진;5;37_item_ore_sulfur
 I;수정거미 더듬이;8;icon_item_feeler_blue
 I;쉬타임 파편;28;icon_item_Misc_00004
@@ -525,7 +501,7 @@ I;푸른 타누의 잎;2;icon_item_leaves_blue
 I;푸른 템플슬레이브의 두건;6;icon_item_hood_templeslave_blue
 I;푸른 티니의 뿔;17;icon_item_horn_tiny_blue
 I;푸른 프라가라스의 줄기;1;icon_item_stem_gray
-I;푸른 하루갈 갈기;4;icon_item_mane_harugal_blue
+I;푸른 하루갈 갈기;3;icon_item_mane_harugal_blue
 I;푸른 호헨 갈기;4;icon_item_fur_03Blue
 I;푸른 호헨 굴락의 뿔;2;icon_item_horn_hohenGulak_blue
 I;플락의 갑옷조각;14;icon_item_FORMINE_ARMOR_SCAPULAR
@@ -578,5 +554,20 @@ I;펜듈럼;1;icon_item_pendulum
 I;펜서 마스터의 답장;1;icon_item_loveletter
 I;흉작으로 죽은 농작물;20;icon_item_grassbladeb
 I;힘이 복구된 사울레의 성구;1;icon_item_crimson3
-G;Weapon
-I;라파이 스태프;1;icon_item_staff_lapai
+G;Armor
+I;(바랜)워메이지 부츠;1;icon_item_warmage_boots
+I;(바랜)크라이지어스 그리브;1;icon_item_boots_kryzius
+I;(바랜)워메이지 글로브;1;icon_item_warmage_gloves
+I;(바랜)워메이지 팬츠;1;icon_item_warmage_pants
+I;(바랜)크라이지어스 플레이트 팬츠;1;icon_item_pants_kryzius
+I;(바랜)크라이지어스 플레이트 아머;1;icon_item_shirts_kryzius
+I;제메이 네클리스;1;item_necklace_16
+I;금테 투구;1;hairacc_34_helm2
+I;둥지튼 알;1;hairacc_1_egg
+I;푸딩;1;hairacc_80_fez
+I;태양;1;icon_item_sun_acc
+I;단풍잎;1;hairacc_13_maple
+I;은행잎;1;hairacc_14_ginkgoleaf
+I;링커 코스튬;1;icon_item_linker_f
+I;세이지 코스튬;1;icon_item_mage_sage_f
+I;소서러 코스튬;1;icon_item_sorcerer_f

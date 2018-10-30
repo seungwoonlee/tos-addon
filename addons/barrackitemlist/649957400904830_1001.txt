@@ -1,42 +1,42 @@
 S;1001
 G;Unused
-I;실버;9776900;icon_item_silver
+I;실버;10943620;icon_item_silver
 G;Drug
 I;HP 회복의 엘릭서 [이벤트];20;icon_item_HPelixir
 I;SP 회복의 엘릭서 [이벤트];20;icon_item_SPelixir
-I;농축 HP포션 LV15;21;icon_item_HP_Alche
-I;농축 SP포션 LV15;13;icon_item_SP_Alche
+I;농축 HP포션 LV15;20;icon_item_HP_Alche
+I;농축 SP포션 LV15;8;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;37;item_speed_requid_1
-I;파티 폭죽 (14일);1;icon_item_firework
 I;딜겔레;3;icon_item_Dilgele
 I;라무넬레;3;icon_item_Ramunele
 I;루팅 찬스 증가 포션;3;icon_item_looting_potion_01
 I;바루날레샤;1;icon_item_Varnalesa
 I;발래리요나스;1;icon_item_Valerijonas
-I;보급용 농축 HP포션 LV15;199;item_HP_oil_3
-I;보급용 농축 SP포션 LV15;171;item_SP_requid_3
+I;보급용 농축 HP포션 LV15;198;item_HP_oil_3
+I;보급용 농축 SP포션 LV15;167;item_SP_requid_3
 I;보급용 이동속도 증가 포션;1;item_speed_requid_1
 I;보급용 작은 HP포션;31;item_HP_oil_1
 I;보급용 작은 SP포션;310;item_SP_requid_1
 I;보급용 작은 스태미나 알약;22;item_STA_pill_1
 I;붉은 케파 조각;2;OnionPiece_Red
-I;송편;53;icon_item_Songpyeon
 I;오르샤 워프 주문서;2;GolemMagicItem1
 I;정착 지원 포션;9;item_speed_requid_3
-I;정착 지원 포션 Lv2;49;item_speed_requid_3
-I;파티 폭죽 (14일);1;icon_item_firework
+I;정착 지원 포션 Lv2;48;item_speed_requid_3
 I;포포리온 고기;7;icon_item_meat_02
 I;해독제;5;icon_item_Quest_00020
-I;파티 폭죽 (14일);1;icon_item_firework
 I;LV13 경험치 카드;2;icon_item_expcard
 I;LV14 경험치 카드;4;icon_item_expcard
 I;레드 오브:위버;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;14;GolemMagicItem1
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
+G;Collection
+I;계시록: 대립편 컬렉션;1;icon_item_holyark
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 네프리타스 벼랑;1;icon_item_box
+I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
+I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
+I;컬렉션: 수정광산 2층;1;icon_item_box
+I;컬렉션: 수정광산 3층;1;icon_item_box
+I;컬렉션: 테넷 성당 지상 1층;1;icon_item_box
 G;Event
 I;특성 포인트 1,000;3;icon_item_abilitypoint
 G;Book
@@ -83,15 +83,41 @@ I;제작서-페디미안 실드;1;icon_item_shirts_misc1
 I;제작서-페디미안 아머;1;icon_item_shirts_misc1
 I;제작서-매직 탈리스만;1;icon_item_necklace_misc3
 I;제작서-산양 뿔;1;icon_item_helm_misc1
-G;Collection
-I;계시록 : 대립편 콜렉션;1;icon_item_holyark
-I;콜렉션:기원의 숲;1;icon_item_box
-I;콜렉션:네프리타스 벼랑;1;icon_item_box
-I;콜렉션:샤울레이 광산 마을;1;icon_item_box
-I;콜렉션:샤울레이 동쪽 숲;1;icon_item_box
-I;콜렉션:수정광산 2층;1;icon_item_box
-I;콜렉션:수정광산 3층;1;icon_item_box
-I;콜렉션:테넷 성당 지상 1층;1;icon_item_box
+G;Premium
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;경험의 서;1;icon_item_boostertoken
+I;경험의 서;1;icon_item_boostertoken
+I;긴급 수리 키트;10;icon_item_repairkit
+I;소울 크리스탈;8;icon_item_soulCrystal
+I;애쉬 그레이 염색약;1;haircolor_gray
+I;워프 주문서;41;icon_item_warpPremium
+I;인스턴스 던전 배수 토큰;1;icon_item_indunexmode
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
+I;전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
+I;확성기;51;icon_item_Mike
+I;확성기 50개 상자;1;icon_item_Mike_bundle
+I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
 G;Gem
 I;레드 젬;Lv1;item_icon_circle150
 I;레드 젬;Lv6;item_icon_circle150
@@ -134,9 +160,12 @@ G;Card
 I;프로스터 로드 카드;Lv10;icon_item_card_atk
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
 G;Armor
-I;[For 10] 프리머스 제베넬리스 레더 팬츠 (30일);1;icon_item_leather_pants_1
-I;[For 10] 프리머스 제베넬리스 레더 아머 (30일);1;icon_item_leather_shirt_1
+I;갈라티카 그리브;1;icon_item_boots_frost
+I;베르타스 갈라티카 건틀릿;1;icon_item_gloves_frost
+I;갈라티카 플레이트 팬츠;1;icon_item_pants_frost
+I;갈라티카 플레이트 아머;1;icon_item_shirts_frost
 I;사이클롭스 아이;1;item_necklace_16
 I;유코푸스 네클리스;1;item_necklace_11
 I;파이라이트 팬던트;1;item_necklace_01
@@ -147,20 +176,16 @@ I;크리비 코스튬;1;icon_item_kribi_f
 I;팔라딘 코스튬;1;icon_item_paladin_f
 G;Material
 I;모루;4;icon_item_anvil
-I;은빛 모루(14일);1;icon_item_anvil_silver
-I;은빛 모루(14일);1;icon_item_anvil_silver
-I;황금 모루(14일);1;icon_item_anvil_gold
-I;황금 모루(14일);1;icon_item_anvil_gold
-I;괴황지;684;icon_item_guehwangji
+I;괴황지;532;icon_item_guehwangji
 I;성수;180;icon_item_holywater
-I;홀리 파우더;29;icon_item_powderw
+I;홀리 파우더;4;icon_item_powderw
 I;아틸로늄;13;18_item_plantite
-I;안데슘;16;icon_item_crystal_red
-I;울스터마이트;4;item_icon_teraingot
-I;이오니움;20;icon_item_crystal_yellow
+I;안데슘;19;icon_item_crystal_red
+I;울스터마이트;9;item_icon_teraingot
+I;이오니움;21;icon_item_crystal_yellow
 I;주석;2;1_item_ore_copper
-I;펠트레민;3;item_icon_pideingot
-I;피데슘;10;5_item_ore_fluorite
+I;펠트레민;4;item_icon_pideingot
+I;피데슘;12;5_item_ore_fluorite
 I;LV2 보물상자 열쇠;1;icon_item_key1
 I;갈록 가죽;1;icon_item_Misc_00007
 I;거대한 갈고리;7;icon_item_claw_01
@@ -199,7 +224,7 @@ I;케파 줄기;1;icon_item_stem_green
 I;코릴러스의 뿔;8;icon_item_pantohorn
 I;콜리플라이 수술;1;icon_item_small_bag
 I;크로마독 뼈;1;icon_item_bone
-I;테라늄;13;36_item_ore_lapis_philosophorum
+I;테라늄;18;36_item_ore_lapis_philosophorum
 I;티피오의 꽃술;3;icon_item_tipiostamen
 I;판토족의 뿔;11;icon_item_pantohorn
 I;포쿠부 가죽;2;icon_item_Misc_00011
@@ -218,50 +243,5 @@ I;연붉은 잎사귀;2;icon_item_leaves_red
 I;유기용제;1;icon_item_Drug_CON1
 I;음양사 본향 지원 명단;1;Siaul_Act3_Confirmation
 I;침묵 스크롤;1;icon_item_Spellbook_2
-G;Premium
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;경험의 서;1;icon_item_boostertoken
-I;경험의 서;1;icon_item_boostertoken
-I;긴급 수리 키트;10;icon_item_repairkit
-I;랭크 초기화권 (30일);1;icon_item_rankreset_paper
-I;소울 크리스탈;8;icon_item_soulCrystal
-I;스탯 초기화 포션 (30일);1;icon_item_statReset
-I;스탯 초기화 포션 (60일);1;icon_item_statReset
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;워프 주문서;41;icon_item_warpPremium
-I;인스턴스 던전 배수 토큰;5;icon_item_indunexmode
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;애쉬 그레이 염색약;1;haircolor_gray
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
-I;전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
-I;확성기;51;icon_item_Mike
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunFreeEnter
-I;확성기 50개 상자;1;icon_item_Mike_bundle
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
-I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
+G;Weapon
+I;프리머스 라파이 투 핸드 메이스;1;icon_item_mace_twohand_lapai

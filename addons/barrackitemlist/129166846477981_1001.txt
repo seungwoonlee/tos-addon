@@ -98,55 +98,51 @@ I;제작서-x8 경험의 서;9;icon_item_recipe_misc1
 I;제작서-레이드 포탈 스톤;13;icon_item_recipe_misc1
 I;제작서-영웅의 가호 포션: 변이;1;icon_item_recipe_misc1
 G;Collection
-I;컬렉션:갈르엣 평야;1;icon_item_box
-I;컬렉션:긴다리 계곡;1;icon_item_box
-I;컬렉션:네토 숲;1;icon_item_box
-I;컬렉션:노브리어 숲;1;icon_item_box
-I;컬렉션:대성당 대회랑;1;icon_item_box
-I;컬렉션:대성당 본당;1;icon_item_box
-I;컬렉션:대성당 참회로;1;icon_item_box
-I;컬렉션:도심성벽 제 8구역;1;icon_item_box
-I;컬렉션:라다르 숲;1;icon_item_box
-I;컬렉션:마법사의 탑 2층;1;icon_item_box
-I;컬렉션:마법사의 탑 3층;1;icon_item_box
-I;컬렉션:마법사의 탑 4층;1;icon_item_box
-I;컬렉션:마법사의 탑 5층;1;icon_item_box
-I;컬렉션:몰로게오 숲;1;icon_item_box
-I;컬렉션:샤튼 저수구역;1;icon_item_box
-I;컬렉션:셉티니 골;1;icon_item_box
-I;컬렉션:스팔빈가스 숲;1;icon_item_box
-I;컬렉션:시르드겔라 숲;1;icon_item_box
-I;컬렉션:실라 숲;1;icon_item_box
-I;컬렉션:아르커스 숲;1;icon_item_box
-I;컬렉션:알렘빅 동굴;1;icon_item_box
-I;컬렉션:에메트 숲;1;icon_item_box
-I;컬렉션:엘고스 수도원 별관;1;icon_item_box
-I;컬렉션:여신과 마족의 서약;1;icon_item_box
-I;컬렉션:연안요새;1;icon_item_box
-I;컬렉션:요나엘 기념구;1;icon_item_box
-I;컬렉션:유데이안 숲;1;icon_item_box
-I;컬렉션:제로멜 공원;1;icon_item_box
-I;컬렉션:지마 수코트;1;icon_item_box
-I;컬렉션:지부리나스 숲;1;icon_item_box
-I;컬렉션:쿨레 고개;1;icon_item_box
-I;컬렉션:크란토 연안;1;icon_item_box
-I;컬렉션:타니엘 1세 기념구;1;icon_item_box
-I;컬렉션:테브린 종유동 1구역;1;icon_item_box
-I;컬렉션:테브린 종유동 2구역;1;icon_item_box
-I;컬렉션:테브린 종유동 3구역;1;icon_item_box
-I;컬렉션:테브린 종유동 4구역;1;icon_item_box
-I;컬렉션:테브린 종유동 5구역;1;icon_item_box
-I;컬렉션:티메리스 사원;1;icon_item_box
-I;컬렉션:파마르 숲;1;icon_item_box
-I;컬렉션:패슬렙타스;1;icon_item_box
-I;컬렉션:피스티스 숲;1;icon_item_box
-I;컬렉션:해안 지역;1;icon_item_box
+I;컬렉션: 갈르엣 평야;1;icon_item_box
+I;컬렉션: 긴다리 계곡;1;icon_item_box
+I;컬렉션: 네토 숲;1;icon_item_box
+I;컬렉션: 노브리어 숲;1;icon_item_box
+I;컬렉션: 대성당 대회랑;1;icon_item_box
+I;컬렉션: 대성당 본당;1;icon_item_box
+I;컬렉션: 대성당 참회로;1;icon_item_box
+I;컬렉션: 도심성벽 제 8구역;1;icon_item_box
+I;컬렉션: 라다르 숲;1;icon_item_box
+I;컬렉션: 마법사의 탑 2층;1;icon_item_box
+I;컬렉션: 마법사의 탑 3층;1;icon_item_box
+I;컬렉션: 마법사의 탑 4층;1;icon_item_box
+I;컬렉션: 마법사의 탑 5층;1;icon_item_box
+I;컬렉션: 몰로게오 숲;1;icon_item_box
+I;컬렉션: 샤튼 저수구역;1;icon_item_box
+I;컬렉션: 셉티니 골;1;icon_item_box
+I;컬렉션: 스팔빈가스 숲;1;icon_item_box
+I;컬렉션: 시르드겔라 숲;1;icon_item_box
+I;컬렉션: 실라 숲;1;icon_item_box
+I;컬렉션: 아르커스 숲;1;icon_item_box
+I;컬렉션: 알렘빅 동굴;1;icon_item_box
+I;컬렉션: 에메트 숲;1;icon_item_box
+I;컬렉션: 엘고스 수도원 별관;1;icon_item_box
+I;컬렉션: 여신과 마족의 서약;1;icon_item_box
+I;컬렉션: 연안요새;1;icon_item_box
+I;컬렉션: 요나엘 기념구;1;icon_item_box
+I;컬렉션: 유데이안 숲;1;icon_item_box
+I;컬렉션: 제로멜 공원;1;icon_item_box
+I;컬렉션: 지마 수코트;1;icon_item_box
+I;컬렉션: 지부리나스 숲;1;icon_item_box
+I;컬렉션: 쿨레 고개;1;icon_item_box
+I;컬렉션: 크란토 연안;1;icon_item_box
+I;컬렉션: 타니엘 1세 기념구;1;icon_item_box
+I;컬렉션: 테브린 종유동 1구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 2구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 3구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 4구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 5구역;1;icon_item_box
+I;컬렉션: 티메리스 사원;1;icon_item_box
+I;컬렉션: 파마르 숲;1;icon_item_box
+I;컬렉션: 패슬렙타스;1;icon_item_box
+I;컬렉션: 피스티스 숲;1;icon_item_box
+I;컬렉션: 해안 지역;1;icon_item_box
 G;Premium
-I;랭크 초기화권 (14일);1;icon_item_rankreset_paper
-I;랭크 초기화권 (14일);1;icon_item_rankreset_paper
 I;소울 크리스탈;15;icon_item_soulCrystal
-I;스탯 초기화 포션(14일);1;icon_item_statReset
-I;스탯 초기화 포션(14일);1;icon_item_statReset
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
 I;바이보라의 날개 교단 코스튬;1;icon_item_cleric_rena_f
@@ -164,13 +160,13 @@ I;하급 용병 코스튬(여);1;icon_item_lowtactic01_f
 G;Material
 I;모루;11;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;고문도구;320;icon_item_torturing_tool
-I;기슬로티스;350;icon_item_Gyslotis
+I;고문도구;300;icon_item_torturing_tool
+I;기슬로티스;347;icon_item_Gyslotis
 I;망토;1;icon_item_cape
-I;성수;356;icon_item_holywater
+I;성수;352;icon_item_holywater
 I;크리오라이트;28;39_icon_item_Cry8rite
 I;파이라이트;19;32_item_ore_pyrite
-I;홀리 파우더;85;icon_item_powderw
+I;홀리 파우더;60;icon_item_powderw
 I;압시듐 광석;32;8_item_ore_platinum
 I;주석;6;1_item_ore_copper
 I;LV2 보물상자 열쇠;4;icon_item_key1
@@ -472,18 +468,12 @@ I;폭탄;5;icon_item_bomb
 I;힘이 복구된 사울레의 성구;1;icon_item_crimson3
 G;Armor
 I;프리머스 바스티클 그리브;1;icon_item_iorn_boots_1
-I;프리머스 바스티클 그리브;1;icon_item_iorn_boots_1
-I;프리머스 이렐리스 부츠;1;icon_item_cloth_boots_1
 I;프리머스 제베넬리스 레더 부츠;1;icon_item_leather_boots_1
 I;록소나 플레이트 건틀릿;1;icon_item_gloves_SRchain
 I;프리머스 바스티클 건틀릿;1;icon_item_iorn_glove_1
-I;프리머스 제베넬리스 레더 글로브;1;icon_item_leather_glove_1
-I;베르타스 플라네타 팬츠;1;icon_item_baronwear_pants
 I;프리머스 바스티클 플레이트 팬츠;1;icon_item_iorn_pants_1
 I;프리머스 제베넬리스 레더 팬츠;1;icon_item_leather_pants_1
-I;프리머스 즈바이더 실드;1;icon_item_shield_nicopolis1
 I;프리머스 바스티클 플레이트 아머;1;icon_item_iorn_shirt_1
-I;프리머스 이렐리스 로브;1;icon_item_cloth_shirt_1
 I;프리머스 제베넬리스 레더 아머;1;icon_item_leather_shirt_1
 I;인퀴지터 코스튬;1;icon_item_inquisitor_f
 I;채플린 코스튬;1;icon_item_chaplain_f

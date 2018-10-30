@@ -25,12 +25,12 @@ I;케이스타스 수호의 포션;2;icon_item_Drug_exDEF1
 I;보급용 작은 HP포션;1;item_HP_oil_1
 I;보급용 해독제;1;icon_item_Quest_00020
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
-I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
+I;SP 회복 소형 엘릭서 ;9;icon_item_SPelixir_Small
 I;보급용 SP포션;29;item_SP_requid_2
 I;라프세이프 버섯;1;icon_item_Pinemushroom
 I;아말라스;1;icon_item_Amalas
 I;딜겔레;1;icon_item_Dilgele
-I;농축 SP포션 LV15;30;icon_item_SP_Alche
+I;농축 SP포션 LV15;26;icon_item_SP_Alche
 I;블루 오브:이노움;1;icon_item_Dreamshade
 I;레드 오브:이노움;1;icon_item_Dreamshade_red
 I;블루 오브:치넨시;1;icon_item_Dreamshade
@@ -71,31 +71,31 @@ I;제작서-x4 경험의 서;1;icon_item_recipe_misc1
 I;제작서-레이드 포탈 스톤;7;icon_item_recipe_misc1
 I;제작서-영웅의 징벌 포션: 변이;1;icon_item_recipe_misc1
 G;Collection
-I;컬렉션:제로멜 공원;1;icon_item_box
-I;컬렉션:요나엘 기념구;1;icon_item_box
-I;컬렉션:도심성벽 제 8구역;1;icon_item_box
-I;컬렉션:테브린 종유동 2구역;1;icon_item_box
-I;컬렉션:테브린 종유동 5구역;1;icon_item_box
-I;컬렉션:테브린 종유동 4구역;1;icon_item_box
-I;컬렉션:테브린 종유동 1구역;1;icon_item_box
-I;컬렉션:타니엘 1세 기념구;1;icon_item_box
-I;컬렉션:알렘빅 동굴;1;icon_item_box
-I;컬렉션:노브리어 숲;1;icon_item_box
-I;컬렉션:유데이안 숲;1;icon_item_box
-I;컬렉션:몰로게오 숲;1;icon_item_box
-I;컬렉션:피스티스 숲;1;icon_item_box
-I;컬렉션:에메트 숲;1;icon_item_box
-I;컬렉션:실라 숲;1;icon_item_box
-I;컬렉션:아르커스 숲;1;icon_item_box
-I;컬렉션:기원의 숲;1;icon_item_box
-I;컬렉션:그리나스 숲길;1;icon_item_box
-I;컬렉션:긴다리 계곡;1;icon_item_box
-I;컬렉션:람스티스 협곡;1;icon_item_box
-I;컬렉션:왕릉 건축자 예배당;1;icon_item_box
-I;컬렉션:틸타스 협곡;1;icon_item_box
-I;컬렉션:왕릉 노역자 숙소;1;icon_item_box
-I;컬렉션:해안 지역;1;icon_item_box
-I;컬렉션:지마 수코트;1;icon_item_box
+I;컬렉션: 제로멜 공원;1;icon_item_box
+I;컬렉션: 요나엘 기념구;1;icon_item_box
+I;컬렉션: 도심성벽 제 8구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 2구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 5구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 4구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 1구역;1;icon_item_box
+I;컬렉션: 타니엘 1세 기념구;1;icon_item_box
+I;컬렉션: 알렘빅 동굴;1;icon_item_box
+I;컬렉션: 노브리어 숲;1;icon_item_box
+I;컬렉션: 유데이안 숲;1;icon_item_box
+I;컬렉션: 몰로게오 숲;1;icon_item_box
+I;컬렉션: 피스티스 숲;1;icon_item_box
+I;컬렉션: 에메트 숲;1;icon_item_box
+I;컬렉션: 실라 숲;1;icon_item_box
+I;컬렉션: 아르커스 숲;1;icon_item_box
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 그리나스 숲길;1;icon_item_box
+I;컬렉션: 긴다리 계곡;1;icon_item_box
+I;컬렉션: 람스티스 협곡;1;icon_item_box
+I;컬렉션: 왕릉 건축자 예배당;1;icon_item_box
+I;컬렉션: 틸타스 협곡;1;icon_item_box
+I;컬렉션: 왕릉 노역자 숙소;1;icon_item_box
+I;컬렉션: 해안 지역;1;icon_item_box
+I;컬렉션: 지마 수코트;1;icon_item_box
 G;Armor
 I;레인저 코스튬;1;icon_item_ranger_f
 I;로그 코스튬;1;icon_item_rogue_f

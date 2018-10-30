@@ -1,10 +1,11 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;96800;icon_item_silver
 G;Helmet
 I;잭오랜턴 헬멧;1;icon_item_pumkin_helmet
-G;Event
-I;특성 포인트 100;4;icon_item_abilitypoint3
+G;SubWeapon
+I;좌절 깃발;1;OTL_flag
+I;버블스틱;1;icon_item_artefact_bublestick
 G;Book
 I;찢어진 일기의 일부 3;1;icon_item_paperpiece
 I;찢어진 일기의 일부 2;1;icon_item_paperpiece
@@ -49,6 +50,7 @@ I;리디아 샤펜과 플레쳐;1;icon_item_collection_00Basic
 I;리디아 샤펜의 교차선;1;icon_item_collection_04Black
 I;리디아 샤펜의 오늬;1;icon_item_collection_01Red
 I;리디아 샤펜과 럼펠스틸스킨;1;icon_item_collection_02green
+I;남작 사병 차고스의 일지;1;icon_item_diary
 G;Recipe
 I;제작서-에멘가드 대거;7;icon_item_weapon_misc5
 I;제작서-스컬 스매셔;11;icon_item_weapon_misc5
@@ -124,55 +126,7 @@ I;컬렉션: 알렘빅 동굴;1;icon_item_box
 I;컬렉션: 이국 사랑;1;icon_item_box
 I;컬렉션: 나뮤 사원터;1;icon_item_box
 I;컬렉션: 나르바스 사원 지역;1;icon_item_box
-G;Drug
-I;복숭아;14;icon_item_Peach
-I;아비에테;22;icon_item_Aviete
-I;딸기;21;icon_item_Strawberry
-I;매두스;17;icon_item_Medus
-I;포포리온 고기;23;icon_item_meat_02
-I;고농축 HP포션;145;item_HP_oil_3
-I;고농축 SP포션;117;item_SP_requid_3
-I;오르샤 워프 주문서;17;GolemMagicItem1
-I;클라페다 워프 주문서;9;GolemMagicItem1
-I;페디미안 워프 주문서;5;GolemMagicItem1
-I;라프세이프 버섯;5;icon_item_Pinemushroom
-I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;루팅 찬스 증가 포션;2;icon_item_looting_potion_01
-I;긴급 수리 키트;11;icon_item_repairkit
-I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
-I;농축 HP포션 LV15;11;icon_item_HP_Alche
-I;케이트리스 용맹의 포션;1;icon_item_Drug_AGI2
-I;큰 HP포션;6;item_HP_oil_3
-I;큰 SP포션;8;item_SP_requid_3
-I;대형 HP포션;5;item_HP_oil_3
-I;대형 SP포션;3;item_SP_requid_3
-I;특대형 HP포션;8;item_HP_oil_3
-I;특대형 SP포션;4;item_SP_requid_3
-I;이동속도 향상의 포션;4;item_speed_requid_1
-I;케이스타스 회복포션Lv1;10;item_HPSP_potion_1
-I;루팅 찬스: 100;4;item_icon_luckypotion_100
-I;케이스타스 회복포션Lv2;10;item_HPSP_potion_2
-I;케이트리스 회복의 포션;1;icon_item_Drug_ATK2
-I;케이스타스 회복포션Lv3;6;item_HPSP_potion_3
-I;농축 SP포션 LV15;20;icon_item_SP_Alche
-I;블루 오브:유코푸스;1;icon_item_Dreamshade
-I;보급용 워프 주문서;6;GolemMagicItem1
-I;블루 오브:푸른 호헨 메인;1;icon_item_Dreamshade
-I;블루 오브:초록 플라메;1;icon_item_Dreamshade
-I;LV10 경험치 카드;5;icon_item_expcard
-I;LV14 경험치 카드;24;icon_item_expcard
-I;LV6 경험치 카드;13;icon_item_expcard
-I;LV7 경험치 카드;8;icon_item_expcard
-I;LV8 경험치 카드;4;icon_item_expcard
-I;디스펠러;17;icon_item_grimoire_blue
-I;스킬 주문서;11;GolemMagicItem1
-I;스킬 주문서;2;GolemMagicItem1
-I;종이상자;1;icon_item_paperbox
-I;예식용 칼;1;icon_item_artefact_Decorative_knife
-I;몬스터 카드첩 : 그린;7;icon_item_green_cardbook
-I;몬스터 카드첩 : 블랙;1;icon_item_curse_cardbook
-I;몬스터 카드첩 : 블루;3;icon_item_blue_cardbook
-I;몬스터 카드첩 : 레드;1;icon_item_red_cardbook
+I;컬렉션: 크란토 연안;1;icon_item_box
 G;Armor
 I;엘리멘탈리스트 코스튬;1;icon_item_warrock_f
 I;워록 코스튬;1;icon_item_mage_warlock_f
@@ -181,7 +135,7 @@ I;섀도우맨서 루너하이더 코스튬;1;icon_item_mage_shadowmancer04_f
 I;섀도우맨서 선하이더 코스튬;1;icon_item_mage_shadowmancer02_f
 G;Premium
 I;긴급 수리 키트;2;icon_item_repairkit
-I;소울 크리스탈;15;icon_item_soulCrystal
+I;소울 크리스탈;14;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
 I;용병의뢰소 소장 코스튬;1;icon_item_mage_mercenary_f
@@ -202,14 +156,14 @@ I;성수;2;icon_item_holywater
 I;사파이어;1;39_icon_item_Cry8rite
 I;압시듐 광석;32;8_item_ore_platinum
 I;제페토 잎;15;icon_item_leaves_green
-I;씨드미아 씨앗;20;icon_item_seed_brown
+I;씨드미아 씨앗;21;icon_item_seed_brown
 I;작은 마족의 뿔;25;icon_item_pantohorn
 I;코릴러스의 뿔;7;icon_item_pantohorn
 I;글리자돈의 뼈;7;icon_item_bone
 I;호그마 전투대장 송곳니;2;icon_item_tooth_00Basic
 I;레푸스버니 털;29;icon_item_fur_05Gray
 I;그루머 잎;39;icon_item_leaves_green
-I;판토족의 뿔;41;icon_item_pantohorn
+I;판토족의 뿔;42;icon_item_pantohorn
 I;수정거미 더듬이;9;icon_item_feeler_blue
 I;이노움의 핵;5;icon_item_core_purple
 I;갈록 가죽;5;icon_item_Misc_00007
@@ -279,7 +233,7 @@ I;더키 가죽;3;icon_item_Misc_00010
 I;늙은 케파 껍질;19;icon_item_onionpiece
 I;누덕고치의 껍질;5;icon_item_shell_blue
 I;메로그의 심장;15;item_icon_heart_yellow
-I;희미한 별빛의 결정;2;24_item_ore_topaz
+I;희미한 별빛의 결정;3;24_item_ore_topaz
 I;멘티우드의 껍질;2;icon_item_shell_purple
 I;카로 잎사귀;3;icon_item_leaves_green
 I;로모르 잎;18;icon_item_leaves_green
@@ -294,9 +248,9 @@ I;굵은 체인;2;icon_item_chain
 I;로프틀렘 파편;14;icon_item_Misc_00006
 I;호글란 부리;1;icon_item_small_bag
 I;인프로 블러드 줄기;12;icon_item_stem_gray
-I;타마 잎;30;icon_item_leaves_red
-I;모야 파편;10;icon_item_shell_blue
-I;노란 이노움의 핵;11;icon_item_core_yellow
+I;타마 잎;31;icon_item_leaves_red
+I;모야 파편;11;icon_item_shell_blue
+I;노란 이노움의 핵;12;icon_item_core_yellow
 I;두더지 발톱;3;icon_item_canine
 I;시스트 가시;30;icon_item_thorn_green
 I;소켓의 껍질;24;icon_item_shell_blue
@@ -319,7 +273,7 @@ I;코카트리스 가죽;1;icon_item_Misc_00012
 I;주황 샤울라브 가면;6;icon_item_mask_pendinmire
 I;메다키아의 뿔;2;pokubu_horn
 I;도요르 잎다발;2;icon_item_doyorleaf
-I;단단한 껍질;23;icon_item_shell_yellow
+I;단단한 껍질;27;icon_item_shell_yellow
 I;쉬타임 파편;2;icon_item_Misc_00004
 I;할로우벤터의 손뼈;2;icon_item_bone
 I;묘지 골렘의 핵;6;icon_item_core_blue
@@ -448,12 +402,12 @@ I;모닝버드의 꼬리;50;icon_item_misc04_73
 I;쿠게리 누마니의 방울;1;icon_item_misc04_97
 I;찢어진 책장;1;icon_item_paperpiece
 I;마른 흙;1;icon_item_Misc_00004
-I;말라두의 고기;9;icon_item_meat_02
+I;말라두의 고기;12;icon_item_meat_02
 I;레비 털;8;icon_item_fur_01Yellow
 I;허니빈 침;3;icon_item_tooth_01Yellow
 I;오페러의 껍질;5;icon_item_shell_yellow
 I;초록 라플레시아 수술;19;icon_item_branch_00Basic
-I;테라임프 장식;6;icon_item_horn_tiny_blue
+I;테라임프 장식;8;icon_item_horn_tiny_blue
 I;트리펠리의 결정;24;icon_item_crystal_yellow
 I;케파 줄기;3;icon_item_stem_green
 I;빌카스의 가죽;1;icon_item_Misc_00009
@@ -467,6 +421,7 @@ I;작은 미스릴 광석 조각;1;13_item_mythril
 I;차원 탐색 스크롤;1;GolemMagicItem1
 I;마석 조각;7;icon_item_gimmick_scaredcrystal
 I;귀환석;1;MercenaryBadge
+I;특성 포인트 100;9;icon_item_abilitypoint3
 G;Quest
 I;일회용 시약병;1;icon_item_Quest_00020
 I;공간의 문장;1;icon_item_void_01
@@ -492,6 +447,58 @@ I;왕의 목소리 영약;1;item_HPSP_potion_3
 I;리프넛의 꼬리열매;10;icon_item_zignuts
 I;로그 마스터의 주머니;1;icon_item_farm47_sack_01
 I;허밀가의 붉은 수정;1;icon_item_Gem_Stone_STR
-G;SubWeapon
-I;좌절 깃발;1;OTL_flag
-I;버블스틱;1;icon_item_artefact_bublestick
+I;석회 가루;41;icon_item_powderw
+G;Drug
+I;복숭아;14;icon_item_Peach
+I;아비에테;22;icon_item_Aviete
+I;딸기;21;icon_item_Strawberry
+I;매두스;17;icon_item_Medus
+I;포포리온 고기;23;icon_item_meat_02
+I;고농축 HP포션;145;item_HP_oil_3
+I;고농축 SP포션;117;item_SP_requid_3
+I;오르샤 워프 주문서;17;GolemMagicItem1
+I;클라페다 워프 주문서;9;GolemMagicItem1
+I;페디미안 워프 주문서;5;GolemMagicItem1
+I;라프세이프 버섯;5;icon_item_Pinemushroom
+I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
+I;루팅 찬스 증가 포션;2;icon_item_looting_potion_01
+I;긴급 수리 키트;11;icon_item_repairkit
+I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
+I;농축 HP포션 LV15;40;icon_item_HP_Alche
+I;케이트리스 용맹의 포션;1;icon_item_Drug_AGI2
+I;큰 HP포션;6;item_HP_oil_3
+I;큰 SP포션;8;item_SP_requid_3
+I;대형 HP포션;5;item_HP_oil_3
+I;대형 SP포션;3;item_SP_requid_3
+I;특대형 HP포션;8;item_HP_oil_3
+I;특대형 SP포션;4;item_SP_requid_3
+I;이동속도 향상의 포션;4;item_speed_requid_1
+I;케이스타스 회복포션Lv1;10;item_HPSP_potion_1
+I;루팅 찬스: 100;4;item_icon_luckypotion_100
+I;케이스타스 회복포션Lv2;10;item_HPSP_potion_2
+I;케이트리스 회복의 포션;1;icon_item_Drug_ATK2
+I;케이스타스 회복포션Lv3;6;item_HPSP_potion_3
+I;농축 SP포션 LV15;36;icon_item_SP_Alche
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;호박사탕;1;icon_item_Pumpkin
+I;할로윈 폭죽;1;icon_item_firework
+I;블루 오브:유코푸스;1;icon_item_Dreamshade
+I;보급용 워프 주문서;6;GolemMagicItem1
+I;블루 오브:푸른 호헨 메인;1;icon_item_Dreamshade
+I;블루 오브:초록 플라메;1;icon_item_Dreamshade
+I;LV10 경험치 카드;5;icon_item_expcard
+I;LV14 경험치 카드;29;icon_item_expcard
+I;LV6 경험치 카드;13;icon_item_expcard
+I;LV7 경험치 카드;8;icon_item_expcard
+I;LV8 경험치 카드;4;icon_item_expcard
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;디스펠러;17;icon_item_grimoire_blue
+I;스킬 주문서;11;GolemMagicItem1
+I;스킬 주문서;2;GolemMagicItem1
+I;종이상자;1;icon_item_paperbox
+I;예식용 칼;1;icon_item_artefact_Decorative_knife
+I;몬스터 카드첩 : 그린;7;icon_item_green_cardbook
+I;몬스터 카드첩 : 블랙;1;icon_item_curse_cardbook
+I;몬스터 카드첩 : 블루;3;icon_item_blue_cardbook
+I;몬스터 카드첩 : 레드;1;icon_item_red_cardbook
+I;물에 젖은 몬스터 카드첩;2;icon_item_get_wet_cardbook

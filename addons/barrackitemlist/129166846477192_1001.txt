@@ -32,7 +32,6 @@ I;클라페다 워프 주문서;3;GolemMagicItem1
 I;포포리온 고기;11;icon_item_meat_02
 I;폭죽;25;icon_item_firework
 I;기슬로티스 씨앗;2;icon_item_seed_green
-I;길드 타워;2;icon_item_guildtower
 I;라벤더 씨앗;2;icon_item_seed_red
 I;라오도넬리스 씨앗;4;icon_item_seed_green
 I;레드 오브:주황 단델;1;icon_item_Dreamshade_red
@@ -100,58 +99,54 @@ I;제작서-마가 투 핸드 소드;1;icon_item_weapon_misc5
 I;제작서-플라미니;1;icon_item_weapon_misc4
 I;제작서-스트랭스 팬던트;1;icon_item_necklace_misc3
 G;Collection
-I;컬렉션:갈르엣 평야;1;icon_item_box
-I;컬렉션:강철 고원;1;icon_item_box
-I;컬렉션:네토 숲;1;icon_item_box
-I;컬렉션:노브리어 숲;1;icon_item_box
-I;컬렉션:다이나 양봉지;1;icon_item_box
-I;컬렉션:대성당 대회랑;1;icon_item_box
-I;컬렉션:도심성벽 제 8구역;1;icon_item_box
-I;컬렉션:라다르 숲;1;icon_item_box
-I;컬렉션:루카스 고원;1;icon_item_box
-I;컬렉션:마당 고원;1;icon_item_box
-I;컬렉션:마법사의 탑 2층;1;icon_item_box
-I;컬렉션:마법사의 탑 5층;1;icon_item_box
-I;컬렉션:몰로게오 숲;1;icon_item_box
-I;컬렉션:미르키티 농장;1;icon_item_box
-I;컬렉션:베라 연안;1;icon_item_box
-I;컬렉션:수로교 지역;1;icon_item_box
-I;컬렉션:스벤티마스 유형지;1;icon_item_box
-I;컬렉션:스팔빈가스 숲;1;icon_item_box
-I;컬렉션:실라 숲;1;icon_item_box
-I;컬렉션:아르커스 숲;1;icon_item_box
-I;컬렉션:알렘빅 동굴;1;icon_item_box
-I;컬렉션:에메트 숲;1;icon_item_box
-I;컬렉션:엘고스 수도원 별관;1;icon_item_box
-I;컬렉션:연안요새;1;icon_item_box
-I;컬렉션:왕릉 건축자 예배당;1;icon_item_box
-I;컬렉션:왕릉 노역자 숙소;1;icon_item_box
-I;컬렉션:왕의 고원;1;icon_item_box
-I;컬렉션:요나엘 기념구;1;icon_item_box
-I;컬렉션:이기티 연안;1;icon_item_box
-I;컬렉션:이브레 고원;1;icon_item_box
-I;컬렉션:제로멜 공원;1;icon_item_box
-I;컬렉션:중심시가;1;icon_item_box
-I;컬렉션:지부리나스 숲;1;icon_item_box
-I;컬렉션:카듀멜 절벽;1;icon_item_box
-I;컬렉션:쿨레 고개;1;icon_item_box
-I;컬렉션:크란토 연안;1;icon_item_box
-I;컬렉션:타니엘 1세 기념구;1;icon_item_box
-I;컬렉션:테브린 종유동 2구역;1;icon_item_box
-I;컬렉션:테브린 종유동 3구역;1;icon_item_box
-I;컬렉션:테브린 종유동 4구역;1;icon_item_box
-I;컬렉션:테브린 종유동 5구역;1;icon_item_box
-I;컬렉션:티메리스 사원;1;icon_item_box
-I;컬렉션:파마르 숲;1;icon_item_box
-I;컬렉션:피스티스 숲;1;icon_item_box
+I;컬렉션: 갈르엣 평야;1;icon_item_box
+I;컬렉션: 강철 고원;1;icon_item_box
+I;컬렉션: 네토 숲;1;icon_item_box
+I;컬렉션: 노브리어 숲;1;icon_item_box
+I;컬렉션: 다이나 양봉지;1;icon_item_box
+I;컬렉션: 대성당 대회랑;1;icon_item_box
+I;컬렉션: 도심성벽 제 8구역;1;icon_item_box
+I;컬렉션: 라다르 숲;1;icon_item_box
+I;컬렉션: 루카스 고원;1;icon_item_box
+I;컬렉션: 마당 고원;1;icon_item_box
+I;컬렉션: 마법사의 탑 2층;1;icon_item_box
+I;컬렉션: 마법사의 탑 5층;1;icon_item_box
+I;컬렉션: 몰로게오 숲;1;icon_item_box
+I;컬렉션: 미르키티 농장;1;icon_item_box
+I;컬렉션: 베라 연안;1;icon_item_box
+I;컬렉션: 수로교 지역;1;icon_item_box
+I;컬렉션: 스벤티마스 유형지;1;icon_item_box
+I;컬렉션: 스팔빈가스 숲;1;icon_item_box
+I;컬렉션: 실라 숲;1;icon_item_box
+I;컬렉션: 아르커스 숲;1;icon_item_box
+I;컬렉션: 알렘빅 동굴;1;icon_item_box
+I;컬렉션: 에메트 숲;1;icon_item_box
+I;컬렉션: 엘고스 수도원 별관;1;icon_item_box
+I;컬렉션: 연안요새;1;icon_item_box
+I;컬렉션: 왕릉 건축자 예배당;1;icon_item_box
+I;컬렉션: 왕릉 노역자 숙소;1;icon_item_box
+I;컬렉션: 왕의 고원;1;icon_item_box
+I;컬렉션: 요나엘 기념구;1;icon_item_box
+I;컬렉션: 이기티 연안;1;icon_item_box
+I;컬렉션: 이브레 고원;1;icon_item_box
+I;컬렉션: 제로멜 공원;1;icon_item_box
+I;컬렉션: 중심시가;1;icon_item_box
+I;컬렉션: 지부리나스 숲;1;icon_item_box
+I;컬렉션: 카듀멜 절벽;1;icon_item_box
+I;컬렉션: 쿨레 고개;1;icon_item_box
+I;컬렉션: 크란토 연안;1;icon_item_box
+I;컬렉션: 타니엘 1세 기념구;1;icon_item_box
+I;컬렉션: 테브린 종유동 2구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 3구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 4구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 5구역;1;icon_item_box
+I;컬렉션: 티메리스 사원;1;icon_item_box
+I;컬렉션: 파마르 숲;1;icon_item_box
+I;컬렉션: 피스티스 숲;1;icon_item_box
 G;Premium
-I;소울 크리스탈;17;icon_item_soulCrystal
+I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
-I;확성기;16;icon_item_Mike
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
+I;확성기;15;icon_item_Mike
 I;전사용 심플 컬러 코스튬(여);1;warrior_simplecolor_f
 I;벚꽃 로맨스 세일러복 코스튬(여);1;icon_item_pink_Sailor01_f
 I;전사용 스쿨룩 코스튬(여);1;icon_item_warrior_school_f
@@ -162,7 +157,6 @@ I;하급 용병 코스튬(여);1;icon_item_lowtactic01_f
 I;하이랜더 스페셜 코스튬(여);1;icon_item_warrior_highrander_f
 G;Material
 I;모루;8;icon_item_anvil
-I;2성 젬 연마제;1;icon_item_powderp
 I;크리오라이트;14;39_icon_item_Cry8rite
 I;실드 차저;10;icon_item_ShieldCharge
 I;파이라이트;19;32_item_ore_pyrite
@@ -350,10 +344,10 @@ I;포쿠본 가죽;15;icon_item_Misc_00009
 I;폰델 샤프트;1;38_item_ore_mercury
 I;폴리부 잎;2;icon_item_leaves_red
 I;푸른 누오의 뿔;15;icon_item_horn_nuo_blue
+I;그루머 잎;1;icon_item_leaves_green
 I;푸른 듀마로의 발톱;7;icon_item_claw_00Basic
 I;푸른 라프세이프 이빨;3;icon_item_tooth_blue
 I;푸른 리디메드 줄기;7;icon_item_stem_gray
-I;그루머 잎;1;icon_item_leaves_green
 I;푸른 엘렛의 마스크;5;icon_item_mask_elet_blue
 I;푸른 크로뉴트 가죽;7;icon_item_leather_cronewt_blue
 I;푸른 템플슬레이브의 두건;6;icon_item_hood_templeslave_blue

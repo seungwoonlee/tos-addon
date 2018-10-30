@@ -25,12 +25,9 @@ I;케이스타스 용맹의 포션;90;icon_item_Drug_exATK1
 I;클라페다 워프 주문서;10;GolemMagicItem1
 I;포포리온 고기;7;icon_item_meat_02
 I;폭죽;10;icon_item_firework
-I;송편;3;icon_item_Songpyeon
 I;LV3 경험치 카드;2;icon_item_expcard
 I;LV4 경험치 카드;2;icon_item_expcard
 I;보급용 워프 주문서;19;GolemMagicItem1
-G;Event
-I;경험의 서:14일;1;icon_item_boostertoken
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black
 G;Recipe
@@ -40,11 +37,9 @@ I;제작서-크리스탈 뱅글;1;icon_item_bracelet_misc3
 I;제작서-x4 경험의 서;4;icon_item_recipe_misc1
 I;제작서-x8 경험의 서;1;icon_item_recipe_misc1
 G;Collection
-I;콜렉션:렘파라사 연못;1;icon_item_box
-I;콜렉션:수정광산 1층;1;icon_item_box
-I;콜렉션:테넷 성당 지상 1층;1;icon_item_box
-I;콜렉션:테넷 성당 지상 2층;1;icon_item_box
-I;콜렉션:페레토리 구릉;1;icon_item_box
+I;컬렉션: 렘파라사 연못;1;icon_item_box
+I;컬렉션: 테넷 성당 지상 1층;1;icon_item_box
+I;컬렉션: 테넷 성당 지상 2층;1;icon_item_box
 G;Gem
 I;옐로우 젬;Lv1;item_icon_Star150
 G;Premium
@@ -120,14 +115,14 @@ I;부베 뱅글;1;item_bracelet_16
 G;Material
 I;모루;4;icon_item_anvil
 I;LV2 보물상자 열쇠;2;icon_item_key1
-I;갈고리;5;icon_item_claw_01
+I;갈고리;4;icon_item_claw_01
 I;거대한 갈고리;5;icon_item_claw_01
 I;그루머 잎;13;icon_item_leaves_green
 I;말라두의 고기;109;icon_item_meat_02
-I;박쥐의 날개;14;icon_item_batwing
+I;박쥐의 날개;13;icon_item_batwing
 I;밴시의 사념체;2;icon_item_spirit_orange
-I;부베족의 증표;16;icon_item_bubetoken
-I;스톤오르카의 핵;8;icon_item_core_yellow
+I;부베족의 증표;15;icon_item_bubetoken
+I;스톤오르카의 핵;7;icon_item_core_yellow
 I;식칼;1;icon_item_knife01
 I;씨드미아 씨앗;11;icon_item_seed_brown
 I;요노움의 핵;4;icon_item_core_purple
@@ -147,8 +142,8 @@ I;판토족의 뿔;19;icon_item_pantohorn
 I;포쿠부 가죽;4;icon_item_Misc_00011
 I;퓨어 크리스탈;1;icon_item_Gem_Aquamarine
 I;하나밍 꽃잎;20;icon_item_HanamingPetal
-I;할로우벤터의 사념체;4;icon_item_spirit_purple
-I;할로우벤터의 손뼈;47;icon_item_bone
+I;할로우벤터의 사념체;2;icon_item_spirit_purple
+I;할로우벤터의 손뼈;46;icon_item_bone
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;광산 나침반;1;icon_item_compass
