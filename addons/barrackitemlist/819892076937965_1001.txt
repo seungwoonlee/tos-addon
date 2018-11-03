@@ -7,12 +7,11 @@ I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;고농축 HP포션;40;item_HP_oil_3
 I;고농축 SP포션;40;item_SP_requid_3
 I;고농축 이동속도 증가 포션;10;item_speed_requid_1
-I;농축 HP포션 LV15;25;icon_item_HP_Alche
+I;농축 HP포션 LV15;19;icon_item_HP_Alche
 I;농축 SP포션 LV15;12;icon_item_SP_Alche
-I;호박사탕;2;icon_item_Pumpkin
 I;딸기;26;icon_item_Strawberry
 I;라무넬레;5;icon_item_Ramunele
-I;할로윈 폭죽;2;icon_item_firework
+I;할로윈 폭죽;5;icon_item_firework
 I;라프세이프 버섯;16;icon_item_Pinemushroom
 I;매두스;27;icon_item_Medus
 I;바루날레샤;11;icon_item_Varnalesa
@@ -28,8 +27,6 @@ I;샐러드;5;icon_item_salad
 I;아말라스;5;icon_item_Amalas
 I;아비에테;34;icon_item_Aviete
 I;오르샤 워프 주문서;6;GolemMagicItem1
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
 I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
 I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
 I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
@@ -61,8 +58,6 @@ I;보급용 워프 주문서;15;GolemMagicItem1
 I;블루 오브:박쥐;1;icon_item_Dreamshade
 I;블루 오브:푸른 스타울리트;1;icon_item_Dreamshade
 I;블루 오브:호그마 전사;1;icon_item_Dreamshade
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
 I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
 I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
 I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
@@ -284,7 +279,6 @@ I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;빈 스펠북;3;icon_item_emptySpellBook
 I;크리오라이트;9;39_icon_item_Cry8rite
 I;파이라이트;15;32_item_ore_pyrite
 I;압시듐 광석;10;8_item_ore_platinum
@@ -315,7 +309,6 @@ I;노란 파이란 날개;9;icon_item_batwing
 I;누더기 도살자의 도끼조각;6;icon_item_misc04_111
 I;누덕고치의 껍질;9;icon_item_shell_blue
 I;누덕새 날개;15;icon_item_batwing
-I;테라늄;5;36_item_ore_lapis_philosophorum
 I;단단한 껍질;38;icon_item_shell_yellow
 I;단단한 론도 껍질;6;icon_item_shell_blue
 I;단델의 날개;42;icon_item_batwing
@@ -558,6 +551,7 @@ G;Armor
 I;(바랜)워메이지 부츠;1;icon_item_warmage_boots
 I;(바랜)크라이지어스 그리브;1;icon_item_boots_kryzius
 I;(바랜)워메이지 글로브;1;icon_item_warmage_gloves
+I;라이타스 글로브;1;icon_item_9rank_cloth_01_glove
 I;(바랜)워메이지 팬츠;1;icon_item_warmage_pants
 I;(바랜)크라이지어스 플레이트 팬츠;1;icon_item_pants_kryzius
 I;(바랜)크라이지어스 플레이트 아머;1;icon_item_shirts_kryzius

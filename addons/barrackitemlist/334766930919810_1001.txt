@@ -1,12 +1,12 @@
 S;1001
 G;Unused
-I;실버;89920;icon_item_silver
+I;실버;100000;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;농축 HP포션 LV10;28;icon_item_HP_Alche
-I;농축 HP포션 LV15;12;icon_item_HP_Alche
-I;농축 SP포션 LV15;17;icon_item_SP_Alche
+I;농축 HP포션 LV15;10;icon_item_HP_Alche
+I;농축 SP포션 LV15;14;icon_item_SP_Alche
 I;농축 이동속도 증가 포션 LV15;4;item_speed_requid_1
 I;딸기;32;icon_item_Strawberry
 I;마이트 포션;1;item_speed_requid_1
@@ -30,10 +30,12 @@ I;페디미안 워프 주문서;5;GolemMagicItem1
 I;포포리온 고기;29;icon_item_meat_02
 I;폭죽;15;icon_item_firework
 I;해독제;13;icon_item_Quest_00020
+I;HP 회복의 엘릭서 [이벤트];10;icon_item_HPelixir
+I;SP 회복의 엘릭서 [이벤트];10;icon_item_SPelixir
 I;보급용 워프 주문서;2;GolemMagicItem1
-I;LV14 경험치 카드;8;icon_item_expcard
+I;LV14 경험치 카드;10;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
-I;스킬 주문서;13;GolemMagicItem1
+I;스킬 주문서;10;GolemMagicItem1
 I;스킬 주문서;21;GolemMagicItem1
 G;SubWeapon
 I;프리머스 즈바이더 피스톨;1;icon_item_pistol_nicopolis1
@@ -74,6 +76,7 @@ I;불릿 마커 휠러 코스튬;1;icon_item_bulletmarker03_f
 I;쿼렐슈터 코스튬;1;icon_item_quarrelshooter_f
 G;Material
 I;모루;7;icon_item_anvil
+I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;돌 탄환;11;icon_item_Misc_00001
 I;크리오라이트;11;39_icon_item_Cry8rite
 I;트랩 키트;2;icon_item_trap_kit
@@ -86,7 +89,7 @@ I;LV4 보물상자 열쇠;1;icon_item_key3
 I;갈고리;22;icon_item_claw_01
 I;갈록 가죽;2;icon_item_Misc_00007
 I;케파 날개;4;icon_item_batwing
-I;갈색 스타울리트 투구 파편;1;icon_item_helm_stoulet
+I;갈색 티니의 뼈;5;icon_item_bone
 I;거대한 갈고리;10;icon_item_claw_01
 I;검은 주술인형의 핵;10;icon_item_core_yellow
 I;고블린 부적;2;icon_item_bubetoken
@@ -217,7 +220,6 @@ I;츄파카브라 이빨;4;icon_item_tooth_white
 I;치넨시 잎;12;icon_item_bokchoyleaf
 I;카라스 파편;9;icon_item_Misc_00006
 I;카로 잎사귀;17;icon_item_leaves_green
-I;갈색 티니의 뼈;5;icon_item_bone
 I;케파 줄기;18;icon_item_stem_green
 I;케포 껍질;28;icon_item_onionpiece
 I;케포 솜털;12;icon_item_cotton
@@ -284,6 +286,7 @@ I;조잡하게 만든 망치;1;icon_item_ironhammer
 I;테넷 성당의 계시;1;icon_item_stonetablet
 I;펜듈럼;1;icon_item_pendulum
 I;헝겊인형 조각;8;icon_item_strawdoll2
+I;트라시움 조각;13;icon_item_gimmick_scaredcrystal
 G;Premium
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike

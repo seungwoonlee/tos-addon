@@ -17,7 +17,7 @@ I;복숭아;13;icon_item_Peach
 I;바루날레샤;1;icon_item_Varnalesa
 I;매두스;13;icon_item_Medus
 I;페디미안 워프 주문서;10;GolemMagicItem1
-I;농축 HP포션 LV15;6;icon_item_HP_Alche
+I;농축 HP포션 LV15;2;icon_item_HP_Alche
 I;폭죽;25;icon_item_firework
 I;보급용 농축 HP포션 LV15;4;item_HP_oil_3
 I;케이스타스 용맹의 포션;2;icon_item_Drug_exATK1
@@ -28,13 +28,11 @@ I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;케이스타스 회복포션Lv4;21;item_HPSP_potion_3
 I;아말라스;5;icon_item_Amalas
 I;정착 지원 포션;9;item_speed_requid_3
-I;농축 SP포션 LV15;22;icon_item_SP_Alche
+I;농축 SP포션 LV15;18;icon_item_SP_Alche
 I;보급용 워프 주문서;18;GolemMagicItem1
-I;LV14 경험치 카드;22;icon_item_expcard
+I;LV14 경험치 카드;29;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
 I;스킬 주문서;2;GolemMagicItem1
-G;SubWeapon
-I;버블스틱;1;icon_item_artefact_bublestick
 G;Book
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
 I;찢어진 일기의 일부 4;1;icon_item_paperpiece
@@ -51,31 +49,25 @@ G;Recipe
 I;제작서-페디미안 레더 글로브;1;icon_item_gloves_misc1
 I;제작서-실버 탈리스만;1;icon_item_necklace_misc1
 G;Collection
-I;컬렉션:레타스 개울가;1;icon_item_box
-I;컬렉션:카롤리스 샘터;1;icon_item_box
-I;컬렉션:연안요새;1;icon_item_box
-I;컬렉션:베르크티 광장;1;icon_item_box
-I;컬렉션:메사파슬라;1;icon_item_box
-I;컬렉션:드바시아 고개;1;icon_item_box
-I;컬렉션:스팔빈가스 숲;1;icon_item_box
-I;컬렉션:라다르 숲;1;icon_item_box
-I;컬렉션:실라 숲;1;icon_item_box
-I;컬렉션:기원의 숲;1;icon_item_box
-I;컬렉션:마법사의 탑 2층;1;icon_item_box
-I;컬렉션:마법사의 탑 4층;1;icon_item_box
-I;컬렉션:에산치우 마을;1;icon_item_box
-I;컬렉션:카듀멜 절벽;1;icon_item_box
-I;컬렉션:여신의 옛뜰;1;icon_item_box
+I;컬렉션: 레타스 개울가;1;icon_item_box
+I;컬렉션: 카롤리스 샘터;1;icon_item_box
+I;컬렉션: 연안요새;1;icon_item_box
+I;컬렉션: 베르크티 광장;1;icon_item_box
+I;컬렉션: 메사파슬라;1;icon_item_box
+I;컬렉션: 드바시아 고개;1;icon_item_box
+I;컬렉션: 스팔빈가스 숲;1;icon_item_box
+I;컬렉션: 라다르 숲;1;icon_item_box
+I;컬렉션: 실라 숲;1;icon_item_box
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 마법사의 탑 2층;1;icon_item_box
+I;컬렉션: 마법사의 탑 4층;1;icon_item_box
+I;컬렉션: 에산치우 마을;1;icon_item_box
+I;컬렉션: 카듀멜 절벽;1;icon_item_box
+I;컬렉션: 여신의 옛뜰;1;icon_item_box
 G;Premium
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
 I;소울 크리스탈;15;icon_item_soulCrystal
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;워프 주문서;15;icon_item_warpPremium
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;확성기;15;icon_item_Mike
-I;상어 해적단 코스튬(여);1;icon_item_cosair03_f
-I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
 I;황금 모루;1;icon_item_anvil_gold
 I;모루;11;icon_item_anvil
@@ -265,8 +257,6 @@ I;유적 파편;11;icon_item_stonepiece_01Yellow_01
 I;카포테;1;icon_capote
 I;카포테;1;icon_capote
 I;카포테;1;icon_capote
-I;수반시설 관리문서;1;icon_item_diary
-I;피묻은 쪽지;1;icon_item_3cm_paper
 G;Armor
 I;해적모자;1;icon_item_piratehat
 I;마타도르 벨비스트 코스튬;1;icon_item_warrior_matador02_f
