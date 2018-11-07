@@ -57,68 +57,68 @@ I;보급용 워프 주문서;14;GolemMagicItem1
 I;블루 오브:호그마 전사;1;icon_item_Dreamshade
 I;예식용 칼;1;icon_item_artefact_Decorative_knife
 G;Collection
-I;계시록 : 대립편 컬렉션;1;icon_item_holyark
-I;계시록 : 이면편 컬렉션;1;icon_item_holyark
+I;계시록: 대립편 컬렉션;1;icon_item_holyark
+I;계시록: 이면편 컬렉션;1;icon_item_holyark
 I;몬스터 표본 세트;1;icon_item_box
-I;컬렉션:갈르엣 평야;1;icon_item_box
-I;컬렉션:관문로;1;icon_item_box
-I;컬렉션:기원의 숲;1;icon_item_box
-I;컬렉션:긴다리 계곡;1;icon_item_box
-I;컬렉션:나뮤 사원터;1;icon_item_box
-I;컬렉션:나하스 숲;1;icon_item_box
-I;컬렉션:네프리타스 벼랑;1;icon_item_box
-I;컬렉션:누오로딘 폭포;1;icon_item_box
-I;컬렉션:드바시아 고개;1;icon_item_box
-I;컬렉션:라다르 숲;1;icon_item_box
-I;컬렉션:람스티스 협곡;1;icon_item_box
-I;컬렉션:루카스 고원;1;icon_item_box
-I;컬렉션:마당 고원;1;icon_item_box
-I;컬렉션:마법사의 탑 1층;1;icon_item_box
-I;컬렉션:마법사의 탑 2층;1;icon_item_box
-I;컬렉션:마법사의 탑 3층;1;icon_item_box
-I;컬렉션:마법사의 탑 4층;1;icon_item_box
-I;컬렉션:마법사의 탑 5층;1;icon_item_box
-I;컬렉션:바르하 숲;1;icon_item_box
-I;컬렉션:베야 골짜기;1;icon_item_box
-I;컬렉션:비석로;1;icon_item_box
-I;컬렉션:비에타 계곡;1;icon_item_box
-I;컬렉션:사크니스 벌판;1;icon_item_box
-I;컬렉션:샤울레이 광산 마을;1;icon_item_box
-I;컬렉션:샤울레이 동쪽 숲;1;icon_item_box
-I;컬렉션:샤울레이 서쪽 숲;1;icon_item_box
-I;컬렉션:셉티니 골;1;icon_item_box
-I;컬렉션:수정광산 2층;1;icon_item_box
-I;컬렉션:수정광산 3층;1;icon_item_box
-I;컬렉션:스벤티마스 유형지;1;icon_item_box
-I;컬렉션:스팔빈가스 숲;1;icon_item_box
-I;컬렉션:시르드겔라 숲;1;icon_item_box
-I;컬렉션:실라 숲;1;icon_item_box
-I;컬렉션:알레멧 숲;1;icon_item_box
-I;컬렉션:엘고스 수도원 별관;1;icon_item_box
-I;컬렉션:엘고스 수도원 본원;1;icon_item_box
-I;컬렉션:왕릉 1층;1;icon_item_box
-I;컬렉션:왕릉 2층;1;icon_item_box
-I;컬렉션:왕릉 3층;1;icon_item_box
-I;컬렉션:왕릉 5층;1;icon_item_box
-I;컬렉션:왕릉 건축자 예배당;1;icon_item_box
-I;컬렉션:왕릉 노역자 숙소;1;icon_item_box
-I;컬렉션:왕의 고원;1;icon_item_box
-I;컬렉션:이국 사랑;1;icon_item_box
-I;컬렉션:이스토라 유적지;1;icon_item_box
-I;컬렉션:자카리엘 교차로;1;icon_item_box
-I;컬렉션:지마 수코트;1;icon_item_box
-I;컬렉션:카듀멜 절벽;1;icon_item_box
-I;컬렉션:코발트 숲;1;icon_item_box
-I;컬렉션:크란토 연안;1;icon_item_box
-I;컬렉션:크바일라스 숲;1;icon_item_box
-I;컬렉션:큰아귀 길;1;icon_item_box
-I;컬렉션:테넷 성당 지상 1층;1;icon_item_box
-I;컬렉션:테넷 성당 지하 1층;1;icon_item_box
-I;컬렉션:틸타스 협곡;1;icon_item_box
-I;컬렉션:페디미안 외곽;1;icon_item_box
-I;컬렉션:포슬린키스 숲;1;icon_item_box
-I;컬렉션:필그림 들길;1;icon_item_box
-I;컬렉션:해안 지역;1;icon_item_box
+I;컬렉션: 갈르엣 평야;1;icon_item_box
+I;컬렉션: 관문로;1;icon_item_box
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 긴다리 계곡;1;icon_item_box
+I;컬렉션: 나뮤 사원터;1;icon_item_box
+I;컬렉션: 나하스 숲;1;icon_item_box
+I;컬렉션: 네프리타스 벼랑;1;icon_item_box
+I;컬렉션: 누오로딘 폭포;1;icon_item_box
+I;컬렉션: 드바시아 고개;1;icon_item_box
+I;컬렉션: 라다르 숲;1;icon_item_box
+I;컬렉션: 람스티스 협곡;1;icon_item_box
+I;컬렉션: 루카스 고원;1;icon_item_box
+I;컬렉션: 마당 고원;1;icon_item_box
+I;컬렉션: 마법사의 탑 1층;1;icon_item_box
+I;컬렉션: 마법사의 탑 2층;1;icon_item_box
+I;컬렉션: 마법사의 탑 3층;1;icon_item_box
+I;컬렉션: 마법사의 탑 4층;1;icon_item_box
+I;컬렉션: 마법사의 탑 5층;1;icon_item_box
+I;컬렉션: 바르하 숲;1;icon_item_box
+I;컬렉션: 베야 골짜기;1;icon_item_box
+I;컬렉션: 비석로;1;icon_item_box
+I;컬렉션: 비에타 계곡;1;icon_item_box
+I;컬렉션: 사크니스 벌판;1;icon_item_box
+I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
+I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
+I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
+I;컬렉션: 셉티니 골;1;icon_item_box
+I;컬렉션: 수정광산 2층;1;icon_item_box
+I;컬렉션: 수정광산 3층;1;icon_item_box
+I;컬렉션: 스벤티마스 유형지;1;icon_item_box
+I;컬렉션: 스팔빈가스 숲;1;icon_item_box
+I;컬렉션: 시르드겔라 숲;1;icon_item_box
+I;컬렉션: 실라 숲;1;icon_item_box
+I;컬렉션: 알레멧 숲;1;icon_item_box
+I;컬렉션: 엘고스 수도원 별관;1;icon_item_box
+I;컬렉션: 엘고스 수도원 본원;1;icon_item_box
+I;컬렉션: 왕릉 1층;1;icon_item_box
+I;컬렉션: 왕릉 2층;1;icon_item_box
+I;컬렉션: 왕릉 3층;1;icon_item_box
+I;컬렉션: 왕릉 5층;1;icon_item_box
+I;컬렉션: 왕릉 건축자 예배당;1;icon_item_box
+I;컬렉션: 왕릉 노역자 숙소;1;icon_item_box
+I;컬렉션: 왕의 고원;1;icon_item_box
+I;컬렉션: 이국 사랑;1;icon_item_box
+I;컬렉션: 이스토라 유적지;1;icon_item_box
+I;컬렉션: 자카리엘 교차로;1;icon_item_box
+I;컬렉션: 지마 수코트;1;icon_item_box
+I;컬렉션: 카듀멜 절벽;1;icon_item_box
+I;컬렉션: 코발트 숲;1;icon_item_box
+I;컬렉션: 크란토 연안;1;icon_item_box
+I;컬렉션: 크바일라스 숲;1;icon_item_box
+I;컬렉션: 큰아귀 길;1;icon_item_box
+I;컬렉션: 테넷 성당 지상 1층;1;icon_item_box
+I;컬렉션: 테넷 성당 지하 1층;1;icon_item_box
+I;컬렉션: 틸타스 협곡;1;icon_item_box
+I;컬렉션: 페디미안 외곽;1;icon_item_box
+I;컬렉션: 포슬린키스 숲;1;icon_item_box
+I;컬렉션: 필그림 들길;1;icon_item_box
+I;컬렉션: 해안 지역;1;icon_item_box
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;낡은 일기;1;icon_item_collection_04Black
@@ -196,7 +196,6 @@ I;엘라가노스 카드;Lv1;icon_item_card_stat
 I;엘라가노스 카드;Lv1;icon_item_card_stat
 I;엘라가노스 카드;Lv1;icon_item_card_stat
 I;우드혼간 카드;Lv1;icon_item_card_stat
-I;큐바스 카드;Lv10;icon_item_card_stat
 I;템플슈터 카드;Lv1;icon_item_card_stat
 I;템플슈터 카드;Lv10;icon_item_card_stat
 I;템플슈터 카드;Lv1;icon_item_card_stat
@@ -331,6 +330,20 @@ I;콜리멘시아 카드;Lv1;icon_item_card_def
 I;프로골라 카드;Lv1;icon_item_card_def
 I;플람미두스 카드;Lv1;icon_item_card_def
 I;회색 골렘 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
 I;가이갈라스 카드;Lv1;icon_item_card_util
 I;샐러맨더 카드;Lv1;icon_item_card_util
 I;네옵 카드;Lv1;icon_item_card_util
@@ -340,18 +353,16 @@ I;듀라한 카드;Lv1;icon_item_card_util
 I;듀라한 카드;Lv1;icon_item_card_util
 I;데스위버 카드;Lv1;icon_item_card_util
 I;리카우스 카드;Lv1;icon_item_card_util
-I;리카우스 카드;Lv10;icon_item_card_util
 I;리테리스 카드;Lv1;icon_item_card_util
-I;리카우스 카드;Lv10;icon_item_card_util
-I;맨티켄 카드;Lv1;icon_item_card_util
-I;맨티켄 카드;Lv1;icon_item_card_util
 I;마인로더 카드;Lv1;icon_item_card_util
+I;맨티켄 카드;Lv1;icon_item_card_util
+I;맨티켄 카드;Lv1;icon_item_card_util
+I;맨티켄 카드;Lv1;icon_item_card_util
 I;몰렉 카드;Lv1;icon_item_card_util
 I;벨로차드 카드;Lv1;icon_item_card_util
 I;사이클롭스 카드;Lv1;icon_item_card_util
 I;사이클롭스 카드;Lv1;icon_item_card_util
 I;샐러맨더 카드;Lv1;icon_item_card_util
-I;맨티켄 카드;Lv1;icon_item_card_util
 I;섀도게일러 카드;Lv1;icon_item_card_util
 I;서큐버스 카드;Lv10;icon_item_card_util
 I;서큐버스 카드;Lv1;icon_item_card_util

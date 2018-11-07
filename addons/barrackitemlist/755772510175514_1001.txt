@@ -114,14 +114,11 @@ I;컬렉션: 긴다리 계곡;1;icon_item_box
 I;컬렉션: 필그림 들길;1;icon_item_box
 I;컬렉션: 기원의 숲;1;icon_item_box
 I;컬렉션: 알레멧 숲;1;icon_item_box
-G;Armor
-I;레다스 네클리스;1;item_necklace_21_blue
-I;사이코키노 코스튬;1;icon_item_psychokinesist_f
-I;쏘마터지 코스튬;1;icon_item_thaumaturge_f
-I;음양사의 왕국의상 코스튬;1;icon_item_wizard_onmyoji02_f
-I;음양사의 왕실예복 코스튬;1;icon_item_wizard_onmyoji04_f
-I;음양사의 가운 코스튬;1;icon_item_wizard_onmyoji01_f
+G;Premium
+I;워프 주문서;15;icon_item_warpPremium
+I;확성기;15;icon_item_Mike
 G;Material
+I;모루;15;icon_item_anvil
 I;종이 인형;4740;icon_item_paperdoll
 I;크리오라이트;1;39_icon_item_Cry8rite
 I;주석;4;1_item_ore_copper
@@ -224,7 +221,7 @@ I;트리피드 가시;1;icon_item_thorn_green
 I;나무 말뚝;2;icon_item_wood_3
 I;묘지 골렘의 핵;13;icon_item_core_blue
 I;굵은 체인;1;icon_item_chain
-I;야크야크의 뿔;26;icon_item_misc_0517
+I;야크야크의 뿔;37;icon_item_misc_0517
 I;크레토의 깃털;7;icon_item_misc_0518
 I;푸른 콜리멘 꽃;1;icon_item_flower_colimen_blue
 I;바를헬름즈먼의 둔기 머리;12;icon_item_misc_0514
@@ -240,6 +237,7 @@ I;바를스키퍼의 검신;3;icon_item_misc_0513
 I;니므라솔저의 부러진 레이피어;2;icon_item_misc_0510
 I;바를거너의 대포 조각;1;icon_item_misc_0512
 I;로열 블레이드 파편;1;icon_item_misc_0529
+I;테라늄;13;36_item_ore_lapis_philosophorum
 I;소켓의 껍질;5;icon_item_shell_blue
 I;차원 탐색 스크롤;1;GolemMagicItem1
 I;귀환석;1;MercenaryBadge
@@ -269,6 +267,10 @@ I;네 번째 비석 조각;1;icon_item_stonepiece_01Yellow_01
 I;조잡한 탐사막대;1;icon_item_Lrod
 I;영기가 흐르는 돌;5;icon_item_Gem_Stone_CON
 I;소화된 흙;45;icon_item_powderb
-G;Premium
-I;워프 주문서;15;icon_item_warpPremium
-I;확성기;15;icon_item_Mike
+G;Armor
+I;레다스 네클리스;1;item_necklace_21_blue
+I;사이코키노 코스튬;1;icon_item_psychokinesist_f
+I;쏘마터지 코스튬;1;icon_item_thaumaturge_f
+I;음양사의 왕국의상 코스튬;1;icon_item_wizard_onmyoji02_f
+I;음양사의 왕실예복 코스튬;1;icon_item_wizard_onmyoji04_f
+I;음양사의 가운 코스튬;1;icon_item_wizard_onmyoji01_f

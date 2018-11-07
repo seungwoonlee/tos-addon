@@ -28,7 +28,7 @@ I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;케이스타스 회복포션Lv4;21;item_HPSP_potion_3
 I;아말라스;5;icon_item_Amalas
 I;정착 지원 포션;9;item_speed_requid_3
-I;농축 SP포션 LV15;18;icon_item_SP_Alche
+I;농축 SP포션 LV15;16;icon_item_SP_Alche
 I;보급용 워프 주문서;18;GolemMagicItem1
 I;LV14 경험치 카드;29;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue

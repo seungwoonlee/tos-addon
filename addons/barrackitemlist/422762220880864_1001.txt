@@ -35,12 +35,12 @@ I;폭죽;20;icon_item_firework
 I;케이스타스 용맹의 포션;5;icon_item_Drug_exATK1
 I;샐러드;5;icon_item_salad
 I;샌드위치;5;icon_item_sandwich
-I;농축 SP포션 LV15;23;icon_item_SP_Alche
+I;농축 SP포션 LV15;21;icon_item_SP_Alche
 I;해독제;30;icon_item_Quest_00020
 I;복숭아;2;icon_item_Peach
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;농축 HP포션 LV15;4;icon_item_HP_Alche
+I;농축 HP포션 LV15;12;icon_item_HP_Alche
 I;보급용 워프 주문서;20;GolemMagicItem1
 I;블루 오브:폰델;1;icon_item_Dreamshade
 I;LV14 경험치 카드;16;icon_item_expcard
@@ -59,7 +59,7 @@ I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;찢어진 일기;1;icon_item_magicpaper
 I;버려진 일기장;1;icon_item_collection_00Basic
 G;Recipe
-I;제작서-뚫어뻥;18;icon_item_weapon_misc5
+I;제작서-뚫어뻥;19;icon_item_weapon_misc5
 G;Collection
 I;컬렉션: 자카리엘 교차로;1;icon_item_box
 I;컬렉션: 이브레 고원;1;icon_item_box
@@ -78,7 +78,6 @@ I;확성기;15;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Armor
 I;카프리선 부츠;1;icon_item_boots_brigan
-I;베테랑 팬츠;1;icon_item_pants_NEO
 I;나뭇잎 장식 투구;1;accessory_leafhelm
 I;스파르타 투구;1;icon_item_red_long_helmet
 I;에보니 룩;1;icon_item_accessory_chessRook
@@ -261,5 +260,4 @@ I;기침약;8;icon_item_holywater
 I;깨진 마력핵 조각;8;icon_item_pieceofglass
 G;Weapon
 I;리가드 혼 파이크;1;icon_item_spear_regardhorn_TH
-I;프리머스 라파이 파이크;1;icon_item_spear_twohand_lapai
-I;프리머스 라파이 파이크;1;icon_item_spear_twohand_lapai
+I;일기당천 언월도;1;icon_item_BlueDragon_thspear

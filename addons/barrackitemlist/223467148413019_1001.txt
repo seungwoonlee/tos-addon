@@ -63,23 +63,19 @@ I;찢어진 일기의 일부 3;1;icon_item_paperpiece
 G;Recipe
 I;제작서-레이드 포탈 스톤;2;icon_item_recipe_misc1
 G;Collection
-I;컬렉션:그리나스 숲길;1;icon_item_box
-I;컬렉션:기원의 숲;1;icon_item_box
-I;컬렉션:긴다리 계곡;1;icon_item_box
-I;컬렉션:라다르 숲;1;icon_item_box
-I;컬렉션:록소나 장터;1;icon_item_box
-I;컬렉션:베르크티 광장;1;icon_item_box
-I;컬렉션:스팔빈가스 숲;1;icon_item_box
-I;컬렉션:실라 숲;1;icon_item_box
-I;컬렉션:왕릉 건축자 예배당;1;icon_item_box
-I;컬렉션:포슬린키스 숲;1;icon_item_box
+I;컬렉션: 그리나스 숲길;1;icon_item_box
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 긴다리 계곡;1;icon_item_box
+I;컬렉션: 라다르 숲;1;icon_item_box
+I;컬렉션: 록소나 장터;1;icon_item_box
+I;컬렉션: 베르크티 광장;1;icon_item_box
+I;컬렉션: 스팔빈가스 숲;1;icon_item_box
+I;컬렉션: 실라 숲;1;icon_item_box
+I;컬렉션: 왕릉 건축자 예배당;1;icon_item_box
+I;컬렉션: 포슬린키스 숲;1;icon_item_box
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
 I;워프 주문서;15;icon_item_warpPremium
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;확성기;15;icon_item_Mike
 I;성직자용 심플 컬러 코스튬(여);1;cleric_simplecolor_f
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
@@ -242,5 +238,6 @@ I;해방 영약;1;icon_item_Drug_DEF3
 I;휠렌의 증표;1;icon_item_Gem_Elemental17
 I;힘을 잃은 고헤이;1;icon_item_gohei
 G;Armor
+I;리에나 로브;1;icon_item_shirts_sage
 I;드루이드 코스튬;1;icon_item_druid_f
 I;팔라딘 코스튬;1;icon_item_paladin_f

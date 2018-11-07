@@ -6,8 +6,8 @@ I;작은 은빛 물고기;2;icon_item_fish4
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;농축 HP포션 LV15;38;icon_item_HP_Alche
-I;농축 SP포션 LV15;24;icon_item_SP_Alche
+I;농축 HP포션 LV15;37;icon_item_HP_Alche
+I;농축 SP포션 LV15;20;icon_item_SP_Alche
 I;라프세이프 버섯;9;icon_item_Pinemushroom
 I;레드옥스;4;icon_item_Red_Ox
 I;마법 공격력 포션;3;item_speed_requid_1
@@ -248,8 +248,6 @@ I;필기도구가 든 가방;1;icon_item_sidebag
 I;흡수스크롤;1;GolemMagicItem2
 G;Armor
 I;오그마 건틀릿;1;icon_item_gloves_SRchain
-I;탈리스만;1;item_necklace_19
-I;탈리스만;1;item_necklace_19
 I;강철 투구;1;hairacc_35_helm3
 I;로델레로 코스튬;1;icon_item_rodelero_f
 I;낙무아이 코스튬;1;icon_item_warrior_nakmuay01_f

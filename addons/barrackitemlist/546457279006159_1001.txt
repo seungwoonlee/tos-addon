@@ -30,9 +30,6 @@ I;스킬 주문서;25;GolemMagicItem1
 I;스킬 주문서;7;GolemMagicItem1
 I;스킬 주문서;10;GolemMagicItem1
 I;신부 비둘기 오르골;1;icon_item_MusicBox_Wedding02
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
 G;SubWeapon
 I;(바랜)스몰 크리스타라스;1;icon_item_dagger_cristal
 I;디오니스 암밴드;1;icon_item_armband_dinios
@@ -55,49 +52,46 @@ G;FishingRod
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 G;Collection
 I;5대 죄악의 목걸이 컬렉션;1;icon_item_jewelrybox
-I;계시록 : 대립편 컬렉션;1;icon_item_holyark
+I;계시록: 대립편 컬렉션;1;icon_item_holyark
 I;몬스터 표본 세트;1;icon_item_box
-I;컬렉션:갈르엣 평야;1;icon_item_box
-I;컬렉션:겔리 고원;1;icon_item_box
-I;컬렉션:기원의 숲;1;icon_item_box
-I;컬렉션:기티스의 개척지;1;icon_item_box
-I;컬렉션:네토 숲;1;icon_item_box
-I;컬렉션:네프리타스 벼랑;1;icon_item_box
-I;컬렉션:다단 숲;1;icon_item_box
-I;컬렉션:대성당 본당;1;icon_item_box
-I;컬렉션:대성당 참회로;1;icon_item_box
-I;컬렉션:덧댄다리 숲;1;icon_item_box
-I;컬렉션:라다르 숲;1;icon_item_box
-I;컬렉션:마족수감소 1구역;1;icon_item_box
-I;컬렉션:마족수감소 2구역;1;icon_item_box
-I;컬렉션:마족수감소 3구역;1;icon_item_box
-I;컬렉션:마족수감소 5구역;1;icon_item_box
-I;컬렉션:베야 골짜기;1;icon_item_box
-I;컬렉션:봄볕나무 숲;1;icon_item_box
-I;컬렉션:비에타 계곡;1;icon_item_box
-I;컬렉션:빌나 숲;1;icon_item_box
-I;컬렉션:샤울레이 광산 마을;1;icon_item_box
-I;컬렉션:샤울레이 동쪽 숲;1;icon_item_box
-I;컬렉션:샤울레이 서쪽 숲;1;icon_item_box
-I;컬렉션:셉티니 골;1;icon_item_box
-I;컬렉션:수정광산 2층;1;icon_item_box
-I;컬렉션:수정광산 3층;1;icon_item_box
-I;컬렉션:스라우타스 협곡;1;icon_item_box
-I;컬렉션:스팔빈가스 숲;1;icon_item_box
-I;컬렉션:실라 숲;1;icon_item_box
-I;컬렉션:압시메스티 교차로;1;icon_item_box
-I;컬렉션:초보자의 무기;1;icon_item_box
-I;컬렉션:코발트 숲;1;icon_item_box
-I;컬렉션:큰아귀 길;1;icon_item_box
-I;컬렉션:테넷 성당 지상 1층;1;icon_item_box
-I;컬렉션:테넷 성당 지상 2층;1;icon_item_box
-I;컬렉션:테넷 성당 지하 1층;1;icon_item_box
-I;컬렉션:테넷 화원;1;icon_item_box
-I;컬렉션:티메리스 사원;1;icon_item_box
-I;컬렉션:필그림 들길;1;icon_item_box
-G;Event
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
+I;컬렉션: 갈르엣 평야;1;icon_item_box
+I;컬렉션: 겔리 고원;1;icon_item_box
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 기티스의 개척지;1;icon_item_box
+I;컬렉션: 네토 숲;1;icon_item_box
+I;컬렉션: 네프리타스 벼랑;1;icon_item_box
+I;컬렉션: 다단 숲;1;icon_item_box
+I;컬렉션: 대성당 본당;1;icon_item_box
+I;컬렉션: 대성당 참회로;1;icon_item_box
+I;컬렉션: 덧댄다리 숲;1;icon_item_box
+I;컬렉션: 라다르 숲;1;icon_item_box
+I;컬렉션: 마족수감소 1구역;1;icon_item_box
+I;컬렉션: 마족수감소 2구역;1;icon_item_box
+I;컬렉션: 마족수감소 3구역;1;icon_item_box
+I;컬렉션: 마족수감소 5구역;1;icon_item_box
+I;컬렉션: 베야 골짜기;1;icon_item_box
+I;컬렉션: 봄볕나무 숲;1;icon_item_box
+I;컬렉션: 비에타 계곡;1;icon_item_box
+I;컬렉션: 빌나 숲;1;icon_item_box
+I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
+I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
+I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
+I;컬렉션: 셉티니 골;1;icon_item_box
+I;컬렉션: 수정광산 2층;1;icon_item_box
+I;컬렉션: 수정광산 3층;1;icon_item_box
+I;컬렉션: 스라우타스 협곡;1;icon_item_box
+I;컬렉션: 스팔빈가스 숲;1;icon_item_box
+I;컬렉션: 실라 숲;1;icon_item_box
+I;컬렉션: 압시메스티 교차로;1;icon_item_box
+I;컬렉션: 초보자의 무기;1;icon_item_box
+I;컬렉션: 코발트 숲;1;icon_item_box
+I;컬렉션: 큰아귀 길;1;icon_item_box
+I;컬렉션: 테넷 성당 지상 1층;1;icon_item_box
+I;컬렉션: 테넷 성당 지상 2층;1;icon_item_box
+I;컬렉션: 테넷 성당 지하 1층;1;icon_item_box
+I;컬렉션: 테넷 화원;1;icon_item_box
+I;컬렉션: 티메리스 사원;1;icon_item_box
+I;컬렉션: 필그림 들길;1;icon_item_box
 G;Armor
 I;질럿 코스튬;1;icon_item_zealot1_f
 I;질럿 퍼티션 코스튬;1;icon_item_zealot4_f
@@ -283,10 +277,6 @@ I;푸른 라프세이프의 이끼;8;icon_item_coral_moss
 I;푸른 산호;5;icon_item_coral2
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
 I;워프 주문서;15;icon_item_warpPremium
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;확성기;15;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f

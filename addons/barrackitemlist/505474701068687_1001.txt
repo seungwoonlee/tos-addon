@@ -19,7 +19,7 @@ I;매두스;20;icon_item_Medus
 I;폭죽;34;icon_item_firework
 I;고농축 이동속도 증가 포션;1;item_speed_requid_1
 I;보급용 농축 HP포션 LV15;9;item_HP_oil_3
-I;농축 HP포션 LV15;15;icon_item_HP_Alche
+I;농축 HP포션 LV15;14;icon_item_HP_Alche
 I;케이스타스 용맹의 포션;3;icon_item_Drug_exATK1
 I;케이스타스 수호의 포션;2;icon_item_Drug_exDEF1
 I;보급용 작은 HP포션;1;item_HP_oil_1
@@ -30,7 +30,8 @@ I;보급용 SP포션;29;item_SP_requid_2
 I;라프세이프 버섯;1;icon_item_Pinemushroom
 I;아말라스;1;icon_item_Amalas
 I;딜겔레;1;icon_item_Dilgele
-I;농축 SP포션 LV15;26;icon_item_SP_Alche
+I;농축 SP포션 LV15;24;icon_item_SP_Alche
+I;할로윈 폭죽;1;icon_item_firework
 I;블루 오브:이노움;1;icon_item_Dreamshade
 I;레드 오브:이노움;1;icon_item_Dreamshade_red
 I;블루 오브:치넨시;1;icon_item_Dreamshade

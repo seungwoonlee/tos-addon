@@ -1,11 +1,12 @@
 S;1001
 G;Unused
-I;실버;100001;icon_item_silver
+I;실버;3422000;icon_item_silver
 G;Armor
 I;치킨 푸들 헤드(여);1;icon_item_helmet_poodle_f
 I;케파 헤드(여);1;icon_item_helmet_kepa_f
 I;포포리온 헤드(여);1;icon_item_helmet_popolion_f
 I;하나밍 헤드(여);1;icon_item_helmet_hanaming_f
+I;로얄 메이지 글로브;1;icon_item_gloves_royalMage
 I;애니무스;1;item_necklace_07
 I;케파 팬던트;1;item_necklace_10
 I;탈리스만;1;item_necklace_19
@@ -243,8 +244,8 @@ I;파이로맨서 코스튬;1;icon_item_pyromancer_f
 I;괴나리봇짐;1;icon_item_wing_bundle
 I;사심이 담긴 상소문;1;icon_item_wing_scroll2
 G;PasteBait
-I;문어;335;icon_item_octopus
-I;작은 은빛 물고기;11;icon_item_fish4
+I;문어;144;icon_item_octopus
+I;작은 은빛 물고기;16;icon_item_fish4
 G;Helmet
 I;24K 금괴 멍멍 헬멧 코스튬;1;item_icon_helmet_goldstonedog01
 I;복실복실 황금개 헬멧 코스튬;1;item_icon_helmet_golddog
@@ -855,7 +856,6 @@ I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;은빛 물고기;10;icon_item_fish2
 I;할로윈 팝업북;1;icon_item_halloween_popupbook
 I;신랑 비둘기 오르골;1;icon_item_MusicBox_Wedding01
 I;신부 비둘기 오르골;1;icon_item_MusicBox_Wedding02
@@ -1019,6 +1019,7 @@ I;한가위 한복 코스튬(여);1;icon_item_hanbok02_f
 I;스파이더 웹 코스튬(여);1;icon_item_HalloweenBat_Unifom_f
 G;Material
 I;모루;11;icon_item_anvil
+I;황금 모루;6;icon_item_anvil_gold
 I;마력 흡수침;35;icon_item_spellneedle
 I;분해의 망치;32;icon_item_farm47_wood_hammer
 I;기슬로티스;16;icon_item_Gyslotis
@@ -1031,7 +1032,7 @@ I;주석;7;1_item_ore_copper
 I;토파즈;3;24_item_ore_topaz
 I;호박;50;22_item_ore_amber
 I;LV2 보물상자 열쇠;4;icon_item_key1
-I;각성 가루;41;icon_item_wakepowder
+I;각성 가루;213;icon_item_wakepowder
 I;갈고리;6;icon_item_claw_01
 I;갈록 가죽;1;icon_item_Misc_00007
 I;갈색 라프세이프 잎;21;icon_item_leaves_lapasape_brown
@@ -1192,7 +1193,7 @@ I;오페러의 껍질;1;icon_item_shell_yellow
 I;요노움의 핵;36;icon_item_core_purple
 I;우펜트의 껍질;19;icon_item_Misc_00015
 I;웬디고 이빨;14;icon_item_tooth_white
-I;위버 더듬이;14;icon_item_feeler_black
+I;위버 더듬이;15;icon_item_feeler_black
 I;유니콘의 뼈;2;icon_item_bone
 I;유리 조각;9;icon_item_pieceofglass
 I;유코테일 꼬리;8;icon_item_tail_jukotail
@@ -1254,7 +1255,7 @@ I;치넨시 잎;11;icon_item_bokchoyleaf
 I;카라스 파편;12;icon_item_Misc_00006
 I;카로 잎사귀;4;icon_item_leaves_green
 I;카타콤 잎방개의 껍질;5;icon_item_shell_purple
-I;케놀 수정;4;icon_item_Crystal_00005
+I;케놀 수정;5;icon_item_Crystal_00005
 I;케파 날개;16;icon_item_batwing
 I;케파 줄기;87;icon_item_stem_green
 I;케포 껍질;8;icon_item_onionpiece
@@ -1317,7 +1318,7 @@ I;플락의 갑옷조각;5;icon_item_FORMINE_ARMOR_SCAPULAR
 I;플로론의 잎;2;icon_item_leaf
 I;피노의 줄기;2;icon_item_stem_brown
 I;피라콘 잎;41;icon_item_leaves_red
-I;피렌트 꽃;43;icon_item_firentflower
+I;피렌트 꽃;44;icon_item_firentflower
 I;하나밍 꽃잎;4;icon_item_HanamingPetal
 I;하루갈 가죽;5;icon_item_Misc_00009
 I;하루갈 뼈;25;icon_item_bone
@@ -1373,4 +1374,5 @@ I;훈련용 덤벨;1;icon_item_dumbell
 I;힘을 잃은 고헤이;1;icon_item_gohei
 I;힘이 복구된 사울레의 성구;1;icon_item_crimson3
 G;Weapon
+I;크로스보우;1;icon_item_crossbow
 I;클레이모어;1;icon_item_Sword_21

@@ -5,8 +5,8 @@ G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;농축 HP포션 LV10;28;icon_item_HP_Alche
-I;농축 HP포션 LV15;10;icon_item_HP_Alche
-I;농축 SP포션 LV15;14;icon_item_SP_Alche
+I;농축 HP포션 LV15;4;icon_item_HP_Alche
+I;농축 SP포션 LV15;8;icon_item_SP_Alche
 I;농축 이동속도 증가 포션 LV15;4;item_speed_requid_1
 I;딸기;32;icon_item_Strawberry
 I;마이트 포션;1;item_speed_requid_1
@@ -35,7 +35,7 @@ I;SP 회복의 엘릭서 [이벤트];10;icon_item_SPelixir
 I;보급용 워프 주문서;2;GolemMagicItem1
 I;LV14 경험치 카드;10;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
-I;스킬 주문서;10;GolemMagicItem1
+I;스킬 주문서;6;GolemMagicItem1
 I;스킬 주문서;21;GolemMagicItem1
 G;SubWeapon
 I;프리머스 즈바이더 피스톨;1;icon_item_pistol_nicopolis1
