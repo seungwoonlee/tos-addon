@@ -25,7 +25,7 @@ I;케이스타스 회복포션Lv4;10;item_HPSP_potion_3
 I;페디미안 워프 주문서;9;GolemMagicItem1
 I;포포리온 고기;16;icon_item_meat_02
 I;해독제;5;icon_item_Quest_00020
-I;LV14 경험치 카드;14;icon_item_expcard
+I;LV14 경험치 카드;34;icon_item_expcard
 I;보급용 워프 주문서;25;GolemMagicItem1
 I;디스펠러;10;icon_item_grimoire_blue
 G;SubWeapon
@@ -40,15 +40,15 @@ I;제작서-x4 경험의 서;5;icon_item_recipe_misc1
 I;제작서-x8 경험의 서;3;icon_item_recipe_misc1
 I;제작서-레이드 포탈 스톤;11;icon_item_recipe_misc1
 G;Collection
-I;컬렉션:나하스 숲;1;icon_item_box
-I;컬렉션:내성곽지구;1;icon_item_box
-I;컬렉션:네토 숲;1;icon_item_box
-I;컬렉션:실라 숲;1;icon_item_box
-I;컬렉션:라다르 숲;1;icon_item_box
-I;컬렉션:스팔빈가스 숲;1;icon_item_box
-I;컬렉션:기원의 숲;1;icon_item_box
-I;컬렉션:지마 수코트;1;icon_item_box
-I;컬렉션:큰아귀 길;1;icon_item_box
+I;컬렉션: 나하스 숲;1;icon_item_box
+I;컬렉션: 내성곽지구;1;icon_item_box
+I;컬렉션: 네토 숲;1;icon_item_box
+I;컬렉션: 실라 숲;1;icon_item_box
+I;컬렉션: 라다르 숲;1;icon_item_box
+I;컬렉션: 스팔빈가스 숲;1;icon_item_box
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 지마 수코트;1;icon_item_box
+I;컬렉션: 큰아귀 길;1;icon_item_box
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
@@ -212,6 +212,10 @@ I;푸른 램프의 기름;7;icon_item_liquid
 I;마력 추적지도 : 살비야스 숲;1;GolemMagicItem1
 I;흩어진 기록지;15;GolemMagicItem1
 G;Armor
+I;그리나스 레깅스;1;icon_item_pants_royalGuard
+I;슈페리어 로얄 가드 아머;1;icon_item_shirts_royalGuard
+I;나이트 아머;1;icon_item_shirts_knight
+I;그리나스 아머;1;icon_item_shirts_royalGuard
 I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
 I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
 I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT

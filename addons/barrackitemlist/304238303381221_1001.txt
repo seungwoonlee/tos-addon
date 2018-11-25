@@ -1,12 +1,23 @@
 S;1001
 G;Unused
 I;실버;14917408;icon_item_silver
-G;SubWeapon
-I;눈꽃 스프레이;1;icon_item_snowflower
-I;핫팩;1;icon_item_hotpack
-I;기와지붕 대거;1;icon_item_RootTile_dagger
+G;Armor
+I;베르타스 제베넬리스 레더 부츠;1;icon_item_leather_boots_1
+I;베르타스 제베넬리스 레더 글로브;1;icon_item_leather_glove_1
+I;베르타스 제베넬리스 레더 팬츠;1;icon_item_leather_pants_1
+I;베르타스 제베넬리스 레더 아머;1;icon_item_leather_shirt_1
+I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
+I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
+I;크란토 브레이슬릿;1;item_bracelet_17
+I;케파 인형;1;hairacc_48_cepadoll
+I;레인저 코스튬;1;icon_item_ranger_f
+I;로그 코스튬;1;icon_item_rogue_f
+I;응사 코스튬;1;icon_item_falconer_f
+I;사심이 담긴 상소문;1;icon_item_wing_scroll2
 G;Collection
 I;컬렉션: 기원의 숲;1;icon_item_box
+G;Helmet
+I;쑥송편 헬멧 코스튬;1;icon_item_helmet_songpyun2
 G;Drug
 I;리사이클 메달;122;icon_item_recyclemedal
 I;HP 회복의 엘릭서 [이벤트];10;icon_item_HPelixir
@@ -39,6 +50,14 @@ I;정착 지원 포션;10;item_speed_requid_3
 I;정착 지원 포션 Lv2;86;item_speed_requid_3
 I;축복이 깃든 씨앗;7;icon_item_event161215_01
 I;농축 SP포션 LV15;30;icon_item_SP_Alche
+I;[콜로니전 지원] HP 회복 소형 엘릭서 ;20;icon_item_HPelixir_Small
+I;[콜로니전 지원] SP 회복 소형 엘릭서 ;20;icon_item_SPelixir_Small
+I;[콜로니전 지원] 농축 HP포션 LV15;20;icon_item_HP_Alche
+I;[콜로니전 지원] 농축 SP포션 LV15;20;icon_item_SP_Alche
+I;[콜로니전 지원] 긴급 수리 키트;5;icon_item_repairkit
+I;[콜로니전 지원] 농축 이동속도 증가 포션 LV15;5;item_speed_requid_1
+I;[콜로니전 지원] 신비한 크리스탈;3;icon_item_soulCrystal_colony
+I;[콜로니전 지원] 워프 주문서-콜로니전;3;icon_item_warp_scroll_colony
 I;케이스타스 수호의 포션;1;icon_item_Drug_exDEF1
 I;케이스타스 용맹의 포션;3;icon_item_Drug_exATK1
 I;케이스타스 회복포션Lv4;21;item_HPSP_potion_3
@@ -55,11 +74,12 @@ I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;다과 세트;1;icon_item_artefact_Tea_Set
 I;푸드 커버;1;icon_item_artefact_Dome_Cover
 I;눈 덮인 몬스터 카드첩;1;icon_item_Chrismas_Card
-G;Helmet
-I;쑥송편 헬멧 코스튬;1;icon_item_helmet_songpyun2
+G;SubWeapon
+I;눈꽃 스프레이;1;icon_item_snowflower
+I;핫팩;1;icon_item_hotpack
+I;기와지붕 대거;1;icon_item_RootTile_dagger
 G;Event
 I;특성 포인트 1,000;7;icon_item_abilitypoint
-I;특성 포인트 500;2;icon_item_abilitypoint2
 I;강화 실버 할인 쿠폰 : 10만 실버;10;icon_item_reinforce_100000coupon
 I;연하장;1;icon_item_event_invitation2
 G;Book
@@ -103,19 +123,8 @@ I;제작서-여신의 축복석;5;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(캐논);2;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
-G;Armor
-I;베르타스 제베넬리스 레더 부츠;1;icon_item_leather_boots_1
-I;베르타스 제베넬리스 레더 글로브;1;icon_item_leather_glove_1
-I;베르타스 제베넬리스 레더 팬츠;1;icon_item_leather_pants_1
-I;베르타스 제베넬리스 레더 아머;1;icon_item_leather_shirt_1
-I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
-I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
-I;크란토 브레이슬릿;1;item_bracelet_17
-I;케파 인형;1;hairacc_48_cepadoll
-I;레인저 코스튬;1;icon_item_ranger_f
-I;로그 코스튬;1;icon_item_rogue_f
-I;응사 코스튬;1;icon_item_falconer_f
-I;사심이 담긴 상소문;1;icon_item_wing_scroll2
+G;Cube
+I;[PC방] 성장 지원 상자;1;icon_item_box_pc_month
 G;Card
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
@@ -134,7 +143,7 @@ I;스탯 초기화 포션;3;icon_item_statReset
 I;워프 주문서;289;icon_item_warpPremium
 I;워프 주문서 10개 상자;6;icon_item_warpPremium_bundle
 I;윈터펭 알;1;icon_item_egg_winterpeng
-I;인스턴스 던전 배수 토큰;14;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰;16;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter

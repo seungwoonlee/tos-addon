@@ -28,7 +28,7 @@ I;할로윈 폭죽;1;icon_item_firework
 I;레드 오브:코릴러스;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;24;GolemMagicItem1
 I;레드 오브:갈색 스타울리트 궁수;1;icon_item_Dreamshade_red
-I;LV14 경험치 카드;21;icon_item_expcard
+I;LV14 경험치 카드;33;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
@@ -112,7 +112,7 @@ I;모루;9;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;크리오라이트;2;39_icon_item_Cry8rite
 I;파이라이트;4;32_item_ore_pyrite
-I;인법용 폭약;166;icon_item_shinobibomb
+I;인법용 폭약;161;icon_item_shinobibomb
 I;주석;3;1_item_ore_copper
 I;벨리글러 깃털;25;icon_item_feather_03Green
 I;나무 말뚝;15;icon_item_wood_3

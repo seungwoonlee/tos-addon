@@ -34,7 +34,7 @@ I;큰 스태미나 알약;6;item_STA_pill_3
 I;클라페다 워프 주문서;11;GolemMagicItem1
 I;페디미안 워프 주문서;5;GolemMagicItem1
 I;해독제;7;icon_item_Quest_00020
-I;LV14 경험치 카드;20;icon_item_expcard
+I;LV14 경험치 카드;32;icon_item_expcard
 I;LV2 경험치 카드;6;icon_item_expcard
 I;보급용 워프 주문서;22;GolemMagicItem1
 I;디스펠러;10;icon_item_grimoire_blue
@@ -121,7 +121,7 @@ G;Material
 I;모루;10;icon_item_anvil
 I;황금 모루;5;icon_item_anvil_gold
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;독액;46;icon_item_posion
+I;독액;45;icon_item_posion
 I;주석;3;1_item_ore_copper
 I;호박;65;22_item_ore_amber
 I;LV2 보물상자 열쇠;2;icon_item_key1
@@ -295,6 +295,7 @@ I;펜듈럼;1;icon_item_pendulum
 I;세이지 마스터의 편지;1;icon_item_loveletter
 I;세이지 마스터의 편지;1;icon_item_loveletter
 I;행상인의 손수건;1;icon_item_bandana
+I;요리 도구가 든 가방;1;icon_item_sidebag
 G;Weapon
 I;이스발리티;1;icon_item_cracked_shooter
 I;라파이 크로스보우;1;icon_item_crossbow_lapai

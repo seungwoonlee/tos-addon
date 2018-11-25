@@ -28,7 +28,7 @@ I;농축 HP포션 LV15;5;icon_item_HP_Alche
 I;케이스타스 회복포션Lv4;111;item_HPSP_potion_3
 I;농축 SP포션 LV15;9;icon_item_SP_Alche
 I;레드 오브:말라두;1;icon_item_Dreamshade_red
-I;LV14 경험치 카드;17;icon_item_expcard
+I;LV14 경험치 카드;29;icon_item_expcard
 I;스킬 주문서;10;GolemMagicItem1
 I;디스펠러;10;icon_item_grimoire_blue
 G;SubWeapon
@@ -46,21 +46,17 @@ I;낡은 일기;1;icon_item_collection_04Black
 G;Recipe
 I;제작서-뚫어뻥;4;icon_item_weapon_misc5
 G;Collection
-I;컬렉션:이브레 고원;1;icon_item_box
-I;컬렉션:스벤티마스 유형지;1;icon_item_box
-I;컬렉션:스팔빈가스 숲;1;icon_item_box
-I;컬렉션:라다르 숲;1;icon_item_box
-I;컬렉션:실라 숲;1;icon_item_box
-I;컬렉션:기원의 숲;1;icon_item_box
-I;컬렉션:그리나스 숲길;1;icon_item_box
+I;컬렉션: 이브레 고원;1;icon_item_box
+I;컬렉션: 스벤티마스 유형지;1;icon_item_box
+I;컬렉션: 스팔빈가스 숲;1;icon_item_box
+I;컬렉션: 라다르 숲;1;icon_item_box
+I;컬렉션: 실라 숲;1;icon_item_box
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 그리나스 숲길;1;icon_item_box
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
 I;확성기;15;icon_item_Mike
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
 I;모루;3;icon_item_anvil

@@ -1,21 +1,23 @@
 S;1001
 G;Unused
 I;실버;823600;icon_item_silver
+G;SubWeapon
+I;버블스틱;1;icon_item_artefact_bublestick
+I;핫팩;1;icon_item_hotpack
+I;핫팩;1;icon_item_hotpack
+I;달 토끼 캐논;1;icon_item_MoonRabbit_cannon
 G;PasteBait
 I;작은 은빛 물고기;12;icon_item_fish4
 G;Drug
 I;리사이클 메달;60;icon_item_recyclemedal
 I;[PC방] SP 회복 소형 엘릭서 ;10;icon_item_random_spellixerbox
 I;[PC방] HP 회복 소형 엘릭서 ;10;icon_item_random_hpellixerbox
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
 I;보급용 농축 HP포션 LV15;290;item_HP_oil_3
 I;보급용 농축 SP포션 LV15;270;item_SP_requid_3
 I;보급용 작은 SP포션;240;item_SP_requid_1
 I;농축 이동속도 향상의 포션;40;item_speed_requid_1
 I;농축 HP포션 LV15;12;icon_item_HP_Alche
 I;SP 회복 소형 엘릭서 ;5;icon_item_SPelixir_Small
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
 I;루팅 찬스 증가 포션;9;icon_item_looting_potion_01
 I;보급용 작은 HP포션;32;item_HP_oil_1
 I;케이스타스 용맹의 포션;3;icon_item_Drug_exATK1
@@ -30,35 +32,26 @@ I;이동속도 향상의 포션;1;item_speed_requid_1
 I;바루날레샤;5;icon_item_Varnalesa
 I;붉은 케파 조각;4;OnionPiece_Red
 I;클라페다 워프 주문서;2;GolemMagicItem1
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
 I;정착 지원 포션 Lv2;59;item_speed_requid_3
 I;고농축 이동속도 증가 포션;13;item_speed_requid_1
 I;축복이 깃든 씨앗;4;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
 I;호박사탕;1;icon_item_Pumpkin
 I;할로윈 폭죽;1;icon_item_firework
+I;[콜로니전 지원] HP 회복 소형 엘릭서 ;20;icon_item_HPelixir_Small
+I;[콜로니전 지원] SP 회복 소형 엘릭서 ;20;icon_item_SPelixir_Small
+I;[콜로니전 지원] 농축 HP포션 LV15;20;icon_item_HP_Alche
+I;[콜로니전 지원] 농축 SP포션 LV15;20;icon_item_SP_Alche
+I;[콜로니전 지원] 긴급 수리 키트;5;icon_item_repairkit
+I;[콜로니전 지원] 농축 이동속도 증가 포션 LV15;5;item_speed_requid_1
+I;[콜로니전 지원] 신비한 크리스탈;3;icon_item_soulCrystal_colony
+I;[콜로니전 지원] 워프 주문서-콜로니전;3;icon_item_warp_scroll_colony
 I;보급용 워프 주문서;9;GolemMagicItem1
 I;레드 오브:유코푸스;1;icon_item_Dreamshade_red
 I;레드 오브:인프로 락터;1;icon_item_Dreamshade_red
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;LV4 경험치 카드;2;icon_item_expcard
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
 I;스킬 주문서;8;GolemMagicItem1
 I;TOS 플래카드;1;icon_item_artefact_Ticket_TOS
 I;눈 덮인 몬스터 카드첩;1;icon_item_Chrismas_Card
@@ -66,7 +59,7 @@ G;Helmet
 I;쑥송편 헬멧 코스튬;1;icon_item_helmet_songpyun2
 I;송편 헬멧 코스튬;1;icon_item_helmet_songpyun
 G;Event
-I;특성 포인트 500;1;icon_item_abilitypoint2
+I;특성 포인트 500;2;icon_item_abilitypoint2
 I;연하장;1;icon_item_event_invitation2
 I;강화 실버 할인 쿠폰 : 10만 실버;10;icon_item_reinforce_100000coupon
 G;Book
@@ -84,11 +77,6 @@ I;제작서-산양 뿔;1;icon_item_helm_misc1
 I;제작서-매직 탈리스만;1;icon_item_necklace_misc3
 I;제작서-x4 경험의 서;2;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(양손활);3;icon_item_recipe_misc1
-G;SubWeapon
-I;버블스틱;1;icon_item_artefact_bublestick
-I;핫팩;1;icon_item_hotpack
-I;핫팩;1;icon_item_hotpack
-I;달 토끼 캐논;1;icon_item_MoonRabbit_cannon
 G;Premium
 I;윈터펭 알;1;icon_item_egg_winterpeng
 I;확성기 50개 상자;1;icon_item_Mike_bundle
@@ -111,17 +99,19 @@ I;토큰;1;icon_item_token
 I;스탯 초기화 포션;3;icon_item_statReset
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
-I;확성기;66;icon_item_Mike
+I;확성기;67;icon_item_Mike
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;소울 크리스탈;283;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;x8 경험의 서 (14일);1;icon_item_expbookx8
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f
+I;상어 해적단 코스튬(여);1;icon_item_cosair03_f
 I;벚꽃 로맨스 세일러복 코스튬(여);1;icon_item_pink_Sailor01_f
+G;Cube
+I;[PC방] 성장 지원 상자;1;icon_item_box_pc_month
 G;Card
 I;링크롤러 카드;Lv7;icon_item_card_stat
 I;바를킹 카드;Lv1;icon_item_card_def

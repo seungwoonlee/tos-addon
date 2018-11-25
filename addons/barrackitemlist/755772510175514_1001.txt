@@ -63,7 +63,10 @@ I;아트만의 확장;1;icon_item_collection_03Blue
 I;버려진 일기장;1;icon_item_collection_00Basic
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 G;Recipe
-I;제작서-아우스라 건틀릿;1;icon_item_gloves_misc5
+I;제작서-아우스라 플레이트 팬츠;1;icon_item_pants_misc5
+I;제작서-아우스라 플레이트 아머;1;icon_item_shirts_misc5
+I;제작서-아우스라 그리브;1;icon_item_boots_misc5
+I;제작서-피에타스 레더 글로브;1;icon_item_gloves_misc5
 I;제작서-미르티 브레이슬릿;6;icon_item_bracelet_misc4
 I;제작서-아키바 브레이슬릿;7;icon_item_bracelet_misc4
 I;제작서-우프올 펄 브레이슬릿;11;icon_item_bracelet_misc4
@@ -72,6 +75,8 @@ I;제작서-아크메이지 뱅글;2;icon_item_bracelet_misc4
 I;제작서-제메이 네클리스;2;icon_item_necklace_misc3
 I;제작서-메이스트라 브레이슬릿;1;icon_item_bracelet_misc4
 I;제작서-아크리오 갈리아 뱅글;1;icon_item_bracelet_misc5
+I;제작서-아티카 네클리스;1;icon_item_necklace_misc4
+I;제작서-레다스 네클리스;2;icon_item_necklace_misc3
 I;제작서-x8 경험의 서;5;icon_item_recipe_misc1
 I;제작서-레이드 포탈 스톤;5;icon_item_recipe_misc1
 G;FishingRod
@@ -118,14 +123,11 @@ G;Premium
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
 G;Material
-I;모루;15;icon_item_anvil
+I;모루;13;icon_item_anvil
 I;종이 인형;4740;icon_item_paperdoll
 I;크리오라이트;1;39_icon_item_Cry8rite
 I;주석;4;1_item_ore_copper
 I;호박;17;22_item_ore_amber
-I;프락토늄;2;icon_item_crystal_High
-I;시에라 가루;30;icon_item_breakpowder_2
-I;뉴클 가루;150;icon_item_breakpowder_1
 I;이노움의 핵;15;icon_item_core_purple
 I;이노움의 파편;1;icon_item_Misc_00004
 I;쉬타임 파편;10;icon_item_Misc_00004
@@ -221,24 +223,24 @@ I;트리피드 가시;1;icon_item_thorn_green
 I;나무 말뚝;2;icon_item_wood_3
 I;묘지 골렘의 핵;13;icon_item_core_blue
 I;굵은 체인;1;icon_item_chain
-I;야크야크의 뿔;37;icon_item_misc_0517
 I;크레토의 깃털;7;icon_item_misc_0518
 I;푸른 콜리멘 꽃;1;icon_item_flower_colimen_blue
 I;바를헬름즈먼의 둔기 머리;12;icon_item_misc_0514
 I;쿠게리의 천조각;2;icon_item_clothpiece_white
 I;부어의 딱딱한 부리;10;icon_item_misc_0515
 I;나뭇가지;2;icon_item_branch_00Basic
-I;누크의 질 좋은 가죽;6;icon_item_misc_0516
 I;돌;1;icon_item_Misc_00004
+I;누크의 질 좋은 가죽;17;icon_item_misc_0516
 I;니므라댐즐의 깨진 수정구;2;icon_item_misc_0508
 I;니므라랜서의 창;9;icon_item_misc_0509
 I;루나엔젤의 나팔;6;icon_item_misc_0511
-I;바를스키퍼의 검신;3;icon_item_misc_0513
+I;바를스키퍼의 검신;4;icon_item_misc_0513
 I;니므라솔저의 부러진 레이피어;2;icon_item_misc_0510
 I;바를거너의 대포 조각;1;icon_item_misc_0512
-I;로열 블레이드 파편;1;icon_item_misc_0529
-I;테라늄;13;36_item_ore_lapis_philosophorum
+I;로열 블레이드 파편;6;icon_item_misc_0529
 I;소켓의 껍질;5;icon_item_shell_blue
+I;별빛이 깃든 이슬;1;icon_item_misc_0520
+I;리디아의 붉은 꽃;1;icon_item_misc_0519
 I;차원 탐색 스크롤;1;GolemMagicItem1
 I;귀환석;1;MercenaryBadge
 G;Quest

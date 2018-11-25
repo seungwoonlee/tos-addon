@@ -30,7 +30,7 @@ I;클라페다 워프 주문서;13;GolemMagicItem1
 I;페디미안 워프 주문서;10;GolemMagicItem1
 I;해독제;3;icon_item_Quest_00020
 I;LV12 경험치 카드;3;icon_item_expcard
-I;LV14 경험치 카드;67;icon_item_expcard
+I;LV14 경험치 카드;79;icon_item_expcard
 I;LV2 경험치 카드;4;icon_item_expcard
 I;LV3 경험치 카드;2;icon_item_expcard
 I;레드 오브:레비;1;icon_item_Dreamshade_red
@@ -47,9 +47,6 @@ I;블루 오브:샤울렘 라군;1;icon_item_Dreamshade
 I;블루 오브:초록 그리바;1;icon_item_Dreamshade
 I;블루 오브:푸른 스피온;1;icon_item_Dreamshade
 I;스킬 주문서;6;GolemMagicItem1
-G;Event
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;낡은 일기;1;icon_item_collection_04Black
@@ -68,61 +65,64 @@ I;찢어진 일기의 일부 3;1;icon_item_paperpiece
 I;찢어진 일기의 일부 4;1;icon_item_paperpiece
 I;카듀멜 시대의 갑주;1;icon_item_collection_04Black
 G;Recipe
+I;제작서-트윈 블레이드;4;icon_item_weapon_misc1
+I;제작서-슈페리어 로얄 피스톨;1;icon_item_weapon_misc1
+I;제작서-시즈 보우;2;icon_item_weapon_misc1
 I;제작서-리에나 레더 아머;1;icon_item_shirts_misc3
 I;제작서-x4 경험의 서;4;icon_item_recipe_misc1
 I;제작서-x8 경험의 서;4;icon_item_recipe_misc1
 I;제작서-레이드 포탈 스톤;4;icon_item_recipe_misc1
 G;Collection
-I;계시록 : 대립편 컬렉션;1;icon_item_holyark
+I;계시록: 대립편 컬렉션;1;icon_item_holyark
 I;몬스터 표본 세트;1;icon_item_box
-I;컬렉션:강철 고원;1;icon_item_box
-I;컬렉션:겔리 고원;1;icon_item_box
-I;컬렉션:관문로;1;icon_item_box
-I;컬렉션:내성곽지구;1;icon_item_box
-I;컬렉션:네토 숲;1;icon_item_box
-I;컬렉션:네프리타스 벼랑;1;icon_item_box
-I;컬렉션:다이나 양봉지;1;icon_item_box
-I;컬렉션:덧댄다리 숲;1;icon_item_box
-I;컬렉션:드바시아 고개;1;icon_item_box
-I;컬렉션:렘파라사 연못;1;icon_item_box
-I;컬렉션:마당 고원;1;icon_item_box
-I;컬렉션:마족수감소 1구역;1;icon_item_box
-I;컬렉션:마족수감소 2구역;1;icon_item_box
-I;컬렉션:마족수감소 3구역;1;icon_item_box
-I;컬렉션:마족수감소 4구역;1;icon_item_box
-I;컬렉션:마족수감소 5구역;1;icon_item_box
-I;컬렉션:베야 골짜기;1;icon_item_box
-I;컬렉션:봄볕나무 숲;1;icon_item_box
-I;컬렉션:비에타 계곡;1;icon_item_box
-I;컬렉션:빌나 숲;1;icon_item_box
-I;컬렉션:샤울레이 광산 마을;1;icon_item_box
-I;컬렉션:샤울레이 동쪽 숲;1;icon_item_box
-I;컬렉션:샤울레이 서쪽 숲;1;icon_item_box
-I;컬렉션:셉티니 골;1;icon_item_box
-I;컬렉션:수정광산 1층;1;icon_item_box
-I;컬렉션:수정광산 2층;1;icon_item_box
-I;컬렉션:수정광산 3층;1;icon_item_box
-I;컬렉션:스라우타스 협곡;1;icon_item_box
-I;컬렉션:스벤티마스 유형지;1;icon_item_box
-I;컬렉션:시르드겔라 숲;1;icon_item_box
-I;컬렉션:아샤크 지하감옥 1층;1;icon_item_box
-I;컬렉션:우키스 경작지;1;icon_item_box
-I;컬렉션:이국 사랑;1;icon_item_box
-I;컬렉션:초보자의 무기;1;icon_item_box
-I;컬렉션:초보자의 방어구;1;icon_item_box
-I;컬렉션:카듀멜 절벽;1;icon_item_box
-I;컬렉션:코발트 숲;1;icon_item_box
-I;컬렉션:크란토 연안;1;icon_item_box
-I;컬렉션:크바일라스 숲;1;icon_item_box
-I;컬렉션:큰아귀 길;1;icon_item_box
-I;컬렉션:테넷 성당 지상 1층;1;icon_item_box
-I;컬렉션:테넷 성당 지상 2층;1;icon_item_box
-I;컬렉션:테넷 화원;1;icon_item_box
-I;컬렉션:테브린 종유동 1구역;1;icon_item_box
-I;컬렉션:티메리스 사원;1;icon_item_box
-I;컬렉션:패슬렙타스;1;icon_item_box
-I;컬렉션:페디미안 외곽;1;icon_item_box
-I;컬렉션:필그림 들길;1;icon_item_box
+I;컬렉션: 강철 고원;1;icon_item_box
+I;컬렉션: 겔리 고원;1;icon_item_box
+I;컬렉션: 관문로;1;icon_item_box
+I;컬렉션: 내성곽지구;1;icon_item_box
+I;컬렉션: 네토 숲;1;icon_item_box
+I;컬렉션: 네프리타스 벼랑;1;icon_item_box
+I;컬렉션: 다이나 양봉지;1;icon_item_box
+I;컬렉션: 덧댄다리 숲;1;icon_item_box
+I;컬렉션: 드바시아 고개;1;icon_item_box
+I;컬렉션: 렘파라사 연못;1;icon_item_box
+I;컬렉션: 마당 고원;1;icon_item_box
+I;컬렉션: 마족수감소 1구역;1;icon_item_box
+I;컬렉션: 마족수감소 2구역;1;icon_item_box
+I;컬렉션: 마족수감소 3구역;1;icon_item_box
+I;컬렉션: 마족수감소 4구역;1;icon_item_box
+I;컬렉션: 마족수감소 5구역;1;icon_item_box
+I;컬렉션: 베야 골짜기;1;icon_item_box
+I;컬렉션: 봄볕나무 숲;1;icon_item_box
+I;컬렉션: 비에타 계곡;1;icon_item_box
+I;컬렉션: 빌나 숲;1;icon_item_box
+I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
+I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
+I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
+I;컬렉션: 셉티니 골;1;icon_item_box
+I;컬렉션: 수정광산 1층;1;icon_item_box
+I;컬렉션: 수정광산 2층;1;icon_item_box
+I;컬렉션: 수정광산 3층;1;icon_item_box
+I;컬렉션: 스라우타스 협곡;1;icon_item_box
+I;컬렉션: 스벤티마스 유형지;1;icon_item_box
+I;컬렉션: 시르드겔라 숲;1;icon_item_box
+I;컬렉션: 아샤크 지하감옥 1층;1;icon_item_box
+I;컬렉션: 우키스 경작지;1;icon_item_box
+I;컬렉션: 이국 사랑;1;icon_item_box
+I;컬렉션: 초보자의 무기;1;icon_item_box
+I;컬렉션: 초보자의 방어구;1;icon_item_box
+I;컬렉션: 카듀멜 절벽;1;icon_item_box
+I;컬렉션: 코발트 숲;1;icon_item_box
+I;컬렉션: 크란토 연안;1;icon_item_box
+I;컬렉션: 크바일라스 숲;1;icon_item_box
+I;컬렉션: 큰아귀 길;1;icon_item_box
+I;컬렉션: 테넷 성당 지상 1층;1;icon_item_box
+I;컬렉션: 테넷 성당 지상 2층;1;icon_item_box
+I;컬렉션: 테넷 화원;1;icon_item_box
+I;컬렉션: 테브린 종유동 1구역;1;icon_item_box
+I;컬렉션: 티메리스 사원;1;icon_item_box
+I;컬렉션: 패슬렙타스;1;icon_item_box
+I;컬렉션: 페디미안 외곽;1;icon_item_box
+I;컬렉션: 필그림 들길;1;icon_item_box
 G;Card
 I;리버피드 카드;Lv1;icon_item_card_atk
 I;머지 카드;Lv1;icon_item_card_atk
@@ -136,7 +136,6 @@ I;캐러페이스 카드;Lv1;icon_item_card_util
 I;캔서릴 카드;Lv1;icon_item_card_util
 I;허니핀 카드;Lv1;icon_item_card_util
 G;Premium
-I;스탯 초기화 포션 (60일);1;icon_item_statReset
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
 G;Material

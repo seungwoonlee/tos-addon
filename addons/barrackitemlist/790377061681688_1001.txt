@@ -29,7 +29,7 @@ I;해독제;10;icon_item_Quest_00020
 I;LV10 경험치 카드;22;icon_item_expcard
 I;LV11 경험치 카드;6;icon_item_expcard
 I;LV13 경험치 카드;19;icon_item_expcard
-I;LV14 경험치 카드;72;icon_item_expcard
+I;LV14 경험치 카드;84;icon_item_expcard
 I;레드 오브:폰드;1;icon_item_Dreamshade_red
 I;레드 오브:판토 궁수;1;icon_item_Dreamshade_red
 I;레드 오브:누카;2;icon_item_Dreamshade_red
@@ -248,6 +248,8 @@ I;필기도구가 든 가방;1;icon_item_sidebag
 I;흡수스크롤;1;GolemMagicItem2
 G;Armor
 I;오그마 건틀릿;1;icon_item_gloves_SRchain
+I;탈리스만;1;item_necklace_19
+I;탈리스만;1;item_necklace_19
 I;강철 투구;1;hairacc_35_helm3
 I;로델레로 코스튬;1;icon_item_rodelero_f
 I;낙무아이 코스튬;1;icon_item_warrior_nakmuay01_f

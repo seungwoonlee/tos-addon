@@ -33,7 +33,7 @@ I;붉은 케파 조각;1;OnionPiece_Red
 I;긴급 수리 키트;2;icon_item_repairkit
 I;보급용 워프 주문서;2;GolemMagicItem1
 I;LV6 경험치 카드;1;icon_item_expcard
-I;LV14 경험치 카드;49;icon_item_expcard
+I;LV14 경험치 카드;61;icon_item_expcard
 I;스킬 주문서;50;GolemMagicItem1
 I;스킬 주문서;18;GolemMagicItem1
 I;디스펠러;10;icon_item_grimoire_blue

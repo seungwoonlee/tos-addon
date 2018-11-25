@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;835335;icon_item_silver
+I;실버;221013;icon_item_silver
 G;Drug
 I;정착 지원 포션 Lv2;28;item_speed_requid_3
 I;포포리온 고기;10;icon_item_meat_02
@@ -134,7 +134,7 @@ I;묘지 골렘의 핵;1;icon_item_core_blue
 I;코도모르 가시;2;icon_item_thorn_blue
 I;나무 말뚝;3;icon_item_wood_3
 I;돌;3;icon_item_Misc_00004
-I;포탈 스톤;80;icon_item_portalstone
+I;포탈 스톤;211;icon_item_portalstone
 I;탈트;12;30_item_ore_talt
 I;테라늄;1;36_item_ore_lapis_philosophorum
 I;귀환석;1;MercenaryBadge

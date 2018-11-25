@@ -50,38 +50,36 @@ I;제작서-알터 로드;1;icon_item_weapon_misc1
 I;제작서-일렉투스;1;icon_item_necklace_misc4
 I;제작서-x8 경험의 서;2;icon_item_recipe_misc1
 G;Collection
-I;계시록 : 대립편 컬렉션;1;icon_item_holyark
-I;컬렉션:겔리 고원;1;icon_item_box
-I;컬렉션:기원의 숲;1;icon_item_box
-I;컬렉션:네프리타스 벼랑;1;icon_item_box
-I;컬렉션:덧댄다리 숲;1;icon_item_box
-I;컬렉션:렘파라사 연못;1;icon_item_box
-I;컬렉션:마족수감소 1구역;1;icon_item_box
-I;컬렉션:마족수감소 2구역;1;icon_item_box
-I;컬렉션:마족수감소 3구역;1;icon_item_box
-I;컬렉션:마족수감소 4구역;1;icon_item_box
-I;컬렉션:마족수감소 5구역;1;icon_item_box
-I;컬렉션:베야 골짜기;1;icon_item_box
-I;컬렉션:비에타 계곡;1;icon_item_box
-I;컬렉션:샤울레이 광산 마을;1;icon_item_box
-I;컬렉션:샤울레이 동쪽 숲;1;icon_item_box
-I;컬렉션:샤울레이 서쪽 숲;1;icon_item_box
-I;컬렉션:수정광산 1층;1;icon_item_box
-I;컬렉션:수정광산 2층;1;icon_item_box
-I;컬렉션:수정광산 3층;1;icon_item_box
-I;컬렉션:스라우타스 협곡;1;icon_item_box
-I;컬렉션:알레멧 숲;1;icon_item_box
-I;컬렉션:왕릉 건축자 예배당;1;icon_item_box
-I;컬렉션:초보자의 무기;1;icon_item_box
-I;컬렉션:초보자의 방어구;1;icon_item_box
-I;컬렉션:크란토 연안;1;icon_item_box
-I;컬렉션:큰아귀 길;1;icon_item_box
-I;컬렉션:테넷 성당 지상 1층;1;icon_item_box
-I;컬렉션:테넷 성당 지상 2층;1;icon_item_box
-I;컬렉션:테넷 화원;1;icon_item_box
-I;컬렉션:파수꾼의 묘역;1;icon_item_box
-G;Event
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
+I;계시록: 대립편 컬렉션;1;icon_item_holyark
+I;컬렉션: 겔리 고원;1;icon_item_box
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 네프리타스 벼랑;1;icon_item_box
+I;컬렉션: 덧댄다리 숲;1;icon_item_box
+I;컬렉션: 렘파라사 연못;1;icon_item_box
+I;컬렉션: 마족수감소 1구역;1;icon_item_box
+I;컬렉션: 마족수감소 2구역;1;icon_item_box
+I;컬렉션: 마족수감소 3구역;1;icon_item_box
+I;컬렉션: 마족수감소 4구역;1;icon_item_box
+I;컬렉션: 마족수감소 5구역;1;icon_item_box
+I;컬렉션: 베야 골짜기;1;icon_item_box
+I;컬렉션: 비에타 계곡;1;icon_item_box
+I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
+I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
+I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
+I;컬렉션: 수정광산 1층;1;icon_item_box
+I;컬렉션: 수정광산 2층;1;icon_item_box
+I;컬렉션: 수정광산 3층;1;icon_item_box
+I;컬렉션: 스라우타스 협곡;1;icon_item_box
+I;컬렉션: 알레멧 숲;1;icon_item_box
+I;컬렉션: 왕릉 건축자 예배당;1;icon_item_box
+I;컬렉션: 초보자의 무기;1;icon_item_box
+I;컬렉션: 초보자의 방어구;1;icon_item_box
+I;컬렉션: 크란토 연안;1;icon_item_box
+I;컬렉션: 큰아귀 길;1;icon_item_box
+I;컬렉션: 테넷 성당 지상 1층;1;icon_item_box
+I;컬렉션: 테넷 성당 지상 2층;1;icon_item_box
+I;컬렉션: 테넷 화원;1;icon_item_box
+I;컬렉션: 파수꾼의 묘역;1;icon_item_box
 G;Premium
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike

@@ -18,7 +18,7 @@ I;농축 SP포션 LV15;11;icon_item_SP_Alche
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;보급용 워프 주문서;7;GolemMagicItem1
-I;LV14 경험치 카드;39;icon_item_expcard
+I;LV14 경험치 카드;51;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
 I;스킬 주문서;2;GolemMagicItem1
 G;SubWeapon
@@ -39,40 +39,42 @@ I;제작서-비르토브 글로브;1;icon_item_gloves_misc4
 I;제작서-실버 플레이트 건틀릿;1;icon_item_gloves_misc3
 I;제작서-레이드 포탈 스톤;1;icon_item_recipe_misc1
 G;Collection
-I;컬렉션:쿨레 고개;1;icon_item_box
-I;컬렉션:스팔빈가스 숲;1;icon_item_box
-I;컬렉션:제로멜 공원;1;icon_item_box
-I;컬렉션:티메리스 사원;1;icon_item_box
-I;컬렉션:요나엘 기념구;1;icon_item_box
-I;컬렉션:라다르 숲;1;icon_item_box
-I;컬렉션:도심성벽 제 8구역;1;icon_item_box
-I;컬렉션:테브린 종유동 2구역;1;icon_item_box
-I;컬렉션:테브린 종유동 5구역;1;icon_item_box
-I;컬렉션:테브린 종유동 4구역;1;icon_item_box
-I;컬렉션:테브린 종유동 1구역;1;icon_item_box
-I;컬렉션:레타스 개울가;1;icon_item_box
-I;컬렉션:타니엘 1세 기념구;1;icon_item_box
-I;컬렉션:지부리나스 숲;1;icon_item_box
-I;컬렉션:알렘빅 동굴;1;icon_item_box
-I;컬렉션:노브리어 숲;1;icon_item_box
-I;컬렉션:유데이안 숲;1;icon_item_box
-I;컬렉션:몰로게오 숲;1;icon_item_box
-I;컬렉션:피스티스 숲;1;icon_item_box
-I;컬렉션:에메트 숲;1;icon_item_box
-I;컬렉션:실라 숲;1;icon_item_box
-I;컬렉션:아르커스 숲;1;icon_item_box
-I;컬렉션:파마르 숲;1;icon_item_box
-I;컬렉션:기원의 숲;1;icon_item_box
-I;컬렉션:왕릉 건축자 예배당;1;icon_item_box
-I;컬렉션:왕릉 노역자 숙소;1;icon_item_box
-I;컬렉션:긴다리 계곡;1;icon_item_box
-I;컬렉션:람스티스 협곡;1;icon_item_box
-I;컬렉션:사크니스 벌판;1;icon_item_box
-I;컬렉션:드바시아 고개;1;icon_item_box
-I;컬렉션:틸타스 협곡;1;icon_item_box
+I;컬렉션: 쿨레 고개;1;icon_item_box
+I;컬렉션: 스팔빈가스 숲;1;icon_item_box
+I;컬렉션: 제로멜 공원;1;icon_item_box
+I;컬렉션: 티메리스 사원;1;icon_item_box
+I;컬렉션: 요나엘 기념구;1;icon_item_box
+I;컬렉션: 라다르 숲;1;icon_item_box
+I;컬렉션: 도심성벽 제 8구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 2구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 5구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 4구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 1구역;1;icon_item_box
+I;컬렉션: 레타스 개울가;1;icon_item_box
+I;컬렉션: 타니엘 1세 기념구;1;icon_item_box
+I;컬렉션: 지부리나스 숲;1;icon_item_box
+I;컬렉션: 알렘빅 동굴;1;icon_item_box
+I;컬렉션: 노브리어 숲;1;icon_item_box
+I;컬렉션: 유데이안 숲;1;icon_item_box
+I;컬렉션: 몰로게오 숲;1;icon_item_box
+I;컬렉션: 피스티스 숲;1;icon_item_box
+I;컬렉션: 에메트 숲;1;icon_item_box
+I;컬렉션: 실라 숲;1;icon_item_box
+I;컬렉션: 아르커스 숲;1;icon_item_box
+I;컬렉션: 파마르 숲;1;icon_item_box
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 왕릉 건축자 예배당;1;icon_item_box
+I;컬렉션: 왕릉 노역자 숙소;1;icon_item_box
+I;컬렉션: 긴다리 계곡;1;icon_item_box
+I;컬렉션: 람스티스 협곡;1;icon_item_box
+I;컬렉션: 사크니스 벌판;1;icon_item_box
+I;컬렉션: 드바시아 고개;1;icon_item_box
+I;컬렉션: 틸타스 협곡;1;icon_item_box
 G;Card
 I;자우라 카드;Lv10;icon_item_card_def
 G;Armor
+I;이렐리스 팬츠;1;icon_item_cloth_pants_1
+I;바스티클 플레이트 아머;1;icon_item_iorn_shirt_1
 I;크로노맨서 코스튬;1;icon_item_chronomancer_f
 I;링커 코스튬;1;icon_item_linker_f
 I;소서러 코스튬;1;icon_item_sorcerer_f
@@ -262,10 +264,7 @@ I;작은 돌 조각;1;icon_item_Misc_00004
 I;고고학자의 징표;1;neck_pilgrim_02
 I;거대 마력원;12;icon_item_Gem_Stone_INT
 G;Premium
-I;랭크 초기화권 (14일);1;icon_item_rankreset_paper
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
-I;랭크 초기화권 (14일);1;icon_item_rankreset_paper
-I;스탯 초기화 포션(14일);1;icon_item_statReset
 I;확성기;15;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f

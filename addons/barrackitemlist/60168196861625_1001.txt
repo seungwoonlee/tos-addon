@@ -10,7 +10,7 @@ I;발래리요나스;1;icon_item_Valerijonas
 I;바루날레샤;12;icon_item_Varnalesa
 I;해독제;8;icon_item_Quest_00020
 I;매두스;12;icon_item_Medus
-I;HP포션;6;item_HP_oil_2
+I;HP포션;5;item_HP_oil_2
 I;오르샤 워프 주문서;11;GolemMagicItem1
 I;클라페다 워프 주문서;12;GolemMagicItem1
 I;딸기;15;icon_item_Strawberry
@@ -32,10 +32,9 @@ I;농축 SP포션 LV15;41;icon_item_SP_Alche
 I;붉은 케파 조각;1;OnionPiece_Red
 I;블루 오브:부베 주술사;1;icon_item_Dreamshade
 I;레드 오브:분홍 츄파루카;1;icon_item_Dreamshade_red
-I;LV14 경험치 카드;39;icon_item_expcard
-I;LV13 경험치 카드;7;icon_item_expcard
-I;LV6 경험치 카드;1;icon_item_expcard
-I;LV10 경험치 카드;1;icon_item_expcard
+I;LV14 경험치 카드;49;icon_item_expcard
+I;LV13 경험치 카드;4;icon_item_expcard
+I;LV6 경험치 카드;5;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black
@@ -65,48 +64,49 @@ I;리디아 샤펜과 럼펠스틸스킨;1;icon_item_collection_02green
 G;Recipe
 I;제작서-레이드 포탈 스톤;5;icon_item_recipe_misc1
 G;Collection
-I;컬렉션:벨라이 숲;1;icon_item_box
-I;컬렉션:아르커스 숲;1;icon_item_box
-I;컬렉션:지마 수코트;1;icon_item_box
-I;컬렉션:파마르 숲;1;icon_item_box
-I;컬렉션:티메리스 사원;1;icon_item_box
-I;컬렉션:에메트 숲;1;icon_item_box
-I;컬렉션:피스티스 숲;1;icon_item_box
-I;컬렉션:유데이안 숲;1;icon_item_box
-I;컬렉션:몰로게오 숲;1;icon_item_box
-I;컬렉션:실라 숲;1;icon_item_box
-I;컬렉션:테브린 종유동 5구역;1;icon_item_box
-I;컬렉션:지부리나스 숲;1;icon_item_box
-I;컬렉션:알렘빅 동굴;1;icon_item_box
-I;컬렉션:스팔빈가스 숲;1;icon_item_box
-I;컬렉션:테브린 종유동 3구역;1;icon_item_box
-I;컬렉션:쿨레 고개;1;icon_item_box
-I;컬렉션:테브린 종유동 1구역;1;icon_item_box
-I;컬렉션:라다르 숲;1;icon_item_box
-I;컬렉션:도심성벽 제 8구역;1;icon_item_box
-I;컬렉션:테브린 종유동 2구역;1;icon_item_box
-I;컬렉션:테브린 종유동 4구역;1;icon_item_box
-I;컬렉션:요나엘 기념구;1;icon_item_box
-I;컬렉션:기원의 숲;1;icon_item_box
-I;컬렉션:테넷 성당 지상 2층;1;icon_item_box
-I;컬렉션:마법사의 탑 2층;1;icon_item_box
-I;컬렉션:곤충 혐오;1;icon_item_box
-I;컬렉션:사크니스 벌판;1;icon_item_box
-I;컬렉션:포슬린키스 숲;1;icon_item_box
-I;컬렉션:왕릉 노역자 숙소;1;icon_item_box
-I;컬렉션:틸타스 협곡;1;icon_item_box
-I;컬렉션:파수꾼의 묘역;1;icon_item_box
-I;컬렉션:매너클 묘지;1;icon_item_box
-I;컬렉션:레타스 개울가;1;icon_item_box
-I;컬렉션:테넷 성당 지상 1층;1;icon_item_box
-I;컬렉션:초보자의 방어구;1;icon_item_box
+I;컬렉션: 벨라이 숲;1;icon_item_box
+I;컬렉션: 아르커스 숲;1;icon_item_box
+I;컬렉션: 지마 수코트;1;icon_item_box
+I;컬렉션: 파마르 숲;1;icon_item_box
+I;컬렉션: 티메리스 사원;1;icon_item_box
+I;컬렉션: 에메트 숲;1;icon_item_box
+I;컬렉션: 피스티스 숲;1;icon_item_box
+I;컬렉션: 유데이안 숲;1;icon_item_box
+I;컬렉션: 몰로게오 숲;1;icon_item_box
+I;컬렉션: 실라 숲;1;icon_item_box
+I;컬렉션: 테브린 종유동 5구역;1;icon_item_box
+I;컬렉션: 지부리나스 숲;1;icon_item_box
+I;컬렉션: 알렘빅 동굴;1;icon_item_box
+I;컬렉션: 스팔빈가스 숲;1;icon_item_box
+I;컬렉션: 테브린 종유동 3구역;1;icon_item_box
+I;컬렉션: 쿨레 고개;1;icon_item_box
+I;컬렉션: 테브린 종유동 1구역;1;icon_item_box
+I;컬렉션: 라다르 숲;1;icon_item_box
+I;컬렉션: 도심성벽 제 8구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 2구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 4구역;1;icon_item_box
+I;컬렉션: 요나엘 기념구;1;icon_item_box
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 테넷 성당 지상 2층;1;icon_item_box
+I;컬렉션: 마법사의 탑 2층;1;icon_item_box
+I;컬렉션: 곤충 혐오;1;icon_item_box
+I;컬렉션: 사크니스 벌판;1;icon_item_box
+I;컬렉션: 포슬린키스 숲;1;icon_item_box
+I;컬렉션: 왕릉 노역자 숙소;1;icon_item_box
+I;컬렉션: 틸타스 협곡;1;icon_item_box
+I;컬렉션: 파수꾼의 묘역;1;icon_item_box
+I;컬렉션: 매너클 묘지;1;icon_item_box
+I;컬렉션: 레타스 개울가;1;icon_item_box
+I;컬렉션: 테넷 성당 지상 1층;1;icon_item_box
+I;컬렉션: 초보자의 방어구;1;icon_item_box
+I;컬렉션: 시르드겔라 숲;1;icon_item_box
+I;컬렉션: 필그림 들길;1;icon_item_box
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
-I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
-I;어사 흑단령(여);1;icon_item_inspector_uniform03_f
 I;장원급제 별감복(여);1;icon_item_inspector_uniform02_f
+I;어사 흑단령(여);1;icon_item_inspector_uniform03_f
 G;Material
 I;모루;8;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
@@ -115,9 +115,9 @@ I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;파이라이트;8;32_item_ore_pyrite
 I;크리오라이트;3;39_icon_item_Cry8rite
 I;성수;450;icon_item_holywater
-I;괴황지;5000;icon_item_guehwangji
-I;홀리 파우더;500;icon_item_powderw
-I;조각용 나무;460;icon_item_wood_5
+I;괴황지;4692;icon_item_guehwangji
+I;홀리 파우더;490;icon_item_powderw
+I;조각용 나무;438;icon_item_wood_5
 I;주석;6;1_item_ore_copper
 I;호박;12;22_item_ore_amber
 I;압시듐 광석;4;8_item_ore_platinum
@@ -173,7 +173,7 @@ I;사우가의 핵;27;icon_item_core_yellow
 I;제페토의 줄기;31;icon_item_stem_brown
 I;단델의 날개;22;icon_item_batwing
 I;신나바르;3;35_item_ore_phlogiston
-I;누덕고치의 껍질;5;icon_item_shell_blue
+I;누덕고치의 껍질;7;icon_item_shell_blue
 I;그롤의 뿔;7;icon_item_shorthorn
 I;메슘의 줄기;21;icon_item_stem_brown
 I;족쇄;14;icon_item_legiron
@@ -231,7 +231,7 @@ I;갈록 가죽;3;icon_item_Misc_00007
 I;케포 껍질;12;icon_item_onionpiece
 I;코카트리스 가죽;4;icon_item_Misc_00012
 I;글리프링 파편;4;icon_item_Misc_00006
-I;루바보스 가죽;1;icon_item_Misc_00010
+I;루바보스 가죽;3;icon_item_Misc_00010
 I;피노의 줄기;1;icon_item_stem_brown
 I;그리바 줄기;3;icon_item_stem_yellow
 I;인프로 블러드 줄기;1;icon_item_stem_gray
@@ -243,7 +243,7 @@ I;테라임프 장식;3;icon_item_horn_tiny_blue
 I;론도 껍질;3;icon_item_shell_blue
 I;멜라타눈 심장;2;item_icon_heart_yellow
 I;로프틀렘 파편;1;icon_item_Misc_00006
-I;푸른 프라가라스의 줄기;1;icon_item_stem_gray
+I;푸른 프라가라스의 줄기;2;icon_item_stem_gray
 I;엘마 머리카락;2;icon_item_hair_elma
 I;돌;1;icon_item_Misc_00004
 I;노란 이노움의 핵;2;icon_item_core_yellow
@@ -283,7 +283,10 @@ I;붉은 슬라임의 핵;3;38_item_ore_mercury
 I;노란 파이란 날개;1;icon_item_batwing
 I;붉은 위저드 주술 인형의 핵;3;38_item_ore_mercury
 I;더러운 천조각;1;icon_item_misc04_79
+I;크레토의 깃털;1;icon_item_misc_0518
 I;엘룸 방울;1;icon_item_drop
+I;찢어진 종이조각;1;icon_item_flag_hohen
+I;스타울리트 심장;1;item_icon_heart_red
 I;미끈한 수액;1;icon_item_Drug_51021
 I;작은 미스릴 광석 조각;1;13_item_mythril
 I;귀환석;1;MercenaryBadge
@@ -310,13 +313,9 @@ I;마력 추적지도 : 테브린 종유동 1구역;1;GolemMagicItem1
 I;수도사 도르마의 성수;1;icon_item_holywater
 I;진실의 거울;1;icon_item_magic_mirror_1
 I;유기용제;1;icon_item_Drug_CON1
-I;검 연습대 파편;1;icon_item_Quest_00017
 I;왕의 목소리 영약;1;item_HPSP_potion_3
 I;오래된 기름주머니;1;icon_item_spirit_orange
 I;리디메드의 잎사귀;7;BokchoyLeaf
-I;완성된 검 연습대;1;icon_item_small_bag
-I;클레릭 마스터의 신앙의 표식;1;icon_item_Gem_Elemental17
-I;검 연습대 제작 도구;1;icon_item_Quest_00017
 G;Armor
 I;검은 양장모;1;Hat_mannish06
 I;흑립;1;icon_item_accessory_Gat

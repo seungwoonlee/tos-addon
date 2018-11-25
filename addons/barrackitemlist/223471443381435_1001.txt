@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;4427706;icon_item_silver
+I;실버;4427666;icon_item_silver
 G;Armor
 I;갈라티카 그리브;1;icon_item_boots_frost
 I;갈라티카 건틀릿;1;icon_item_gloves_frost
@@ -10,6 +10,8 @@ I;마로네 로브;1;icon_item_malone_amor
 I;스틸 네클리스;1;item_necklace_10
 I;아이언 네클리스;1;item_necklace_10
 I;머슈카리아 모자;1;hairacc_23_mushcariahat
+I;물빛 조개장식;1;icon_item_skyblue_shell
+I;연잎;1;icon_item_Leaf_acc
 I;섀도우맨서 루너하이더 코스튬;1;icon_item_mage_shadowmancer04_f
 I;섀도우맨서 코스튬;1;icon_item_mage_shadowmancer_f
 I;엘리멘탈리스트 코스튬;1;icon_item_warrock_f
@@ -24,7 +26,7 @@ I;잎사귀 무늬 암밴드;1;icon_item_armband_leaf
 I;눈꽃 스프레이;1;icon_item_snowflower
 I;핫팩;1;icon_item_hotpack
 G;Event
-I;특성 포인트 500;1;icon_item_abilitypoint2
+I;특성 포인트 500;2;icon_item_abilitypoint2
 I;연하장;1;icon_item_event_invitation2
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
@@ -119,6 +121,12 @@ I;페디미안 워프 주문서;3;GolemMagicItem1
 I;포포리온 고기;10;icon_item_meat_02
 I;폭죽;30;icon_item_firework
 I;해독제;6;icon_item_Quest_00020
+I;[콜로니전 지원] 농축 HP포션 LV15;20;icon_item_HP_Alche
+I;[콜로니전 지원] 농축 SP포션 LV15;20;icon_item_SP_Alche
+I;[콜로니전 지원] 긴급 수리 키트;5;icon_item_repairkit
+I;[콜로니전 지원] 농축 이동속도 증가 포션 LV15;5;item_speed_requid_1
+I;[콜로니전 지원] 신비한 크리스탈;3;icon_item_soulCrystal_colony
+I;[콜로니전 지원] 워프 주문서-콜로니전;3;icon_item_warp_scroll_colony
 I;보급용 워프 주문서;26;GolemMagicItem1
 I;블루 오브:붉은 트리펠리;1;icon_item_Dreamshade
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
@@ -135,7 +143,7 @@ I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 G;Premium
 I;긴급 수리 키트;41;icon_item_repairkit
-I;소울 크리스탈;46;icon_item_soulCrystal
+I;소울 크리스탈;50;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill

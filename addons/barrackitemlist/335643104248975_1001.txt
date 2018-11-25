@@ -20,7 +20,7 @@ I;클라페다 워프 주문서;12;GolemMagicItem1
 I;페디미안 워프 주문서;7;GolemMagicItem1
 I;폭죽;15;icon_item_firework
 I;레드 오브:하나밍;1;icon_item_Dreamshade_red
-I;LV14 경험치 카드;20;icon_item_expcard
+I;LV14 경험치 카드;32;icon_item_expcard
 I;블루 오브:긴팔 나무;1;icon_item_Dreamshade
 I;블루 오브:뇌옥투사;1;icon_item_Dreamshade
 I;블루 오브:하나밍;1;icon_item_Dreamshade
@@ -65,7 +65,7 @@ G;Material
 I;모루;43;icon_item_anvil
 I;황금 모루;1;icon_item_anvil_gold
 I;기슬로티스;997;icon_item_Gyslotis
-I;성수;804;icon_item_holywater
+I;성수;788;icon_item_holywater
 I;크리오라이트;1;39_icon_item_Cry8rite
 I;파이라이트;11;32_item_ore_pyrite
 I;홀리 파우더;997;icon_item_powderw
@@ -266,7 +266,7 @@ I;케도라 상단의 스크롤;1;icon_item_Scroll1
 I;테넷 성당의 계시;1;icon_item_stonetablet
 I;펜듈럼;1;icon_item_pendulum
 G;Armor
-I;분노의 목걸이;1;item_NECK_PILGRIM_03_SPR
+I;애니무스;1;item_necklace_07
 I;크리스탈 뱅글;1;item_bracelet_15
 I;엑소시스트 소울 바인더 코스튬;1;icon_item_Exorcist02_f
 I;엑소시스트 코스튬;1;icon_item_Exorcist01_f

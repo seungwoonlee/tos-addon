@@ -38,7 +38,7 @@ I;농축 SP포션 LV15;20;icon_item_SP_Alche
 I;블루 오브:코릴러스;1;icon_item_Dreamshade
 I;보급용 워프 주문서;25;GolemMagicItem1
 I;블루 오브:갈색 테라임프;2;icon_item_Dreamshade
-I;LV14 경험치 카드;26;icon_item_expcard
+I;LV14 경험치 카드;38;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
 I;스킬 주문서;4;GolemMagicItem1
 I;스킬 주문서;4;GolemMagicItem1
@@ -47,6 +47,8 @@ I;카라챠 대거;1;icon_item_choora
 I;(바랜)파저리타스 대거;1;icon_item_dagger_scout
 I;아르데 대거;1;icon_item_main-gauche
 I;베놈;1;icon_item_pesh-kabz
+I;라파이 대거;1;icon_item_dagger_lapai
+I;즈바이더 대거;1;icon_item_dagger_nicopolis1
 G;Book
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
 I;찢어진 일기의 일부 2;1;icon_item_paperpiece
@@ -57,20 +59,20 @@ I;낡은 일기;1;icon_item_collection_04Black
 G;Recipe
 I;제작서-레이드 포탈 스톤;1;icon_item_recipe_misc1
 G;Collection
-I;컬렉션:알렘빅 동굴;1;icon_item_box
-I;컬렉션:노브리어 숲;1;icon_item_box
-I;컬렉션:피스티스 숲;1;icon_item_box
-I;컬렉션:에메트 숲;1;icon_item_box
-I;컬렉션:실라 숲;1;icon_item_box
-I;컬렉션:아르커스 숲;1;icon_item_box
-I;컬렉션:파마르 숲;1;icon_item_box
-I;컬렉션:기원의 숲;1;icon_item_box
-I;컬렉션:스팔빈가스 숲;1;icon_item_box
-I;컬렉션:테브린 종유동 1구역;1;icon_item_box
-I;컬렉션:포슬린키스 숲;1;icon_item_box
-I;컬렉션:셉티니 골;1;icon_item_box
-I;컬렉션:드바시아 고개;1;icon_item_box
-I;컬렉션:긴다리 계곡;1;icon_item_box
+I;컬렉션: 알렘빅 동굴;1;icon_item_box
+I;컬렉션: 노브리어 숲;1;icon_item_box
+I;컬렉션: 피스티스 숲;1;icon_item_box
+I;컬렉션: 에메트 숲;1;icon_item_box
+I;컬렉션: 실라 숲;1;icon_item_box
+I;컬렉션: 아르커스 숲;1;icon_item_box
+I;컬렉션: 파마르 숲;1;icon_item_box
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 스팔빈가스 숲;1;icon_item_box
+I;컬렉션: 테브린 종유동 1구역;1;icon_item_box
+I;컬렉션: 포슬린키스 숲;1;icon_item_box
+I;컬렉션: 셉티니 골;1;icon_item_box
+I;컬렉션: 드바시아 고개;1;icon_item_box
+I;컬렉션: 긴다리 계곡;1;icon_item_box
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium

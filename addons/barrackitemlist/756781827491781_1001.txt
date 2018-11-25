@@ -8,17 +8,17 @@ I;해독제;5;icon_item_Quest_00020
 I;마법 공격력 포션;5;item_speed_requid_1
 I;정착 지원 포션 Lv2;23;item_speed_requid_3
 I;농축 이동속도 향상의 포션;20;item_speed_requid_1
-I;농축 SP포션 LV15;18;icon_item_SP_Alche
+I;농축 SP포션 LV15;16;icon_item_SP_Alche
 I;클라페다 워프 주문서;6;GolemMagicItem1
-I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
+I;SP 회복 소형 엘릭서 ;9;icon_item_SPelixir_Small
 I;보급용 이동속도 증가 포션;3;item_speed_requid_1
 I;보급용 SP포션;29;item_SP_requid_2
 I;포포리온 고기;9;icon_item_meat_02
 I;붉은 케파 조각;3;OnionPiece_Red
 I;고농축 HP포션;20;item_HP_oil_3
 I;아말라스;2;icon_item_Amalas
-I;농축 HP포션 LV15;14;icon_item_HP_Alche
-I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
+I;농축 HP포션 LV15;12;icon_item_HP_Alche
+I;HP 회복 소형 엘릭서 ;9;icon_item_HPelixir_Small
 I;보급용 워프 주문서;17;GolemMagicItem1
 I;블루 오브:폰델;1;icon_item_Dreamshade
 I;블루 오브:몽당 나무;1;icon_item_Dreamshade
@@ -70,11 +70,18 @@ G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
+G;Armor
+I;레티아리이 프로보케이터 코스튬;1;icon_item_warrior_retiarii02_f
+I;레티아리이 프리머스 팔루스 코스튬;1;icon_item_warrior_retiarii03_f
+I;펠타스타 코스튬;1;icon_item_Peltasta_f
+I;하플라이트 코스튬;1;icon_item_hoplites_f
+I;레티아리이 티로의 코스튬;1;icon_item_warrior_retiarii01_f
+I;커세어 코스튬;1;icon_item_corsair_f
 G;Material
 I;모루;22;icon_item_anvil
 I;파이라이트;11;32_item_ore_pyrite
 I;크리오라이트;8;39_icon_item_Cry8rite
-I;투망;270;icon_item_Retiarii_Net
+I;투망;259;icon_item_Retiarii_Net
 I;데스모두스 이빨;5;icon_item_tooth_yellow
 I;미니번 가죽;7;icon_item_Misc_00007
 I;유리 조각;6;icon_item_pieceofglass
@@ -196,10 +203,5 @@ I;마력이 농축된 뿔;1;icon_item_claw_hohen
 I;머리꽃;12;icon_item_raffletflfower
 I;마족의 마력원;15;icon_item_core_yellow
 I;차원의 정수;10;icon_item_Gem_Stone_INT
-G;Armor
-I;레티아리이 프로보케이터 코스튬;1;icon_item_warrior_retiarii02_f
-I;레티아리이 프리머스 팔루스 코스튬;1;icon_item_warrior_retiarii03_f
-I;펠타스타 코스튬;1;icon_item_Peltasta_f
-I;하플라이트 코스튬;1;icon_item_hoplites_f
-I;레티아리이 티로의 코스튬;1;icon_item_warrior_retiarii01_f
-I;커세어 코스튬;1;icon_item_corsair_f
+G;Weapon
+I;라파이 크로스보우;1;icon_item_crossbow_lapai

@@ -1,36 +1,7 @@
 S;1001
-G;Unused
-I;실버;12744645;icon_item_silver
-G;SubWeapon
-I;핫팩;1;icon_item_hotpack
-G;Collection
-I;컬렉션: 마법사의 탑 2층;1;icon_item_box
-I;컬렉션: 비에타 계곡;1;icon_item_box
-G;PasteBait
-I;작은 은빛 물고기;8;icon_item_fish4
-I;지렁이;541;icon_item_Paste_Bait_basic
 G;Helmet
 I;송편 헬멧 코스튬;1;icon_item_helmet_songpyun
 I;쑥송편 헬멧 코스튬;1;icon_item_helmet_songpyun2
-G;Armor
-I;브리간딘 팬츠;1;icon_item_pants_brigan
-I;라이트 로네사 뱅글;1;item_bracelet_15
-I;푸른 해군 선원모;1;hairacc_hat015
-I;큰 흰꽃 머리장식;1;hairacc_hat071
-I;마타도르 벨라니멀 코스튬;1;icon_item_warrior_matador03_f
-I;마타도르 벨비스트 코스튬;1;icon_item_warrior_matador02_f
-I;마타도르 코스튬;1;icon_item_warrior_matador_f
-I;바바리안 코스튬;1;icon_item_barbarian_f
-I;커세어 코스튬;1;icon_item_corsair_f
-I;펜서 코스튬;1;icon_item_fencer_f
-I;사심이 담긴 상소문;1;icon_item_wing_scroll2
-G;Event
-I;특성 포인트 500;1;icon_item_abilitypoint2
-I;특성 포인트 1,000;10;icon_item_abilitypoint
-I;강화 실버 할인 쿠폰 : 10만 실버;4;icon_item_reinforce_100000coupon
-I;연하장;1;icon_item_event_invitation2
-G;Book
-I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 G;Recipe
 I;제작서-게일 슬래셔;1;icon_item_weapon_misc4
 I;제작서-겔티 알슈피스;2;icon_item_weapon_misc1
@@ -66,62 +37,12 @@ I;제작서-x8 경험의 서;5;icon_item_recipe_misc1
 I;제작서-여신의 축복석;15;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(레이피어);3;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(방패);2;icon_item_recipe_misc1
-G;FishingRod
-I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
-G;Drug
-I;리사이클 메달;32;icon_item_recyclemedal
-I;100일 기념 포션;24;item_speed_requid_3
-I;HP 회복 소형 엘릭서 ;5;icon_item_HPelixir_Small
-I;[PC방] SP 회복 소형 엘릭서 ;20;icon_item_random_spellixerbox
-I;고농축 HP포션;289;item_HP_oil_3
-I;고농축 SP포션;164;item_SP_requid_3
-I;고농축 이동속도 증가 포션;24;item_speed_requid_1
-I;농축 HP포션 LV15;18;icon_item_HP_Alche
-I;농축 SP포션 LV15;17;icon_item_SP_Alche
-I;농축 이동속도 향상의 포션;40;item_speed_requid_1
-I;딜겔레;1;icon_item_Dilgele
-I;라무넬레;1;icon_item_Ramunele
-I;루팅 찬스 증가 포션;5;icon_item_looting_potion_01
-I;바루날레샤;2;icon_item_Varnalesa
-I;발래리요나스;2;icon_item_Valerijonas
-I;보급용 농축 HP포션 LV15;258;item_HP_oil_3
-I;보급용 농축 SP포션 LV15;271;item_SP_requid_3
-I;보급용 레드옥스;9;icon_item_Red_Ox
-I;보급용 이동속도 증가 포션;4;item_speed_requid_1
-I;보급용 작은 HP포션;19;item_HP_oil_1
-I;보급용 작은 SP포션;234;item_SP_requid_1
-I;보급용 작은 스태미나 알약;22;item_STA_pill_1
-I;보급용 작은 회복포션;2;item_HPSP_potion_1
-I;아말라스;2;icon_item_Amalas
-I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;오르샤 워프 주문서;3;GolemMagicItem1
-I;워시스;3;icon_item_Uosis
-I;정착 지원 포션 Lv2;59;item_speed_requid_3
-I;축복이 깃든 씨앗;7;icon_item_event161215_01
-I;케이스타스 수호의 포션;1;icon_item_Drug_exDEF1
-I;케이스타스 용맹의 포션;3;icon_item_Drug_exATK1
-I;케이스타스 회복포션Lv4;101;item_HPSP_potion_3
-I;클라페다 워프 주문서;11;GolemMagicItem1
-I;포포리온 고기;9;icon_item_meat_02
-I;폭죽;34;icon_item_firework
-I;LV3 경험치 카드;3;icon_item_expcard
-I;LV5 경험치 카드;1;icon_item_expcard
-I;보급용 워프 주문서;16;GolemMagicItem1
-I;블루 오브:벨레그;1;icon_item_Dreamshade
-I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;은빛 물고기;90;icon_item_fish2
-I;TOS 플래카드;1;icon_item_artefact_Ticket_TOS
-I;푸드 커버;1;icon_item_artefact_Dome_Cover
-I;눈 덮인 몬스터 카드첩;1;icon_item_Chrismas_Card
-G;Card
-I;벨니아몽키 카드;Lv10;icon_item_card_atk
-I;벨니아몽키 카드;Lv6;icon_item_card_atk
+G;Cube
+I;[PC방] 성장 지원 상자;1;icon_item_box_pc_month
 G;Premium
 I;긴급 수리 키트;24;icon_item_repairkit
 I;랭크 초기화권;1;icon_item_rankreset_paper
-I;소울 크리스탈;59;icon_item_soulCrystal
+I;소울 크리스탈;63;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
@@ -288,6 +209,95 @@ I;카포테;1;icon_capote
 I;카포테;1;icon_capote
 I;클레릭 마스터의 신앙의 표식;1;icon_item_Gem_Elemental17
 I;파손된 비문 조각;2;icon_item_Misc_00005
+G;Unused
+I;실버;12744645;icon_item_silver
+G;PasteBait
+I;작은 은빛 물고기;8;icon_item_fish4
+I;지렁이;541;icon_item_Paste_Bait_basic
+G;Drug
+I;리사이클 메달;32;icon_item_recyclemedal
+I;100일 기념 포션;24;item_speed_requid_3
+I;HP 회복 소형 엘릭서 ;5;icon_item_HPelixir_Small
+I;[PC방] SP 회복 소형 엘릭서 ;20;icon_item_random_spellixerbox
+I;고농축 HP포션;289;item_HP_oil_3
+I;고농축 SP포션;164;item_SP_requid_3
+I;고농축 이동속도 증가 포션;24;item_speed_requid_1
+I;농축 HP포션 LV15;18;icon_item_HP_Alche
+I;농축 SP포션 LV15;17;icon_item_SP_Alche
+I;농축 이동속도 향상의 포션;40;item_speed_requid_1
+I;딜겔레;1;icon_item_Dilgele
+I;라무넬레;1;icon_item_Ramunele
+I;루팅 찬스 증가 포션;5;icon_item_looting_potion_01
+I;바루날레샤;2;icon_item_Varnalesa
+I;발래리요나스;2;icon_item_Valerijonas
+I;보급용 농축 HP포션 LV15;258;item_HP_oil_3
+I;보급용 농축 SP포션 LV15;271;item_SP_requid_3
+I;보급용 레드옥스;9;icon_item_Red_Ox
+I;보급용 이동속도 증가 포션;4;item_speed_requid_1
+I;보급용 작은 HP포션;19;item_HP_oil_1
+I;보급용 작은 SP포션;234;item_SP_requid_1
+I;보급용 작은 스태미나 알약;22;item_STA_pill_1
+I;보급용 작은 회복포션;2;item_HPSP_potion_1
+I;[콜로니전 지원] HP 회복 소형 엘릭서 ;20;icon_item_HPelixir_Small
+I;아말라스;2;icon_item_Amalas
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;오르샤 워프 주문서;3;GolemMagicItem1
+I;워시스;3;icon_item_Uosis
+I;정착 지원 포션 Lv2;59;item_speed_requid_3
+I;축복이 깃든 씨앗;7;icon_item_event161215_01
+I;케이스타스 수호의 포션;1;icon_item_Drug_exDEF1
+I;케이스타스 용맹의 포션;3;icon_item_Drug_exATK1
+I;케이스타스 회복포션Lv4;101;item_HPSP_potion_3
+I;클라페다 워프 주문서;11;GolemMagicItem1
+I;[콜로니전 지원] SP 회복 소형 엘릭서 ;20;icon_item_SPelixir_Small
+I;[콜로니전 지원] 농축 HP포션 LV15;20;icon_item_HP_Alche
+I;[콜로니전 지원] 농축 SP포션 LV15;20;icon_item_SP_Alche
+I;포포리온 고기;9;icon_item_meat_02
+I;폭죽;34;icon_item_firework
+I;[콜로니전 지원] 긴급 수리 키트;5;icon_item_repairkit
+I;[콜로니전 지원] 농축 이동속도 증가 포션 LV15;5;item_speed_requid_1
+I;[콜로니전 지원] 신비한 크리스탈;3;icon_item_soulCrystal_colony
+I;[콜로니전 지원] 워프 주문서-콜로니전;3;icon_item_warp_scroll_colony
+I;LV3 경험치 카드;3;icon_item_expcard
+I;LV5 경험치 카드;1;icon_item_expcard
+I;보급용 워프 주문서;16;GolemMagicItem1
+I;블루 오브:벨레그;1;icon_item_Dreamshade
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;은빛 물고기;90;icon_item_fish2
+I;TOS 플래카드;1;icon_item_artefact_Ticket_TOS
+I;푸드 커버;1;icon_item_artefact_Dome_Cover
+I;눈 덮인 몬스터 카드첩;1;icon_item_Chrismas_Card
+G;Event
+I;특성 포인트 500;2;icon_item_abilitypoint2
+I;특성 포인트 1,000;10;icon_item_abilitypoint
+I;강화 실버 할인 쿠폰 : 10만 실버;4;icon_item_reinforce_100000coupon
+I;연하장;1;icon_item_event_invitation2
+G;Book
+I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
+G;FishingRod
+I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
+G;Card
+I;벨니아몽키 카드;Lv10;icon_item_card_atk
+I;벨니아몽키 카드;Lv6;icon_item_card_atk
+G;Collection
+I;컬렉션: 마법사의 탑 2층;1;icon_item_box
+I;컬렉션: 비에타 계곡;1;icon_item_box
+G;Armor
+I;브리간딘 팬츠;1;icon_item_pants_brigan
+I;라이트 로네사 뱅글;1;item_bracelet_15
+I;푸른 해군 선원모;1;hairacc_hat015
+I;큰 흰꽃 머리장식;1;hairacc_hat071
+I;마타도르 벨라니멀 코스튬;1;icon_item_warrior_matador03_f
+I;마타도르 벨비스트 코스튬;1;icon_item_warrior_matador02_f
+I;마타도르 코스튬;1;icon_item_warrior_matador_f
+I;바바리안 코스튬;1;icon_item_barbarian_f
+I;커세어 코스튬;1;icon_item_corsair_f
+I;펜서 코스튬;1;icon_item_fencer_f
+I;사심이 담긴 상소문;1;icon_item_wing_scroll2
+G;SubWeapon
+I;핫팩;1;icon_item_hotpack
 G;Weapon
 I;쿼렐보우;1;icon_item_quarrelbow
 I;스틸 폴쳔;1;icon_item_Falchion_up_gray

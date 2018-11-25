@@ -17,22 +17,23 @@ I;복숭아;13;icon_item_Peach
 I;바루날레샤;1;icon_item_Varnalesa
 I;매두스;13;icon_item_Medus
 I;페디미안 워프 주문서;10;GolemMagicItem1
-I;농축 HP포션 LV15;2;icon_item_HP_Alche
 I;폭죽;25;icon_item_firework
 I;보급용 농축 HP포션 LV15;4;item_HP_oil_3
 I;케이스타스 용맹의 포션;2;icon_item_Drug_exATK1
 I;케이스타스 수호의 포션;2;icon_item_Drug_exDEF1
 I;불완전한 루클리스 비약;3;icon_item_holywater_empty
-I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
+I;HP 회복 소형 엘릭서 ;9;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;케이스타스 회복포션Lv4;21;item_HPSP_potion_3
 I;아말라스;5;icon_item_Amalas
 I;정착 지원 포션;9;item_speed_requid_3
-I;농축 SP포션 LV15;16;icon_item_SP_Alche
+I;농축 SP포션 LV15;15;icon_item_SP_Alche
 I;보급용 워프 주문서;18;GolemMagicItem1
-I;LV14 경험치 카드;29;icon_item_expcard
+I;LV14 경험치 카드;41;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
 I;스킬 주문서;2;GolemMagicItem1
+G;SubWeapon
+I;버블스틱;1;icon_item_artefact_bublestick
 G;Book
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
 I;찢어진 일기의 일부 4;1;icon_item_paperpiece
@@ -68,6 +69,7 @@ G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
+I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
 I;황금 모루;1;icon_item_anvil_gold
 I;모루;11;icon_item_anvil
