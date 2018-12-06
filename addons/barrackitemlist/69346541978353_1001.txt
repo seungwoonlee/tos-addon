@@ -116,6 +116,7 @@ I;초대에 응한 자 코스튬(여);1;icon_item_blacksuit01_f
 I;에보니 나이트 코스튬(여);1;icon_item_chessUniform02_f
 I;소드맨 스페셜 코스튬(여);1;icon_item_warrior_swordman01_3_f
 G;Armor
+I;부베 투사 건틀릿;1;icon_item_gloves_bubewarrior
 I;베르타스 플라네타 로브;1;icon_item_baronwear_armor
 I;난감한 땀방울;1;icon_item_Sweat
 I;마타도르 벨라니멀 코스튬;1;icon_item_warrior_matador03_f

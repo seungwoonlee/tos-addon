@@ -30,11 +30,14 @@ I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;농축 SP포션 LV15;41;icon_item_SP_Alche
 I;붉은 케파 조각;1;OnionPiece_Red
+I;지혜의 열매;1;icon_item_wisdomberry
+I;스탯 증가 포션;1;icon_item_allplus
 I;블루 오브:부베 주술사;1;icon_item_Dreamshade
 I;레드 오브:분홍 츄파루카;1;icon_item_Dreamshade_red
 I;LV14 경험치 카드;49;icon_item_expcard
 I;LV13 경험치 카드;4;icon_item_expcard
-I;LV6 경험치 카드;5;icon_item_expcard
+I;LV6 경험치 카드;63;icon_item_expcard
+I;LV11 경험치 카드;7;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black
@@ -62,7 +65,33 @@ I;리디아 샤펜의 교차선;1;icon_item_collection_04Black
 I;리디아 샤펜의 오늬;1;icon_item_collection_01Red
 I;리디아 샤펜과 럼펠스틸스킨;1;icon_item_collection_02green
 G;Recipe
+I;제작서-아바레스트;1;icon_item_weapon_misc1
+I;제작서-그레이트 소드;1;icon_item_weapon_misc1
+I;제작서-로얄 파르티잔;3;icon_item_weapon_misc1
+I;제작서-알터 로드;1;icon_item_weapon_misc1
+I;제작서-카츠발게르;1;icon_item_weapon_misc1
+I;제작서-바들레르;1;icon_item_weapon_misc1
+I;제작서-페디미안 클럽;1;icon_item_weapon_misc1
+I;제작서-코르세스카;1;icon_item_weapon_misc1
+I;제작서-트윈 블레이드;1;icon_item_weapon_misc1
+I;제작서-페디미안 레더 글로브;3;icon_item_gloves_misc1
+I;제작서-턴 부츠;1;icon_item_boots_misc3
+I;제작서-턴 글로브;1;icon_item_gloves_misc3
+I;제작서-페디미안 레더 부츠;1;icon_item_boots_misc1
+I;제작서-턴 팬츠;1;icon_item_pants_misc3
+I;제작서-페디미안 레더 팬츠;2;icon_item_pants_misc1
+I;제작서-턴 로브;1;icon_item_shirts_misc3
 I;제작서-레이드 포탈 스톤;5;icon_item_recipe_misc1
+G;Gem
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;그린 젬;Lv1;item_icon_Dia150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
 G;Collection
 I;컬렉션: 벨라이 숲;1;icon_item_box
 I;컬렉션: 아르커스 숲;1;icon_item_box
@@ -101,23 +130,26 @@ I;컬렉션: 테넷 성당 지상 1층;1;icon_item_box
 I;컬렉션: 초보자의 방어구;1;icon_item_box
 I;컬렉션: 시르드겔라 숲;1;icon_item_box
 I;컬렉션: 필그림 들길;1;icon_item_box
+I;컬렉션: 마법사의 탑 4층;1;icon_item_box
+I;컬렉션: 마법사의 탑 5층;1;icon_item_box
+I;컬렉션: 크란토 연안;1;icon_item_box
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
-I;장원급제 별감복(여);1;icon_item_inspector_uniform02_f
-I;어사 흑단령(여);1;icon_item_inspector_uniform03_f
 G;Material
 I;모루;8;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;파이라이트;8;32_item_ore_pyrite
-I;크리오라이트;3;39_icon_item_Cry8rite
+I;4성 젬 연마제;2;icon_item_powderp
+I;3성 젬 연마제;1;icon_item_powderp
+I;파이라이트;17;32_item_ore_pyrite
+I;크리오라이트;7;39_icon_item_Cry8rite
 I;성수;450;icon_item_holywater
-I;괴황지;4692;icon_item_guehwangji
-I;홀리 파우더;490;icon_item_powderw
-I;조각용 나무;438;icon_item_wood_5
+I;괴황지;4336;icon_item_guehwangji
+I;홀리 파우더;470;icon_item_powderw
+I;조각용 나무;410;icon_item_wood_5
 I;주석;6;1_item_ore_copper
 I;호박;12;22_item_ore_amber
 I;압시듐 광석;4;8_item_ore_platinum
@@ -172,7 +204,7 @@ I;웬디고 이빨;9;icon_item_tooth_white
 I;사우가의 핵;27;icon_item_core_yellow
 I;제페토의 줄기;31;icon_item_stem_brown
 I;단델의 날개;22;icon_item_batwing
-I;신나바르;3;35_item_ore_phlogiston
+I;신나바르;9;35_item_ore_phlogiston
 I;누덕고치의 껍질;7;icon_item_shell_blue
 I;그롤의 뿔;7;icon_item_shorthorn
 I;메슘의 줄기;21;icon_item_stem_brown
@@ -202,10 +234,10 @@ I;베카라베의 껍질;6;icon_item_shell_yellow
 I;바브 더듬이;37;icon_item_feeler_black
 I;카라스 파편;5;icon_item_Misc_00006
 I;베누켈로스의 핵;3;icon_item_core_yellow
-I;러블렘 파편;8;icon_item_Misc_00006
-I;드레이크 고기;23;icon_item_meat_02
-I;유황;15;37_item_ore_sulfur
-I;아모리 판금;6;icon_item_ironbar03_s
+I;러블렘 파편;10;icon_item_Misc_00006
+I;드레이크 고기;25;icon_item_meat_02
+I;유황;18;37_item_ore_sulfur
+I;아모리 판금;8;icon_item_ironbar03_s
 I;타마의 껍질;5;icon_item_tamashell
 I;인프로 버크의 껍질;3;icon_item_shell_red
 I;늙은 케파 껍질;20;icon_item_onionpiece
@@ -222,7 +254,7 @@ I;마우로스의 핵;1;icon_item_core_yellow
 I;콜리플라워의 줄기;6;icon_item_stem_brown
 I;룩소돈 고기;4;icon_item_meat_02
 I;포쿠본 가죽;8;icon_item_Misc_00009
-I;아르마의 뿔;1;icon_item_shorthorn
+I;아르마의 뿔;7;icon_item_shorthorn
 I;리플라이 날개;7;icon_item_bugwing
 I;노란 요노움의 핵;9;icon_item_core_yellow
 I;노란 게이징 골렘의 핵;5;icon_item_core_yellow
@@ -235,10 +267,10 @@ I;루바보스 가죽;3;icon_item_Misc_00010
 I;피노의 줄기;1;icon_item_stem_brown
 I;그리바 줄기;3;icon_item_stem_yellow
 I;인프로 블러드 줄기;1;icon_item_stem_gray
-I;주술인형의 핵;2;icon_item_core_red
+I;주술인형의 핵;9;icon_item_core_red
 I;엘로마고 잎;6;icon_item_leaves_blue
 I;짧은 목재;3;icon_item_wood_4
-I;검은 주술인형의 핵;1;icon_item_core_yellow
+I;검은 주술인형의 핵;11;icon_item_core_yellow
 I;테라임프 장식;3;icon_item_horn_tiny_blue
 I;론도 껍질;3;icon_item_shell_blue
 I;멜라타눈 심장;2;item_icon_heart_yellow
@@ -246,14 +278,14 @@ I;로프틀렘 파편;1;icon_item_Misc_00006
 I;푸른 프라가라스의 줄기;2;icon_item_stem_gray
 I;엘마 머리카락;2;icon_item_hair_elma
 I;돌;1;icon_item_Misc_00004
-I;노란 이노움의 핵;2;icon_item_core_yellow
+I;노란 이노움의 핵;4;icon_item_core_yellow
 I;호글란 부리;1;icon_item_small_bag
 I;우펜트의 껍질;4;icon_item_Misc_00015
 I;리자드맨 뼈;1;icon_item_bone
 I;메다키아의 뿔;3;pokubu_horn
 I;두더지 발톱;1;icon_item_canine
 I;잎방개의 껍질;3;icon_item_shell_green
-I;유리 조각;1;icon_item_pieceofglass
+I;유리 조각;9;icon_item_pieceofglass
 I;그리바 갓;1;icon_item_mushroomcap
 I;페릿의 털;6;icon_item_fur_spion_white
 I;회색 스타울리트 힘줄;6;icon_item_Leash
@@ -263,7 +295,7 @@ I;초록 티니 꼬리;21;icon_item_tail_tiny_green
 I;갈색 티니의 뼈;7;icon_item_bone
 I;붉은 스피온 털;2;icon_item_fur_spion_red
 I;도요르 잎다발;1;icon_item_doyorleaf
-I;미니번 가죽;1;icon_item_Misc_00007
+I;미니번 가죽;4;icon_item_Misc_00007
 I;암몬 등뼈;1;icon_item_bone
 I;타마 잎;2;icon_item_leaves_red
 I;푸른 레푸스버니의 뼈;2;icon_item_bone
@@ -288,8 +320,17 @@ I;엘룸 방울;1;icon_item_drop
 I;찢어진 종이조각;1;icon_item_flag_hohen
 I;스타울리트 심장;1;item_icon_heart_red
 I;미끈한 수액;1;icon_item_Drug_51021
+I;크로마독 뼈;5;icon_item_bone
+I;붉은 인프로 락터의 껍질;1;icon_item_shell
+I;데스모두스 이빨;10;icon_item_tooth_yellow
+I;LV3 보물상자 열쇠;1;icon_item_key2
+I;드레이크의 뿔;1;icon_item_longhorn
+I;검은 드레이크의 심장;2;item_icon_heart_red
+I;드레이크의 피막;1;icon_item_batwing
+I;단단한 껍질;4;icon_item_shell_yellow
 I;작은 미스릴 광석 조각;1;13_item_mythril
 I;귀환석;1;MercenaryBadge
+I;특성 포인트 100;4;icon_item_abilitypoint3
 G;Quest
 I;수정광산의 계시;1;icon_item_stonetablet
 I;공간의 문장;1;icon_item_void_01
@@ -316,9 +357,11 @@ I;유기용제;1;icon_item_Drug_CON1
 I;왕의 목소리 영약;1;item_HPSP_potion_3
 I;오래된 기름주머니;1;icon_item_spirit_orange
 I;리디메드의 잎사귀;7;BokchoyLeaf
+I;마법사의 탑의 계시;1;icon_item_stonetablet
+I;석회 가루;40;icon_item_powderw
+I;독특한 산호 조각;1;icon_item_coral
 G;Armor
 I;검은 양장모;1;Hat_mannish06
-I;흑립;1;icon_item_accessory_Gat
 I;크리비 코스튬;1;icon_item_kribi_f
 I;딥디르비 코스튬;1;icon_item_dievdirbys_f
 I;도사 코스튬;1;icon_item_daoshi_f

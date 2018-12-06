@@ -67,6 +67,7 @@ I;제작서-아우스라 플레이트 팬츠;1;icon_item_pants_misc5
 I;제작서-아우스라 플레이트 아머;1;icon_item_shirts_misc5
 I;제작서-아우스라 그리브;1;icon_item_boots_misc5
 I;제작서-피에타스 레더 글로브;1;icon_item_gloves_misc5
+I;제작서-피에타스 레더 팬츠;1;icon_item_pants_misc5
 I;제작서-미르티 브레이슬릿;6;icon_item_bracelet_misc4
 I;제작서-아키바 브레이슬릿;7;icon_item_bracelet_misc4
 I;제작서-우프올 펄 브레이슬릿;11;icon_item_bracelet_misc4
@@ -230,8 +231,9 @@ I;쿠게리의 천조각;2;icon_item_clothpiece_white
 I;부어의 딱딱한 부리;10;icon_item_misc_0515
 I;나뭇가지;2;icon_item_branch_00Basic
 I;돌;1;icon_item_Misc_00004
-I;누크의 질 좋은 가죽;17;icon_item_misc_0516
+I;누크의 질 좋은 가죽;82;icon_item_misc_0516
 I;니므라댐즐의 깨진 수정구;2;icon_item_misc_0508
+I;야크야크의 뿔;5;icon_item_misc_0517
 I;니므라랜서의 창;9;icon_item_misc_0509
 I;루나엔젤의 나팔;6;icon_item_misc_0511
 I;바를스키퍼의 검신;4;icon_item_misc_0513
@@ -240,7 +242,7 @@ I;바를거너의 대포 조각;1;icon_item_misc_0512
 I;로열 블레이드 파편;6;icon_item_misc_0529
 I;소켓의 껍질;5;icon_item_shell_blue
 I;별빛이 깃든 이슬;1;icon_item_misc_0520
-I;리디아의 붉은 꽃;1;icon_item_misc_0519
+I;리디아의 붉은 꽃;4;icon_item_misc_0519
 I;차원 탐색 스크롤;1;GolemMagicItem1
 I;귀환석;1;MercenaryBadge
 G;Quest

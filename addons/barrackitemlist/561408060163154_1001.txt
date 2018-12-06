@@ -23,7 +23,6 @@ I;보급용 작은 SP포션;45;item_SP_requid_1
 I;보급용 작은 HP포션;5;item_HP_oil_1
 I;레드옥스;2;icon_item_Red_Ox
 I;농축 SP포션 LV15;17;icon_item_SP_Alche
-I;호박사탕;1;icon_item_Pumpkin
 I;할로윈 폭죽;1;icon_item_firework
 I;레드 오브:코릴러스;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;24;GolemMagicItem1

@@ -4,11 +4,9 @@ I;실버;450000;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;농축 HP포션 LV15;2;icon_item_HP_Alche
 I;농축 SP포션 LV15;18;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;19;item_speed_requid_1
 I;독 속성 저항력 포션;1;icon_item_Seed_HP1
-I;딜겔레;7;icon_item_Dilgele
 I;딸기;1;icon_item_Strawberry
 I;라프세이프 버섯;6;icon_item_Pinemushroom
 I;매두스;19;icon_item_Medus
@@ -164,7 +162,10 @@ I;레드 젬;Lv4;item_icon_circle150
 I;레드 젬;Lv4;item_icon_circle150
 I;레드 젬;Lv4;item_icon_circle150
 I;레드 젬;Lv2;item_icon_circle150
-I;그린 젬;Lv5;item_icon_Dia150
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv4;item_icon_circle150
+I;레드 젬;Lv3;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
 I;그린 젬;Lv2;item_icon_Dia150
 I;그린 젬;Lv1;item_icon_Dia150
 I;그린 젬;Lv2;item_icon_Dia150
@@ -175,6 +176,10 @@ I;그린 젬;Lv4;item_icon_Dia150
 I;그린 젬;Lv4;item_icon_Dia150
 I;그린 젬;Lv4;item_icon_Dia150
 I;그린 젬;Lv3;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv2;item_icon_Dia150
+I;그린 젬;Lv2;item_icon_Dia150
+I;그린 젬;Lv2;item_icon_Dia150
 I;블루 젬;Lv4;item_icon_Square150
 I;블루 젬;Lv4;item_icon_Square150
 I;블루 젬;Lv4;item_icon_Square150
@@ -187,6 +192,10 @@ I;블루 젬;Lv2;item_icon_Square150
 I;블루 젬;Lv1;item_icon_Square150
 I;블루 젬;Lv1;item_icon_Square150
 I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv3;item_icon_Square150
+I;블루 젬;Lv2;item_icon_Square150
+I;블루 젬;Lv3;item_icon_Square150
+I;블루 젬;Lv4;item_icon_Square150
 I;옐로우 젬;Lv4;item_icon_Star150
 I;옐로우 젬;Lv4;item_icon_Star150
 I;옐로우 젬;Lv1;item_icon_Star150
@@ -197,10 +206,12 @@ I;옐로우 젬;Lv4;item_icon_Star150
 I;옐로우 젬;Lv4;item_icon_Star150
 I;옐로우 젬;Lv4;item_icon_Star150
 I;옐로우 젬;Lv4;item_icon_Star150
-I;옐로우 젬;Lv6;item_icon_Star150
 I;옐로우 젬;Lv4;item_icon_Star150
 I;옐로우 젬;Lv1;item_icon_Star150
 I;옐로우 젬;Lv1;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;옐로우 젬;Lv3;item_icon_Star150
 I;옐로우 젬;Lv1;item_icon_Star150
 I;화이트 젬;Lv3;item_icon_twentyside150
 I;화이트 젬;Lv1;item_icon_twentyside150
@@ -373,6 +384,20 @@ I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
 I;브람블 카드;Lv1;icon_item_card_def
 I;브람블 카드;Lv1;icon_item_card_def
 I;살티스터 카드;Lv1;icon_item_card_def
@@ -389,11 +414,6 @@ I;콜리멘시아 카드;Lv1;icon_item_card_def
 I;프로골라 카드;Lv1;icon_item_card_def
 I;플람미두스 카드;Lv1;icon_item_card_def
 I;회색 골렘 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
 I;가이갈라스 카드;Lv1;icon_item_card_util
 I;게이징 골렘 카드;Lv1;icon_item_card_util
 I;네옵 카드;Lv1;icon_item_card_util
@@ -442,17 +462,22 @@ I;하르피아 카드;Lv1;icon_item_card_util
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
 I;확성기;15;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
 I;모루;12;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
+I;2성 젬 연마제;4;icon_item_powderp
+I;3성 젬 연마제;5;icon_item_powderp
+I;4성 젬 연마제;2;icon_item_powderp
+I;5성 젬 연마제;2;icon_item_powderp
 I;마법 가루;281;icon_item_MagicPowder
-I;빈 스펠북;12;icon_item_emptySpellBook
+I;빈 스펠북;8;icon_item_emptySpellBook
 I;크리오라이트;9;39_icon_item_Cry8rite
 I;파이라이트;8;32_item_ore_pyrite
 I;주석;1;1_item_ore_copper
-I;이오니움;1;icon_item_crystal_yellow
 I;LV2 보물상자 열쇠;4;icon_item_key1
 I;갈록 가죽;1;icon_item_Misc_00007
 I;갈색 라프세이프 잎;3;icon_item_leaves_lapasape_brown
@@ -529,7 +554,6 @@ I;아클라스의 갑옷조각;2;icon_item_FORMINE_ARMOR_SCAPULAR
 I;얼타눈 깃털;4;icon_item_feather_03Green
 I;에큐바이트 더듬이;4;icon_item_feeler_purple
 I;에큐바이트 이빨;1;icon_item_tooth_blue
-I;오래된 황금 주화;1;icon_item_antque_gold_coin
 I;웬디고 송곳니;1;icon_item_tooth_white
 I;웬디고 이빨;6;icon_item_tooth_white
 I;유리 조각;2;icon_item_pieceofglass
@@ -549,6 +573,7 @@ I;초록 호헨 갈기;2;icon_item_mane_hohen_green
 I;츄파루카 털;1;icon_item_fur_05Gray
 I;츄파카브라 이빨;13;icon_item_tooth_white
 I;카라스 파편;4;icon_item_Misc_00006
+I;카로 잎사귀;1;icon_item_leaves_green
 I;케파 줄기;1;icon_item_stem_green
 I;케파리 껍질;2;icon_item_piece_pappusKepa_purple
 I;케포 솜털;4;icon_item_cotton
@@ -575,7 +600,6 @@ I;호그마 전투대장 송곳니;2;icon_item_tooth_00Basic
 I;호헨 깃발 조각;5;icon_item_flag_hohen
 I;회색 스타울리트 힘줄;5;icon_item_Leash
 I;귀환석;1;MercenaryBadge
-I;특성 포인트 100;3;icon_item_abilitypoint3
 G;Quest
 I;가시숲의 계시;1;icon_item_stonetablet
 I;공간의 문장;1;icon_item_void_01

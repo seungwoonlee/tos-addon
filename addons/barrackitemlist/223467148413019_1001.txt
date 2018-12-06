@@ -43,7 +43,7 @@ I;페디미안 워프 주문서;2;GolemMagicItem1
 I;포포리온 고기;8;icon_item_meat_02
 I;폭죽;15;icon_item_firework
 I;할로윈 폭죽;1;icon_item_firework
-I;LV14 경험치 카드;45;icon_item_expcard
+I;LV14 경험치 카드;58;icon_item_expcard
 I;레드 오브:인프로홀더 궁수;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;15;GolemMagicItem1
 I;블루 오브:코왁;2;icon_item_Dreamshade
@@ -83,6 +83,9 @@ I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
 I;가벼운 모루;1;icon_item_anvil
 I;모루;13;icon_item_anvil
+I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
+I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
+I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;크리오라이트;4;39_icon_item_Cry8rite
 I;파이라이트;6;32_item_ore_pyrite
@@ -239,6 +242,5 @@ I;해방 영약;1;icon_item_Drug_DEF3
 I;휠렌의 증표;1;icon_item_Gem_Elemental17
 I;힘을 잃은 고헤이;1;icon_item_gohei
 G;Armor
-I;리에나 로브;1;icon_item_shirts_sage
 I;드루이드 코스튬;1;icon_item_druid_f
 I;팔라딘 코스튬;1;icon_item_paladin_f

@@ -94,6 +94,7 @@ I;몬데롤 산의 여신의 처소 1권;1;icon_item_collection_03Blue
 I;공간의 책;1;icon_item_collection_00Basic
 I;세이지의 기준점;1;icon_item_collection_01Red
 G;Recipe
+I;제작서-레비잔 브레이슬릿;1;icon_item_bracelet_misc4
 I;제작서-x4 경험의 서;6;icon_item_recipe_misc1
 I;제작서-x8 경험의 서;9;icon_item_recipe_misc1
 I;제작서-레이드 포탈 스톤;13;icon_item_recipe_misc1
@@ -162,10 +163,10 @@ I;블랙 캣 코스튬(여);1;icon_item_HalloweenCat_Unifom_f
 G;Material
 I;모루;11;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;고문도구;268;icon_item_torturing_tool
-I;기슬로티스;325;icon_item_Gyslotis
+I;고문도구;264;icon_item_torturing_tool
+I;기슬로티스;323;icon_item_Gyslotis
 I;망토;1;icon_item_cape
-I;성수;331;icon_item_holywater
+I;성수;329;icon_item_holywater
 I;크리오라이트;28;39_icon_item_Cry8rite
 I;파이라이트;19;32_item_ore_pyrite
 I;홀리 파우더;315;icon_item_powderw
@@ -468,12 +469,6 @@ I;펜듈럼;1;icon_item_pendulum
 I;폭탄;5;icon_item_bomb
 I;힘이 복구된 사울레의 성구;1;icon_item_crimson3
 G;Armor
-I;프리머스 제베넬리스 레더 부츠;1;icon_item_leather_boots_1
-I;록소나 플레이트 건틀릿;1;icon_item_gloves_SRchain
-I;프리머스 바스티클 건틀릿;1;icon_item_iorn_glove_1
-I;프리머스 제베넬리스 레더 팬츠;1;icon_item_leather_pants_1
-I;프리머스 바스티클 플레이트 아머;1;icon_item_iorn_shirt_1
-I;프리머스 제베넬리스 레더 아머;1;icon_item_leather_shirt_1
 I;인퀴지터 코스튬;1;icon_item_inquisitor_f
 I;채플린 코스튬;1;icon_item_chaplain_f
 I;크리비 코스튬;1;icon_item_kribi_f

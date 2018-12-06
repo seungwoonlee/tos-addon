@@ -57,18 +57,15 @@ I;송편 헬멧 코스튬;1;icon_item_helmet_songpyun
 G;Premium
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
-I;레드 메이드 코스튬(여);1;icon_item_maiduniform_red_f
-I;벚꽃 로맨스 세일러복 코스튬(여);1;icon_item_pink_Sailor01_f
-I;초대에 응한 자 코스튬(여);1;icon_item_blacksuit01_f
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
 I;모루;43;icon_item_anvil
 I;황금 모루;1;icon_item_anvil_gold
-I;기슬로티스;997;icon_item_Gyslotis
-I;성수;788;icon_item_holywater
+I;기슬로티스;996;icon_item_Gyslotis
+I;성수;784;icon_item_holywater
 I;크리오라이트;1;39_icon_item_Cry8rite
 I;파이라이트;11;32_item_ore_pyrite
-I;홀리 파우더;997;icon_item_powderw
+I;홀리 파우더;996;icon_item_powderw
 I;주석;1;1_item_ore_copper
 I;호박;16;22_item_ore_amber
 I;LV2 보물상자 열쇠;7;icon_item_key1
@@ -266,7 +263,7 @@ I;케도라 상단의 스크롤;1;icon_item_Scroll1
 I;테넷 성당의 계시;1;icon_item_stonetablet
 I;펜듈럼;1;icon_item_pendulum
 G;Armor
-I;애니무스;1;item_necklace_07
+I;분노의 목걸이;1;item_NECK_PILGRIM_03_SPR
 I;크리스탈 뱅글;1;item_bracelet_15
 I;엑소시스트 소울 바인더 코스튬;1;icon_item_Exorcist02_f
 I;엑소시스트 코스튬;1;icon_item_Exorcist01_f

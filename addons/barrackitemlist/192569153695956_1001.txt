@@ -101,7 +101,7 @@ I;크리오라이트;21;39_icon_item_Cry8rite
 I;성수;100;icon_item_holywater
 I;홀리 파우더;206;icon_item_powderw
 I;기슬로티스;100;icon_item_Gyslotis
-I;고문도구;308;icon_item_torturing_tool
+I;고문도구;290;icon_item_torturing_tool
 I;호박;47;22_item_ore_amber
 I;주석;2;1_item_ore_copper
 I;유코푸스 잎;52;icon_item_leaves_blue

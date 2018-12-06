@@ -2,7 +2,6 @@ S;1001
 G;Unused
 I;실버;100000;icon_item_silver
 G;PasteBait
-I;문어;31;icon_item_octopus
 I;작은 은빛 물고기;22;icon_item_fish4
 G;Drug
 I;라프세이프 버섯;5;icon_item_Pinemushroom
@@ -11,17 +10,19 @@ I;고농축 HP포션;145;item_HP_oil_3
 I;고농축 SP포션;117;item_SP_requid_3
 I;긴급 수리 키트;11;icon_item_repairkit
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
-I;농축 HP포션 LV15;20;icon_item_HP_Alche
+I;농축 HP포션 LV15;18;icon_item_HP_Alche
 I;대형 HP포션;5;item_HP_oil_3
 I;대형 SP포션;3;item_SP_requid_3
 I;딸기;21;icon_item_Strawberry
+I;농축 SP포션 LV15;9;icon_item_SP_Alche
 I;루팅 찬스 증가 포션;2;icon_item_looting_potion_01
 I;루팅 찬스: 100;4;item_icon_luckypotion_100
 I;매두스;17;icon_item_Medus
-I;바루날레샤;96;icon_item_Varnalesa
+I;바루날레샤;95;icon_item_Varnalesa
 I;복숭아;14;icon_item_Peach
 I;아비에테;22;icon_item_Aviete
 I;오르샤 워프 주문서;17;GolemMagicItem1
+I;누켈라;1;icon_item_Nukela
 I;이동속도 향상의 포션;4;item_speed_requid_1
 I;케이스타스 회복포션Lv1;10;item_HPSP_potion_1
 I;케이스타스 회복포션Lv2;10;item_HPSP_potion_2
@@ -32,12 +33,12 @@ I;큰 HP포션;6;item_HP_oil_3
 I;큰 SP포션;8;item_SP_requid_3
 I;클라페다 워프 주문서;9;GolemMagicItem1
 I;특대형 HP포션;8;item_HP_oil_3
-I;특대형 SP포션;4;item_SP_requid_3
+I;특대형 SP포션;3;item_SP_requid_3
 I;페디미안 워프 주문서;5;GolemMagicItem1
 I;포포리온 고기;23;icon_item_meat_02
 I;할로윈 폭죽;6;icon_item_firework
 I;LV10 경험치 카드;5;icon_item_expcard
-I;LV14 경험치 카드;46;icon_item_expcard
+I;LV14 경험치 카드;58;icon_item_expcard
 I;LV6 경험치 카드;14;icon_item_expcard
 I;LV7 경험치 카드;8;icon_item_expcard
 I;LV8 경험치 카드;4;icon_item_expcard
@@ -179,7 +180,6 @@ I;제작서-에멘가드 실드;9;icon_item_shirts_misc5
 I;제작서-페디미안 레더 부츠;1;icon_item_boots_misc1
 I;제작서-페디미안 레더 아머;1;icon_item_shirts_misc1
 I;제작서-페디미안 아머;1;icon_item_shirts_misc1
-I;제작서-레비잔 브레이슬릿;1;icon_item_bracelet_misc4
 I;제작서-x4 경험의 서;1;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(로드);2;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(레이피어);2;icon_item_recipe_misc1
@@ -226,7 +226,9 @@ G;Material
 I;모루;14;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;5성 젬 연마제;1;icon_item_powderp
-I;4성 젬 연마제;1;icon_item_powderp
+I;4성 젬 연마제;2;icon_item_powderp
+I;2성 젬 연마제;1;icon_item_powderp
+I;3성 젬 연마제;1;icon_item_powderp
 I;크리오라이트;17;39_icon_item_Cry8rite
 I;성수;2;icon_item_holywater
 I;파이라이트;27;32_item_ore_pyrite

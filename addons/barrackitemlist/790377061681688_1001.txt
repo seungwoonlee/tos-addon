@@ -6,7 +6,7 @@ I;작은 은빛 물고기;2;icon_item_fish4
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;농축 HP포션 LV15;37;icon_item_HP_Alche
+I;농축 HP포션 LV15;34;icon_item_HP_Alche
 I;농축 SP포션 LV15;20;icon_item_SP_Alche
 I;라프세이프 버섯;9;icon_item_Pinemushroom
 I;레드옥스;4;icon_item_Red_Ox
