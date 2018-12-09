@@ -22,7 +22,7 @@ I;케이스타스 용맹의 포션;5;icon_item_Drug_exATK1
 I;케이스타스 회복포션Lv4;47;item_HPSP_potion_3
 I;보급용 HP포션;9;item_HP_oil_2
 I;물리+마법 방어력 포션;1;item_speed_requid_1
-I;치명타 공격력 증가 포션;1;item_speed_requid_1
+I;물리 치명타 공격력 증가 포션;1;item_speed_requid_1
 I;보급용 큰 HP포션;1;item_HP_oil_3
 I;스태미나 알약;5;item_STA_pill_2
 I;큰 스태미나 알약;5;item_STA_pill_3
@@ -45,7 +45,6 @@ I;스킬 주문서;4;GolemMagicItem1
 G;SubWeapon
 I;카라챠 대거;1;icon_item_choora
 I;(바랜)파저리타스 대거;1;icon_item_dagger_scout
-I;아르데 대거;1;icon_item_main-gauche
 I;베놈;1;icon_item_pesh-kabz
 I;라파이 대거;1;icon_item_dagger_lapai
 I;즈바이더 대거;1;icon_item_dagger_nicopolis1
@@ -90,9 +89,6 @@ I;프리머스 갈라티카 플레이트 아머;1;icon_item_shirts_frost
 I;프리머스 바스티클 플레이트 아머;1;icon_item_iorn_shirt_1
 I;레비잔 브레이슬릿;1;item_bracelet_14
 I;레비잔 브레이슬릿;1;item_bracelet_14
-I;파이로맨서 코스튬;1;icon_item_pyromancer_f
-I;쏘마터지 코스튬;1;icon_item_thaumaturge_f
-I;엘리멘탈리스트 코스튬;1;icon_item_warrock_f
 G;Material
 I;모루;2;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1

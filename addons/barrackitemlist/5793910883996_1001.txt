@@ -1,26 +1,95 @@
 S;1001
 G;Unused
-I;실버;1;icon_item_silver
+I;실버;200000;icon_item_silver
+G;SubWeapon
+I;느낌있는 암밴드;1;icon_item_armband_exclamationMark_icon
+I;디오니스 암밴드;1;icon_item_armband_dinios
+I;리본 암밴드;1;icon_item_armband_ribbon
+I;매듭진 암밴드;1;icon_item_armband_cloth
+I;서포터즈 암밴드;1;icon_item_armband_supporter_soccer
+I;엄지척 암밴드;1;icon_item_armband_facebook
+I;잎사귀 무늬 암밴드;1;icon_item_armband_leaf
+I;지구의 행복 암밴드;1;icon_item_armband_g9
+I;눈꽃 스프레이;1;icon_item_snowflower
+I;두근두근 웨딩 부케;1;icon_item_bouquet01
+I;등대 조명;1;icon_item_lighthouse_stick
+I;망원경;1;icon_item_scope_marin
+I;버블스틱;1;icon_item_artefact_bublestick
+I;부부젤라;1;icon_item_vuvuzela
+I;삽;1;icon_item_shovel
+I;수박 아이스크림;1;icon_item_artefact_watermelon
+I;좌절 깃발;1;OTL_flag
+I;체스 타이머;1;icon_item_chess_timer
+I;크리스마스 핸드벨;1;icon_item_artefact_bell
+I;탐지기;1;icon_item_metaldetector
+I;파이프;1;icon_item_bubble_pipeb
+I;풍선피리;1;icon_item_balloon_pipe
+G;Collection
+I;컬렉션: 글라데 언덕길;1;icon_item_box
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 긴다리 계곡;1;icon_item_box
+I;컬렉션: 나하스 숲;1;icon_item_box
+I;컬렉션: 내성곽지구;1;icon_item_box
+I;컬렉션: 네토 숲;1;icon_item_box
+I;컬렉션: 네프리타스 벼랑;1;icon_item_box
+I;컬렉션: 다이나 양봉지;1;icon_item_box
+I;컬렉션: 대왕의 관문;1;icon_item_box
+I;컬렉션: 덧댄다리 숲;1;icon_item_box
+I;컬렉션: 딩고파실;1;icon_item_box
+I;컬렉션: 록소나 장터;1;icon_item_box
+I;컬렉션: 록소나 재건단 서관;1;icon_item_box
+I;컬렉션: 마법사의 탑 2층;1;icon_item_box
+I;컬렉션: 마법사의 탑 5층;1;icon_item_box
+I;컬렉션: 마족수감소 1구역;1;icon_item_box
+I;컬렉션: 모크슬 묘실;1;icon_item_box
+I;컬렉션: 베야 골짜기;1;icon_item_box
+I;컬렉션: 빌티스 숲;1;icon_item_box
+I;컬렉션: 셉티니 골;1;icon_item_box
+I;컬렉션: 스라우타스 협곡;1;icon_item_box
+I;컬렉션: 시르드겔라 숲;1;icon_item_box
+I;컬렉션: 아샤크 지하감옥 2층;1;icon_item_box
+I;컬렉션: 아크멘스 능선;1;icon_item_box
+I;컬렉션: 알레멧 숲;1;icon_item_box
+I;컬렉션: 연안요새;1;icon_item_box
+I;컬렉션: 왕릉 5층;1;icon_item_box
+I;컬렉션: 우키스 경작지;1;icon_item_box
+I;컬렉션: 이국 사랑;1;icon_item_box
+I;컬렉션: 이브레 고원;1;icon_item_box
+I;컬렉션: 중심시가;1;icon_item_box
+I;컬렉션: 테넷 성당 지하 1층;1;icon_item_box
+I;컬렉션: 테넷 화원;1;icon_item_box
+I;컬렉션: 파수꾼의 묘역;1;icon_item_box
+I;컬렉션: 페디미안 외곽;1;icon_item_box
+I;컬렉션: 폴쳔이란 무엇인가;1;icon_item_box
+G;PasteBait
+I;문어;201;icon_item_octopus
+I;작은 은빛 물고기;10;icon_item_fish4
+G;Helmet
+I;24K 금괴 멍멍 헬멧 코스튬;1;item_icon_helmet_goldstonedog01
+I;복실복실 황금개 헬멧 코스튬;1;item_icon_helmet_golddog
+I;쑥송편 헬멧 코스튬;1;icon_item_helmet_songpyun2
+I;어항 헬멧 코스튬;1;icon_item_helmet_fishbowl
+I;잭오랜턴 헬멧;1;icon_item_pumkin_helmet
+I;잭오랜턴 헬멧;1;icon_item_pumkin_helmet
 G;Armor
 I;치킨 푸들 헤드(여);1;icon_item_helmet_poodle_f
 I;케파 헤드(여);1;icon_item_helmet_kepa_f
 I;포포리온 헤드(여);1;icon_item_helmet_popolion_f
 I;하나밍 헤드(여);1;icon_item_helmet_hanaming_f
+I;프리머스 바스티클 그리브;1;icon_item_iorn_boots_1
 I;로얄 메이지 글로브;1;icon_item_gloves_royalMage
 I;마크 글로브;1;icon_item_gloves_brigan
 I;카프리선 글로브;1;icon_item_gloves_brigan
 I;카프리선 글로브;1;icon_item_gloves_brigan
 I;카이트 실드;1;icon_item_Shield_9
+I;포 마인 아머;1;icon_item_shirts_brigan
 I;애니무스;1;item_necklace_07
 I;유코푸스 네클리스;1;item_necklace_11
-I;제미나 목걸이(14일);1;item_NECK_JEMINA01
 I;케파 팬던트;1;item_necklace_10
 I;탈리스만;1;item_necklace_19
 I;부베 뱅글;1;item_bracelet_16
 I;브레이슬릿 오브 린네;1;item_bracelet_18
 I;브레이슬릿 오브 린네;1;item_bracelet_18
-I;샤펜의 팔찌 조각;1;item_bracelet_02_3
-I;샤펜의 팔찌 조각;1;item_bracelet_02_3
 I;슈페리어 뱅글;1;item_bracelet_15
 I;포레스트 뱅글;1;item_bracelet_01
 I;강아지 풍선;1;icon_item_dogballoon
@@ -63,12 +132,12 @@ I;둥지튼 알;1;hairacc_1_egg
 I;둥지튼 알;1;hairacc_1_egg
 I;둥지튼 알;1;hairacc_1_egg
 I;라딧슈;1;icon_item_Radish
+I;라떼 캣;1;icon_item_accessory_Latte_Cat
 I;로맨틱 마린 스카프;1;icon_item_accessory_bandmarin
 I;루돌프 뿔 모자;1;christmascleric
 I;리본장식 해군모;1;icon_item_navy_big_stripe_ribbon
 I;마린 베레모;1;icon_item_accessory_marincap
 I;망자의 머리띠;1;hairacc_70_deadband
-I;매니시 짧은 챙 모자;1;Hat_mannish08
 I;머슈카리아 모자;1;hairacc_23_mushcariahat
 I;머슈카리아 모자;1;hairacc_23_mushcariahat
 I;머슈카리아 모자;1;hairacc_23_mushcariahat
@@ -123,7 +192,6 @@ I;새싹;1;hairacc_61_sprout
 I;세일러 베레모;1;icon_item_accessory_papermarincap
 I;스파르타 투구;1;icon_item_red_long_helmet
 I;스페이드 군관 모자;1;hairacc_hat_trump_war
-I;신사의 품격;1;hairacc_5_fedora
 I;알로하 화관;1;Hat_cle_swim_f
 I;암탉 머리 장식;1;Hat_628294
 I;얼음 주머니;1;hairacc_9_icepack
@@ -200,12 +268,9 @@ I;붉은 악마날개;1;hairacc_49_reddevilwing
 I;블루 앵커;1;icon_item_accessory_anchor
 I;산양 뿔;1;hairacc_43_sheephorn
 I;젖소 머리띠;1;hairacc_36_cow
-I;젖소 머리띠;1;hairacc_36_cow
 I;호박 장식;1;icon_item_accessory_pumpkin
 I;계란 후라이;1;hairacc_62_friedegg
 I;계란 후라이;1;hairacc_62_friedegg
-I;고급스런 머리핀;1;hairacc_58_metaltassel
-I;단풍잎;1;hairacc_13_maple
 I;단풍잎;1;hairacc_13_maple
 I;단풍잎;1;hairacc_13_maple
 I;단풍잎;1;hairacc_13_maple
@@ -247,79 +312,22 @@ I;흰꽃 머리핀;1;hairacc_15_flowerribbon
 I;흰꽃 머리핀;1;hairacc_15_flowerribbon
 I;흰꽃 머리핀;1;hairacc_15_flowerribbon
 I;흰꽃 머리핀;1;hairacc_15_flowerribbon
-I;링커 코스튬;1;icon_item_linker_f
+I;고급스런 머리핀;1;hairacc_58_metaltassel
 I;섀도우맨서 루너하이더 코스튬;1;icon_item_mage_shadowmancer04_f
 I;섀도우맨서 선하이더 코스튬;1;icon_item_mage_shadowmancer02_f
-I;섀도우맨서 코스튬;1;icon_item_mage_shadowmancer_f
+I;소서러 코스튬;1;icon_item_sorcerer_f
 I;알케미스트 코스튬;1;icon_item_Alchemist_f
 I;잭오랜턴 코스튬(여);1;icon_item_HalloweenJack_Unifom_f
 I;파이로맨서 코스튬;1;icon_item_pyromancer_f
+I;체스보드 실드;1;icon_item_chess_shield
 I;괴나리봇짐;1;icon_item_wing_bundle
 I;사심이 담긴 상소문;1;icon_item_wing_scroll2
-G;PasteBait
-I;새우;30;icon_item_Paste_Bait_mineral_1
-I;작은 은빛 물고기;7;icon_item_fish4
-G;Helmet
-I;24K 금괴 멍멍 헬멧 코스튬;1;item_icon_helmet_goldstonedog01
-I;복실복실 황금개 헬멧 코스튬;1;item_icon_helmet_golddog
-I;쑥송편 헬멧 코스튬;1;icon_item_helmet_songpyun2
-I;어항 헬멧 코스튬;1;icon_item_helmet_fishbowl
-I;잭오랜턴 헬멧;1;icon_item_pumkin_helmet
-I;잭오랜턴 헬멧;1;icon_item_pumkin_helmet
-G;Collection
-I;컬렉션: 글라데 언덕길;1;icon_item_box
-I;컬렉션: 기원의 숲;1;icon_item_box
-I;컬렉션: 긴다리 계곡;1;icon_item_box
-I;컬렉션: 나하스 숲;1;icon_item_box
-I;컬렉션: 내성곽지구;1;icon_item_box
-I;컬렉션: 네토 숲;1;icon_item_box
-I;컬렉션: 네프리타스 벼랑;1;icon_item_box
-I;컬렉션: 다이나 양봉지;1;icon_item_box
-I;컬렉션: 대왕의 관문;1;icon_item_box
-I;컬렉션: 덧댄다리 숲;1;icon_item_box
-I;컬렉션: 딩고파실;1;icon_item_box
-I;컬렉션: 록소나 장터;1;icon_item_box
-I;컬렉션: 록소나 재건단 서관;1;icon_item_box
-I;컬렉션: 마법사의 탑 2층;1;icon_item_box
-I;컬렉션: 마법사의 탑 5층;1;icon_item_box
-I;컬렉션: 마족수감소 1구역;1;icon_item_box
-I;컬렉션: 모크슬 묘실;1;icon_item_box
-I;컬렉션: 베야 골짜기;1;icon_item_box
-I;컬렉션: 빌티스 숲;1;icon_item_box
-I;컬렉션: 셉티니 골;1;icon_item_box
-I;컬렉션: 스라우타스 협곡;1;icon_item_box
-I;컬렉션: 시르드겔라 숲;1;icon_item_box
-I;컬렉션: 아샤크 지하감옥 2층;1;icon_item_box
-I;컬렉션: 아크멘스 능선;1;icon_item_box
-I;컬렉션: 알레멧 숲;1;icon_item_box
-I;컬렉션: 연안요새;1;icon_item_box
-I;컬렉션: 왕릉 5층;1;icon_item_box
-I;컬렉션: 우키스 경작지;1;icon_item_box
-I;컬렉션: 이국 사랑;1;icon_item_box
-I;컬렉션: 이브레 고원;1;icon_item_box
-I;컬렉션: 중심시가;1;icon_item_box
-I;컬렉션: 테넷 성당 지하 1층;1;icon_item_box
-I;컬렉션: 테넷 화원;1;icon_item_box
-I;컬렉션: 파수꾼의 묘역;1;icon_item_box
-I;컬렉션: 페디미안 외곽;1;icon_item_box
-I;컬렉션: 폴쳔이란 무엇인가;1;icon_item_box
 G;Event
 I;특성 포인트 1,000;3;icon_item_abilitypoint
 I;특성 포인트 100;44;icon_item_abilitypoint3
 I;특성 포인트 500;3;icon_item_abilitypoint2
-I;유니크 미감정 상의 선택 상자;1;icon_item_event_armorbox1
-I;유니크 미감정 상의 선택 상자;1;icon_item_event_armorbox1
-I;유니크 미감정 신발 선택 상자;1;icon_item_event_armorbox1
-I;유니크 미감정 신발 선택 상자;1;icon_item_event_armorbox1
-I;유니크 미감정 양손 무기 선택 상자;1;icon_item_event_weaponbox1
-I;유니크 미감정 장갑 선택 상자;1;icon_item_event_armorbox1
-I;유니크 미감정 장갑 선택 상자;1;icon_item_event_armorbox1
-I;유니크 미감정 하의 선택 상자;1;icon_item_event_armorbox1
-I;유니크 미감정 하의 선택 상자;1;icon_item_event_armorbox1
-I;유니크 미감정 한손 무기 선택 상자;1;icon_item_event_weaponbox1
-I;유니크 미감정 한손 무기 선택 상자;1;icon_item_event_weaponbox1
+I;넥슨 캐시 추첨권;1;icon_item_event_luckychance
 I;연하장;1;icon_item_event_invitation2
-I;유니크 탈트;9;31_item_ore_mega_talt
 G;Book
 I;겨울의 부싯돌;1;icon_item_collection_00Basic
 I;겨울의 부싯돌;1;icon_item_collection_00Basic
@@ -822,8 +830,8 @@ I;고농축 SP포션;50;item_SP_requid_3
 I;고농축 이동속도 증가 포션;10;item_speed_requid_1
 I;공기 정화 수정;1;14_item_ithildin
 I;광역 공격 비율 증가 포션 LV15;1;item_speed_requid_1
-I;농축 HP포션 LV15;25;icon_item_HP_Alche
-I;농축 SP포션 LV15;21;icon_item_SP_Alche
+I;농축 HP포션 LV15;24;icon_item_HP_Alche
+I;농축 SP포션 LV15;17;icon_item_SP_Alche
 I;농축 이동속도 증가 포션 LV15;2;item_speed_requid_1
 I;농축 이동속도 향상의 포션;2;item_speed_requid_1
 I;누켈라;2;icon_item_Nukela
@@ -838,7 +846,10 @@ I;루팅 찬스: 100;8;item_icon_luckypotion_100
 I;루팅 찬스: 300;2;item_icon_luckypotion_300
 I;마이트 포션;1;item_speed_requid_1
 I;매두스;41;icon_item_Medus
+I;물리 치명타 공격력 증가 포션;1;item_speed_requid_1
 I;바루날레샤;8;icon_item_Varnalesa
+I;보급용 작은 스태미나 알약;3;item_STA_pill_1
+I;보급용 작은 회복포션;3;item_HPSP_potion_1
 I;빻은 수정가루;1;icon_item_powderw
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
@@ -852,7 +863,6 @@ I;워시스;10;icon_item_Uosis
 I;웨딩 케이크;3;icon_item_weddingcake
 I;정착 지원 포션 Lv2;29;item_speed_requid_3
 I;축복이 깃든 씨앗;30;icon_item_event161215_01
-I;치명타 공격력 증가 포션;1;item_speed_requid_1
 I;컴패니언 먹이;2;icon_item_meat_01
 I;케이트리스 수호의 포션;1;icon_item_Drug_DEF2
 I;케이트리스 용맹의 포션;1;icon_item_Drug_AGI2
@@ -889,7 +899,7 @@ I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;은빛 물고기;27;icon_item_fish2
+I;은빛 물고기;7;icon_item_fish2
 I;할로윈 팝업북;1;icon_item_halloween_popupbook
 I;신랑 비둘기 오르골;1;icon_item_MusicBox_Wedding01
 I;신부 비둘기 오르골;1;icon_item_MusicBox_Wedding02
@@ -904,41 +914,18 @@ I;종이상자;1;icon_item_paperbox
 I;클라페다 카프리콘즈 응원 슬로건;1;icon_item_aretfact_victory_purple
 I;푸드 커버;1;icon_item_artefact_Dome_Cover
 I;호박 등불;1;icon_item_artefact_pumkin_lamp
-G;SubWeapon
-I;긴 암밴드;1;icon_item_armband_clothlong
-I;느낌있는 암밴드;1;icon_item_armband_exclamationMark_icon
-I;디오니스 암밴드;1;icon_item_armband_dinios
-I;리본 암밴드;1;icon_item_armband_ribbon
-I;매듭진 암밴드;1;icon_item_armband_cloth
-I;서포터즈 암밴드;1;icon_item_armband_supporter_soccer
-I;엄지척 암밴드;1;icon_item_armband_facebook
-I;잎사귀 무늬 암밴드;1;icon_item_armband_leaf
-I;지구의 행복 암밴드;1;icon_item_armband_g9
-I;눈꽃 스프레이;1;icon_item_snowflower
-I;두근두근 웨딩 부케;1;icon_item_bouquet01
-I;등대 조명;1;icon_item_lighthouse_stick
-I;망원경;1;icon_item_scope_marin
-I;버블스틱;1;icon_item_artefact_bublestick
-I;부부젤라;1;icon_item_vuvuzela
-I;삽;1;icon_item_shovel
-I;수박 아이스크림;1;icon_item_artefact_watermelon
-I;좌절 깃발;1;OTL_flag
-I;체스 타이머;1;icon_item_chess_timer
-I;크리스마스 핸드벨;1;icon_item_artefact_bell
-I;탐지기;1;icon_item_metaldetector
-I;파이프;1;icon_item_bubble_pipeb
-I;풍선피리;1;icon_item_balloon_pipe
+G;Card
+I;프로스터 로드 카드;Lv10;icon_item_card_atk
+I;마르녹스 카드;Lv10;icon_item_card_util
 G;Premium
 I;[PC방] 해금권 선택 상자;1;icon_item_pc_unlock_box
 I;[PC방] 헤어 1회 50% 할인권;1;icon_item_HairCoupon_50_pc
-I;x4 경험의 서;1;icon_item_expbookx4
 I;경험의 서;1;icon_item_boostertoken
 I;경험의 서;1;icon_item_boostertoken
-I;경험의 서 상자 (4개);1;icon_item_Premium_boostToken_Box_A
-I;경험의 서 상자 (4개);1;icon_item_Premium_boostToken_Box_A
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
 I;고급 물약 상자;1;Icon_Item_Box_SP_HP
 I;긴급 수리 키트;5;icon_item_repairkit
-I;랭크 초기화권;1;icon_item_rankreset_paper
 I;리사이클 메달 상자 A급;1;Icon_Item_Recycle_Shop_Medal_Box_A
 I;리사이클 메달 상자 B급;1;Icon_Item_Recycle_Shop_Medal_Box_B
 I;리사이클 메달 상자 S급;1;Icon_Item_Recycle_Shop_Medal_Box_S
@@ -971,6 +958,7 @@ I;챌린지 초기화 상자;1;icon_item_Challenge_box_A
 I;챌린지 초기화 상자;1;icon_item_Challenge_box_A
 I;챌린지 초기화 상자;1;icon_item_Challenge_box_A
 I;초기화 패키지;1;icon_item_Reset_Box
+I;클래스 변경권 Lv.4;1;icon_item_rankreset_paper
 I;킹 앤 퀸 코스튬 선택 상자;1;icon_item_Chess_box01
 I;토큰;1;icon_item_token
 I;특성 포인트 상자 A급;1;icon_item_Ability_coupon_box_A
@@ -1017,19 +1005,12 @@ I;프리미엄 각성석;1;icon_item_awakeningstone
 I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 I;검정 불량 서클 교복 코스튬(여);1;icon_item_badschooluniform_black_f
-I;그리타 코스튬;1;icon_item_mage_grita_f
 I;동물 인형 코스튬;1;icon_item_poporion_body_f
 I;레드 메이드 코스튬(여);1;icon_item_maiduniform_red_f
 I;레드 메이드 코스튬(여);1;icon_item_maiduniform_red_f
 I;마린 비치웨어 돌핀 코스튬(여);1;icon_item_marin02_sp_f
-I;마법사용 고스로리 코스튬(여);1;icon_item_Mage_gothloli_f
-I;마법사용 매니시룩 코스튬(여);1;icon_item_mage_manish_f
-I;마법사용 바니걸 코스튬(여);1;icon_item_mage_bunny_f
-I;마법사용 봄맞이 꽃 컨셉 드레스(여);1;icon_item_mage_springflower_f
 I;마법사용 심플 컬러 코스튬(여);1;mage_simplecolor_f
-I;마법사용 제복 코스튬(여);1;icon_item_Mage_uniform_f
 I;마법사용 크리스마스 코스튬(여);1;icon_item_mage_christmas_f
-I;마법사용 파티 드레스 코스튬(여);1;icon_item_mage_pinkwizard_f
 I;메이 웨딩 드레스 코스튬(여);1;icon_item_wedding02_f
 I;백골 불량 서클 교복 코스튬(여);1;icon_item_badschooluniform_white_f
 I;뱀파이어 코스튬(여);1;icon_item_vampire02_f
@@ -1051,8 +1032,6 @@ I;아이보리 폰 코스튬(여);1;icon_item_chessUniform03_f
 I;야광 해골 코스튬;1;icon_item_pumkin01_body_m
 I;어사 흑단령(여);1;icon_item_inspector_uniform03_f
 I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
-I;용병의뢰소 소장 코스튬;1;icon_item_mage_mercenary_f
-I;위저드 마스터 코스튬;1;icon_item_mage_wizard_master_f
 I;장원급제 별감복(여);1;icon_item_inspector_uniform02_f
 I;전통 혼례복 코스튬(여);1;icon_item_hanbok_f
 I;초대에 응한 자 코스튬(여);1;icon_item_blacksuit01_f
@@ -1063,6 +1042,7 @@ I;퓨어 화이트 간호사 코스튬(여);1;icon_item_nurse03_f
 I;프릴 장식 페어리 코스튬(여);1;icon_item_flowercostume04_f
 I;하급 용병 코스튬(여);1;icon_item_lowtactic01_f
 I;한가위 한복 코스튬(여);1;icon_item_hanbok02_f
+I;블랙 메이드 코스튬(여);1;icon_item_maiduniform_black_f
 G;Material
 I;모루;11;icon_item_anvil
 I;황금 모루;6;icon_item_anvil_gold
@@ -1072,7 +1052,7 @@ I;분해의 망치;32;icon_item_farm47_wood_hammer
 I;기슬로티스;16;icon_item_Gyslotis
 I;칼사이트;11;14_item_ithildin
 I;크리오라이트;16;39_icon_item_Cry8rite
-I;파이라이트;47;32_item_ore_pyrite
+I;파이라이트;43;32_item_ore_pyrite
 I;도마뱀 호박;1;23_item_ore_amber_lizard
 I;압시듐 광석;16;8_item_ore_platinum
 I;주석;7;1_item_ore_copper
@@ -1091,6 +1071,7 @@ I;갈색 티니의 뿔;8;icon_item_horn_tiny_brown
 I;거적때기;10;icon_item_Misc_00009
 I;검은 드레이크의 심장;1;item_icon_heart_red
 I;검은 콜리플라이 수술;7;icon_item_stamen_colifly_black
+I;계열 코스튬 교환권;16;icon_item_exchange_costumeCoupon
 I;고블린 부적;11;icon_item_bubetoken
 I;고사루의 뼈;1;icon_item_bone
 I;공명용 수정;1;icon_item_Crystal_00005
@@ -1212,7 +1193,7 @@ I;송진;9;37_item_ore_sulfur
 I;수은;27;38_item_ore_mercury
 I;수정거미 더듬이;14;icon_item_feeler_blue
 I;수정거미 수정;2;icon_item_Crystal_00005
-I;쉬레디드의 천조각;15;icon_item_clothpiece_red
+I;쉬레디드의 천조각;16;icon_item_clothpiece_red
 I;쉬타임 파편;38;icon_item_Misc_00004
 I;스타울리트 심장;5;item_icon_heart_red
 I;스톤오르카의 핵;46;icon_item_core_yellow
@@ -1252,7 +1233,7 @@ I;위버 더듬이;15;icon_item_feeler_black
 I;유니콘의 뼈;2;icon_item_bone
 I;유리 조각;9;icon_item_pieceofglass
 I;유코테일 꼬리;8;icon_item_tail_jukotail
-I;유코푸스 잎;68;icon_item_leaves_blue
+I;유코푸스 잎;58;icon_item_leaves_blue
 I;유황;3;37_item_ore_sulfur
 I;은괴;8;icon_item_ironbar_s
 I;이끼;4;icon_item_grassbladeg
@@ -1308,14 +1289,14 @@ I;초록 호헨 올벤의 수정구;6;icon_item_crystalball_hohen_green
 I;초록 호헨의 뿔;3;icon_item_horn_hohen_green
 I;츄파루카 털;8;icon_item_fur_05Gray
 I;츄파카브라 가죽;2;icon_item_Misc_00007
-I;츄파카브라 이빨;27;icon_item_tooth_white
+I;츄파카브라 이빨;21;icon_item_tooth_white
 I;치넨시 잎;11;icon_item_bokchoyleaf
 I;카라스 파편;12;icon_item_Misc_00006
 I;카로 잎사귀;5;icon_item_leaves_green
 I;카타콤 잎방개의 껍질;5;icon_item_shell_purple
 I;케놀 수정;5;icon_item_Crystal_00005
 I;케파 날개;16;icon_item_batwing
-I;케파 줄기;87;icon_item_stem_green
+I;케파 줄기;77;icon_item_stem_green
 I;케포 껍질;8;icon_item_onionpiece
 I;케포 솜털;26;icon_item_cotton
 I;코도모르 가시;1;icon_item_thorn_blue
@@ -1400,6 +1381,7 @@ I;호헨 가죽;5;icon_item_Misc_00011
 I;호헨 깃발 조각;2;icon_item_flag_hohen
 I;황혼 결정 파편;14;icon_item_twilightCrystal_piece
 I;희미한 별빛의 결정;2;24_item_ore_topaz
+I;[Re:Build] 기념 주화;10;icon_item_rebuild_coin
 I;뜯어진 잡초;1;icon_item_grassbladeg
 I;마석 조각;3;icon_item_gimmick_scaredcrystal
 I;귀환석;1;MercenaryBadge
@@ -1436,4 +1418,7 @@ I;힘을 잃은 고헤이;1;icon_item_gohei
 I;힘이 복구된 사울레의 성구;1;icon_item_crimson3
 G;Weapon
 I;크로스보우;1;icon_item_crossbow
+I;샴시르;1;icon_item_shamshir
 I;클레이모어;1;icon_item_Sword_21
+I;마녀의 빗자루 스태프;1;icon_item_halloween_thstaff
+I;아이보리 퀸 스태프;1;icon_item_chess_staff2

@@ -19,7 +19,7 @@ I;마이트 포션;1;item_speed_requid_1
 I;케이스타스 회복포션Lv3;1;item_HPSP_potion_3
 I;클라페다 워프 주문서;6;GolemMagicItem1
 I;케이스타스 수호의 포션;3;icon_item_Drug_exDEF1
-I;치명타 공격력 증가 포션;1;item_speed_requid_1
+I;물리 치명타 공격력 증가 포션;1;item_speed_requid_1
 I;스태미나 알약;4;item_STA_pill_2
 I;케이스타스 회복포션Lv1;2;item_HPSP_potion_1
 I;얼음 속성 저항력 포션;1;icon_item_Seed_SP1
@@ -81,8 +81,6 @@ I;카프리선 부츠;1;icon_item_boots_brigan
 I;나뭇잎 장식 투구;1;accessory_leafhelm
 I;스파르타 투구;1;icon_item_red_long_helmet
 I;에보니 룩;1;icon_item_accessory_chessRook
-I;하플라이트 코스튬;1;icon_item_hoplites_f
-I;스콰이어 코스튬;1;icon_item_squire_f
 G;Material
 I;황금 모루;4;icon_item_anvil_gold
 I;모루;15;icon_item_anvil

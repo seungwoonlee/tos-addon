@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;99980;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
@@ -54,7 +54,6 @@ I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
-I;성직자의 제복 코스튬(여);1;icon_item_Cleric_uniform_f
 I;클레릭 스페셜 코스튬(여);1;icon_item_Cleric_cleric01_3_f
 G;Material
 I;모루;1;icon_item_anvil
@@ -263,7 +262,6 @@ I;파이라이트 팬던트;1;item_necklace_01
 I;파이라이트 팬던트;1;item_necklace_01
 I;헬스 스톤;1;item_necklace_02
 I;글래스 브레이슬릿;1;item_bracelet_04
-I;기사단장 우스카의 뱅글;1;icon_item_eventbracelet02
 I;노비스 뱅글;1;item_bracelet_15
 I;라이트 로네사 뱅글;1;item_bracelet_15
 I;레더 뱅글;1;item_bracelet_20
@@ -276,6 +274,3 @@ I;안티 다크 브레이슬릿;1;item_bracelet_14
 I;영주 헤먼데일의 브레이슬릿;1;icon_item_eventbracelet01
 I;자카리엘 뱅글;1;item_bracelet_10
 I;자카리엘 뱅글;1;item_bracelet_10
-I;카발리스트 코스튬;1;icon_item_cleric_kabbalist_f
-I;딥디르비 코스튬;1;icon_item_dievdirbys_f
-I;프리스트 코스튬;1;icon_item_prist_f
