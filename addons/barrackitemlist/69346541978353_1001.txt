@@ -24,15 +24,11 @@ I;이동속도 향상의 포션;2;item_speed_requid_1
 I;농축 HP포션 LV15;32;icon_item_HP_Alche
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;라무넬레;4;icon_item_Ramunele
-I;농축 SP포션 LV15;29;icon_item_SP_Alche
+I;농축 SP포션 LV15;25;icon_item_SP_Alche
 I;블루 오브:붉은 케파;1;icon_item_Dreamshade
 I;레드 오브:붉은 케파;1;icon_item_Dreamshade_red
 I;블루 오브:푸른 티니 궁수;1;icon_item_Dreamshade
-I;LV11 경험치 카드;16;icon_item_expcard
-I;LV13 경험치 카드;4;icon_item_expcard
 I;레드 오브:붉은 슬라임;1;icon_item_Dreamshade_red
-I;LV14 경험치 카드;34;icon_item_expcard
-I;LV10 경험치 카드;1;icon_item_expcard
 I;스킬 주문서;9;GolemMagicItem1
 I;종이상자;1;icon_item_paperbox
 G;SubWeapon
@@ -106,24 +102,28 @@ I;컬렉션: 카듀멜 절벽;1;icon_item_box
 I;컬렉션: 크란토 연안;1;icon_item_box
 I;컬렉션: 쇠락한 르귄가문의 저택;1;icon_item_box
 G;Premium
+I;몬스터 젬 선택 상자: 직업;2;icon_item_jewelrybox_close
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
-I;펠타스타 마스터 코스튬;1;icon_item_Warrior_PeltastaMaster_f
-I;전사용 봄맞이 꽃 컨셉 드레스(여);1;icon_item_warrior_springflower_f
-I;전사용 심플 컬러 코스튬(여);1;warrior_simplecolor_f
-I;초대에 응한 자 코스튬(여);1;icon_item_blacksuit01_f
-I;에보니 나이트 코스튬(여);1;icon_item_chessUniform02_f
 I;소드맨 스페셜 코스튬(여);1;icon_item_warrior_swordman01_3_f
+I;초대에 응한 자 코스튬(여);1;icon_item_blacksuit01_f
+I;전사용 심플 컬러 코스튬(여);1;warrior_simplecolor_f
+I;에보니 나이트 코스튬(여);1;icon_item_chessUniform02_f
 G;Armor
+I;프리머스 제베넬리스 레더 부츠;1;icon_item_leather_boots_1
+I;윈드 러너;1;icon_item_boots_knight
+I;사우시스 레더 부츠;1;icon_item_boots_skull
+I;피에타스 레더 부츠;1;icon_item_9rank_leather_02_boots
 I;부베 투사 건틀릿;1;icon_item_gloves_bubewarrior
 I;베르타스 플라네타 로브;1;icon_item_baronwear_armor
+I;프리머스 제베넬리스 레더 아머;1;icon_item_leather_shirt_1
 I;난감한 땀방울;1;icon_item_Sweat
-I;마타도르 벨라니멀 코스튬;1;icon_item_warrior_matador03_f
-I;마타도르 벨비스트 코스튬;1;icon_item_warrior_matador02_f
-I;펠타스타 코스튬;1;icon_item_Peltasta_f
 I;하플라이트 코스튬;1;icon_item_hoplites_f
+I;마타도르 벨비스트 코스튬;1;icon_item_warrior_matador02_f
 I;마타도르 코스튬;1;icon_item_warrior_matador_f
+I;마타도르 벨라니멀 코스튬;1;icon_item_warrior_matador03_f
+I;펜서 코스튬;1;icon_item_fencer_f
 G;Material
 I;황금 모루;2;icon_item_anvil_gold
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1

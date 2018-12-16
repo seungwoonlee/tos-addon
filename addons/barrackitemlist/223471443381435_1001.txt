@@ -73,11 +73,18 @@ I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
 G;Helmet
 I;쑥송편 헬멧 코스튬;1;icon_item_helmet_songpyun2
 G;Event
+I;특성 포인트 10,000;15;icon_item_abilitypoint4
 I;[Re:Build] 특성 포인트 1,000;5;icon_item_abilitypoint
 I;경험의 서:14일;1;icon_item_boostertoken
 I;경험의 서:14일;1;icon_item_boostertoken
 I;특성 포인트 500;2;icon_item_abilitypoint2
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
+I;넥슨 캐시 추첨권;1;icon_item_event_luckychance
 I;연하장;1;icon_item_event_invitation2
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
@@ -211,7 +218,7 @@ I;토큰:5일[증정용](14일);1;icon_item_token
 I;토큰:5일[증정용](14일);1;icon_item_token
 I;토큰:5일[증정용](14일);1;icon_item_token
 I;파스텔 그린 염색약;1;haircolor_green
-I;확성기;79;icon_item_Mike
+I;확성기;89;icon_item_Mike
 I;확성기 10개 상자;1;icon_item_Mike_bundle
 I;확성기 50개 상자;1;icon_item_Mike_bundle
 I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
@@ -220,6 +227,12 @@ I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
 I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
 I;마법 부여 스크롤(거래불가);1;icon_item_enchantScroll
 I;프리미엄 각성석;2;icon_item_awakeningstone
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;[이벤트] 5초월 스크롤;1;icon_item_transcendence_coupon
 I;2018 나무나무 코스튬(남);1;icon_item_event_2018_arbor_m
 I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
@@ -240,9 +253,11 @@ I;아이언 네클리스;1;item_necklace_10
 I;머슈카리아 모자;1;hairacc_23_mushcariahat
 I;물빛 조개장식;1;icon_item_skyblue_shell
 I;연잎;1;icon_item_Leaf_acc
+I;밥그릇;1;icon_item_ricebowl
+I;강아지 풍선;1;icon_item_dogballoon
 I;섀도우맨서 루너하이더 코스튬;1;icon_item_mage_shadowmancer04_f
 I;섀도우맨서 코스튬;1;icon_item_mage_shadowmancer_f
-I;엘리멘탈리스트 코스튬;1;icon_item_warrock_f
+I;보코르 코스튬;1;icon_item_bokor_f
 I;워록 코스튬;1;icon_item_mage_warlock_f
 G;Material
 I;[Re:Build] 빛나는 황금 모루;1;icon_item_anvil_gold
@@ -262,7 +277,6 @@ I;펠트레민;1;item_icon_pideingot
 I;피데슘;21;5_item_ore_fluorite
 I;호박;3;22_item_ore_amber
 I;LV2 보물상자 열쇠;1;icon_item_key1
-I;[Re:Build] 기념 주화;10;icon_item_rebuild_coin
 I;갈고리;5;icon_item_claw_01
 I;갈록 가죽;3;icon_item_Misc_00007
 I;갈색 라프세이프 잎;10;icon_item_leaves_lapasape_brown
@@ -400,6 +414,7 @@ I;허밍버드의 날개;1;icon_item_bugwing
 I;호그마 엄니;2;icon_item_tooth_white
 I;호그마 전투대장 송곳니;1;icon_item_tooth_00Basic
 I;회색 스타울리트 힘줄;6;icon_item_Leash
+I;레이드 포탈 스톤;5;icon_item_dungeon_portalstone
 I;마석 조각;1;icon_item_gimmick_scaredcrystal
 I;귀환석;1;MercenaryBadge
 G;Quest
@@ -422,6 +437,16 @@ I;죄수의 편지;1;icon_item_paper
 I;케파리 살점;5;icon_item_PILGRIM_MEAT_01
 I;펜듈럼;1;icon_item_pendulum
 I;호수의 기운을 머금은 잎;18;icon_item_leaves_blue
+I;풍선 : 트;1;icon_item_balloon_kor3
+I;풍선 : 오;1;icon_item_balloon_kor4
+I;풍선 : 세;1;icon_item_balloon_kor5
+I;풍선 : 고;1;icon_item_balloon_kor1
+I;풍선 : 혓;1;icon_item_balloon_kor2
+I;풍선 : ★;1;icon_item_balloon_star
+I;풍선 : 평;1;icon_item_3yearBallon01
+I;풍선 : 생;1;icon_item_3yearBallon02
+I;풍선 : 겜;1;icon_item_3yearBallon03
+I;풍선 : ♥;1;icon_item_3yearBallon04
 G;Weapon
 I;[Re:Build] 마시니오스 로드;1;icon_item_rod_masinos
 I;라파이 보우;1;icon_item_bow_lapai

@@ -3,10 +3,10 @@ G;Unused
 I;실버;100000;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
-I;SP 회복 소형 엘릭서 ;8;icon_item_SPelixir_Small
+I;SP 회복 소형 엘릭서 ;7;icon_item_SPelixir_Small
 I;고농축 이동속도 증가 포션;1;item_speed_requid_1
-I;농축 HP포션 LV15;15;icon_item_HP_Alche
-I;농축 SP포션 LV15;20;icon_item_SP_Alche
+I;농축 HP포션 LV15;14;icon_item_HP_Alche
+I;농축 SP포션 LV15;6;icon_item_SP_Alche
 I;딸기;3;icon_item_Strawberry
 I;라프세이프 버섯;1;icon_item_Pinemushroom
 I;매두스;20;icon_item_Medus
@@ -102,14 +102,15 @@ G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
-I;궁수용 파티 드레스 코스튬(여);1;icon_item_archer_bluepeacock_f
-I;궁수의 매니시룩 코스튬(여);1;icon_item_archer_manish_f
-I;궁수의 봄맞이 꽃 컨셉 드레스(여);1;icon_item_archer_springflower_f
-I;궁수의 세일러복 코스튬(여);1;icon_item_archer_schoolsalor_f
 I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
 I;초대에 응한 자 코스튬(여);1;icon_item_blacksuit01_f
+G;Card
+I;켄타우로스 카드;Lv10;icon_item_card_atk
+I;켄타우로스 카드;Lv10;icon_item_card_atk
+I;켄타우로스 카드;Lv10;icon_item_card_atk
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
 G;Armor
-I;프리머스 제베넬리스 레더 부츠;1;icon_item_leather_boots_1
 I;알프라 글로브;1;icon_item_alframerchant_gloves
 I;알프라 글로브;1;icon_item_alframerchant_gloves
 I;프리머스 이렐리스 글로브;1;icon_item_cloth_glove_1
@@ -118,16 +119,16 @@ I;바르그아르 플레이트 아머;1;icon_item_vargu_amor
 I;막스 페타미온;1;item_necklace_12
 I;미르티 브레이슬릿;1;item_bracelet05_2
 I;미르티 브레이슬릿;1;item_bracelet05_2
-I;레인저 코스튬;1;icon_item_ranger_f
-I;로그 코스튬;1;icon_item_rogue_f
-I;메르겐 코스튬;1;icon_item_mergen_f
 I;응사 코스튬;1;icon_item_falconer_f
+I;메르겐 코스튬;1;icon_item_mergen_f
+I;레인저 코스튬;1;icon_item_ranger_f
 G;Material
 I;크리오라이트;6;39_icon_item_Cry8rite
 I;트랩 키트;12;icon_item_trap_kit
 I;파이라이트;4;32_item_ore_pyrite
 I;주석;5;1_item_ore_copper
 I;호박;11;22_item_ore_amber
+I;펠트레민;1;item_icon_pideingot
 I;LV2 보물상자 열쇠;5;icon_item_key1
 I;갈록 가죽;1;icon_item_Misc_00007
 I;갈색 라프세이프 잎;2;icon_item_leaves_lapasape_brown
@@ -312,7 +313,6 @@ I;호그마 전투대장 송곳니;2;icon_item_tooth_00Basic
 I;호글란 부리;1;icon_item_small_bag
 I;차원 탐색 스크롤;1;GolemMagicItem1
 I;귀환석;1;MercenaryBadge
-I;특성 포인트 100;2;icon_item_abilitypoint3
 G;Quest
 I;공간의 문장;1;icon_item_void_01
 I;가시숲의 계시;1;icon_item_stonetablet
@@ -350,3 +350,4 @@ I;펜듈럼;1;icon_item_pendulum
 I;화살 묶음;1;item_icon_barbedhead_arrow
 G;Weapon
 I;프리머스 즈바이더 보우;1;icon_item_bow_nicopolis1
+I;아스트라 보우;1;icon_item_bow_pollyhorn_TH

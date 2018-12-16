@@ -19,8 +19,8 @@ I;고농축 HP포션;20;item_HP_oil_3
 I;케이스타스 회복포션Lv4;10;item_HPSP_potion_3
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;보급용 작은 SP포션;45;item_SP_requid_1
-I;보급용 작은 HP포션;5;item_HP_oil_1
+I;보급용 작은 SP포션;145;item_SP_requid_1
+I;보급용 작은 HP포션;105;item_HP_oil_1
 I;레드옥스;2;icon_item_Red_Ox
 I;농축 SP포션 LV15;17;icon_item_SP_Alche
 I;할로윈 폭죽;1;icon_item_firework
@@ -91,21 +91,11 @@ G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
-I;전사용 세일러복 코스튬(여);1;icon_item_warrior_schoolsalor_f
 I;브라이드메이드 코스튬(여);1;icon_item_bridesmaid_f
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
-I;전사용 스쿨룩 코스튬(여);1;icon_item_warrior_school_f
 I;하급 용병 코스튬(여);1;icon_item_lowtactic01_f
-I;메이 웨딩 드레스 코스튬(여);1;icon_item_wedding02_f
 I;래쉬가드 코스튬(여);1;icon_item_swimsuit03_f
-G;Armor
-I;데모나스 건틀릿;1;icon_item_gloves_SRchain
-I;바스티클 플레이트 팬츠;1;icon_item_iorn_pants_1
-I;이렐리스 로브;1;icon_item_cloth_shirt_1
-I;도펠죌트너 코스튬;1;icon_item_doppelsoldner_f
-I;바바리안 코스튬;1;icon_item_barbarian_f
-I;하이랜더 코스튬;1;icon_item_highlander_f
-I;시노비 코스튬;1;icon_item_shinobi_f
+I;메이 웨딩 드레스 코스튬(여);1;icon_item_wedding02_f
 G;Material
 I;모루;9;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
@@ -265,5 +255,10 @@ I;사악한 마력이 담긴 핵;10;icon_item_core_06Black
 I;펜듈럼;1;icon_item_pendulum
 I;단서 메모;1;icon_item_diary
 I;마력 추적지도 : 살비야스 숲;1;GolemMagicItem1
-G;Weapon
-I;사크미스;1;icon_item_sword_noroi_TH
+G;Armor
+I;데모나스 건틀릿;1;icon_item_gloves_SRchain
+I;바스티클 플레이트 팬츠;1;icon_item_iorn_pants_1
+I;이렐리스 로브;1;icon_item_cloth_shirt_1
+I;하이랜더 코스튬;1;icon_item_highlander_f
+I;도펠죌트너 코스튬;1;icon_item_doppelsoldner_f
+I;바바리안 코스튬;1;icon_item_barbarian_f

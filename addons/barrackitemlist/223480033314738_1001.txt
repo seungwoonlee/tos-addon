@@ -14,7 +14,7 @@ I;복숭아;23;icon_item_Peach
 I;딸기;28;icon_item_Strawberry
 I;아비에테;26;icon_item_Aviete
 I;매두스;8;icon_item_Medus
-I;보급용 SP포션;41;item_SP_requid_2
+I;보급용 SP포션;40;item_SP_requid_2
 I;케이스타스 회복포션Lv1;1;item_HPSP_potion_1
 I;클라페다 워프 주문서;10;GolemMagicItem1
 I;오르샤 워프 주문서;9;GolemMagicItem1
@@ -44,7 +44,7 @@ I;베이키얼의 답장;1;icon_item_indulgence
 I;부스러져가는 공문;1;icon_item_magicpaper
 I;낡은 일기;1;icon_item_collection_04Black
 G;Recipe
-I;제작서-뚫어뻥;4;icon_item_weapon_misc5
+I;제작서-뚫어뻥;25;icon_item_weapon_misc5
 G;Collection
 I;컬렉션: 이브레 고원;1;icon_item_box
 I;컬렉션: 스벤티마스 유형지;1;icon_item_box
@@ -58,6 +58,13 @@ I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
+G;Card
+I;글래스몰 카드;Lv1;icon_item_card_atk
+I;글래스몰 카드;Lv1;icon_item_card_atk
+I;글래스몰 카드;Lv1;icon_item_card_atk
+G;Armor
+I;캐터프랙트 코스튬;1;icon_item_cataphract_f
+I;랜서 코스튬;1;icon_item_warrior_lancer_f
 G;Material
 I;모루;3;icon_item_anvil
 I;파이라이트;4;32_item_ore_pyrite
@@ -219,7 +226,7 @@ I;영험한 가루;1;icon_item_sesami
 I;오래된 도구;8;icon_item_farm47_wood_hammer
 I;흩어진 기록지;15;GolemMagicItem1
 I;허밀가의 붉은 수정;1;icon_item_Gem_Stone_STR
-G;Armor
-I;캐터프랙트 코스튬;1;icon_item_cataphract_f
-I;펠타스타 코스튬;1;icon_item_Peltasta_f
-I;하플라이트 코스튬;1;icon_item_hoplites_f
+G;Weapon
+I;리가드 혼 파이크;1;icon_item_spear_regardhorn_TH
+I;프리머스 라파이 파이크;1;icon_item_spear_twohand_lapai
+I;프리머스 라파이 파이크;1;icon_item_spear_twohand_lapai

@@ -262,10 +262,8 @@ I;카포테;1;icon_capote
 I;카포테;1;icon_capote
 I;카포테;1;icon_capote
 G;Armor
-I;해적모자;1;icon_item_piratehat
+I;붉은술모자;1;hairacc_24_tasselhat
 I;마타도르 벨비스트 코스튬;1;icon_item_warrior_matador02_f
+I;링커 코스튬;1;icon_item_linker_f
 I;마타도르 벨라니멀 코스튬;1;icon_item_warrior_matador03_f
-I;마타도르 코스튬;1;icon_item_warrior_matador_f
-I;커세어 코스튬;1;icon_item_corsair_f
-I;바바리안 코스튬;1;icon_item_barbarian_f
-I;펜서 코스튬;1;icon_item_fencer_f
+I;시노비 코스튬;1;icon_item_shinobi_f

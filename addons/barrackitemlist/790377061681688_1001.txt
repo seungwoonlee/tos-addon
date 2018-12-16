@@ -38,6 +38,51 @@ I;블루 오브:러바인러바;1;icon_item_Dreamshade
 I;블루 오브:쿠게리 발저;1;icon_item_Dreamshade
 I;블루 오브:하루갈;1;icon_item_Dreamshade
 I;은빛 물고기;4;icon_item_fish2
+I;클래스 경험치 복구 카드 (Last);1;icon_item_classExp_rollback
+I;클래스 경험치 복구 카드 (1st);1;icon_item_classExp_rollback
+I;클래스 경험치 복구 카드 (2nd);1;icon_item_classExp_rollback
+I;클래스 경험치 복구 카드 (3rd);1;icon_item_classExp_rollback
+G;Armor
+I;오그마 건틀릿;1;icon_item_gloves_SRchain
+I;탈리스만;1;item_necklace_19
+I;탈리스만;1;item_necklace_19
+G;Collection
+I;컬렉션: 렘파라사 연못;1;icon_item_box
+I;계시록: 대립편 컬렉션;1;icon_item_holyark
+I;컬렉션: 겔리 고원;1;icon_item_box
+I;컬렉션: 네프리타스 벼랑;1;icon_item_box
+I;컬렉션: 다이나 양봉지;1;icon_item_box
+I;컬렉션: 덧댄다리 숲;1;icon_item_box
+I;컬렉션: 드바시아 고개;1;icon_item_box
+I;몬스터 표본 세트;1;icon_item_box
+I;컬렉션: 마족수감소 1구역;1;icon_item_box
+I;컬렉션: 마족수감소 2구역;1;icon_item_box
+I;컬렉션: 마족수감소 3구역;1;icon_item_box
+I;컬렉션: 베르크티 광장;1;icon_item_box
+I;컬렉션: 베야 골짜기;1;icon_item_box
+I;컬렉션: 비에타 계곡;1;icon_item_box
+I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
+I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
+I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
+I;컬렉션: 셉티니 골;1;icon_item_box
+I;컬렉션: 수정광산 1층;1;icon_item_box
+I;컬렉션: 수정광산 2층;1;icon_item_box
+I;컬렉션: 수정광산 3층;1;icon_item_box
+I;컬렉션: 스라우타스 협곡;1;icon_item_box
+I;컬렉션: 스토가스 고원;1;icon_item_box
+I;컬렉션: 아샤크 지하감옥 1층;1;icon_item_box
+I;컬렉션: 아샤크 지하감옥 2층;1;icon_item_box
+I;컬렉션: 아샤크 지하감옥 3층;1;icon_item_box
+I;컬렉션: 연안요새;1;icon_item_box
+I;컬렉션: 중심시가;1;icon_item_box
+I;컬렉션: 초보자의 무기;1;icon_item_box
+I;컬렉션: 초보자의 방어구;1;icon_item_box
+I;컬렉션: 코발트 숲;1;icon_item_box
+I;컬렉션: 크란토 연안;1;icon_item_box
+I;컬렉션: 테넷 성당 지상 2층;1;icon_item_box
+I;컬렉션: 테넷 화원;1;icon_item_box
+I;컬렉션: 파우피스 나루;1;icon_item_box
+I;컬렉션: 페레토리 구릉;1;icon_item_box
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black
 I;록소나 내전 제 2장;1;icon_item_collection_04Black
@@ -77,48 +122,24 @@ I;제작서-샤인 브레이슬릿;2;icon_item_bracelet_misc3
 I;제작서-레이드 포탈 스톤;1;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
-G;Collection
-I;컬렉션: 렘파라사 연못;1;icon_item_box
-I;계시록: 대립편 컬렉션;1;icon_item_holyark
-I;컬렉션: 겔리 고원;1;icon_item_box
-I;컬렉션: 네프리타스 벼랑;1;icon_item_box
-I;컬렉션: 다이나 양봉지;1;icon_item_box
-I;컬렉션: 덧댄다리 숲;1;icon_item_box
-I;컬렉션: 드바시아 고개;1;icon_item_box
-I;몬스터 표본 세트;1;icon_item_box
-I;컬렉션: 마족수감소 1구역;1;icon_item_box
-I;컬렉션: 마족수감소 2구역;1;icon_item_box
-I;컬렉션: 마족수감소 3구역;1;icon_item_box
-I;컬렉션: 베르크티 광장;1;icon_item_box
-I;컬렉션: 베야 골짜기;1;icon_item_box
-I;컬렉션: 비에타 계곡;1;icon_item_box
-I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
-I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
-I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
-I;컬렉션: 셉티니 골;1;icon_item_box
-I;컬렉션: 수정광산 1층;1;icon_item_box
-I;컬렉션: 수정광산 2층;1;icon_item_box
-I;컬렉션: 수정광산 3층;1;icon_item_box
-I;컬렉션: 스라우타스 협곡;1;icon_item_box
-I;컬렉션: 스토가스 고원;1;icon_item_box
-I;컬렉션: 아샤크 지하감옥 1층;1;icon_item_box
-I;컬렉션: 아샤크 지하감옥 2층;1;icon_item_box
-I;컬렉션: 아샤크 지하감옥 3층;1;icon_item_box
-I;컬렉션: 연안요새;1;icon_item_box
-I;컬렉션: 중심시가;1;icon_item_box
-I;컬렉션: 초보자의 무기;1;icon_item_box
-I;컬렉션: 초보자의 방어구;1;icon_item_box
-I;컬렉션: 코발트 숲;1;icon_item_box
-I;컬렉션: 크란토 연안;1;icon_item_box
-I;컬렉션: 테넷 성당 지상 2층;1;icon_item_box
-I;컬렉션: 테넷 화원;1;icon_item_box
-I;컬렉션: 파우피스 나루;1;icon_item_box
-I;컬렉션: 페레토리 구릉;1;icon_item_box
+G;Gem
+I;레드 젬;Lv6;item_icon_circle150
+I;레드 젬;Lv6;item_icon_circle150
+I;레드 젬;Lv6;item_icon_circle150
+I;옐로우 젬;Lv5;item_icon_Star150
+I;옐로우 젬;Lv5;item_icon_Star150
+I;옐로우 젬;Lv5;item_icon_Star150
+I;옐로우 젬;Lv5;item_icon_Star150
+G;Card
+I;아르마오스 카드;Lv1;icon_item_card_def
+I;아르마오스 카드;Lv1;icon_item_card_def
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
-I;오르샤 병사 코스튬(여);1;icon_item_warrior_orsha_soldier_f
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;몬스터 젬 선택 상자: 직업;1;icon_item_jewelrybox_close
 I;클라페다 서포터즈 유니폼(여);1;icon_item_footballuniform05_f
 I;클라페다 카프리콘즈 유니폼(여);1;icon_item_footballuniform01_f
 G;Material
@@ -222,6 +243,7 @@ I;할로우벤터의 손뼈;32;icon_item_bone
 I;허니빈 침;28;icon_item_tooth_01Yellow
 I;호그마 엄니;3;icon_item_tooth_white
 I;회색 스타울리트 힘줄;7;icon_item_Leash
+I;계열 코스튬 교환권;1;icon_item_exchange_costumeCoupon
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;고원 감자;4;icon_item_maladufat
@@ -246,12 +268,5 @@ I;펜듈럼;1;icon_item_pendulum
 I;푸른 라프세이프의 얼룩 버섯;4;icon_item_TABLELAND28_2_SQ05_ITEM
 I;필기도구가 든 가방;1;icon_item_sidebag
 I;흡수스크롤;1;GolemMagicItem2
-G;Armor
-I;오그마 건틀릿;1;icon_item_gloves_SRchain
-I;탈리스만;1;item_necklace_19
-I;탈리스만;1;item_necklace_19
-I;강철 투구;1;hairacc_35_helm3
-I;로델레로 코스튬;1;icon_item_rodelero_f
-I;낙무아이 코스튬;1;icon_item_warrior_nakmuay01_f
-I;무르밀로 코스튬;1;icon_item_murmillo_f
-I;펠타스타 코스튬;1;icon_item_Peltasta_f
+G;Weapon
+I;트리니티 소드;1;icon_item_Sword_30

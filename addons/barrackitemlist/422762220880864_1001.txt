@@ -58,8 +58,6 @@ I;찢어진 일기의 일부 3;1;icon_item_paperpiece
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;찢어진 일기;1;icon_item_magicpaper
 I;버려진 일기장;1;icon_item_collection_00Basic
-G;Recipe
-I;제작서-뚫어뻥;19;icon_item_weapon_misc5
 G;Collection
 I;컬렉션: 자카리엘 교차로;1;icon_item_box
 I;컬렉션: 이브레 고원;1;icon_item_box
@@ -74,13 +72,10 @@ G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;컴패니언 이름 변경권;1;icon_item_CompanionReNameCoupon
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;확성기;15;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
-G;Armor
-I;카프리선 부츠;1;icon_item_boots_brigan
-I;나뭇잎 장식 투구;1;accessory_leafhelm
-I;스파르타 투구;1;icon_item_red_long_helmet
-I;에보니 룩;1;icon_item_accessory_chessRook
 G;Material
 I;황금 모루;4;icon_item_anvil_gold
 I;모루;15;icon_item_anvil
@@ -256,8 +251,8 @@ I;마력 추적지도 : 테브린 종유동 1구역;1;GolemMagicItem1
 I;영험한 가루;1;icon_item_sesami
 I;기침약;8;icon_item_holywater
 I;깨진 마력핵 조각;8;icon_item_pieceofglass
-G;Weapon
-I;리가드 혼 파이크;1;icon_item_spear_regardhorn_TH
-I;프리머스 라파이 파이크;1;icon_item_spear_twohand_lapai
-I;프리머스 라파이 파이크;1;icon_item_spear_twohand_lapai
-I;일기당천 언월도;1;icon_item_BlueDragon_thspear
+G;Armor
+I;카프리선 부츠;1;icon_item_boots_brigan
+I;나뭇잎 장식 투구;1;accessory_leafhelm
+I;스파르타 투구;1;icon_item_red_long_helmet
+I;에보니 룩;1;icon_item_accessory_chessRook

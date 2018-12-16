@@ -10,13 +10,13 @@ I;농축 SP포션 LV15;27;icon_item_SP_Alche
 I;물리+마법 방어력 포션;1;item_speed_requid_1
 I;바루날레샤;4;icon_item_Varnalesa
 I;발래리요나스;5;icon_item_Valerijonas
-I;보급용 SP포션;32;item_SP_requid_2
+I;보급용 SP포션;132;item_SP_requid_2
 I;보급용 레드옥스;4;icon_item_Red_Ox
 I;보급용 이동속도 증가 포션;3;item_speed_requid_1
-I;보급용 작은 HP포션;25;item_HP_oil_1
+I;보급용 작은 HP포션;125;item_HP_oil_1
 I;보급용 작은 스태미나 알약;26;item_STA_pill_1
 I;보급용 작은 회복포션;3;item_HPSP_potion_1
-I;보급용 큰 HP포션;3;item_HP_oil_3
+I;보급용 큰 HP포션;103;item_HP_oil_3
 I;붉은 케파 조각;3;OnionPiece_Red
 I;스태미나 알약;5;item_STA_pill_2
 I;아비에테;2;icon_item_Aviete
@@ -25,7 +25,7 @@ I;오르샤 워프 주문서;10;GolemMagicItem1
 I;이동속도 향상의 포션;2;item_speed_requid_1
 I;정착 지원 포션;5;item_speed_requid_3
 I;딸기;3;icon_item_Strawberry
-I;치명타 공격력 증가 포션;1;item_speed_requid_1
+I;물리 치명타 공격력 증가 포션;1;item_speed_requid_1
 I;케이스타스 수호의 포션;1;icon_item_Drug_exDEF1
 I;케이스타스 용맹의 포션;4;icon_item_Drug_exATK1
 I;케이스타스 회복포션Lv2;2;item_HPSP_potion_2
@@ -34,6 +34,12 @@ I;큰 스태미나 알약;6;item_STA_pill_3
 I;클라페다 워프 주문서;11;GolemMagicItem1
 I;페디미안 워프 주문서;5;GolemMagicItem1
 I;해독제;7;icon_item_Quest_00020
+I;보급용 작은 SP포션;100;item_SP_requid_1
+I;보급용 HP포션;100;item_HP_oil_2
+I;보급용 큰 SP포션;100;item_SP_requid_3
+I;클래스 경험치 복구 카드 (2nd);1;icon_item_classExp_rollback
+I;클래스 경험치 복구 카드 (3rd);1;icon_item_classExp_rollback
+I;클래스 경험치 복구 카드 (Last);1;icon_item_classExp_rollback
 I;LV14 경험치 카드;32;icon_item_expcard
 I;LV2 경험치 카드;6;icon_item_expcard
 I;보급용 워프 주문서;22;GolemMagicItem1
@@ -109,14 +115,9 @@ I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Armor
 I;이렐리스 로브;1;icon_item_cloth_shirt_1
 I;묘족두식;1;hairacc_wuguBand
+I;난감한 땀방울;1;icon_item_Sweat
 I;불릿 마커 매처 코스튬;1;icon_item_bulletmarker02_f
 I;불릿 마커 휠러 코스튬;1;icon_item_bulletmarker03_f
-I;레인저 코스튬;1;icon_item_ranger_f
-I;무고사 코스튬;1;icon_item_wugu_f
-I;감정사 코스튬;1;icon_item_appraiser_f
-I;로그 코스튬;1;icon_item_rogue_f
-I;슈바르츠라이터 코스튬;1;icon_item_SchwarzeReiter_f
-I;불릿 마커 코스튬;1;icon_item_bulletmarker_f
 G;Material
 I;모루;10;icon_item_anvil
 I;황금 모루;5;icon_item_anvil_gold

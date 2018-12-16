@@ -1,14 +1,14 @@
 S;1001
 G;Unused
-I;실버;99920;icon_item_silver
+I;실버;100000;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;고농축 HP포션;40;item_HP_oil_3
 I;고농축 SP포션;40;item_SP_requid_3
 I;고농축 이동속도 증가 포션;10;item_speed_requid_1
-I;농축 HP포션 LV15;6;icon_item_HP_Alche
-I;농축 SP포션 LV15;12;icon_item_SP_Alche
+I;농축 HP포션 LV15;3;icon_item_HP_Alche
+I;농축 SP포션 LV15;7;icon_item_SP_Alche
 I;딸기;26;icon_item_Strawberry
 I;라무넬레;5;icon_item_Ramunele
 I;할로윈 폭죽;13;icon_item_firework
@@ -52,10 +52,6 @@ I;보급용 워프 주문서;15;GolemMagicItem1
 I;블루 오브:박쥐;1;icon_item_Dreamshade
 I;블루 오브:푸른 스타울리트;1;icon_item_Dreamshade
 I;블루 오브:호그마 전사;1;icon_item_Dreamshade
-I;클래스 경험치 복구 카드 (1st);1;icon_item_classExp_rollback
-I;클래스 경험치 복구 카드 (Last);1;icon_item_classExp_rollback
-I;클래스 경험치 복구 카드 (2nd);1;icon_item_classExp_rollback
-I;클래스 경험치 복구 카드 (3rd);1;icon_item_classExp_rollback
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black
 I;대해적과 하이레번 하권;1;icon_item_collection_00Basic
@@ -245,27 +241,6 @@ I;컬렉션: 파우피스 나루;1;icon_item_box
 I;컬렉션: 패슬렙타스;1;icon_item_box
 I;컬렉션: 페디미안 외곽;1;icon_item_box
 I;컬렉션: 해안 지역;1;icon_item_box
-G;Gem
-I;레드 젬;Lv6;item_icon_circle150
-I;레드 젬;Lv6;item_icon_circle150
-I;레드 젬;Lv6;item_icon_circle150
-I;레드 젬;Lv6;item_icon_circle150
-I;레드 젬;Lv6;item_icon_circle150
-I;블루 젬;Lv6;item_icon_Square150
-I;블루 젬;Lv6;item_icon_Square150
-I;블루 젬;Lv6;item_icon_Square150
-I;블루 젬;Lv6;item_icon_Square150
-I;블루 젬;Lv6;item_icon_Square150
-I;블루 젬;Lv6;item_icon_Square150
-I;블루 젬;Lv6;item_icon_Square150
-I;옐로우 젬;Lv5;item_icon_Star150
-I;옐로우 젬;Lv5;item_icon_Star150
-I;옐로우 젬;Lv5;item_icon_Star150
-I;옐로우 젬;Lv5;item_icon_Star150
-I;옐로우 젬;Lv5;item_icon_Star150
-I;옐로우 젬;Lv5;item_icon_Star150
-I;옐로우 젬;Lv5;item_icon_Star150
-I;옐로우 젬;Lv5;item_icon_Star150
 G;Card
 I;채퍼리션 카드;Lv1;icon_item_card_atk
 I;채퍼리션 카드;Lv1;icon_item_card_atk
@@ -291,6 +266,8 @@ I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;빈 스펠북;80;icon_item_emptySpellBook
 I;크리오라이트;9;39_icon_item_Cry8rite
 I;파이라이트;15;32_item_ore_pyrite
+I;시간의 결정 파편;300;icon_item_spacepiece
+I;시간의 결정;2;icon_item_timespace
 I;압시듐 광석;10;8_item_ore_platinum
 I;주석;3;1_item_ore_copper
 I;호박;24;22_item_ore_amber
@@ -355,7 +332,7 @@ I;리플라이 날개;6;icon_item_bugwing
 I;마우로스의 핵;3;icon_item_core_yellow
 I;마이즈 포자 주머니;5;icon_item_maizespore
 I;마족의 서약 증표;1;36_item_ore_lapis_philosophorum
-I;말라두의 고기;32;icon_item_meat_02
+I;말라두의 고기;23;icon_item_meat_02
 I;메다키아의 뿔;8;pokubu_horn
 I;메로그의 심장;2;item_icon_heart_yellow
 I;메슘의 줄기;26;icon_item_stem_brown
@@ -566,6 +543,5 @@ I;기록을 담을 양피지;4;icon_item_guehwangji
 I;마력이 가득찬 오브;1;icon_item_orb_1
 G;Armor
 I;금테 투구;1;hairacc_34_helm2
-I;메이드 머리띠;1;hairacc_53_maidhat
-I;하얀색 토끼 귀;1;icon_item_blackRabbitEar_white
-I;분홍색 하트 헤어장식;1;icon_item_pinkHeartRibbon
+I;알케미스트 코스튬;1;icon_item_Alchemist_f
+I;세이지 코스튬;1;icon_item_mage_sage_f
