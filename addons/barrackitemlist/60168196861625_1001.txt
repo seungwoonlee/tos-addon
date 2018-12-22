@@ -4,13 +4,13 @@ I;실버;100000;icon_item_silver
 G;Drug
 I;보급용 작은 스태미나 알약;25;item_STA_pill_1
 I;보급용 이동속도 증가 포션;3;item_speed_requid_1
-I;보급용 작은 회복포션;2;item_HPSP_potion_1
+I;보급용 작은 회복포션;1;item_HPSP_potion_1
 I;송이버섯;1;icon_item_Pinemushroom
 I;발래리요나스;1;icon_item_Valerijonas
 I;바루날레샤;12;icon_item_Varnalesa
 I;해독제;8;icon_item_Quest_00020
 I;매두스;12;icon_item_Medus
-I;HP포션;4;item_HP_oil_2
+I;HP포션;2;item_HP_oil_2
 I;오르샤 워프 주문서;11;GolemMagicItem1
 I;클라페다 워프 주문서;12;GolemMagicItem1
 I;딸기;15;icon_item_Strawberry
@@ -30,7 +30,6 @@ I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;농축 SP포션 LV15;39;icon_item_SP_Alche
 I;붉은 케파 조각;1;OnionPiece_Red
-I;지혜의 열매;1;icon_item_wisdomberry
 I;블루 오브:부베 주술사;1;icon_item_Dreamshade
 I;레드 오브:분홍 츄파루카;1;icon_item_Dreamshade_red
 I;LV14 경험치 카드;61;icon_item_expcard
@@ -38,9 +37,6 @@ I;LV13 경험치 카드;7;icon_item_expcard
 I;LV6 경험치 카드;63;icon_item_expcard
 I;LV11 경험치 카드;7;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
-G;SubWeapon
-I;라파이 피스톨;1;icon_item_pistol_lapai
-I;베르타스 라파이 피스톨;1;icon_item_pistol_lapai
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
@@ -83,7 +79,6 @@ I;제작서-페디미안 레더 부츠;1;icon_item_boots_misc1
 I;제작서-턴 팬츠;1;icon_item_pants_misc3
 I;제작서-페디미안 레더 팬츠;2;icon_item_pants_misc1
 I;제작서-턴 로브;1;icon_item_shirts_misc3
-I;제작서-레이드 포탈 스톤;5;icon_item_recipe_misc1
 G;Collection
 I;컬렉션: 벨라이 숲;1;icon_item_box
 I;컬렉션: 아르커스 숲;1;icon_item_box
@@ -125,35 +120,30 @@ I;컬렉션: 필그림 들길;1;icon_item_box
 I;컬렉션: 마법사의 탑 4층;1;icon_item_box
 I;컬렉션: 마법사의 탑 5층;1;icon_item_box
 I;컬렉션: 크란토 연안;1;icon_item_box
-G;Gem
-I;레드 젬;Lv1;item_icon_circle150
-I;레드 젬;Lv1;item_icon_circle150
-I;그린 젬;Lv1;item_icon_Dia150
-I;블루 젬;Lv1;item_icon_Square150
-I;블루 젬;Lv1;item_icon_Square150
-I;블루 젬;Lv1;item_icon_Square150
-I;옐로우 젬;Lv1;item_icon_Star150
-I;옐로우 젬;Lv1;item_icon_Star150
-I;옐로우 젬;Lv1;item_icon_Star150
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
 G;Armor
-I;제베넬리스 레더 부츠;1;icon_item_leather_boots_1
-I;제베넬리스 레더 팬츠;1;icon_item_leather_pants_1
-I;바스티클 플레이트 팬츠;1;icon_item_iorn_pants_1
-I;바스티클 플레이트 아머;1;icon_item_iorn_shirt_1
+I;사우시스 글로브;1;icon_item_gloves_skull
+I;부베 투사 건틀릿;1;icon_item_gloves_bubewarrior
+I;프리머스 제베넬리스 레더 팬츠;1;icon_item_leather_pants_1
+I;밥그릇;1;icon_item_ricebowl
+I;태양;1;icon_item_sun_acc
+I;잠자는 표범;1;icon_item_sleeping_leopard
+I;밥그릇;1;icon_item_ricebowl
+I;태양;1;icon_item_sun_acc
+I;밥그릇;1;icon_item_ricebowl
+I;태양;1;icon_item_sun_acc
 I;엑소시스트 코스튬;1;icon_item_Exorcist01_f
 I;딥디르비 코스튬;1;icon_item_dievdirbys_f
+I;진저브레드 실드;1;icon_item_winter_shield
 G;Material
 I;모루;8;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;4성 젬 연마제;2;icon_item_powderp
-I;3성 젬 연마제;1;icon_item_powderp
 I;파이라이트;17;32_item_ore_pyrite
 I;크리오라이트;7;39_icon_item_Cry8rite
 I;성수;437;icon_item_holywater
@@ -373,5 +363,4 @@ I;푸른 빛이 깃든 날개;1;icon_item_misc04_42
 I;석회 가루;40;icon_item_powderw
 I;독특한 산호 조각;1;icon_item_coral
 G;Weapon
-I;라파이 크로스보우;1;icon_item_crossbow_lapai
-I;라파이 보우;1;icon_item_bow_lapai
+I;프리머스 라파이 투 핸드 메이스;1;icon_item_mace_twohand_lapai

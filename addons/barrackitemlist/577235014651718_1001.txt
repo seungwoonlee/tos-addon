@@ -1,28 +1,51 @@
 S;1001
 G;Unused
-I;실버;100001;icon_item_silver
-G;Armor
-I;엘고스 부츠;1;icon_item_boots_scholar
-I;틸라 플레이트 그리브;1;icon_item_boots_SRchain
-I;카프리선 글로브;1;icon_item_gloves_brigan
-I;카울라스 레더 팬츠;1;icon_item_pants_kaulas
-I;틸라 팬츠;1;icon_item_pants_sage_white
-I;드라트 실드;1;icon_item_Shield_8
-I;턴 레더 튜닉;1;icon_item_shirts_gairas_gray
-I;사이클롭스 아이;1;item_necklace_16
-I;베아카라스 브레이슬릿;1;item_bracelet_01
-I;베아카라스 브레이슬릿;1;item_bracelet_01
-I;크리스탈 뱅글;1;item_bracelet_15
-I;불릿 마커 매처 코스튬;1;icon_item_bulletmarker02_f
-I;불릿 마커 코스튬;1;icon_item_bulletmarker_f
-I;불릿 마커 휠러 코스튬;1;icon_item_bulletmarker03_f
-I;인챈터 코스튬;1;icon_item_mage_enchanter_f
+I;실버;2165180;icon_item_silver
+G;Premium
+I;15레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;170레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;220레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;270레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;315레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;350레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;40레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;75레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;[Re:Build] 인스턴스 던전 1회 입장권;3;icon_item_indunonemoreEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;[Re:Build] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;[Re:Build] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;x8 경험의 서;1;icon_item_expbookx8
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;긴급 수리 키트;10;icon_item_repairkit
+I;소울 크리스탈;15;icon_item_soulCrystal
+I;워프 주문서;15;icon_item_warpPremium
+I;워프 주문서 10개 상자;2;icon_item_warpPremium_bundle
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 배수 토큰;11;icon_item_indunexmode
+I;확성기;20;icon_item_Mike
+I;프리미엄 각성석;1;icon_item_awakeningstone
+I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Drug
 I;HP 회복 소형 엘릭서 ;34;icon_item_HPelixir_Small
-I;HP 회복의 엘릭서 [이벤트];1;icon_item_HPelixir
 I;SP 회복 소형 엘릭서 ;34;icon_item_SPelixir_Small
-I;[PC방] SP 회복 소형 엘릭서 ;13;icon_item_random_spellixerbox
-I;[Re:Build] 축복이 깃든 씨앗;14;icon_item_event161215_01
+I;[PC방] SP 회복 소형 엘릭서 ;12;icon_item_random_spellixerbox
+I;[Re:Build] 축복이 깃든 씨앗;13;icon_item_event161215_01
 I;농축 HP포션 LV15;22;icon_item_HP_Alche
 I;농축 이동속도 향상의 포션;60;item_speed_requid_1
 I;라프세이프 버섯;2;icon_item_Pinemushroom
@@ -35,17 +58,16 @@ I;정착 지원 포션 Lv2;88;item_speed_requid_3
 I;클라페다 워프 주문서;3;GolemMagicItem1
 I;포포리온 고기;7;icon_item_meat_02
 I;해독제;3;icon_item_Quest_00020
+I;농축 SP포션 LV15;16;icon_item_SP_Alche
 I;LV14 경험치 카드;4;icon_item_expcard
 I;LV3 경험치 카드;1;icon_item_expcard
 I;LV4 경험치 카드;2;icon_item_expcard
 I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
-I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;보급용 워프 주문서;18;GolemMagicItem1
 I;은빛 물고기;12;icon_item_fish2
-I;스킬 주문서;7;GolemMagicItem1
-I;스킬 주문서;25;GolemMagicItem1
+I;LV7 경험치 카드;2;icon_item_expcard
 I;오르샤 라이온스 응원 슬로건;1;icon_item_aretfact_victory_red
 I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
 I;인챈트탄;490;icon_item_panto_core
@@ -57,10 +79,8 @@ I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
 I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
 I;컬렉션: 수정광산 2층;1;icon_item_box
 I;컬렉션: 테넷 화원;1;icon_item_box
-G;Event
-I;경험의 서:14일;1;icon_item_boostertoken
-I;경험의 서:14일;1;icon_item_boostertoken
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
+G;SubWeapon
+I;[Re:Build] 마시니오스 피스톨;1;icon_item_pistol_masinos
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;대해적과 하이레번 하권;1;icon_item_collection_00Basic
@@ -94,98 +114,53 @@ I;제작서-페디미안 아머;3;icon_item_shirts_misc1
 I;제작서-매직 탈리스만;1;icon_item_necklace_misc3
 I;제작서-산양 뿔;1;icon_item_helm_misc1
 I;제작서-안티 다크 네클리스;3;icon_item_necklace_misc3
-I;제작서-x4 경험의 서;1;icon_item_recipe_misc1
-I;제작서-x8 경험의 서;6;icon_item_recipe_misc1
+I;제작서-x8 경험의 서;5;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(머스킷);3;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(양손활);2;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(한손검);3;icon_item_recipe_misc1
 G;FishingRod
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
-G;SubWeapon
-I;프리머스 즈바이더 피스톨;1;icon_item_pistol_nicopolis1
+G;Event
+I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
 G;Card
 I;래밴자드 카드;Lv1;icon_item_card_stat
 I;래밴자드 카드;Lv1;icon_item_card_stat
 I;래밴자드 카드;Lv1;icon_item_card_stat
 I;아르마오스 카드;Lv1;icon_item_card_def
 I;아르마오스 카드;Lv1;icon_item_card_def
-I;아르마오스 카드;Lv1;icon_item_card_def
-I;웨어울프 카드;Lv8;icon_item_card_util
-G;Premium
-I;15레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;170레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;220레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;270레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;315레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;350레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;40레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;75레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;[Re:Build] 인스턴스 던전 1회 입장권;3;icon_item_indunonemoreEnter
-I;[Re:Build] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;[Re:Build] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;[Re:Build] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;[Re:Build] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;[Re:Build] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;[Re:Build] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;[Re:Build] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;[Re:Build] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;[Re:Build] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;x4 경험의 서;1;icon_item_expbookx4
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;긴급 수리 키트;10;icon_item_repairkit
-I;소울 크리스탈;371;icon_item_soulCrystal
-I;워프 주문서;15;icon_item_warpPremium
-I;워프 주문서 10개 상자;2;icon_item_warpPremium_bundle
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;확성기;38;icon_item_Mike
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
+G;Armor
+I;엘고스 부츠;1;icon_item_boots_scholar
+I;틸라 플레이트 그리브;1;icon_item_boots_SRchain
+I;카프리선 글로브;1;icon_item_gloves_brigan
+I;카울라스 레더 팬츠;1;icon_item_pants_kaulas
+I;틸라 팬츠;1;icon_item_pants_sage_white
+I;드라트 실드;1;icon_item_Shield_8
+I;턴 레더 튜닉;1;icon_item_shirts_gairas_gray
+I;사이클롭스 아이;1;item_necklace_16
+I;크리스탈 뱅글;1;item_bracelet_15
+I;파인애플;1;hairacc_75_pineapple
+I;케파 인형;1;hairacc_48_cepadoll
+I;연잎;1;icon_item_Leaf_acc
+I;새싹;1;hairacc_61_sprout
+I;밥그릇;1;icon_item_ricebowl
+I;물빛 조개장식;1;icon_item_skyblue_shell
+I;머슈카리아 모자;1;hairacc_23_mushcariahat
+I;강아지 풍선;1;icon_item_dogballoon
+I;불릿 마커 휠러 코스튬;1;icon_item_bulletmarker03_f
+I;불릿 마커 코스튬;1;icon_item_bulletmarker_f
+I;커세어 코스튬;1;icon_item_corsair_f
+I;링커 코스튬;1;icon_item_linker_f
 G;Material
 I;[Re:Build] 빛나는 황금 모루;1;icon_item_anvil_gold
 I;모루;5;icon_item_anvil
+I;은빛 모루(14일);1;icon_item_anvil_silver
 I;[Re:Build] 5성 젬 연마제;3;icon_item_powderp
-I;강화용 카드 : 500 (14일);1;monster_card
-I;강화용 카드 : 500 (14일);1;monster_card
-I;강화용 카드 : 500 (14일);1;monster_card
 I;아틸로늄;10;18_item_plantite
-I;안데슘;13;icon_item_crystal_red
-I;울스터마이트;9;item_icon_teraingot
-I;이오니움;16;icon_item_crystal_yellow
-I;펠트레민;9;item_icon_pideingot
-I;피데슘;16;5_item_ore_fluorite
+I;안데슘;19;icon_item_crystal_red
+I;울스터마이트;10;item_icon_teraingot
+I;이오니움;24;icon_item_crystal_yellow
+I;펠트레민;13;item_icon_pideingot
+I;피데슘;18;5_item_ore_fluorite
 I;LV2 보물상자 열쇠;1;icon_item_key1
 I;거대한 갈고리;9;icon_item_claw_01
 I;그롤의 뿔;1;icon_item_shorthorn
@@ -230,7 +205,7 @@ I;코릴러스의 뿔;6;icon_item_pantohorn
 I;코카트리스 깃털;2;icon_item_feather_02Yellow
 I;쿠게리 심바니의 모자장식;1;icon_item_misc04_104
 I;쿠게리의 천조각;2;icon_item_clothpiece_white
-I;테라늄;16;36_item_ore_lapis_philosophorum
+I;테라늄;21;36_item_ore_lapis_philosophorum
 I;톤투리아의 가시;5;icon_item_thorn_Yellow
 I;판토족의 뿔;5;icon_item_pantohorn
 I;포쿠부 가죽;2;icon_item_Misc_00011

@@ -2,7 +2,7 @@ S;1001
 G;Recipe
 I;제작서-아라스의 폴쳔;2;icon_item_weapon_misc3
 G;Unused
-I;실버;852;icon_item_silver
+I;실버;9532;icon_item_silver
 G;Collection
 I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
 G;Armor
@@ -14,6 +14,7 @@ I;이글스타 레더 부츠;1;icon_item_eaglestar_boots
 I;닉스 나이트 글로브;1;icon_item_arkishknight_gloves
 I;워메이지 글로브;1;icon_item_warmage_gloves
 I;이글스타 레더 글로브;1;icon_item_eaglestar_gloves
+I;카프리선 글로브;1;icon_item_gloves_brigan
 I;라이트 팬츠;1;icon_item_pants_bube
 I;닉스 나이트 팬츠;1;icon_item_arkishknight_pants
 I;이글스타 레더 팬츠;1;icon_item_eaglestar_pants
@@ -25,19 +26,17 @@ I;닉스 나이트 아머;1;icon_item_arkishknight_armor
 I;베르타스 이글스타 레더 아머;1;icon_item_eaglestar_armor
 I;이글스타 레더 아머;1;icon_item_eaglestar_armor
 I;이글스타 레더 아머;1;icon_item_eaglestar_armor
+I;카프리선 아머;1;icon_item_shirts_brigan
 I;노비스 네클리스;1;item_necklace_10
 I;노비스 뱅글;1;item_bracelet_15
 I;우든 뱅글;1;item_bracelet_20
 I;케파 인형;1;hairacc_48_cepadoll
 I;케파 인형;1;hairacc_48_cepadoll
 I;케파 인형;1;hairacc_48_cepadoll
-I;새싹;1;hairacc_61_sprout
-I;케파 인형;1;hairacc_48_cepadoll
-I;파인애플;1;hairacc_75_pineapple
 I;케파 인형;1;hairacc_48_cepadoll
 G;Drug
-I;보급용 작은 HP포션;27;item_HP_oil_1
-I;보급용 작은 SP포션;25;item_SP_requid_1
+I;보급용 작은 HP포션;127;item_HP_oil_1
+I;보급용 작은 SP포션;125;item_SP_requid_1
 I;보급용 작은 스태미나 알약;23;item_STA_pill_1
 I;보급용 이동속도 증가 포션;3;item_speed_requid_1
 I;보급용 워프 주문서;10;GolemMagicItem1

@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;3004493;icon_item_silver
+I;실버;100000;icon_item_silver
 G;PasteBait
 I;[PC방] 화려한 지렁이;800;icon_item_Paste_Bait2_pc
 I;보급용 미끼;608;icon_item_Paste_Bait_basic
@@ -13,6 +13,8 @@ I;컬렉션: 네프리타스 벼랑;1;icon_item_box
 I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
 I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
 I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
+G;Event
+I;[Re:Build] 레벨업 상자 (15레벨);1;icon_item_giftBox_2
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 G;Recipe
@@ -44,9 +46,11 @@ I;낡은 보급용 낚싯대;1;icon_item_Fishing_Rod_1
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 G;Premium
 I;긴급 수리 키트;20;icon_item_repairkit
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;소울 크리스탈;11;icon_item_soulCrystal
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;워프 주문서;30;icon_item_warpPremium
-I;인스턴스 던전 배수 토큰;4;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -57,6 +61,8 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;확성기;31;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
+I;에보니 나이트 코스튬(여);1;icon_item_chessUniform02_f
+I;아늑다정 북극여우 코스튬;1;icon_item_winter_fox_f
 G;Drug
 I;HP 회복 소형 엘릭서 ;30;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;40;icon_item_SPelixir_Small
@@ -65,11 +71,7 @@ I;농축 HP포션 LV15;23;icon_item_HP_Alche
 I;농축 SP포션 LV15;17;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;40;item_speed_requid_1
 I;바루날레샤;2;icon_item_Varnalesa
-I;보급용 농축 HP포션 LV15;165;item_HP_oil_3
-I;보급용 농축 SP포션 LV15;179;item_SP_requid_3
 I;보급용 이동속도 증가 포션;2;item_speed_requid_1
-I;보급용 작은 HP포션;26;item_HP_oil_1
-I;보급용 작은 SP포션;249;item_SP_requid_1
 I;보급용 작은 스태미나 알약;22;item_STA_pill_1
 I;오르샤 워프 주문서;1;GolemMagicItem1
 I;이동속도 향상의 포션;1;item_speed_requid_1
@@ -77,40 +79,35 @@ I;정착 지원 포션 Lv2;57;item_speed_requid_3
 I;클라페다 워프 주문서;15;GolemMagicItem1
 I;포포리온 고기;17;icon_item_meat_02
 I;해독제;30;icon_item_Quest_00020
-I;10랭크 카드;1;icon_item_expcard10
-I;2랭크 카드;1;icon_item_expcard2
-I;3랭크 카드;1;icon_item_expcard3
-I;4랭크 카드;1;icon_item_expcard4
-I;5랭크 카드;1;icon_item_expcard5
-I;6랭크 카드;1;icon_item_expcard6
-I;7랭크 카드;1;icon_item_expcard7
-I;8랭크 카드;1;icon_item_expcard8
-I;9랭크 카드;1;icon_item_expcard9
+I;보급용 HP포션;100;item_HP_oil_2
+I;보급용 SP포션;100;item_SP_requid_2
 I;LV2 경험치 카드;2;icon_item_expcard
 I;LV3 경험치 카드;2;icon_item_expcard
 I;LV6 경험치 카드;2;icon_item_expcard
 I;보급용 워프 주문서;19;GolemMagicItem1
 I;은빛 물고기;30;icon_item_fish2
-I;클래스 경험치 복구 카드;1;icon_item_expcard_remain
 I;예식용 칼;1;icon_item_artefact_Decorative_knife
 I;클라페다 카프리콘즈 응원 슬로건;1;icon_item_aretfact_victory_purple
 G;Armor
 I;베르타스 크라이지어스 그리브;1;icon_item_boots_kryzius
 I;크라이지어스 건틀릿;1;icon_item_gloves_kryzius
 I;크라이지어스 플레이트 팬츠;1;icon_item_pants_kryzius
-I;베르타스 페버디마스 실드;1;icon_item_pabudimas_shield
 I;크라이지어스 플레이트 아머;1;icon_item_shirts_kryzius
 I;플라티나 메달;1;item_necklace_19
 I;노블 브레이슬릿;1;item_bracelet_03
-I;베아카라스 브레이슬릿;1;item_bracelet_01
-I;베아카라스 브레이슬릿;1;item_bracelet_01
+I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
+I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
 I;자카리엘 뱅글;1;item_bracelet_10
 I;자카리엘 뱅글;1;item_bracelet_10
 I;붉은빛 플라워 헤어밴드;1;icon_item_redflowerband
 I;태양;1;icon_item_sun_acc
+I;케파 인형;1;hairacc_48_cepadoll
 I;탐험가용 큰 붉은꽃 머리장식;1;hairacc_hat072
+I;큰 흰꽃 머리장식;1;hairacc_hat071
+I;하카펠 코스튬;1;icon_item_hakapalle_f
+I;펠타스타 코스튬;1;icon_item_Peltasta_f
 G;Material
-I;모루;19;icon_item_anvil
+I;모루;21;icon_item_anvil
 I;황금 모루;2;icon_item_anvil_gold
 I;아틸로늄;11;18_item_plantite
 I;안데슘;16;icon_item_crystal_red
