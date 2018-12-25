@@ -1,10 +1,6 @@
 S;1001
 G;Unused
-I;실버;5359443;icon_item_silver
-G;SubWeapon
-I;잎사귀 무늬 암밴드;1;icon_item_armband_leaf
-I;눈꽃 스프레이;1;icon_item_snowflower
-I;핫팩;1;icon_item_hotpack
+I;실버;7289748;icon_item_silver
 G;PasteBait
 I;작은 은빛 물고기;9;icon_item_fish4
 G;Drug
@@ -30,14 +26,14 @@ I;물리+마법 방어력 포션;2;item_speed_requid_1
 I;바루날레샤;3;icon_item_Varnalesa
 I;발래리요나스;6;icon_item_Valerijonas
 I;보급용 HP포션;11;item_HP_oil_2
-I;보급용 SP포션;5;item_SP_requid_2
+I;보급용 SP포션;4;item_SP_requid_2
 I;보급용 농축 HP포션 LV15;300;item_HP_oil_3
 I;보급용 농축 SP포션 LV15;300;item_SP_requid_3
 I;보급용 레드옥스;6;icon_item_Red_Ox
 I;보급용 이동속도 증가 포션;6;item_speed_requid_1
-I;보급용 작은 HP포션;9;item_HP_oil_1
+I;보급용 작은 HP포션;8;item_HP_oil_1
 I;불 속성 저항력 포션;1;icon_item_Seed_MATK1
-I;스태미나 알약;3;item_STA_pill_2
+I;스태미나 알약;2;item_STA_pill_2
 I;아말라스;1;icon_item_Amalas
 I;오르샤 워프 주문서;11;GolemMagicItem1
 I;워시스;12;icon_item_Uosis
@@ -124,20 +120,16 @@ I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 I;낡은 보급용 낚싯대;1;icon_item_Fishing_Rod_1
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 G;Premium
-I;15레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;170레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;220레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;270레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;315레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;[Re:Build] 펭귄 선택 상자;1;icon_item_event_penguinbox
+I;[보상용] 해금권 선택 상자;1;icon_item_classsolution_box
+I;[Re:Build] 380 유니크 무기 제작서 선택 상자;1;icon_item_event_recipebox2
 I;350레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;40레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;75레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;[Re:Build] 인스턴스 던전 1회 입장권;1;icon_item_indunonemoreEnter
 I;[Re:Build] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;[Re:Build] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;[Re:Build] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;긴급 수리 키트;41;icon_item_repairkit
-I;소울 크리스탈;50;icon_item_soulCrystal
+I;소울 크리스탈;406;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
@@ -153,34 +145,15 @@ I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
 I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
 I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
 I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
-I;토큰;1;icon_item_token
-I;확성기;89;icon_item_Mike
+I;확성기;107;icon_item_Mike
 I;확성기 10개 상자;1;icon_item_Mike_bundle
 I;확성기 50개 상자;1;icon_item_Mike_bundle
-I;마법 부여 스크롤(거래불가);1;icon_item_enchantScroll
+I;[이벤트] 5초월 스크롤;1;icon_item_transcendence_coupon
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
-G;Card
-I;래밴자드 카드;Lv1;icon_item_card_stat
-I;래밴자드 카드;Lv1;icon_item_card_stat
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;아르마오스 카드;Lv1;icon_item_card_def
-I;아르마오스 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;게이징 골렘 카드;Lv10;icon_item_card_util
-I;웨어울프 카드;Lv10;icon_item_card_util
+G;SubWeapon
+I;잎사귀 무늬 암밴드;1;icon_item_armband_leaf
+I;눈꽃 스프레이;1;icon_item_snowflower
+I;핫팩;1;icon_item_hotpack
 G;Armor
 I;마로네 로브;1;icon_item_malone_amor
 I;스틸 네클리스;1;item_necklace_10
@@ -188,20 +161,13 @@ I;아이언 네클리스;1;item_necklace_10
 I;보코르 코스튬;1;icon_item_bokor_f
 I;섀도우맨서 루너하이더 코스튬;1;icon_item_mage_shadowmancer04_f
 I;섀도우맨서 코스튬;1;icon_item_mage_shadowmancer_f
-I;워록 코스튬;1;icon_item_mage_warlock_f
+I;섀도우맨서 선하이더 코스튬;1;icon_item_mage_shadowmancer02_f
 G;Material
 I;[Re:Build] 빛나는 황금 모루;1;icon_item_anvil_gold
 I;모루;12;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;[Re:Build] 5성 젬 연마제;3;icon_item_powderp
 I;파이라이트;15;32_item_ore_pyrite
-I;아틸로늄;16;18_item_plantite
-I;안데슘;40;icon_item_crystal_red
-I;울스터마이트;12;item_icon_teraingot
-I;이오니움;28;icon_item_crystal_yellow
 I;주석;3;1_item_ore_copper
-I;펠트레민;6;item_icon_pideingot
-I;피데슘;23;5_item_ore_fluorite
 I;호박;3;22_item_ore_amber
 I;LV2 보물상자 열쇠;1;icon_item_key1
 I;갈고리;5;icon_item_claw_01
@@ -216,6 +182,7 @@ I;그리바 줄기;1;icon_item_stem_yellow
 I;글리자돈의 뼈;5;icon_item_bone
 I;나무 말뚝;10;icon_item_wood_3
 I;낚시대;1;icon_item_fishingrod
+I;[Re:Build] 기념 주화;20;icon_item_rebuild_coin
 I;노란 게이징 골렘의 핵;3;icon_item_core_yellow
 I;노란 그리바 줄기;3;icon_item_stem_yellow
 I;누덕고치의 껍질;1;icon_item_shell_blue
@@ -314,7 +281,6 @@ I;크로마독 뼈;4;icon_item_bone
 I;크루마보 잎;1;icon_item_leaves_green
 I;타마 잎;2;icon_item_leaves_red
 I;타마의 껍질;1;icon_item_tamashell
-I;테라늄;22;36_item_ore_lapis_philosophorum
 I;톤투리아의 가시;2;icon_item_thorn_Yellow
 I;투켄의 껍질;2;icon_item_shell_purple
 I;트리굴 줄기;1;icon_item_stem_brown

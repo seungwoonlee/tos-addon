@@ -77,7 +77,7 @@ I;제작서-우프올 펄 브레이슬릿;11;icon_item_bracelet_misc4
 I;제작서-제메이 네클리스;2;icon_item_necklace_misc3
 I;제작서-피크오 펄 브레이슬릿;4;icon_item_bracelet_misc4
 I;제작서-x8 경험의 서;5;icon_item_recipe_misc1
-I;제작서-레이드 포탈 스톤;45;icon_item_recipe_misc1
+I;제작서-레이드 포탈 스톤;48;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 G;Collection
@@ -118,9 +118,13 @@ I;컬렉션: 테넷 성당 지상 1층;1;icon_item_box
 I;컬렉션: 테넷 성당 지상 2층;1;icon_item_box
 I;컬렉션: 테넷 화원;1;icon_item_box
 I;컬렉션: 필그림 들길;1;icon_item_box
+G;Helmet
+I;송편 헬멧 코스튬;1;icon_item_helmet_songpyun
 G;Premium
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
+I;[Re:Build] 380 유니크 무기 제작서 선택 상자;1;icon_item_event_recipebox2
+I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
 I;모루;13;icon_item_anvil
 I;종이 인형;4710;icon_item_paperdoll
@@ -150,9 +154,8 @@ I;돌;1;icon_item_Misc_00004
 I;라플리 줄기;1;icon_item_stem_gray
 I;레무리아의 꼬리;1;icon_item_Quest_00017
 I;레푸스버니 털;1;icon_item_fur_05Gray
-I;로열 블레이드 파편;6;icon_item_misc_0529
 I;록타눈 깃털;3;icon_item_feather_00Basic
-I;루나엔젤의 나팔;8;icon_item_misc_0511
+I;루나엔젤의 나팔;9;icon_item_misc_0511
 I;리디아의 붉은 꽃;6;icon_item_misc_0519
 I;리자드맨 송곳니;1;icon_item_canine
 I;리프넛의 뿔;3;icon_item_shorthorn
@@ -169,7 +172,6 @@ I;박쥐 이빨;1;icon_item_tooth_white
 I;박쥐의 날개;32;icon_item_batwing
 I;밴시의 사념체;9;icon_item_spirit_orange
 I;벨리글러 깃털;3;icon_item_feather_03Green
-I;별빛이 깃든 이슬;1;icon_item_misc_0520
 I;부베 활대;3;icon_item_bubebow
 I;부베족의 증표;10;icon_item_bubetoken
 I;부어의 딱딱한 부리;10;icon_item_misc_0515

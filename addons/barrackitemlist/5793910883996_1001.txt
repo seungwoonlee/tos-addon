@@ -16,10 +16,9 @@ I;농축 이동속도 증가 포션 LV15;2;item_speed_requid_1
 I;농축 이동속도 향상의 포션;2;item_speed_requid_1
 I;누켈라;2;icon_item_Nukela
 I;대왕 꿀송편;1;icon_item_Largehoney_Songpyeon
-I;딜겔레;31;icon_item_Dilgele
+I;딜겔레;10;icon_item_Dilgele
 I;딸기;6;icon_item_Strawberry
 I;라무넬레;2;icon_item_Ramunele
-I;라오도넬리스;18;icon_item_Raudonelis
 I;레드옥스;2;icon_item_Red_Ox
 I;루팅 찬스 증가 포션;4;icon_item_looting_potion_01
 I;루팅 찬스: 100;8;item_icon_luckypotion_100
@@ -52,7 +51,6 @@ I;트린이날 폭죽;1;icon_item_firework
 I;페디미안 워프 주문서;9;GolemMagicItem1
 I;포포리온 고기;3;icon_item_meat_02
 I;해독제;5;icon_item_Quest_00020
-I;LV14 경험치 카드;112;icon_item_expcard
 I;동전 투호;1;icon_1710_thanksgiving_target
 I;레드 오브:메다키아;1;icon_item_Dreamshade_red
 I;레드 오브:베스퍼;1;icon_item_Dreamshade_red
@@ -176,7 +174,9 @@ I;고글;1;hairacc_6_goggles
 I;고글;1;hairacc_6_goggles
 I;고글;1;hairacc_6_goggles
 I;고깔모자;1;hairacc_64_conehat
+I;군청 깃털모;1;icon_item_dark_blue_feather
 I;귀족 모자;1;hairacc_hat009
+I;금테 투구;1;hairacc_34_helm2
 I;금테 투구;1;hairacc_34_helm2
 I;금테 투구;1;hairacc_34_helm2
 I;금테 투구;1;hairacc_34_helm2
@@ -323,6 +323,8 @@ I;화분;1;icon_item_accessory_pollen
 I;흑립;1;icon_item_accessory_Gat
 I;흰 가죽 챙 모자;1;Hat_mannish02
 I;흰 열쇠장식 모자;1;icon_item_white_cloud
+I;붉은술모자;1;hairacc_24_tasselhat
+I;묘족두식;1;hairacc_wuguBand
 I;[이벤트] 분홍색 사탕;1;icon_item_redBall
 I;강아지귀;1;hairacc_30_dogears
 I;검은 고양이 귀;1;icon_item_accessory_blackcat
@@ -330,9 +332,7 @@ I;고양이귀;1;icon_item_cap_3
 I;고양이귀;1;icon_item_cap_3
 I;고양이귀;1;icon_item_cap_3
 I;고양이귀;1;icon_item_cap_3
-I;까만 토끼귀;1;hairacc_45_blackrabbitears
-I;까만 토끼귀;1;hairacc_45_blackrabbitears
-I;까만 토끼귀;1;hairacc_45_blackrabbitears
+I;젖소 머리띠;1;hairacc_36_cow
 I;꽃 나뭇가지;1;hairacc_83_flowertree
 I;꽃 나뭇가지;1;hairacc_83_flowertree
 I;꽃 나뭇가지;1;hairacc_83_flowertree
@@ -343,8 +343,12 @@ I;붉은 악마날개;1;hairacc_49_reddevilwing
 I;블루 앵커;1;icon_item_accessory_anchor
 I;산양 뿔;1;hairacc_43_sheephorn
 I;아늑다정 북극여우 귀;1;icon_item_accessory_winter_foxEar
+I;작은 별 머리핀;1;icon_item_accessory_winter_star
+I;작은 선물 머리핀;1;icon_item_accessory_winter_giftBox
 I;젖소 머리띠;1;hairacc_36_cow
+I;천사날개;1;hairacc_51_doublewing_white
 I;호박 장식;1;icon_item_accessory_pumpkin
+I;까만 토끼귀;1;hairacc_45_blackrabbitears
 I;계란 후라이;1;hairacc_62_friedegg
 I;계란 후라이;1;hairacc_62_friedegg
 I;고급스런 머리핀;1;hairacc_58_metaltassel
@@ -362,6 +366,8 @@ I;단풍잎;1;hairacc_13_maple
 I;단풍잎;1;hairacc_13_maple
 I;단풍잎;1;hairacc_13_maple
 I;마린 스트라이프 안경;1;icon_item_accessory_glassmarin
+I;마린 스트라이프 안경;1;icon_item_accessory_glassmarin
+I;마패;1;icon_item_accessory_HorsePlate
 I;은행잎;1;hairacc_14_ginkgoleaf
 I;은행잎;1;hairacc_14_ginkgoleaf
 I;은행잎;1;hairacc_14_ginkgoleaf
@@ -892,7 +898,6 @@ I;제작서-파이루마 체인;9;icon_item_necklace_misc3
 I;제작서-포이즈마 체인;1;icon_item_necklace_misc3
 I;제작서-x4 경험의 서;1;icon_item_recipe_misc1
 I;제작서-x8 경험의 서;7;icon_item_recipe_misc1
-I;제작서-여신의 축복석;15;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
@@ -924,8 +929,10 @@ I;파이프;1;icon_item_bubble_pipeb
 I;풍선피리;1;icon_item_balloon_pipe
 G;Premium
 I;[PC방] 해금권 선택 상자;1;icon_item_pc_unlock_box
-I;[PC방] 헤어 1회 50% 할인권;1;icon_item_HairCoupon_50_pc
-I;[보상용] 해금권 선택 상자;8;icon_item_classsolution_box
+I;[PC방] 헤어 1회 50% 할인권;3;icon_item_HairCoupon_50_pc
+I;[Re:Build] 펭귄 선택 상자;1;icon_item_event_penguinbox
+I;[Rebuild] 장인의 돋보기;1;icon_item_magnifier_red
+I;[보상용] 해금권 선택 상자;9;icon_item_classsolution_box
 I;x4 경험의 서;1;icon_item_expbookx4
 I;x4 경험의 서;1;icon_item_expbookx4
 I;x8 경험의 서;1;icon_item_expbookx8
@@ -967,6 +974,7 @@ I;챌린지 초기화 상자;1;icon_item_Challenge_box_A
 I;챌린지 초기화 상자;1;icon_item_Challenge_box_A
 I;챌린지 초기화 상자;1;icon_item_Challenge_box_A
 I;챌린지 초기화 상자;1;icon_item_Challenge_box_A
+I;챌린지 포탈 생성 스크롤;5;icon_item_challengemode_scroll
 I;초기화 패키지;1;icon_item_Reset_Box
 I;클래스 변경권 Lv.4;1;icon_item_rankreset_paper
 I;킹 앤 퀸 코스튬 선택 상자;1;icon_item_Chess_box01
@@ -1009,13 +1017,13 @@ I;행운 상자;1;item_icon_luckybox_C
 I;헤어 액세서리 선택 상자: 블루 앵커;1;icon_item_acc_hair_box1
 I;확성기;106;icon_item_Mike
 I;확성기 50개 상자;1;icon_item_Mike_bundle
-I;[이벤트] 5초월 스크롤;1;icon_item_transcendence_coupon
+I;[PC방] 헤어 1회 무료 이용권;1;icon_item_HairCoupon_100_pc
 I;마법 부여 스크롤;7;icon_item_enchantScroll
 I;빛나는 은빛 모루;2;icon_item_anvil_silver
+I;빛나는 은빛 아이커 추출 키트;3;icon_item_Extractkit_Sliver
 I;프리미엄 각성석;1;icon_item_awakeningstone
 I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
-I;검정 불량 서클 교복 코스튬(여);1;icon_item_badschooluniform_black_f
 I;길티네 추종자 의복(여);1;icon_item_guilty_uniform1_f
 I;동물 인형 코스튬;1;icon_item_poporion_body_f
 I;레드 메이드 코스튬(여);1;icon_item_maiduniform_red_f
@@ -1030,6 +1038,7 @@ I;복슬복슬 북극펭귄 코스튬;1;icon_item_winter_penguin_f
 I;복실복실 황금개 코스튬;1;item_icon_gold_dog01_f
 I;붉은 불량 서클 교복 코스튬(여);1;icon_item_badschooluniform_red_f
 I;브라이드메이드 코스튬(여);1;icon_item_bridesmaid_f
+I;블랙 세일러복 코스튬(여);1;icon_item_pink_Sailor02_f
 I;블루 메이드 코스튬(여);1;icon_item_maiduniform_blue_f
 I;산타 코스튬(여);1;icon_item_2017christmas_f
 I;상어 해적단 코스튬(여);1;icon_item_cosair03_f
@@ -1037,11 +1046,14 @@ I;새내기 민트 교복 코스튬(여);1;icon_item_schooluniform03_f
 I;숲의 요정 코스튬(여);1;icon_item_leafcostume01_f
 I;스파이더 웹 코스튬(여);1;icon_item_HalloweenBat_Unifom_f
 I;슬링 비키니 코스튬(여);1;icon_item_swimsuit02_f
+I;아늑다정 북극여우 코스튬;1;icon_item_winter_fox_f
 I;아이보리 퀸 코스튬(여);1;icon_item_chessUniform01_f
 I;아이보리 폰 코스튬(여);1;icon_item_chessUniform03_f
 I;야광 해골 코스튬;1;icon_item_pumkin01_body_m
 I;야광 해골 코스튬;1;icon_item_pumkin01_body_m
 I;어사 흑단령(여);1;icon_item_inspector_uniform03_f
+I;에보니 나이트 코스튬(여);1;icon_item_chessUniform02_f
+I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
 I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
 I;위저드 스페셜 코스튬(여);1;icon_item_mage_costume01_3_f
 I;장원급제 별감복(여);1;icon_item_inspector_uniform02_f
@@ -1072,7 +1084,7 @@ I;주석;7;1_item_ore_copper
 I;토파즈;3;24_item_ore_topaz
 I;호박;50;22_item_ore_amber
 I;LV2 보물상자 열쇠;4;icon_item_key1
-I;각성 가루;60;icon_item_wakepowder
+I;각성 가루;104;icon_item_wakepowder
 I;갈고리;6;icon_item_claw_01
 I;갈록 가죽;1;icon_item_Misc_00007
 I;갈색 라프세이프 잎;21;icon_item_leaves_lapasape_brown
@@ -1084,7 +1096,7 @@ I;갈색 티니의 뿔;8;icon_item_horn_tiny_brown
 I;거적때기;10;icon_item_Misc_00009
 I;검은 드레이크의 심장;1;item_icon_heart_red
 I;검은 콜리플라이 수술;7;icon_item_stamen_colifly_black
-I;계열 코스튬 교환권;53;icon_item_exchange_costumeCoupon
+I;계열 코스튬 교환권;57;icon_item_exchange_costumeCoupon
 I;고블린 부적;11;icon_item_bubetoken
 I;고사루의 뼈;1;icon_item_bone
 I;공명용 수정;1;icon_item_Crystal_00005
@@ -1380,6 +1392,7 @@ I;호헨 가죽;5;icon_item_Misc_00011
 I;호헨 깃발 조각;2;icon_item_flag_hohen
 I;황혼 결정 파편;14;icon_item_twilightCrystal_piece
 I;희미한 별빛의 결정;2;24_item_ore_topaz
+I;[Re:Build] 기념 주화;10;icon_item_rebuild_coin
 I;뜯어진 잡초;1;icon_item_grassbladeg
 I;마석 조각;3;icon_item_gimmick_scaredcrystal
 I;귀환석;1;MercenaryBadge
@@ -1409,24 +1422,23 @@ I;짤막한 가죽 끈;8;icon_item_Leash
 I;칼레이마스 감옥의 계시;1;icon_item_stonetablet
 I;펜듈럼;1;icon_item_pendulum
 I;푸른 원혼;6;icon_item_core_04Blue
+I;풍선 : ★;1;icon_item_balloon_star
+I;풍선 : ♥;1;icon_item_3yearBallon04
+I;풍선 : 겜;1;icon_item_3yearBallon03
+I;풍선 : 고;1;icon_item_balloon_kor1
+I;풍선 : 생;1;icon_item_3yearBallon02
+I;풍선 : 세;1;icon_item_balloon_kor5
+I;풍선 : 오;1;icon_item_balloon_kor4
+I;풍선 : 트;1;icon_item_balloon_kor3
+I;풍선 : 평;1;icon_item_3yearBallon01
+I;풍선 : 혓;1;icon_item_balloon_kor2
 I;플러리 시설 부품;5;icon_item_bolt
 I;향초;1;icon_item_candle
 I;훈련용 덤벨;1;icon_item_dumbell
 I;힘을 잃은 고헤이;1;icon_item_gohei
 I;힘이 복구된 사울레의 성구;1;icon_item_crimson3
-I;풍선 : 트;1;icon_item_balloon_kor3
-I;풍선 : 오;1;icon_item_balloon_kor4
-I;풍선 : 세;1;icon_item_balloon_kor5
-I;풍선 : 고;1;icon_item_balloon_kor1
-I;풍선 : 혓;1;icon_item_balloon_kor2
-I;풍선 : ★;1;icon_item_balloon_star
-I;풍선 : 평;1;icon_item_3yearBallon01
-I;풍선 : 생;1;icon_item_3yearBallon02
-I;풍선 : 겜;1;icon_item_3yearBallon03
-I;풍선 : ♥;1;icon_item_3yearBallon04
 G;Weapon
 I;크로스보우;1;icon_item_crossbow
 I;샴시르;1;icon_item_shamshir
 I;클레이모어;1;icon_item_Sword_21
-I;마녀의 빗자루 스태프;1;icon_item_halloween_thstaff
 I;아이보리 퀸 스태프;1;icon_item_chess_staff2

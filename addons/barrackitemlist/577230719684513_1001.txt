@@ -2,19 +2,47 @@ S;1001
 G;Unused
 I;실버;100000;icon_item_silver
 G;PasteBait
-I;[PC방] 화려한 지렁이;800;icon_item_Paste_Bait2_pc
-I;보급용 미끼;608;icon_item_Paste_Bait_basic
 I;작은 은빛 물고기;6;icon_item_fish4
-G;Helmet
-I;송편 헬멧 코스튬;1;icon_item_helmet_songpyun
+G;Drug
+I;HP 회복 소형 엘릭서 ;30;icon_item_HPelixir_Small
+I;SP 회복 소형 엘릭서 ;40;icon_item_SPelixir_Small
+I;[PC방] SP 회복 소형 엘릭서 ;9;icon_item_random_spellixerbox
+I;[Re:Build] 축복이 깃든 씨앗;14;icon_item_event161215_01
+I;농축 HP포션 LV15;23;icon_item_HP_Alche
+I;농축 SP포션 LV15;3;icon_item_SP_Alche
+I;농축 이동속도 향상의 포션;60;item_speed_requid_1
+I;바루날레샤;2;icon_item_Varnalesa
+I;보급용 HP포션;99;item_HP_oil_2
+I;보급용 SP포션;99;item_SP_requid_2
+I;보급용 농축 HP포션 LV15;100;item_HP_oil_3
+I;보급용 농축 SP포션 LV15;100;item_SP_requid_3
+I;보급용 이동속도 증가 포션;2;item_speed_requid_1
+I;보급용 작은 스태미나 알약;22;item_STA_pill_1
+I;오르샤 워프 주문서;1;GolemMagicItem1
+I;이동속도 향상의 포션;1;item_speed_requid_1
+I;정착 지원 포션 Lv2;86;item_speed_requid_3
+I;클라페다 워프 주문서;15;GolemMagicItem1
+I;포포리온 고기;17;icon_item_meat_02
+I;해독제;30;icon_item_Quest_00020
+I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
+I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
+I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
+I;보급용 워프 주문서;19;GolemMagicItem1
+I;은빛 물고기;30;icon_item_fish2
+I;예식용 칼;1;icon_item_artefact_Decorative_knife
+I;클라페다 카프리콘즈 응원 슬로건;1;icon_item_aretfact_victory_purple
+I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
+I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
+I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
+I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
 G;Collection
 I;계시록: 대립편 컬렉션;1;icon_item_holyark
 I;컬렉션: 네프리타스 벼랑;1;icon_item_box
 I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
 I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
 I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
-G;Event
-I;[Re:Build] 레벨업 상자 (15레벨);1;icon_item_giftBox_2
+G;SubWeapon
+I;눈꽃 스프레이;1;icon_item_snowflower
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 G;Recipe
@@ -36,8 +64,8 @@ I;제작서-카브라 부츠;1;icon_item_boots_misc3
 I;제작서-매직 탈리스만;1;icon_item_necklace_misc3
 I;제작서-일렉투스;1;icon_item_necklace_misc4
 I;제작서-컨트롤 뱅글;1;icon_item_bracelet_misc3
-I;제작서-x8 경험의 서;3;icon_item_recipe_misc1
-I;제작서-여신의 축복석;5;icon_item_recipe_misc1
+I;제작서-x8 경험의 서;1;icon_item_recipe_misc1
+I;제작서-여신의 축복석;4;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(머스킷);2;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(석궁);2;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(양손활);3;icon_item_recipe_misc1
@@ -46,11 +74,8 @@ I;낡은 보급용 낚싯대;1;icon_item_Fishing_Rod_1
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 G;Premium
 I;긴급 수리 키트;20;icon_item_repairkit
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;소울 크리스탈;11;icon_item_soulCrystal
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;워프 주문서;30;icon_item_warpPremium
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -59,39 +84,23 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;확성기;31;icon_item_Mike
-I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
-I;에보니 나이트 코스튬(여);1;icon_item_chessUniform02_f
-I;아늑다정 북극여우 코스튬;1;icon_item_winter_fox_f
-G;Drug
-I;HP 회복 소형 엘릭서 ;30;icon_item_HPelixir_Small
-I;SP 회복 소형 엘릭서 ;40;icon_item_SPelixir_Small
-I;[PC방] SP 회복 소형 엘릭서 ;17;icon_item_random_spellixerbox
-I;농축 HP포션 LV15;23;icon_item_HP_Alche
-I;농축 SP포션 LV15;17;icon_item_SP_Alche
-I;농축 이동속도 향상의 포션;40;item_speed_requid_1
-I;바루날레샤;2;icon_item_Varnalesa
-I;보급용 이동속도 증가 포션;2;item_speed_requid_1
-I;보급용 작은 스태미나 알약;22;item_STA_pill_1
-I;오르샤 워프 주문서;1;GolemMagicItem1
-I;이동속도 향상의 포션;1;item_speed_requid_1
-I;정착 지원 포션 Lv2;57;item_speed_requid_3
-I;클라페다 워프 주문서;15;GolemMagicItem1
-I;포포리온 고기;17;icon_item_meat_02
-I;해독제;30;icon_item_Quest_00020
-I;보급용 HP포션;100;item_HP_oil_2
-I;보급용 SP포션;100;item_SP_requid_2
-I;LV2 경험치 카드;2;icon_item_expcard
-I;LV3 경험치 카드;2;icon_item_expcard
-I;LV6 경험치 카드;2;icon_item_expcard
-I;보급용 워프 주문서;19;GolemMagicItem1
-I;은빛 물고기;30;icon_item_fish2
-I;예식용 칼;1;icon_item_artefact_Decorative_knife
-I;클라페다 카프리콘즈 응원 슬로건;1;icon_item_aretfact_victory_purple
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;확성기;41;icon_item_Mike
+G;Event
+I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
 G;Armor
 I;베르타스 크라이지어스 그리브;1;icon_item_boots_kryzius
 I;크라이지어스 건틀릿;1;icon_item_gloves_kryzius
 I;크라이지어스 플레이트 팬츠;1;icon_item_pants_kryzius
+I;베르타스 즈바이더 실드;1;icon_item_shield_nicopolis1
 I;크라이지어스 플레이트 아머;1;icon_item_shirts_kryzius
 I;플라티나 메달;1;item_necklace_19
 I;노블 브레이슬릿;1;item_bracelet_03
@@ -100,22 +109,18 @@ I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
 I;자카리엘 뱅글;1;item_bracelet_10
 I;자카리엘 뱅글;1;item_bracelet_10
 I;붉은빛 플라워 헤어밴드;1;icon_item_redflowerband
-I;태양;1;icon_item_sun_acc
 I;케파 인형;1;hairacc_48_cepadoll
-I;탐험가용 큰 붉은꽃 머리장식;1;hairacc_hat072
+I;태양;1;icon_item_sun_acc
 I;큰 흰꽃 머리장식;1;hairacc_hat071
-I;하카펠 코스튬;1;icon_item_hakapalle_f
+I;탐험가용 큰 붉은꽃 머리장식;1;hairacc_hat072
 I;펠타스타 코스튬;1;icon_item_Peltasta_f
+I;하카펠 코스튬;1;icon_item_hakapalle_f
 G;Material
+I;[Re:Build] 빛나는 황금 모루;1;icon_item_anvil_gold
 I;모루;21;icon_item_anvil
 I;황금 모루;2;icon_item_anvil_gold
-I;아틸로늄;11;18_item_plantite
-I;안데슘;16;icon_item_crystal_red
-I;울스터마이트;4;item_icon_teraingot
-I;이오니움;14;icon_item_crystal_yellow
+I;실드 차저;5;icon_item_ShieldCharge
 I;주석;4;1_item_ore_copper
-I;펠트레민;6;item_icon_pideingot
-I;피데슘;13;5_item_ore_fluorite
 I;LV2 보물상자 열쇠;1;icon_item_key1
 I;거대한 갈고리;9;icon_item_claw_01
 I;그루머 잎;6;icon_item_leaves_green
@@ -154,7 +159,6 @@ I;치넨시 잎;1;icon_item_bokchoyleaf
 I;케파 줄기;16;icon_item_stem_green
 I;코도모르 가시;1;icon_item_thorn_blue
 I;코릴러스의 뿔;3;icon_item_pantohorn
-I;테라늄;19;36_item_ore_lapis_philosophorum
 I;톤투리아의 가시;2;icon_item_thorn_Yellow
 I;판토족의 뿔;10;icon_item_pantohorn
 I;포쿠부 가죽;4;icon_item_Misc_00011

@@ -10,7 +10,7 @@ I;발래리요나스;1;icon_item_Valerijonas
 I;바루날레샤;12;icon_item_Varnalesa
 I;해독제;8;icon_item_Quest_00020
 I;매두스;12;icon_item_Medus
-I;HP포션;2;item_HP_oil_2
+I;HP포션;1;item_HP_oil_2
 I;오르샤 워프 주문서;11;GolemMagicItem1
 I;클라페다 워프 주문서;12;GolemMagicItem1
 I;딸기;15;icon_item_Strawberry
@@ -124,20 +124,6 @@ G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
-G;Armor
-I;사우시스 글로브;1;icon_item_gloves_skull
-I;부베 투사 건틀릿;1;icon_item_gloves_bubewarrior
-I;프리머스 제베넬리스 레더 팬츠;1;icon_item_leather_pants_1
-I;밥그릇;1;icon_item_ricebowl
-I;태양;1;icon_item_sun_acc
-I;잠자는 표범;1;icon_item_sleeping_leopard
-I;밥그릇;1;icon_item_ricebowl
-I;태양;1;icon_item_sun_acc
-I;밥그릇;1;icon_item_ricebowl
-I;태양;1;icon_item_sun_acc
-I;엑소시스트 코스튬;1;icon_item_Exorcist01_f
-I;딥디르비 코스튬;1;icon_item_dievdirbys_f
-I;진저브레드 실드;1;icon_item_winter_shield
 G;Material
 I;모루;8;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
@@ -146,10 +132,10 @@ I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;파이라이트;17;32_item_ore_pyrite
 I;크리오라이트;7;39_icon_item_Cry8rite
-I;성수;437;icon_item_holywater
+I;성수;430;icon_item_holywater
 I;괴황지;4336;icon_item_guehwangji
 I;홀리 파우더;470;icon_item_powderw
-I;조각용 나무;211;icon_item_wood_5
+I;조각용 나무;163;icon_item_wood_5
 I;주석;6;1_item_ore_copper
 I;호박;12;22_item_ore_amber
 I;압시듐 광석;4;8_item_ore_platinum
@@ -362,5 +348,17 @@ I;마력이 가득찬 오브;1;icon_item_orb_1
 I;푸른 빛이 깃든 날개;1;icon_item_misc04_42
 I;석회 가루;40;icon_item_powderw
 I;독특한 산호 조각;1;icon_item_coral
-G;Weapon
-I;프리머스 라파이 투 핸드 메이스;1;icon_item_mace_twohand_lapai
+G;Armor
+I;사우시스 글로브;1;icon_item_gloves_skull
+I;부베 투사 건틀릿;1;icon_item_gloves_bubewarrior
+I;프리머스 제베넬리스 레더 팬츠;1;icon_item_leather_pants_1
+I;밥그릇;1;icon_item_ricebowl
+I;태양;1;icon_item_sun_acc
+I;잠자는 표범;1;icon_item_sleeping_leopard
+I;밥그릇;1;icon_item_ricebowl
+I;태양;1;icon_item_sun_acc
+I;밥그릇;1;icon_item_ricebowl
+I;태양;1;icon_item_sun_acc
+I;엑소시스트 코스튬;1;icon_item_Exorcist01_f
+I;딥디르비 코스튬;1;icon_item_dievdirbys_f
+I;진저브레드 실드;1;icon_item_winter_shield
