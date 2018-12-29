@@ -14,6 +14,7 @@
 	<HotKey ID="Pose" Name="매크로" DownScp="UI_TOGGLE_POSE_MACRO()" UpScp="None" Key="F8" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="System"/>
 	<HotKey ID="FriendShip" Name="컴패니언" DownScp="UI_TOGGLE_PETLIST()" UpScp="None" Key="F9" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="System"/>
 	<HotKey ID="DungeonInfo" Name="던전 정보" DownScp="UI_TOGGLE_INDUN()" UpScp="None" Key="F10" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="System"/>
+	<HotKey ID="Collection" Name="컬렉션" DownScp="UI_TOGGLE_COLLECTION()" UpScp="None" Key="F11" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="System"/>
 	<HotKey ID="QuestItemUse" Name="퀘스트아이템 사용" DownScp="QUESTITEMUSE_EXECUTE()" UpScp="None" Key="V" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
 	<HotKey ID="Worldmap" Name="월드맵" DownScp="UI_TOGGLE_WORLDMAP()" UpScp="None" Key="N" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
 	<HotKey ID="Map" Name="맵" DownScp="UI_TOGGLE_MAP()" UpScp="None" Key="M" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
