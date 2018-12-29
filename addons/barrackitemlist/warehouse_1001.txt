@@ -1,0 +1,47 @@
+S;1001
+C;1
+C;577685986214055
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;롱 보우;1;bow_longbow
+I;샴시르;1;icon_item_shamshir
+I;셀프 보우;1;icon_item_selfbow
+I;쥬 스태프;1;icon_item_yew_staff
+I;카스카라;1;icon_item_Sword_24
+I;케인 로버;1;icon_item_callow_cane
+I;체인 부츠;1;icon_item_boots_chain
+I;레드 젬;Lv1;item_icon_circle150
+I;카이트 실드;1;icon_item_Shield_9
+I;노블 브레이슬릿;1;item_bracelet_03
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;그린 젬;Lv1;item_icon_Dia150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;레드 젬;Lv2;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;블루 젬;Lv1;item_icon_Square150
