@@ -1,0 +1,27 @@
+S;1001
+G;Unused
+I;실버;100000;icon_item_silver
+G;Collection
+I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
+G;Armor
+I;우든 실드;1;icon_item_Shield_7
+I;어쌔신 리즈다스 플레저;1;icon_item_scoutCos_assa01_f
+G;Drug
+I;보급용 작은 HP포션;128;item_HP_oil_1
+I;보급용 작은 SP포션;126;item_SP_requid_1
+I;보급용 작은 스태미나 알약;23;item_STA_pill_1
+I;보급용 이동속도 증가 포션;3;item_speed_requid_1
+I;보급용 워프 주문서;10;GolemMagicItem1
+G;Material
+I;하나밍 꽃잎;1;icon_item_HanamingPetal
+I;잎방개의 껍질;2;icon_item_shell_green
+I;케파 줄기;3;icon_item_stem_green
+I;치넨시 잎;5;icon_item_bokchoyleaf
+I;플로르;3;icon_item_crystal_green
+I;레지네이트;1;16_item_treenite
+I;귀환석;1;MercenaryBadge
+G;SubWeapon
+I;연습용 크리스 대거;1;icon_item_f_dagger_kreive
+I;연습용 피스톨;1;icon_item_chassepot_1
+G;Weapon
+I;오래된 글라디우스;1;icon_item_Sword_22

@@ -1,0 +1,25 @@
+S;1001
+G;Recipe
+I;제작서-아라스의 폴쳔;1;icon_item_weapon_misc3
+G;Unused
+I;실버;100000;icon_item_silver
+G;Collection
+I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
+G;Drug
+I;보급용 작은 HP포션;128;item_HP_oil_1
+I;보급용 작은 SP포션;126;item_SP_requid_1
+I;보급용 작은 스태미나 알약;23;item_STA_pill_1
+I;보급용 이동속도 증가 포션;3;item_speed_requid_1
+I;보급용 워프 주문서;10;GolemMagicItem1
+G;Material
+I;치넨시 잎;1;icon_item_bokchoyleaf
+I;케파 줄기;7;icon_item_stem_green
+I;인프로 락터의 껍질;3;icon_item_shell
+I;[Re:Build] 기념 주화;11;icon_item_rebuild_coin
+I;하나밍 꽃잎;3;icon_item_HanamingPetal
+I;귀환석;1;MercenaryBadge
+G;SubWeapon
+I;연습용 피스톨;1;icon_item_chassepot_1
+G;Armor
+I;우든 실드;1;icon_item_Shield_7
+I;아웃로 더크더즈;1;icon_item_scoutCos_outlaw01_f

@@ -1,0 +1,267 @@
+S;1001
+G;Unused
+I;실버;100000;icon_item_silver
+G;Drug
+I;해독제;3;icon_item_Quest_00020
+I;보급용 이동속도 증가 포션;2;item_speed_requid_1
+I;붉은 케파 조각;2;OnionPiece_Red
+I;보급용 작은 HP포션;112;item_HP_oil_1
+I;보급용 작은 SP포션;225;item_SP_requid_1
+I;보급용 작은 스태미나 알약;25;item_STA_pill_1
+I;포포리온 고기;8;icon_item_meat_02
+I;바루날레샤;1;icon_item_Varnalesa
+I;농축 HP포션 LV15;6;icon_item_HP_Alche
+I;폭죽;25;icon_item_firework
+I;아비에테;1;icon_item_Aviete
+I;케이스타스 회복포션Lv4;3;item_HPSP_potion_3
+I;농축 SP포션 LV15;5;icon_item_SP_Alche
+I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
+I;SP 회복 소형 엘릭서 ;9;icon_item_SPelixir_Small
+I;보급용 HP포션;100;item_HP_oil_2
+I;보급용 SP포션;100;item_SP_requid_2
+I;보급용 큰 HP포션;100;item_HP_oil_3
+I;보급용 큰 SP포션;100;item_SP_requid_3
+I;파편 단지;30;icon_item_potb
+I;보급용 워프 주문서;7;GolemMagicItem1
+I;LV14 경험치 카드;55;icon_item_expcard
+I;디스펠러;10;icon_item_grimoire_blue
+G;SubWeapon
+I;(바랜)스몰 크리스타라스;1;icon_item_dagger_cristal
+I;카라챠 대거;1;icon_item_choora
+G;Book
+I;찢어진 일기의 일부 2;1;icon_item_paperpiece
+I;찢어진 일기의 일부 1;1;icon_item_paperpiece
+I;낡은 일기;1;icon_item_collection_04Black
+I;타다 만 일지를 적은 메모;1;icon_item_paperpiece
+I;장교 일지 상편;1;icon_item_collection_02green
+I;버려진 일기장;1;icon_item_collection_00Basic
+I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
+I;자카리엘 왕의 사초;1;icon_item_collection_01Red
+I;순례자의 쪽지;1;icon_item_Paper1
+G;Recipe
+I;제작서-비르토브 글로브;1;icon_item_gloves_misc4
+I;제작서-실버 플레이트 건틀릿;1;icon_item_gloves_misc3
+I;제작서-레이드 포탈 스톤;1;icon_item_recipe_misc1
+G;Collection
+I;컬렉션: 쿨레 고개;1;icon_item_box
+I;컬렉션: 스팔빈가스 숲;1;icon_item_box
+I;컬렉션: 제로멜 공원;1;icon_item_box
+I;컬렉션: 티메리스 사원;1;icon_item_box
+I;컬렉션: 요나엘 기념구;1;icon_item_box
+I;컬렉션: 라다르 숲;1;icon_item_box
+I;컬렉션: 도심성벽 제 8구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 2구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 5구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 4구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 1구역;1;icon_item_box
+I;컬렉션: 레타스 개울가;1;icon_item_box
+I;컬렉션: 타니엘 1세 기념구;1;icon_item_box
+I;컬렉션: 지부리나스 숲;1;icon_item_box
+I;컬렉션: 알렘빅 동굴;1;icon_item_box
+I;컬렉션: 노브리어 숲;1;icon_item_box
+I;컬렉션: 유데이안 숲;1;icon_item_box
+I;컬렉션: 몰로게오 숲;1;icon_item_box
+I;컬렉션: 피스티스 숲;1;icon_item_box
+I;컬렉션: 에메트 숲;1;icon_item_box
+I;컬렉션: 실라 숲;1;icon_item_box
+I;컬렉션: 아르커스 숲;1;icon_item_box
+I;컬렉션: 파마르 숲;1;icon_item_box
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 왕릉 건축자 예배당;1;icon_item_box
+I;컬렉션: 왕릉 노역자 숙소;1;icon_item_box
+I;컬렉션: 긴다리 계곡;1;icon_item_box
+I;컬렉션: 람스티스 협곡;1;icon_item_box
+I;컬렉션: 사크니스 벌판;1;icon_item_box
+I;컬렉션: 드바시아 고개;1;icon_item_box
+I;컬렉션: 틸타스 협곡;1;icon_item_box
+G;Armor
+I;네크로맨서 코스튬;1;icon_item_necromancer_f
+I;알케미스트 코스튬;1;icon_item_Alchemist_f
+I;룬캐스터 코스튬;1;icon_item_mage_runecaster_f
+G;Material
+I;모루;6;icon_item_anvil
+I;황금 모루;3;icon_item_anvil_gold
+I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
+I;파이라이트;4;32_item_ore_pyrite
+I;크리오라이트;7;39_icon_item_Cry8rite
+I;마법 가루;5;icon_item_MagicPowder
+I;시간의 결정 파편;549;icon_item_spacepiece
+I;빈 스펠북;18;icon_item_emptySpellBook
+I;룬 스톤;833;icon_item_rune_stone_board
+I;시간의 결정;97;icon_item_timespace
+I;주석;2;1_item_ore_copper
+I;호박;6;22_item_ore_amber
+I;마이즈 포자 주머니;3;icon_item_maizespore
+I;룩소돈 고기;7;icon_item_meat_02
+I;얼타눈 깃털;2;icon_item_feather_03Green
+I;케파 줄기;7;icon_item_stem_green
+I;치넨시 잎;4;icon_item_bokchoyleaf
+I;인프로 락터의 껍질;4;icon_item_shell
+I;비토우 더듬이;4;icon_item_feeler_yellow
+I;부베족의 증표;31;icon_item_bubetoken
+I;LV2 보물상자 열쇠;2;icon_item_key1
+I;말라두의 고기;32;icon_item_meat_02
+I;씨드미아 씨앗;2;icon_item_seed_brown
+I;위버 더듬이;12;icon_item_feeler_black
+I;잎방개의 껍질;5;icon_item_shell_green
+I;부베 활대;2;icon_item_bubebow
+I;츄파카브라 이빨;9;icon_item_tooth_white
+I;츄파카브라 가죽;1;icon_item_Misc_00007
+I;요노움의 핵;38;icon_item_core_purple
+I;글리자돈의 뼈;3;icon_item_bone
+I;수정거미 더듬이;15;icon_item_feeler_blue
+I;에큐바이트 더듬이;6;icon_item_feeler_purple
+I;그루머 잎;6;icon_item_leaves_green
+I;지그너츠 줄기;5;icon_item_zignuts
+I;판토족의 뿔;20;icon_item_pantohorn
+I;메로그의 심장;5;item_icon_heart_yellow
+I;유코푸스 잎;17;icon_item_leaves_blue
+I;포쿠부 가죽;4;icon_item_Misc_00011
+I;카로 잎사귀;5;icon_item_leaves_green
+I;코릴러스의 뿔;10;icon_item_pantohorn
+I;작은 마족의 뿔;5;icon_item_pantohorn
+I;밴시의 사념체;3;icon_item_spirit_orange
+I;식칼;8;icon_item_knife01
+I;거대한 갈고리;11;icon_item_claw_01
+I;박쥐의 날개;12;icon_item_batwing
+I;스톤오르카의 핵;18;icon_item_core_yellow
+I;이노움의 핵;8;icon_item_core_purple
+I;페이그 헝겊;1;icon_item_clothpiece_brown
+I;떡갈나무;6;icon_item_wood_1
+I;그롤의 뿔;2;icon_item_shorthorn
+I;리자드맨 송곳니;2;icon_item_canine
+I;케포 솜털;7;icon_item_cotton
+I;포쿠본 가죽;7;icon_item_Misc_00009
+I;인프로 블러드 줄기;1;icon_item_stem_gray
+I;스타울리트 심장;4;item_icon_heart_red
+I;삼나무;3;icon_item_wood_4
+I;소나무;14;icon_item_wood_3
+I;물푸레나무;11;icon_item_wood_2
+I;사막 츄파카브라 고기;3;icon_item_meat_01
+I;타마의 껍질;1;icon_item_tamashell
+I;마우로스의 핵;3;icon_item_core_yellow
+I;부우크의 핵;2;icon_item_core_yellow
+I;노란 게이징 골렘의 핵;6;icon_item_core_yellow
+I;주술인형의 핵;1;icon_item_core_red
+I;아모리 판금;3;icon_item_ironbar03_s
+I;메다키아의 뿔;1;pokubu_horn
+I;웬디고 이빨;8;icon_item_tooth_white
+I;신나바르;1;35_item_ore_phlogiston
+I;램베어 뼈;1;icon_item_bone
+I;라우지누테의 껍질;3;icon_item_shell_red
+I;톤투리아의 가시;1;icon_item_thorn_Yellow
+I;크로마독 뼈;7;icon_item_bone
+I;사크몰리 줄기;1;icon_item_stem_gray
+I;레푸스버니 털;5;icon_item_fur_05Gray
+I;호글란 부리;2;icon_item_small_bag
+I;투켄의 껍질;2;icon_item_shell_purple
+I;하이 부베족의 증표;1;icon_item_bubetoken
+I;갈고리;2;icon_item_claw_01
+I;시스트 가시;1;icon_item_thorn_green
+I;쉬타임 파편;7;icon_item_Misc_00004
+I;노란 요노움의 핵;4;icon_item_core_yellow
+I;코카트의 심장;1;item_icon_heart_purple
+I;케포 껍질;6;icon_item_onionpiece
+I;족쇄;9;icon_item_legiron
+I;체이퍼러의 날개;3;icon_item_bugwing
+I;인프로 버크의 껍질;3;icon_item_shell_red
+I;멜라타눈 심장;2;item_icon_heart_yellow
+I;사우가의 핵;6;icon_item_core_yellow
+I;할로우벤터의 손뼈;2;icon_item_bone
+I;검은 주술인형의 핵;1;icon_item_core_yellow
+I;도요르 잎다발;1;icon_item_doyorleaf
+I;호그마 엄니;3;icon_item_tooth_white
+I;카라스 파편;5;icon_item_Misc_00006
+I;루바보스 가죽;2;icon_item_Misc_00010
+I;붉은 빅 그리바 갓;1;icon_item_mushroomcap
+I;그리바 줄기;2;icon_item_stem_yellow
+I;베카라베의 껍질;2;icon_item_shell_yellow
+I;하얀 스피온 털;2;icon_item_fur_spion_white
+I;코카트리스 가죽;1;icon_item_Misc_00012
+I;푸른 듀마로의 발톱;3;icon_item_claw_00Basic
+I;티켄의 뼈;6;icon_item_bone
+I;데스모두스 이빨;1;icon_item_tooth_yellow
+I;피라콘 잎;1;icon_item_leaves_red
+I;코도모르 가시;5;icon_item_thorn_blue
+I;츄파루카 털;1;icon_item_fur_05Gray
+I;지누테의 껍질;8;icon_item_shell_blue
+I;멜리치 껍질;2;icon_item_shell_yellow
+I;묘지 골렘의 핵;3;icon_item_core_blue
+I;하나밍 꽃잎;132;icon_item_HanamingPetal
+I;노란 이노움의 핵;1;icon_item_core_yellow
+I;단델의 날개;5;icon_item_batwing
+I;제페토의 줄기;3;icon_item_stem_brown
+I;콜리플라워의 줄기;1;icon_item_stem_brown
+I;유황;1;37_item_ore_sulfur
+I;비카라스의 핵;3;icon_item_core_yellow
+I;낚시대;1;icon_item_fishingrod
+I;에하드의 핵;1;icon_item_core_yellow
+I;베스퍼의 무게추;1;icon_item_ballast
+I;인프로 홀더의 뼈;1;icon_item_bone
+I;메슘의 줄기;1;icon_item_stem_brown
+I;붉은 티켄의 뿔;3;icon_item_horn_ticen_red
+I;노란 듀마로의 발톱;2;icon_item_tooth_00Basic
+I;푸른 레푸스버니의 뼈;2;icon_item_bone
+I;갈색 누카 갑옷 파편;3;icon_item_PhantomKnight_shield
+I;붉은 수호 거미의 눈;1;icon_item_eye_defenderSpider_red
+I;붉은 스피온 털;1;icon_item_fur_spion_red
+I;초록 티니 꼬리;3;icon_item_tail_tiny_green
+I;갈색 티니의 뼈;1;icon_item_bone
+I;초록 미노스의 털;2;icon_item_fur_02Green
+I;암몬 등뼈;1;icon_item_bone
+I;벨리글러 깃털;1;icon_item_feather_03Green
+I;리플라이 날개;1;icon_item_bugwing
+I;소켓의 껍질;2;icon_item_shell_blue
+I;엘로마고 잎;1;icon_item_leaves_blue
+I;인프로 락터의 뼈;1;icon_item_bone
+I;우펜트의 껍질;2;icon_item_Misc_00015
+I;누덕고치의 껍질;1;icon_item_shell_blue
+I;지푸라기;1;icon_item_leaves_yellow
+I;누덕새 날개;1;icon_item_batwing
+I;플로래비 솜털;5;icon_item_fur_spion_white
+I;플로론의 잎;2;icon_item_leaf
+I;버드니의 잎;2;icon_item_leaf
+I;나무 말뚝;3;icon_item_wood_3
+I;돌;1;icon_item_Misc_00004
+I;로데나콩 솜털;3;icon_item_fur_00White
+I;락콘의 핵;2;38_item_ore_mercury
+I;덴옵틱의 눈;1;icon_item_Velorb
+I;사막 츄파카브라 가죽;1;icon_item_Misc_00008
+I;트리굴 줄기;4;icon_item_stem_brown
+I;미끈한 수액;1;icon_item_Drug_51021
+I;쿠게리의 천조각;4;icon_item_clothpiece_white
+I;포탈 스톤;124;icon_item_portalstone
+I;트리피드 가시;1;icon_item_thorn_green
+I;귀환석;1;MercenaryBadge
+G;Quest
+I;일회용 시약병;1;icon_item_Quest_00020
+I;파괴용 주술인형 소환서;1;GolemMagicItem1
+I;의식용 밧줄;1;icon_item_tentaclel
+I;수정광산의 계시;1;icon_item_stonetablet
+I;보주 결정;2;icon_item_EvilEnergy_Powder
+I;야네의 주술인형;1;icon_item_strawdoll2
+I;비상 동력장치;1;icon_item_Ore_00009
+I;향이 강한 영혼의 꽃;1;icon_item_Jonazole
+I;공간의 문장;1;icon_item_void_01
+I;테넷 성당의 계시;1;icon_item_stonetablet
+I;순례자의 표식;31;neck_pilgrim_01
+I;루클리스 시대의 기록;4;icon_item_stonepaper_01
+I;세이지 마스터의 편지;1;icon_item_loveletter
+I;스텔라의 묵주;1;icon_item_rosario
+I;드루이드 마스터의 답장;1;icon_item_loveletter
+I;지나 그린의 증서;1;Siaul_Act3_Confirmation
+I;영험한 가루;1;icon_item_sesami
+I;헝겊인형 조각;10;icon_item_strawdoll2
+I;마력 추적지도 : 테브린 종유동 1구역;1;GolemMagicItem1
+I;제거티 여신의 수정;1;14_item_ithildin
+I;왕의 목소리 영약;1;item_HPSP_potion_3
+I;오래된 기름주머니;1;icon_item_spirit_orange
+I;영기가 흐르는 돌;5;icon_item_Gem_Stone_CON
+I;오래된 기둥 조각;3;icon_item_statuepiece
+I;작은 돌 조각;1;icon_item_Misc_00004
+I;고고학자의 징표;1;neck_pilgrim_02
+G;Premium
+I;소울 크리스탈;15;icon_item_soulCrystal
+I;워프 주문서;15;icon_item_warpPremium
+I;확성기;15;icon_item_Mike
+I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f

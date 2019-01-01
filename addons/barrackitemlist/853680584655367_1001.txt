@@ -1,0 +1,23 @@
+S;1001
+G;Unused
+I;실버;100000;icon_item_silver
+G;Collection
+I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
+G;Armor
+I;아웃로 더크더즈;1;icon_item_scoutCos_outlaw01_f
+G;Drug
+I;보급용 작은 HP포션;124;item_HP_oil_1
+I;보급용 작은 SP포션;126;item_SP_requid_1
+I;보급용 작은 스태미나 알약;23;item_STA_pill_1
+I;보급용 이동속도 증가 포션;3;item_speed_requid_1
+G;Material
+I;하나밍 꽃잎;4;icon_item_HanamingPetal
+I;인프로 락터의 껍질;2;icon_item_shell
+I;잎방개의 껍질;2;icon_item_shell_green
+I;케파 줄기;2;icon_item_stem_green
+I;치넨시 잎;1;icon_item_bokchoyleaf
+I;귀환석;1;MercenaryBadge
+G;SubWeapon
+I;연습용 피스톨;1;icon_item_chassepot_1
+G;Weapon
+I;오래된 글라디우스;1;icon_item_Sword_22
