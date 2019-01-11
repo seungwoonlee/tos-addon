@@ -24,6 +24,7 @@ I;복숭아;16;icon_item_Peach
 I;살라위야스;1;icon_item_Salavijas
 I;송이버섯;1;icon_item_Pinemushroom
 I;스태미나 알약;8;item_STA_pill_2
+I;아말라스;3;icon_item_Amalas
 I;아비에테;44;icon_item_Aviete
 I;얼음 속성 저항력 포션;1;icon_item_Seed_SP1
 I;오르샤 워프 주문서;9;GolemMagicItem1
@@ -34,11 +35,10 @@ I;케이스타스 수호의 포션;2;icon_item_Drug_exDEF1
 I;큰 스태미나 알약;10;item_STA_pill_3
 I;클라페다 워프 주문서;11;GolemMagicItem1
 I;폭죽;35;icon_item_firework
-I;아말라스;3;icon_item_Amalas
-I;LV14 경험치 카드;41;icon_item_expcard
-I;레드 오브:트리암불로;1;icon_item_Dreamshade_red
 I;LV10 경험치 카드;2;icon_item_expcard
 I;LV13 경험치 카드;7;icon_item_expcard
+I;LV14 경험치 카드;41;icon_item_expcard
+I;레드 오브:트리암불로;1;icon_item_Dreamshade_red
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;그을린 실마리;1;icon_item_PILGRIM_PIECE
@@ -102,25 +102,32 @@ I;컬렉션: 틸타스 협곡;1;icon_item_box
 I;컬렉션: 파마르 숲;1;icon_item_box
 I;컬렉션: 피스티스 숲;1;icon_item_box
 G;Premium
+I;몬스터 젬 선택 상자: 직업;1;icon_item_jewelrybox_close
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
-I;몬스터 젬 선택 상자: 직업;1;icon_item_jewelrybox_close
-I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 I;궁수용 심플 컬러 코스튬(여);1;archer_simplecolor_f
+I;궁수용 파티 드레스 코스튬(여);1;icon_item_archer_bluepeacock_f
+I;궁수의 제복 코스튬(여);1;icon_item_archer_uniform_f
+I;궁수의 매니시룩 코스튬(여);1;icon_item_archer_manish_f
+I;궁수의 세일러복 코스튬(여);1;icon_item_archer_schoolsalor_f
+I;궁수의 너구리 코스튬(여);1;icon_item_archer_racoon_f
+I;궁수의 스쿨룩 코스튬(여);1;icon_item_archer_school_f
+I;초대에 응한 자 코스튬(여);1;icon_item_blacksuit01_f
 I;쿼렐슈터 스페셜 코스튬(여);1;icon_item_archer_quarreelshooter01_3_f
+I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
+I;궁수의 수영복 코스튬(여);1;icon_item_archer_mizuki_f
+I;하급 용병 코스튬(여);1;icon_item_lowtactic01_f
 G;Armor
-I;이스턴 레더 글로브;1;icon_item_eastengarden_gloves
-I;크라이지어스 플레이트 팬츠;1;icon_item_pants_kryzius
 I;감정사 코스튬;1;icon_item_appraiser_f
 I;쿼렐슈터 코스튬;1;icon_item_quarrelshooter_f
+I;캐노니어 코스튬;1;icon_item_archer_cannoneer_f
 G;Material
 I;모루;17;icon_item_anvil
 I;황금 모루;3;icon_item_anvil_gold
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;빛나는 3성 젬 연마제;3;icon_item_powderp
 I;돌 탄환;9;icon_item_Misc_00001
 I;크리오라이트;17;39_icon_item_Cry8rite
 I;파이라이트;47;32_item_ore_pyrite
@@ -147,6 +154,7 @@ I;노란 게이징 골렘의 핵;3;icon_item_core_yellow
 I;노란 그리바 줄기;3;icon_item_stem_yellow
 I;노란 요노움의 핵;1;icon_item_core_yellow
 I;노란 이노움의 핵;4;icon_item_core_yellow
+I;노란 파이란 날개;4;icon_item_batwing
 I;단델의 날개;98;icon_item_batwing
 I;대리석 파편;6;icon_item_Misc_00005
 I;더키 가죽;11;icon_item_Misc_00010
@@ -198,6 +206,7 @@ I;부베 활대;3;icon_item_bubebow
 I;부베족의 증표;9;icon_item_bubetoken
 I;붉은 소켓의 뿔;2;icon_item_horn_socket_red
 I;붉은 스피온 털;1;icon_item_fur_spion_red
+I;붉은 슬라임의 핵;4;38_item_ore_mercury
 I;붉은 인프로 락터의 껍질;7;icon_item_shell
 I;블롬의 잎;2;icon_item_leaves_green
 I;비카라스의 핵;2;icon_item_core_yellow
@@ -288,11 +297,10 @@ I;호그마 엄니;6;icon_item_tooth_white
 I;호그마 전투대장 송곳니;1;icon_item_tooth_00Basic
 I;회색 스타울리트 힘줄;6;icon_item_Leash
 I;희미한 별빛의 결정;2;24_item_ore_topaz
-I;노란 파이란 날개;4;icon_item_batwing
-I;붉은 슬라임의 핵;4;38_item_ore_mercury
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;가시숲의 계시;1;icon_item_stonetablet
+I;거대 마력원;12;icon_item_Gem_Stone_INT
 I;공간의 문장;1;icon_item_void_01
 I;끈적이는 체액;8;item_HPSP_potion_2
 I;단서 메모;1;icon_item_diary
@@ -322,11 +330,6 @@ I;칼레이마스 감옥의 계시;1;icon_item_stonetablet
 I;테넷 성당의 계시;1;icon_item_stonetablet
 I;펜듈럼;1;icon_item_pendulum
 I;푸른 원혼;1;icon_item_core_04Blue
-I;거대 마력원;12;icon_item_Gem_Stone_INT
 G;Weapon
-I;스타 슈터;1;icon_item_crossbow_tristar
-I;라파이 보우;1;icon_item_bow_lapai
 I;캐논;1;cannon_canon
-I;프리머스 라파이 캐논;1;icon_item_cannon_lapai
-I;프리머스 즈바이더 캐논;1;icon_item_cannon_nicopolis1
 I;달 토끼 캐논;1;icon_item_MoonRabbit_cannon

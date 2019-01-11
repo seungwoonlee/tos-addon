@@ -9,8 +9,8 @@ I;SP 회복 소형 엘릭서 ;20;icon_item_SPelixir_Small
 I;고농축 HP포션;145;item_HP_oil_3
 I;고농축 SP포션;117;item_SP_requid_3
 I;긴급 수리 키트;11;icon_item_repairkit
-I;농축 HP포션 LV15;28;icon_item_HP_Alche
-I;농축 SP포션 LV15;30;icon_item_SP_Alche
+I;농축 HP포션 LV15;23;icon_item_HP_Alche
+I;농축 SP포션 LV15;24;icon_item_SP_Alche
 I;누켈라;1;icon_item_Nukela
 I;대형 HP포션;5;item_HP_oil_3
 I;대형 SP포션;3;item_SP_requid_3
@@ -50,9 +50,6 @@ I;은빛 물고기;16;icon_item_fish2
 I;디스펠러;17;icon_item_grimoire_blue
 I;예식용 칼;1;icon_item_artefact_Decorative_knife
 I;종이상자;1;icon_item_paperbox
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
 G;SubWeapon
 I;버블스틱;1;icon_item_artefact_bublestick
 I;좌절 깃발;1;OTL_flag
@@ -129,6 +126,11 @@ I;제작서-에멘가드 실드;9;icon_item_shirts_misc5
 I;제작서-페디미안 레더 부츠;1;icon_item_boots_misc1
 I;제작서-페디미안 레더 아머;1;icon_item_shirts_misc1
 I;제작서-페디미안 아머;1;icon_item_shirts_misc1
+I;제작서-테라리온;1;icon_item_necklace_misc4
+I;제작서-매듭진 암밴드;1;icon_item_recipe_misc1
+I;제작서-스트랭스 팬던트;1;icon_item_necklace_misc3
+I;제작서-컨트롤 뱅글;1;icon_item_bracelet_misc3
+I;제작서-매직 탈리스만;1;icon_item_necklace_misc3
 I;제작서-x4 경험의 서;1;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(레이피어);2;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(로드);2;icon_item_recipe_misc1
@@ -199,22 +201,12 @@ I;몬스터 젬 선택 상자: 직업;1;icon_item_jewelrybox_close
 I;소울 크리스탈;14;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
-G;Armor
-I;부베 투사 건틀릿;1;icon_item_gloves_bubewarrior
-I;스틸 네클리스;1;item_necklace_10
-I;아그니 네클리스;1;item_necklace_21
-I;도사 코스튬;1;icon_item_daoshi_f
-I;섀도우맨서 루너하이더 코스튬;1;icon_item_mage_shadowmancer04_f
-I;섀도우맨서 선하이더 코스튬;1;icon_item_mage_shadowmancer02_f
-I;엘리멘탈리스트 코스튬;1;icon_item_warrock_f
-I;파이로맨서 코스튬;1;icon_item_pyromancer_f
 G;Material
 I;모루;14;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;괴황지;912;icon_item_guehwangji
+I;괴황지;603;icon_item_guehwangji
 I;성수;2;icon_item_holywater
 I;크리오라이트;17;39_icon_item_Cry8rite
-I;파이라이트;1;32_item_ore_pyrite
 I;사파이어;1;39_icon_item_Cry8rite
 I;압시듐 광석;32;8_item_ore_platinum
 I;LV1 대지의 파편;2;icon_item_Gem_Stone_CON
@@ -230,6 +222,7 @@ I;검은 드레이크의 심장;4;item_icon_heart_red
 I;검은 샤드스태튜 날개;8;icon_item_batwing
 I;검은 주술인형의 핵;10;icon_item_core_yellow
 I;검은 콜리플라이 수술;2;icon_item_stamen_colifly_black
+I;[Re:Build] 기념 주화;10;icon_item_rebuild_coin
 I;고블린 부적;6;icon_item_bubetoken
 I;고사루의 뼈;2;icon_item_bone
 I;공명용 수정;1;icon_item_Crystal_00005
@@ -286,7 +279,7 @@ I;록타눈 깃털;12;icon_item_feather_00Basic
 I;론도 껍질;16;icon_item_shell_blue
 I;롬펠누카의 가죽;1;icon_item_Misc_00008
 I;루바보스 가죽;5;icon_item_Misc_00010
-I;리디메드 줄기;20;icon_item_stem_gray
+I;리디메드 줄기;21;icon_item_stem_gray
 I;리자드맨 뼈;17;icon_item_bone
 I;리자드맨 송곳니;11;icon_item_canine
 I;리프넛의 뿔;2;icon_item_shorthorn
@@ -420,7 +413,7 @@ I;초록 플라메의 부서진 지팡이;19;icon_item_staff_mid
 I;초록 플라메의 지팡이;1;icon_item_misc04_51
 I;초록 플라밀의 무기조각;6;icon_item_small_bag
 I;초록 호헨 갈기;31;icon_item_mane_hohen_green
-I;츄파루카 털;7;icon_item_fur_05Gray
+I;츄파루카 털;8;icon_item_fur_05Gray
 I;츄파카브라 가죽;2;icon_item_Misc_00007
 I;츄파카브라 이빨;6;icon_item_tooth_white
 I;카라스 파편;1;icon_item_Misc_00006
@@ -520,6 +513,9 @@ I;테넷 성당의 계시;1;icon_item_stonetablet
 I;펜듈럼;1;icon_item_pendulum
 I;휠렌의 증표;1;icon_item_Gem_Elemental17
 I;힘이 복구된 사울레의 성구;1;icon_item_crimson3
-G;Weapon
-I;크리스탈 로드;1;icon_item_crystal_staff
-I;스트롱 보우;1;bow_wooden_compound_bow
+G;Armor
+I;도사 코스튬;1;icon_item_daoshi_f
+I;섀도우맨서 루너하이더 코스튬;1;icon_item_mage_shadowmancer04_f
+I;섀도우맨서 선하이더 코스튬;1;icon_item_mage_shadowmancer02_f
+I;엘리멘탈리스트 코스튬;1;icon_item_warrock_f
+I;파이로맨서 코스튬;1;icon_item_pyromancer_f

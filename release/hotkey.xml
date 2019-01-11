@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
 <Category>
 	<HotKey ID="Chat" Name="채팅" DownScp="ui.ProcessReturnKey()" UpScp="None" Key="ENTER" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="YES" Category="Basic"/>
 	<HotKey ID="ChatPad" Name="채팅(숫자패드)" DownScp="ui.ProcessReturnKey()" UpScp="None" Key="PADENTER" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="YES" Category="Basic"/>
@@ -111,4 +111,5 @@
 	<HotKey ID="ChatFrameType" Name="채팅 탭 전환" DownScp="CHAT_TABSET_BTN_CLICK()" UpScp="None" Key="TAB" UseShift="YES" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="System"/>
 	<HotKey ID="FishingBag" Name="살림통" DownScp="FISHING_ITEM_BAG_TOGGLE_UI()" UpScp="None" Key="F" UseShift="NO" UseAlt="YES" UseCtrl="NO" OnEdit="NO" Category="System"/>
 	<HotKey ID="GuildRank" Name="길드 랭킹" DownScp="GUILD_RANK_INFO_TOGGLE()" UpScp="None" Key="R" UseShift="NO" UseAlt="YES" UseCtrl="NO" OnEdit="NO" Category="System"/>
+	<HotKey ID="PartyMemberInfo" Name="파티원 소환수 정보" DownScp="PARTYINFO_TOGGLE()" UpScp="None" Key="GRAVE" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
 </Category>

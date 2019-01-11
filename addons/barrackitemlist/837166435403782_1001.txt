@@ -41,9 +41,6 @@ I;보급용 워프 주문서;10;GolemMagicItem1
 I;블루 오브:붉은 케파;1;icon_item_Dreamshade
 I;블루 오브:아르마;1;icon_item_Dreamshade
 I;LV14 경험치 카드;5;icon_item_expcard
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
 G;Event
 I;[Re:Build] 날마다 특성 포인트 상자;1;icon_item_giftBox_1
 G;Book
@@ -128,13 +125,19 @@ I;소울 크리스탈;1;icon_item_soulCrystal
 I;워프 주문서;5;icon_item_warpPremium
 I;케도라 상단의 지원 선택상자 (40레벨 방어구);4;icon_item_event_armorbox1
 I;확성기;10;icon_item_Mike
-I;마법 부여 스크롤(거래불가);1;icon_item_enchantScroll
 I;하급 용병 코스튬(여);1;icon_item_lowtactic01_f
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 I;상어 해적단 코스튬(여);1;icon_item_cosair03_f
+I;블루 메이드 코스튬(여);1;icon_item_maiduniform_blue_f
 I;벚꽃 로맨스 세일러복 코스튬(여);1;icon_item_pink_Sailor01_f
 I;뱀파이어 코스튬(여);1;icon_item_vampire02_f
 I;레드 메이드 코스튬(여);1;icon_item_maiduniform_red_f
+G;Armor
+I;어쌔신 리즈다스 플레저;1;icon_item_scoutCos_assa01_f
+I;아웃로 더크더즈;1;icon_item_scoutCos_outlaw01_f
+I;어쌔신 리즈다스 키퍼;1;icon_item_scoutCos_assa02_f
+I;아웃로 러피안 리버리;1;icon_item_scoutCos_outlaw02brown_f
+I;로그 코스튬;1;icon_item_rogue_f
 G;Material
 I;[Re:Build] 빛나는 황금 모루;1;icon_item_anvil_gold
 I;모루;2;icon_item_anvil
@@ -239,10 +242,5 @@ I;하우벅 봉인조각;1;icon_item_Bezoari
 I;홍염의 보석;1;icon_item_crimson3
 I;마력 추적지도 : 살비야스 숲;1;GolemMagicItem1
 I;리아스 풀 정제 가루;1;icon_item_Drug_51022
-G;Armor
-I;어쌔신 리즈다스 플레저;1;icon_item_scoutCos_assa01_f
-I;아웃로 더크더즈;1;icon_item_scoutCos_outlaw01_f
-I;아웃로 브리건드 아웃핏;1;icon_item_scoutCos_outlaw02_f
-I;아웃로 러피안 리버리;1;icon_item_scoutCos_outlaw02brown_f
-I;어쌔신 리즈다스 키퍼;1;icon_item_scoutCos_assa02_f
-I;로그 코스튬;1;icon_item_rogue_f
+G;Weapon
+I;케도란 케미니스 소드;1;sword_sabre_up

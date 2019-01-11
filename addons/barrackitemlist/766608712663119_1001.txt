@@ -6,10 +6,10 @@ I;HP 회복 소형 엘릭서 ;11;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;8;icon_item_SPelixir_Small
 I;[Re:Build] 축복이 깃든 씨앗;14;icon_item_event161215_01
 I;농축 HP포션 LV15;26;icon_item_HP_Alche
-I;농축 SP포션 LV15;13;icon_item_SP_Alche
+I;농축 SP포션 LV15;11;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;20;item_speed_requid_1
 I;보급용 농축 HP포션 LV15;99;item_HP_oil_3
-I;보급용 농축 SP포션 LV15;95;item_SP_requid_3
+I;보급용 농축 SP포션 LV15;94;item_SP_requid_3
 I;보급용 이동속도 증가 포션;3;item_speed_requid_1
 I;보급용 작은 HP포션;3;item_HP_oil_1
 I;보급용 작은 SP포션;34;item_SP_requid_1
@@ -21,16 +21,19 @@ I;클라페다 워프 주문서;14;GolemMagicItem1
 I;페디미안 워프 주문서;22;GolemMagicItem1
 I;포포리온 고기;5;icon_item_meat_02
 I;해독제;10;icon_item_Quest_00020
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;아말라스;1;icon_item_Amalas
+I;LV2 경험치 카드;6;icon_item_expcard
+I;LV5 경험치 카드;4;icon_item_expcard
+I;LV13 경험치 카드;7;icon_item_expcard
 I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;보급용 워프 주문서;3;GolemMagicItem1
-G;Event
-I;[Re:Build] 특성 포인트 1,000;5;icon_item_abilitypoint
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 G;Recipe
+I;제작서-일룬;1;icon_item_weapon_misc1
+I;제작서-모플라;1;icon_item_weapon_misc1
+I;제작서-배틀 로드;1;icon_item_weapon_misc1
 I;제작서-페디미안 글로브;1;icon_item_gloves_misc1
 I;제작서-x4 경험의 서;1;icon_item_recipe_misc1
 I;제작서-x8 경험의 서;1;icon_item_recipe_misc1
@@ -44,6 +47,7 @@ I;컬렉션: 왕릉 2층;1;icon_item_box
 I;컬렉션: 이국 사랑;1;icon_item_box
 I;컬렉션: 테브린 종유동 1구역;1;icon_item_box
 I;컬렉션: 파수꾼의 묘역;1;icon_item_box
+I;컬렉션: 지마 수코트;1;icon_item_box
 G;Premium
 I;[Re:Build] 인스턴스 던전 1회 입장권;1;icon_item_indunonemoreEnter
 I;[Re:Build] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -52,13 +56,6 @@ I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;13;icon_item_warpPremium
 I;확성기;25;icon_item_Mike
 I;확성기 50개 상자;1;icon_item_Mike_bundle
-G;Armor
-I;레더 아머;1;icon_item_shirts_bube_blue
-I;사두 코스튬;1;icon_item_sadhu_f
-I;엑소시스트 콘코르다트 코스튬;1;icon_item_Exorcist03_f
-I;엑소시스트 소울 바인더 코스튬;1;icon_item_Exorcist02_f
-I;엑소시스트 코스튬;1;icon_item_Exorcist01_f
-I;크리비 코스튬;1;icon_item_kribi_f
 G;Material
 I;[Re:Build] 빛나는 황금 모루;1;icon_item_anvil_gold
 I;모루;11;icon_item_anvil
@@ -67,9 +64,9 @@ I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;기슬로티스;475;icon_item_Gyslotis
 I;망토;9;icon_item_cape
-I;성수;252;icon_item_holywater
+I;성수;242;icon_item_holywater
 I;조각용 나무;1;icon_item_wood_5
-I;홀리 파우더;2355;icon_item_powderw
+I;홀리 파우더;2330;icon_item_powderw
 I;거대한 갈고리;2;icon_item_claw_01
 I;나무 말뚝;7;icon_item_wood_3
 I;늙은 케파 껍질;1;icon_item_onionpiece
@@ -77,14 +74,14 @@ I;락코프의 핵;1;38_item_ore_mercury
 I;락콘의 핵;1;38_item_ore_mercury
 I;레비 털;72;icon_item_fur_01Yellow
 I;말라두의 고기;13;icon_item_meat_02
-I;물푸레나무;15;icon_item_wood_2
+I;물푸레나무;20;icon_item_wood_2
 I;밴시의 사념체;1;icon_item_spirit_orange
 I;베스퍼의 무게추;3;icon_item_ballast
 I;베카라베의 껍질;4;icon_item_shell_yellow
 I;부베족의 증표;1;icon_item_bubetoken
 I;붉은 코카트 깃털;1;icon_item_feather_cockatries_red
 I;비카라스의 핵;4;icon_item_core_yellow
-I;소나무;1;icon_item_wood_3
+I;소나무;4;icon_item_wood_3
 I;스타울리트 심장;2;item_icon_heart_red
 I;식칼;4;icon_item_knife01
 I;씨드미아 씨앗;1;icon_item_seed_brown
@@ -106,31 +103,32 @@ I;포쿠부 가죽;1;icon_item_Misc_00011
 I;플락의 갑옷조각;1;icon_item_FORMINE_ARMOR_SCAPULAR
 I;하나밍 꽃잎;2;icon_item_HanamingPetal
 I;할로우벤터의 손뼈;3;icon_item_bone
+I;노란 파이란 날개;2;icon_item_batwing
 I;붉은 발래리요나스;5;icon_item_Valerijonas_Red
 I;노란 뷰올리우이다스;3;icon_item_Geranium_farm_Yellow
 I;파란 아우로라파스;5;icon_item_maple_25_grassflute_Blue
+I;붉은 슬라임의 핵;2;38_item_ore_mercury
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;거대 마력원;12;icon_item_Gem_Stone_INT
 I;공구박스;1;icon_item_Quest_00017
-I;광산 마을의 식량;2;icon_item_Gem_Elemental8
 I;단단한 나뭇조각;1;icon_item_wood_1
 I;로그 마스터의 주머니;1;icon_item_farm47_sack_01
 I;마력 추적지도 : 테브린 종유동 1구역;1;GolemMagicItem1
-I;먼지묻은 유적지 파편;1;icon_item_stonepiece_01Yellow
 I;몽당 나무의 수액;52;icon_item_Drug_CON2
 I;밧줄;1;icon_item_Leash
-I;병사의 유품;2;icon_item_small_bag
 I;새퍼 마스터가 준 주머니;1;icon_item_small_bag
 I;수액수집기;1;icon_item_stickw
 I;연습용 목인의 잔해;1;icon_item_small_bag
 I;영험한 가루;1;icon_item_sesami
 I;유적 파편;11;icon_item_stonepiece_01Yellow_01
 I;음양사 본향 지원 명단;1;Siaul_Act3_Confirmation
-I;제거티 여신의 수정;1;14_item_ithildin
 I;조잡한 탐사막대;1;icon_item_Lrod
 I;지휘관 줄리안의 명령서;1;icon_item_Scroll
 I;허밀가의 붉은 수정;1;icon_item_Gem_Stone_STR
-G;Weapon
-I;즈바이더 보우;1;icon_item_bow_nicopolis1
-I;즈바이더 파이크;1;icon_item_thspear_nicopolis1
+G;Armor
+I;사두 코스튬;1;icon_item_sadhu_f
+I;엑소시스트 콘코르다트 코스튬;1;icon_item_Exorcist03_f
+I;엑소시스트 소울 바인더 코스튬;1;icon_item_Exorcist02_f
+I;엑소시스트 코스튬;1;icon_item_Exorcist01_f
+I;크리비 코스튬;1;icon_item_kribi_f

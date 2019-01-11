@@ -7,7 +7,7 @@ G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;농축 HP포션 LV15;34;icon_item_HP_Alche
-I;농축 SP포션 LV15;20;icon_item_SP_Alche
+I;농축 SP포션 LV15;19;icon_item_SP_Alche
 I;라프세이프 버섯;9;icon_item_Pinemushroom
 I;레드옥스;4;icon_item_Red_Ox
 I;마법 공격력 포션;3;item_speed_requid_1
@@ -41,6 +41,8 @@ I;블루 오브:러바인러바;1;icon_item_Dreamshade
 I;블루 오브:쿠게리 발저;1;icon_item_Dreamshade
 I;블루 오브:하루갈;1;icon_item_Dreamshade
 I;은빛 물고기;4;icon_item_fish2
+G;Event
+I;인스턴스 던전 입장 횟수 초기화권:14일;1;icon_item_indunFreeEnter
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black
 I;록소나 내전 제 2장;1;icon_item_collection_04Black
@@ -77,7 +79,6 @@ I;제작서-슈페리어 로얄 가드 그리브;1;icon_item_boots_misc1
 I;제작서-카펜터 글로브;1;icon_item_gloves_misc3
 I;제작서-산양 뿔;1;icon_item_helm_misc1
 I;제작서-샤인 브레이슬릿;2;icon_item_bracelet_misc3
-I;제작서-레이드 포탈 스톤;1;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 G;Collection
@@ -117,6 +118,11 @@ I;컬렉션: 테넷 성당 지상 2층;1;icon_item_box
 I;컬렉션: 테넷 화원;1;icon_item_box
 I;컬렉션: 파우피스 나루;1;icon_item_box
 I;컬렉션: 페레토리 구릉;1;icon_item_box
+G;Premium
+I;소울 크리스탈;15;icon_item_soulCrystal
+I;워프 주문서;15;icon_item_warpPremium
+I;확성기;15;icon_item_Mike
+I;몬스터 젬 선택 상자: 직업;1;icon_item_jewelrybox_close
 G;Armor
 I;오그마 건틀릿;1;icon_item_gloves_SRchain
 I;탈리스만;1;item_necklace_19
@@ -124,13 +130,6 @@ I;탈리스만;1;item_necklace_19
 I;도펠죌트너 코스튬;1;icon_item_doppelsoldner_f
 I;낙무아이 코스튬;1;icon_item_warrior_nakmuay01_f
 I;바바리안 코스튬;1;icon_item_barbarian_f
-G;Premium
-I;소울 크리스탈;15;icon_item_soulCrystal
-I;워프 주문서;15;icon_item_warpPremium
-I;확성기;15;icon_item_Mike
-I;몬스터 젬 선택 상자: 직업;1;icon_item_jewelrybox_close
-I;클라페다 서포터즈 유니폼(여);1;icon_item_footballuniform05_f
-I;클라페다 카프리콘즈 유니폼(여);1;icon_item_footballuniform01_f
 G;Material
 I;모루;8;icon_item_anvil
 I;성수;10;icon_item_holywater

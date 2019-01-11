@@ -9,7 +9,7 @@ I;고농축 HP포션;40;item_HP_oil_3
 I;고농축 SP포션;40;item_SP_requid_3
 I;고농축 이동속도 증가 포션;10;item_speed_requid_1
 I;농축 HP포션 LV15;24;icon_item_HP_Alche
-I;농축 SP포션 LV15;13;icon_item_SP_Alche
+I;농축 SP포션 LV15;11;icon_item_SP_Alche
 I;딸기;28;icon_item_Strawberry
 I;라프세이프 버섯;4;icon_item_Pinemushroom
 I;매두스;10;icon_item_Medus
@@ -23,9 +23,8 @@ I;송로버섯;2;icon_item_Truffle
 I;송이버섯;3;icon_item_Pinemushroom
 I;스트랭스 포션;6;item_speed_requid_1
 I;아비에테;33;icon_item_Aviete
-I;알팔파;20;icon_item_grassbladeb
+I;알팔파;25;icon_item_grassbladeb
 I;오르샤 워프 주문서;6;GolemMagicItem1
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
 I;컴패니언 먹이;10;icon_item_meat_01
 I;케이스타스 수호의 포션;1;icon_item_Drug_exDEF1
 I;클라페다 워프 주문서;3;GolemMagicItem1
@@ -33,17 +32,18 @@ I;포포리온 고기;11;icon_item_meat_02
 I;폭죽;25;icon_item_firework
 I;LV13 경험치 카드;11;icon_item_expcard
 I;LV14 경험치 카드;20;icon_item_expcard
-I;라벤더 씨앗;2;icon_item_seed_red
 I;라오도넬리스 씨앗;2;icon_item_seed_green
 I;레드 오브:주황 단델;1;icon_item_Dreamshade_red
 I;레드 오브:폰드;1;icon_item_Dreamshade_red
 I;로즈마리 씨앗;2;icon_item_seed_green
 I;마이루나스 씨앗;2;icon_item_seed_yellow
+I;라벤더 씨앗;2;icon_item_seed_red
 I;블루 오브:타마;1;icon_item_Dreamshade
 I;블루 오브:폰드;1;icon_item_Dreamshade
 I;아카데미;1;icon_item_Academy
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;기슬로티스 씨앗;2;icon_item_seed_green
 I;요나졸레 씨앗;2;icon_item_seed_brown
+I;길드 타워;1;icon_item_guildtower
 I;디스펠러;47;icon_item_grimoire_blue
 I;신랑 비둘기 오르골;1;icon_item_MusicBox_Wedding01
 I;종이상자;1;icon_item_paperbox
@@ -51,7 +51,6 @@ G;SubWeapon
 I;느낌있는 암밴드;1;icon_item_armband_exclamationMark_icon
 I;디오니스 암밴드;1;icon_item_armband_dinios
 I;리본 암밴드;1;icon_item_armband_ribbon
-I;잎사귀 무늬 암밴드;1;icon_item_armband_leaf
 I;물조리개;1;icon_item_wateringcan
 I;좌절 깃발;1;OTL_flag
 G;Book
@@ -59,6 +58,7 @@ I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;그을린 실마리;1;icon_item_PILGRIM_PIECE
 I;낡은 일기;1;icon_item_collection_04Black
 I;남작 비서 안돌의 일지;1;icon_item_collection_04Black
+I;버려진 일기장;1;icon_item_collection_00Basic
 I;록소나 내전 제 1장;1;icon_item_collection_01Red
 I;록소나 내전 제 2장;1;icon_item_collection_04Black
 I;루클리스 병영 일지 사본 1권;1;icon_item_collection_04Black
@@ -70,7 +70,6 @@ I;리디아 샤펜의 오늬;1;icon_item_collection_01Red
 I;마족 처단 명령서;1;Siaul_Act3_Confirmation
 I;마지막 기록;1;icon_item_paperpiece
 I;바스러져 가는 쪽지;1;icon_item_paper
-I;버려진 일기장;1;icon_item_collection_00Basic
 I;베이키얼의 답장;1;icon_item_indulgence
 I;부스러져가는 공문;1;icon_item_magicpaper
 I;분노로 휘갈긴 일지;1;icon_item_magicpaper
@@ -148,23 +147,12 @@ I;컬렉션: 피스티스 숲;1;icon_item_box
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
 I;확성기;15;icon_item_Mike
-I;벚꽃 로맨스 세일러복 코스튬(여);1;icon_item_pink_Sailor01_f
-I;블루 메이드 코스튬(여);1;icon_item_maiduniform_blue_f
+I;초대에 응한 자 코스튬(여);1;icon_item_blacksuit01_f
 I;전사용 심플 컬러 코스튬(여);1;warrior_simplecolor_f
-I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
-I;하급 용병 코스튬(여);1;icon_item_lowtactic01_f
-I;하이랜더 스페셜 코스튬(여);1;icon_item_warrior_highrander_f
 G;Material
 I;모루;8;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;5성 젬 연마제:14일;1;icon_item_powderp
-I;5성 젬 연마제:14일;1;icon_item_powderp
-I;5성 젬 연마제:14일;1;icon_item_powderp
-I;빛나는 3성 젬 연마제;3;icon_item_powderp
 I;실드 차저;11;icon_item_ShieldCharge
 I;크리오라이트;14;39_icon_item_Cry8rite
 I;파이라이트;19;32_item_ore_pyrite
@@ -230,7 +218,7 @@ I;리자드맨 송곳니;4;icon_item_canine
 I;리프넛의 뿔;1;icon_item_shorthorn
 I;리플라이 날개;14;icon_item_bugwing
 I;마우로스의 핵;7;icon_item_core_yellow
-I;말라두의 고기;2;icon_item_meat_02
+I;말라두의 고기;4;icon_item_meat_02
 I;메다키아의 뿔;3;pokubu_horn
 I;메로그의 심장;6;item_icon_heart_yellow
 I;메슘의 줄기;27;icon_item_stem_brown
@@ -276,7 +264,7 @@ I;스톤오르카의 핵;9;icon_item_core_yellow
 I;시스트 가시;5;icon_item_thorn_green
 I;식칼;24;icon_item_knife01
 I;신나바르;4;35_item_ore_phlogiston
-I;씨드미아 씨앗;27;icon_item_seed_brown
+I;씨드미아 씨앗;28;icon_item_seed_brown
 I;아르마의 뿔;3;icon_item_shorthorn
 I;아모리 판금;20;icon_item_ironbar03_s
 I;아클라스 날개;2;icon_item_batwing
@@ -333,7 +321,6 @@ I;코카트리스 깃털;4;icon_item_feather_02Yellow
 I;코카트의 심장;2;item_icon_heart_purple
 I;콜리플라워의 줄기;3;icon_item_stem_brown
 I;쿠게리의 천조각;1;icon_item_clothpiece_white
-I;크레토의 깃털;2;icon_item_misc_0518
 I;크로뉴트의 뼈;1;icon_item_bone
 I;크로마독 뼈;16;icon_item_bone
 I;타마 잎;23;icon_item_leaves_red
