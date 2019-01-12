@@ -1,33 +1,12 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
-G;Premium
-I;[Re:Build] 인스턴스 던전 1회 입장권;1;icon_item_indunonemoreEnter
-I;긴급 수리 키트;7;icon_item_repairkit
-I;소울 크리스탈;23;icon_item_soulCrystal
-I;워프 주문서;18;icon_item_warpPremium
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;전문 퀘스트 5회 도전권;6;icon_item_classmajorquestCount
-I;확성기;30;icon_item_Mike
-I;확성기 10개 상자;1;icon_item_Mike_bundle
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
+I;실버;99999;icon_item_silver
 G;Drug
-I;HP 회복의 엘릭서 [이벤트];9;icon_item_HPelixir
-I;SP 회복의 엘릭서 [이벤트];10;icon_item_SPelixir
+I;HP 회복의 엘릭서 [이벤트];6;icon_item_HPelixir
+I;SP 회복의 엘릭서 [이벤트];8;icon_item_SPelixir
 I;[Re:Build] 축복이 깃든 씨앗;14;icon_item_event161215_01
-I;농축 HP포션 LV15;21;icon_item_HP_Alche
-I;농축 SP포션 LV15;16;icon_item_SP_Alche
+I;농축 HP포션 LV15;9;icon_item_HP_Alche
+I;농축 SP포션 LV15;29;icon_item_SP_Alche
 I;농축 이동속도 증가 포션 LV15;9;item_speed_requid_1
 I;농축 이동속도 향상의 포션;40;item_speed_requid_1
 I;라프세이프 버섯;2;icon_item_Pinemushroom
@@ -44,7 +23,7 @@ I;오르샤 워프 주문서;1;GolemMagicItem1
 I;워시스;1;icon_item_Uosis
 I;정착 지원 포션;1;item_speed_requid_3
 I;정착 지원 포션 Lv2;58;item_speed_requid_3
-I;클라페다 워프 주문서;10;GolemMagicItem1
+I;클라페다 워프 주문서;9;GolemMagicItem1
 I;포포리온 고기;16;icon_item_meat_02
 I;해독제;22;icon_item_Quest_00020
 I;LV13 경험치 카드;7;icon_item_expcard
@@ -56,11 +35,6 @@ I;보급용 워프 주문서;23;GolemMagicItem1
 I;TOS 플래카드;1;icon_item_artefact_Ticket_TOS
 I;오르샤 라이온스 응원 슬로건;1;icon_item_aretfact_victory_red
 I;푸드 커버;1;icon_item_artefact_Dome_Cover
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
-G;Collection
-I;컬렉션: 지마 수코트;1;icon_item_box
-G;SubWeapon
-I;(바랜)미간티스 피스톨;1;icon_item_miegantis_pistol
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;낡은 일기;1;icon_item_collection_04Black
@@ -110,45 +84,30 @@ I;제작서-시약;1;icon_item_recipe_misc1
 G;FishingRod
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
-G;Event
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
-G;Card
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-G;Armor
-I;브리간딘 부츠;1;icon_item_boots_brigan
-I;퀼트 부츠;1;icon_item_boots_bube
-I;스틸 네클리스;1;item_necklace_10
-I;츄파카브라 네클리스;1;item_necklace_11
-I;카너버 네클리스;1;item_necklace_17
-I;크리오라이트 팬던트;1;item_necklace_01
-I;클라페다 체인;1;item_necklace_09
-I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
-I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
-I;크리스탈 뱅글;1;item_bracelet_15
-I;크리스탈 뱅글;1;item_bracelet_15
-I;머슈카리아 모자;1;hairacc_23_mushcariahat
-I;묘족두식;1;hairacc_wuguBand
-I;계란 후라이;1;hairacc_62_friedegg
-I;무고사 코스튬;1;icon_item_wugu_f
-I;불릿 마커 매처 코스튬;1;icon_item_bulletmarker02_f
-I;불릿 마커 휠러 코스튬;1;icon_item_bulletmarker03_f
-I;새퍼 코스튬;1;icon_item_sapper_f
-I;파이드 파이퍼 코스튬;1;icon_item_PiedPiper01_f
+G;Collection
+I;컬렉션: 지마 수코트;1;icon_item_box
+G;Premium
+I;[Re:Build] 인스턴스 던전 1회 입장권;1;icon_item_indunonemoreEnter
+I;긴급 수리 키트;7;icon_item_repairkit
+I;소울 크리스탈;23;icon_item_soulCrystal
+I;워프 주문서;17;icon_item_warpPremium
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;전문 퀘스트 5회 도전권;6;icon_item_classmajorquestCount
+I;확성기;28;icon_item_Mike
+I;확성기 10개 상자;1;icon_item_Mike_bundle
 G;Material
 I;[Re:Build] 빛나는 황금 모루;1;icon_item_anvil_gold
 I;모루;14;icon_item_anvil
-I;은빛 모루(14일);1;icon_item_anvil_silver
 I;황금 모루;1;icon_item_anvil_gold
-I;황금 모루(14일);1;icon_item_anvil_gold
-I;황금 모루(14일);1;icon_item_anvil_gold
-I;황금 모루(14일);1;icon_item_anvil_gold
-I;황금 모루(14일);1;icon_item_anvil_gold
-I;황금 모루(14일);1;icon_item_anvil_gold
-I;빛나는 3성 젬 연마제;1;icon_item_powderp
-I;독액;147;icon_item_posion
+I;독액;133;icon_item_posion
 I;돌 탄환;2;icon_item_Misc_00001
 I;매직 애로우;1455;icon_item_magicarrow
 I;바브드 애로우;788;item_icon_arrow_barbedhead
@@ -156,13 +115,12 @@ I;보드킨 포인트 애로우;941;item_icon_bodkinpoint_arrow
 I;브로드 헤드 애로우;966;item_icon_arrow_barbedhead
 I;신기전;1429;icon_item_singijon
 I;크리오라이트;7;39_icon_item_Cry8rite
-I;트랩 키트;1776;icon_item_trap_kit
+I;트랩 키트;1357;icon_item_trap_kit
 I;파이라이트;13;32_item_ore_pyrite
 I;헤일매리 애로우;829;item_icon_hail_mary_arrow
 I;주석;2;1_item_ore_copper
 I;호박;58;22_item_ore_amber
 I;LV2 보물상자 열쇠;1;icon_item_key1
-I;[Re:Build] 기념 주화;10;icon_item_rebuild_coin
 I;거대한 갈고리;8;icon_item_claw_01
 I;그롤의 뿔;1;icon_item_shorthorn
 I;그리바루 방울;1;icon_item_crystal_yellow
@@ -230,6 +188,9 @@ I;할로우벤터의 손뼈;3;icon_item_bone
 I;허밍버드의 날개;1;icon_item_bugwing
 I;호그마 엄니;3;icon_item_tooth_white
 I;호헨 가죽;1;icon_item_Misc_00011
+I;붉은 발래리요나스;4;icon_item_Valerijonas_Red
+I;파란 아우로라파스;2;icon_item_maple_25_grassflute_Blue
+I;노란 뷰올리우이다스;1;icon_item_Geranium_farm_Yellow
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01
@@ -254,6 +215,21 @@ I;푸른 산호;5;icon_item_coral2
 I;허밀가의 붉은 수정;1;icon_item_Gem_Stone_STR
 I;홍염의 보석;1;icon_item_crimson2
 I;화살 묶음;1;item_icon_barbedhead_arrow
-G;Weapon
-I;페버디마스 크로스보우;1;icon_item_pabudimas_crossbow
-I;[Re:Build] 마시니오스 보우;1;icon_item_bow_masinos
+I;부베 독 견본;15;icon_item_Drug_exDEF1
+G;Armor
+I;브리간딘 부츠;1;icon_item_boots_brigan
+I;퀼트 부츠;1;icon_item_boots_bube
+I;스틸 네클리스;1;item_necklace_10
+I;츄파카브라 네클리스;1;item_necklace_11
+I;카너버 네클리스;1;item_necklace_17
+I;크리오라이트 팬던트;1;item_necklace_01
+I;클라페다 체인;1;item_necklace_09
+I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
+I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
+I;크리스탈 뱅글;1;item_bracelet_15
+I;크리스탈 뱅글;1;item_bracelet_15
+I;머슈카리아 모자;1;hairacc_23_mushcariahat
+I;무고사 코스튬;1;icon_item_wugu_f
+I;불릿 마커 매처 코스튬;1;icon_item_bulletmarker02_f
+I;불릿 마커 휠러 코스튬;1;icon_item_bulletmarker03_f
+I;파이드 파이퍼 코스튬;1;icon_item_PiedPiper01_f

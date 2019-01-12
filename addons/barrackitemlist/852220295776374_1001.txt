@@ -16,7 +16,7 @@ I;레지네이트;2;16_item_treenite
 I;인프로 락터의 껍질;3;icon_item_shell
 I;귀환석;1;MercenaryBadge
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;99999;icon_item_silver
 G;Weapon
 I;슈페리어 글라디우스;1;icon_item_Sword_22
 I;크루드 폴쳔;1;icon_item_Sword_23

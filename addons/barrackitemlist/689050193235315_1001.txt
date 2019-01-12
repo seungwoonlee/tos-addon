@@ -6,17 +6,14 @@ I;실버;100000;icon_item_silver
 G;Collection
 I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
 G;Armor
-I;카프리선 부츠;1;icon_item_boots_brigan
-I;카프리선 글로브;1;icon_item_gloves_brigan
 I;라이트 팬츠;1;icon_item_pants_bube
 I;이글스타 레더 팬츠;1;icon_item_eaglestar_pants
 I;카이트 실드;1;icon_item_Shield_9
 I;레더 아머;1;icon_item_shirts_bube_blue
-I;카프리선 아머;1;icon_item_shirts_brigan
 I;라이트 아머;1;icon_item_shirts_bube
-I;이글스타 레더 아머;1;icon_item_eaglestar_armor
-I;이글스타 레더 아머;1;icon_item_eaglestar_armor
 I;카프리선 아머;1;icon_item_shirts_brigan
+I;이글스타 레더 아머;1;icon_item_eaglestar_armor
+I;이글스타 레더 아머;1;icon_item_eaglestar_armor
 I;노비스 네클리스;1;item_necklace_10
 I;노비스 뱅글;1;item_bracelet_15
 I;우든 뱅글;1;item_bracelet_20

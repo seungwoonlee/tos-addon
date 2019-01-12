@@ -1,15 +1,15 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;99999;icon_item_silver
 G;PasteBait
 I;보급용 미끼;771;icon_item_Paste_Bait_basic
 I;작은 은빛 물고기;7;icon_item_fish4
 G;Drug
-I;HP 회복 소형 엘릭서 ;9;icon_item_HPelixir_Small
-I;SP 회복 소형 엘릭서 ;9;icon_item_SPelixir_Small
+I;HP 회복 소형 엘릭서 ;7;icon_item_HPelixir_Small
+I;SP 회복 소형 엘릭서 ;7;icon_item_SPelixir_Small
 I;[Re:Build] 축복이 깃든 씨앗;14;icon_item_event161215_01
-I;농축 HP포션 LV15;24;icon_item_HP_Alche
-I;농축 SP포션 LV15;34;icon_item_SP_Alche
+I;농축 HP포션 LV15;17;icon_item_HP_Alche
+I;농축 SP포션 LV15;11;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;43;item_speed_requid_1
 I;레드옥스;4;icon_item_Red_Ox
 I;바루날레샤;2;icon_item_Varnalesa
@@ -19,9 +19,10 @@ I;보급용 농축 HP포션 LV15;231;item_HP_oil_3
 I;보급용 농축 SP포션 LV15;191;item_SP_requid_3
 I;보급용 작은 스태미나 알약;24;item_STA_pill_1
 I;보급용 큰 HP포션;99;item_HP_oil_3
-I;보급용 큰 SP포션;87;item_SP_requid_3
+I;보급용 큰 SP포션;83;item_SP_requid_3
 I;붉은 케파 조각;5;OnionPiece_Red
 I;살라위야스;1;icon_item_Salavijas
+I;아말라스;1;icon_item_Amalas
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;워시스;1;icon_item_Uosis
 I;이동속도 향상의 포션;2;item_speed_requid_1
@@ -32,26 +33,32 @@ I;축복이 깃든 씨앗;4;icon_item_event161215_01
 I;클라페다 워프 주문서;15;GolemMagicItem1
 I;포포리온 고기;11;icon_item_meat_02
 I;해독제;19;icon_item_Quest_00020
-I;아말라스;1;icon_item_Amalas
+I;LV13 경험치 카드;7;icon_item_expcard
 I;LV4 경험치 카드;2;icon_item_expcard
+I;LV5 경험치 카드;5;icon_item_expcard
 I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;보급용 워프 주문서;20;GolemMagicItem1
 I;은빛 물고기;44;icon_item_fish2
-I;LV5 경험치 카드;5;icon_item_expcard
-I;LV13 경험치 카드;7;icon_item_expcard
 I;TOS 플래카드;1;icon_item_artefact_Ticket_TOS
 I;다과 세트;1;icon_item_artefact_Tea_Set
 I;다과 세트;1;icon_item_artefact_Tea_Set
 I;클라페다 카프리콘즈 응원 슬로건;1;icon_item_aretfact_victory_purple
 I;푸드 커버;1;icon_item_artefact_Dome_Cover
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
-G;Event
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
+G;Collection
+I;계시록: 대립편 컬렉션;1;icon_item_holyark
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 네프리타스 벼랑;1;icon_item_box
+I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
+I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
+I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
+I;컬렉션: 수정광산 2층;1;icon_item_box
+I;컬렉션: 수정광산 3층;1;icon_item_box
+I;컬렉션: 스라우타스 협곡;1;icon_item_box
+I;컬렉션: 지마 수코트;1;icon_item_box
+G;SubWeapon
+I;이스토라 리볼버;1;icon_item_revolver
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;리디아 샤펜과 럼펠스틸스킨;1;icon_item_collection_02green
@@ -61,9 +68,11 @@ I;리디아 샤펜의 오늬;1;icon_item_collection_01Red
 G;Recipe
 I;제작서-더블 스택;1;icon_item_weapon_misc4
 I;제작서-드라군 파이퍼;2;icon_item_weapon_misc4
+I;제작서-디델 부라와;1;icon_item_weapon_misc3
 I;제작서-디델 크랙드 슈터;1;icon_item_weapon_misc3
 I;제작서-라이온 헤드 캐논;2;icon_item_weapon_misc4
 I;제작서-링 로드;1;icon_item_weapon_misc1
+I;제작서-바이퍼;1;icon_item_weapon_misc4
 I;제작서-비니 리볼버;2;icon_item_weapon_misc3
 I;제작서-비니 코르세스카;1;icon_item_weapon_misc3
 I;제작서-비엔나라지스 메이스;3;icon_item_weapon_misc4
@@ -71,19 +80,20 @@ I;제작서-비엔나라지스 스태프;1;icon_item_weapon_misc4
 I;제작서-스톰 스태프;1;icon_item_weapon_misc1
 I;제작서-슬라케 듀얼 레이피어;2;icon_item_weapon_misc3
 I;제작서-아라스의 폴쳔;2;icon_item_weapon_misc3
-I;제작서-아티 스네이크 로드;1;icon_item_weapon_misc3
+I;제작서-아티 스네이크 로드;2;icon_item_weapon_misc3
 I;제작서-아프가울레 보우;3;icon_item_weapon_misc4
 I;제작서-엘가 레이피어;2;icon_item_weapon_misc4
 I;제작서-윈디아 로드;1;icon_item_weapon_misc4
 I;제작서-일룬;2;icon_item_weapon_misc1
+I;제작서-차칸;1;icon_item_weapon_misc1
 I;제작서-카스티 로드;1;icon_item_weapon_misc4
 I;제작서-코주카;1;icon_item_weapon_misc1
 I;제작서-틸리 로드;1;icon_item_weapon_misc4
 I;제작서-포텐티아;2;icon_item_weapon_misc3
 I;제작서-피그리 스피어;2;icon_item_weapon_misc4
 I;제작서-피레네 소드;1;icon_item_weapon_misc4
-I;제작서-차칸;1;icon_item_weapon_misc1
 I;제작서-라이온 헤드 실드;1;icon_item_shirts_misc4
+I;제작서-록소나 레더 팬츠;1;icon_item_pants_misc4
 I;제작서-리에나 플레이트 아머;1;icon_item_shirts_misc3
 I;제작서-비틀백;2;icon_item_shirts_misc4
 I;제작서-에멘가드 실드;1;icon_item_shirts_misc5
@@ -102,23 +112,15 @@ G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 I;낡은 보급용 낚싯대;1;icon_item_Fishing_Rod_1
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
-G;Collection
-I;계시록: 대립편 컬렉션;1;icon_item_holyark
-I;컬렉션: 기원의 숲;1;icon_item_box
-I;컬렉션: 네프리타스 벼랑;1;icon_item_box
-I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
-I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
-I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
-I;컬렉션: 수정광산 2층;1;icon_item_box
-I;컬렉션: 수정광산 3층;1;icon_item_box
-I;컬렉션: 스라우타스 협곡;1;icon_item_box
-I;컬렉션: 지마 수코트;1;icon_item_box
+G;Gem
+I;레드 젬;Lv1;item_icon_circle150
+I;그린 젬;Lv1;item_icon_Dia150
+I;블루 젬;Lv1;item_icon_Square150
+I;옐로우 젬;Lv1;item_icon_Star150
 G;Premium
 I;긴급 수리 키트;3;icon_item_repairkit
 I;소울 크리스탈;33;icon_item_soulCrystal
-I;스킬 초기화 포션;1;icon_item_potion_resetSkill
-I;워프 주문서;224;icon_item_warpPremium
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;워프 주문서;223;icon_item_warpPremium
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -167,13 +169,11 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;확성기;40;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Armor
-I;카울라스 레더 부츠;1;icon_item_boots_kaulas
 I;카프리선 부츠;1;icon_item_boots_brigan
 I;카프리선 글로브;1;icon_item_gloves_brigan
-I;이스턴 레더 글로브;1;icon_item_eastengarden_gloves
-I;이브레 팬츠;1;icon_item_pants_animalLeather
 I;카프리선 팬츠;1;icon_item_pants_brigan
 I;카프리선 아머;1;icon_item_shirts_brigan
+I;틸라 로브;1;icon_item_shirts_sage_white
 I;사이클롭스 아이;1;item_necklace_16
 I;츄파카브라 네클리스;1;item_necklace_11
 I;강아지 풍선;1;icon_item_dogballoon
@@ -191,7 +191,8 @@ I;거대한 갈고리;2;icon_item_claw_01
 I;그루머 잎;7;icon_item_leaves_green
 I;그리바루 방울;2;icon_item_crystal_yellow
 I;나무 말뚝;4;icon_item_wood_3
-I;노란 뷰올리우이다스;1;icon_item_Geranium_farm_Yellow
+I;노란 뷰올리우이다스;3;icon_item_Geranium_farm_Yellow
+I;노란 파이란 날개;4;icon_item_batwing
 I;러블렘 파편;1;icon_item_Misc_00006
 I;레비 털;42;icon_item_fur_01Yellow
 I;론도 껍질;3;icon_item_shell_blue
@@ -199,12 +200,16 @@ I;루바보스 가죽;1;icon_item_Misc_00010
 I;리플라이 날개;2;icon_item_bugwing
 I;마우로스의 핵;1;icon_item_core_yellow
 I;모아 깃털;1;icon_item_feather_02Yellow
+I;물푸레나무;8;icon_item_wood_2
 I;박쥐의 날개;17;icon_item_batwing
 I;밴시의 사념체;1;icon_item_spirit_orange
 I;벨리글러 깃털;3;icon_item_feather_03Green
 I;부베 활대;1;icon_item_bubebow
 I;부베족의 증표;17;icon_item_bubetoken
-I;붉은 발래리요나스;1;icon_item_Valerijonas_Red
+I;붉은 발래리요나스;2;icon_item_Valerijonas_Red
+I;붉은 슬라임의 핵;2;38_item_ore_mercury
+I;붉은 위저드 주술 인형의 핵;1;38_item_ore_mercury
+I;소나무;2;icon_item_wood_3
 I;소켓의 껍질;5;icon_item_shell_blue
 I;송진;2;37_item_ore_sulfur
 I;수정거미 더듬이;8;icon_item_feeler_blue
@@ -245,11 +250,6 @@ I;하나밍 꽃잎;7;icon_item_HanamingPetal
 I;할로우벤터의 손뼈;2;icon_item_bone
 I;허니빈 침;14;icon_item_tooth_01Yellow
 I;회색 스타울리트 힘줄;4;icon_item_Leash
-I;소나무;2;icon_item_wood_3
-I;물푸레나무;8;icon_item_wood_2
-I;노란 파이란 날개;4;icon_item_batwing
-I;붉은 슬라임의 핵;2;38_item_ore_mercury
-I;붉은 위저드 주술 인형의 핵;1;38_item_ore_mercury
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;경전 낱장;3;icon_item_paper
@@ -263,10 +263,13 @@ I;쐐기침;1;icon_item_thorn_brown
 I;영험한 가루;1;icon_item_sesami
 I;음양사 본향 지원 명단;1;Siaul_Act3_Confirmation
 I;의식용 밧줄;1;icon_item_tentaclel
+I;조잡한 탐사막대;1;icon_item_Lrod
 I;침묵 스크롤;1;icon_item_Spellbook_2
 I;클레릭 마스터의 신앙의 표식;1;icon_item_Gem_Elemental17
 I;템파스 버섯;2;icon_item_Pinemushroom
 I;호수 물고기;4;icon_item_sardine
-I;조잡한 탐사막대;1;icon_item_Lrod
 G;Weapon
+I;라이트 크랙드 슈터;1;icon_item_sealbow
+I;다크 부라와;1;mace_bulawa_red
 I;머스킷;1;Musket_it_w_oldpistol_1
+I;아스턴 보우;1;bow_logbow

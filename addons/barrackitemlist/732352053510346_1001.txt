@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;99999;icon_item_silver
 G;Cube
 I;[PC방] 성장 지원 상자;3;icon_item_box_pc_month
 G;Premium

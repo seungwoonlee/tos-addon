@@ -1,26 +1,26 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;99999;icon_item_silver
 G;PasteBait
 I;작은 은빛 물고기;6;icon_item_fish4
 G;Drug
-I;HP 회복 소형 엘릭서 ;30;icon_item_HPelixir_Small
+I;HP 회복 소형 엘릭서 ;26;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;40;icon_item_SPelixir_Small
-I;[PC방] SP 회복 소형 엘릭서 ;9;icon_item_random_spellixerbox
+I;[PC방] SP 회복 소형 엘릭서 ;3;icon_item_random_spellixerbox
 I;[Re:Build] 축복이 깃든 씨앗;14;icon_item_event161215_01
-I;농축 HP포션 LV15;23;icon_item_HP_Alche
-I;농축 SP포션 LV15;3;icon_item_SP_Alche
+I;농축 HP포션 LV15;15;icon_item_HP_Alche
+I;농축 SP포션 LV15;22;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;60;item_speed_requid_1
 I;바루날레샤;2;icon_item_Varnalesa
-I;보급용 HP포션;99;item_HP_oil_2
-I;보급용 SP포션;99;item_SP_requid_2
-I;보급용 농축 HP포션 LV15;100;item_HP_oil_3
-I;보급용 농축 SP포션 LV15;100;item_SP_requid_3
+I;보급용 HP포션;98;item_HP_oil_2
+I;보급용 SP포션;98;item_SP_requid_2
+I;보급용 농축 HP포션 LV15;90;item_HP_oil_3
+I;보급용 농축 SP포션 LV15;89;item_SP_requid_3
 I;보급용 이동속도 증가 포션;2;item_speed_requid_1
 I;보급용 작은 스태미나 알약;22;item_STA_pill_1
 I;오르샤 워프 주문서;1;GolemMagicItem1
 I;이동속도 향상의 포션;1;item_speed_requid_1
-I;정착 지원 포션 Lv2;86;item_speed_requid_3
+I;정착 지원 포션 Lv2;85;item_speed_requid_3
 I;클라페다 워프 주문서;15;GolemMagicItem1
 I;포포리온 고기;17;icon_item_meat_02
 I;해독제;30;icon_item_Quest_00020
@@ -31,13 +31,6 @@ I;보급용 워프 주문서;19;GolemMagicItem1
 I;은빛 물고기;30;icon_item_fish2
 I;예식용 칼;1;icon_item_artefact_Decorative_knife
 I;클라페다 카프리콘즈 응원 슬로건;1;icon_item_aretfact_victory_purple
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
-G;Collection
-I;계시록: 대립편 컬렉션;1;icon_item_holyark
-I;컬렉션: 네프리타스 벼랑;1;icon_item_box
-I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
-I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
-I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
 G;SubWeapon
 I;눈꽃 스프레이;1;icon_item_snowflower
 G;Book
@@ -69,10 +62,16 @@ I;제작서-종이로 된 큐브(양손활);3;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 보급용 낚싯대;1;icon_item_Fishing_Rod_1
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
+G;Collection
+I;계시록: 대립편 컬렉션;1;icon_item_holyark
+I;컬렉션: 네프리타스 벼랑;1;icon_item_box
+I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
+I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
+I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
 G;Premium
 I;긴급 수리 키트;20;icon_item_repairkit
 I;소울 크리스탈;11;icon_item_soulCrystal
-I;워프 주문서;30;icon_item_warpPremium
+I;워프 주문서;27;icon_item_warpPremium
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -89,34 +88,22 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;확성기;41;icon_item_Mike
-G;Event
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
+I;확성기;39;icon_item_Mike
 G;Armor
-I;베르타스 크라이지어스 그리브;1;icon_item_boots_kryzius
-I;크라이지어스 건틀릿;1;icon_item_gloves_kryzius
-I;크라이지어스 플레이트 팬츠;1;icon_item_pants_kryzius
-I;베르타스 즈바이더 실드;1;icon_item_shield_nicopolis1
-I;크라이지어스 플레이트 아머;1;icon_item_shirts_kryzius
-I;플라티나 메달;1;item_necklace_19
-I;노블 브레이슬릿;1;item_bracelet_03
-I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
-I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
-I;자카리엘 뱅글;1;item_bracelet_10
-I;자카리엘 뱅글;1;item_bracelet_10
 I;붉은빛 플라워 헤어밴드;1;icon_item_redflowerband
 I;케파 인형;1;hairacc_48_cepadoll
 I;태양;1;icon_item_sun_acc
+I;아보카도 롤;1;icon_item_sushi10
 I;큰 흰꽃 머리장식;1;hairacc_hat071
 I;탐험가용 큰 붉은꽃 머리장식;1;hairacc_hat072
 I;펠타스타 코스튬;1;icon_item_Peltasta_f
 I;하카펠 코스튬;1;icon_item_hakapalle_f
+I;사심이 담긴 상소문;1;icon_item_wing_scroll2
 G;Material
 I;[Re:Build] 빛나는 황금 모루;1;icon_item_anvil_gold
-I;모루;21;icon_item_anvil
+I;모루;14;icon_item_anvil
 I;황금 모루;2;icon_item_anvil_gold
-I;실드 차저;5;icon_item_ShieldCharge
+I;실드 차저;3;icon_item_ShieldCharge
 I;주석;4;1_item_ore_copper
 I;LV2 보물상자 열쇠;1;icon_item_key1
 I;거대한 갈고리;9;icon_item_claw_01
@@ -132,6 +119,7 @@ I;메다키아 금속장식;2;icon_item_Neck_100002
 I;미노스의 뼈;1;icon_item_bone
 I;박쥐의 날개;12;icon_item_batwing
 I;밴시의 사념체;4;icon_item_spirit_orange
+I;붉은 발래리요나스;1;icon_item_Valerijonas_Red
 I;부베 활대;4;icon_item_bubebow
 I;부베족의 증표;19;icon_item_bubetoken
 I;송진;2;37_item_ore_sulfur
@@ -163,6 +151,7 @@ I;플로르;1;icon_item_crystal_green
 I;피라콘 잎;1;icon_item_leaves_red
 I;하나밍 꽃잎;10;icon_item_HanamingPetal
 I;허밍버드의 날개;2;icon_item_bugwing
+I;파란 아우로라파스;1;icon_item_maple_25_grassflute_Blue
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01
@@ -180,5 +169,4 @@ I;음양사 본향 지원 명단;1;Siaul_Act3_Confirmation
 I;의식용 밧줄;1;icon_item_tentaclel
 I;테넷 성당의 계시;1;icon_item_stonetablet
 G;Weapon
-I;(바랜)미간티스 소드;1;icon_item_miegantis_sword
-I;페버디마스 소드;1;icon_item_pabudimas_sword
+I;프리머스 즈바이더 소드;1;icon_item_sword_nicopolis1

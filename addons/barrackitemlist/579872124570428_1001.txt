@@ -1,9 +1,9 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;99999;icon_item_silver
 G;Drug
 I;SP 회복 소형 엘릭서 ;3;icon_item_SPelixir_Small
-I;농축 HP포션 LV15;14;icon_item_HP_Alche
+I;농축 HP포션 LV15;12;icon_item_HP_Alche
 I;농축 이동속도 향상의 포션;16;item_speed_requid_1
 I;라무넬레;1;icon_item_Ramunele
 I;라오도넬리스;1;icon_item_Raudonelis
@@ -12,7 +12,7 @@ I;발래리요나스;1;icon_item_Valerijonas
 I;보급용 HP포션;99;item_HP_oil_2
 I;보급용 SP포션;99;item_SP_requid_2
 I;보급용 농축 HP포션 LV15;97;item_HP_oil_3
-I;보급용 농축 SP포션 LV15;90;item_SP_requid_3
+I;보급용 농축 SP포션 LV15;84;item_SP_requid_3
 I;보급용 작은 HP포션;125;item_HP_oil_1
 I;보급용 작은 SP포션;243;item_SP_requid_1
 I;보급용 작은 스태미나 알약;23;item_STA_pill_1
@@ -88,7 +88,6 @@ I;컬렉션: 초보자의 무기;1;icon_item_box
 I;컬렉션: 코발트 숲;1;icon_item_box
 I;컬렉션: 테넷 화원;1;icon_item_box
 G;Premium
-I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
@@ -191,7 +190,6 @@ G;Armor
 I;엘고스 부츠;1;icon_item_boots_scholar
 I;카울라스 레더 부츠;1;icon_item_boots_kaulas
 I;카프리선 부츠;1;icon_item_boots_brigan
-I;크라이지어스 그리브;1;icon_item_boots_kryzius
 I;(바랜)칼리니스 글로브;1;icon_item_gloves_kailinis
 I;베르타스 카울라스 레더 글로브;1;icon_item_gloves_kaulas
 I;카프리선 글로브;1;icon_item_gloves_brigan
@@ -213,9 +211,9 @@ I;질럿 컨트리션 코스튬;1;icon_item_zealot2_f
 I;질럿 퍼티션 코스튬;1;icon_item_zealot4_f
 I;프리스트 코스튬;1;icon_item_prist_f
 G;Material
-I;기슬로티스;97;icon_item_Gyslotis
-I;성수;297;icon_item_holywater
-I;홀리 파우더;98;icon_item_powderw
+I;기슬로티스;93;icon_item_Gyslotis
+I;성수;293;icon_item_holywater
+I;홀리 파우더;94;icon_item_powderw
 I;주석;1;1_item_ore_copper
 I;호박;3;22_item_ore_amber
 I;그루머 잎;2;icon_item_leaves_green
@@ -265,10 +263,5 @@ I;파괴된 결계의 조각;3;icon_item_pieceofglass
 I;파괴용 주술인형 소환서;1;GolemMagicItem1
 I;화살 묶음;1;item_icon_barbedhead_arrow
 G;Weapon
-I;페버디마스 메이스;1;icon_item_pabudimas_mace
 I;(바랜)미간티스 로드;1;icon_item_miegantis_rod
-I;비트 코로나 로드;1;icon_item_rune_staff
-I;서번트 로드;1;icon_item_rune_staff
-I;페버디마스 투 핸드 메이스;1;icon_item_pabudimas_mace_twohand
-I;아티 부쿤 스태프;1;Mage_f_staff_stagstaff
 I;크리티 캐논;1;cannon_cannon_red
