@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;99999;icon_item_silver
 G;Drug
 I;보급용 레드옥스;11;icon_item_Red_Ox
 I;바루날레샤;1;icon_item_Varnalesa
@@ -43,7 +43,7 @@ I;베이키얼의 답장;1;icon_item_indulgence
 I;부스러져가는 공문;1;icon_item_magicpaper
 I;낡은 일기;1;icon_item_collection_04Black
 G;Recipe
-I;제작서-뚫어뻥;25;icon_item_weapon_misc5
+I;제작서-뚫어뻥;26;icon_item_weapon_misc5
 G;Collection
 I;컬렉션: 이브레 고원;1;icon_item_box
 I;컬렉션: 스벤티마스 유형지;1;icon_item_box
@@ -225,4 +225,3 @@ G;Weapon
 I;리가드 혼 파이크;1;icon_item_spear_regardhorn_TH
 I;프리머스 라파이 파이크;1;icon_item_spear_twohand_lapai
 I;프리머스 라파이 파이크;1;icon_item_spear_twohand_lapai
-I;일기당천 언월도;1;icon_item_BlueDragon_thspear

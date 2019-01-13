@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;99999;icon_item_silver
 G;Drug
 I;100일 기념 포션;1;item_speed_requid_3
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
@@ -108,20 +108,21 @@ I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
 I;궁수용 심플 컬러 코스튬(여);1;archer_simplecolor_f
 I;궁수용 파티 드레스 코스튬(여);1;icon_item_archer_bluepeacock_f
-I;궁수의 제복 코스튬(여);1;icon_item_archer_uniform_f
+I;궁수의 너구리 코스튬(여);1;icon_item_archer_racoon_f
 I;궁수의 매니시룩 코스튬(여);1;icon_item_archer_manish_f
 I;궁수의 세일러복 코스튬(여);1;icon_item_archer_schoolsalor_f
-I;궁수의 너구리 코스튬(여);1;icon_item_archer_racoon_f
-I;궁수의 스쿨룩 코스튬(여);1;icon_item_archer_school_f
-I;초대에 응한 자 코스튬(여);1;icon_item_blacksuit01_f
-I;쿼렐슈터 스페셜 코스튬(여);1;icon_item_archer_quarreelshooter01_3_f
-I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 I;궁수의 수영복 코스튬(여);1;icon_item_archer_mizuki_f
+I;궁수의 스쿨룩 코스튬(여);1;icon_item_archer_school_f
+I;궁수의 제복 코스튬(여);1;icon_item_archer_uniform_f
+I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
+I;초대에 응한 자 코스튬(여);1;icon_item_blacksuit01_f
+I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
+I;쿼렐슈터 스페셜 코스튬(여);1;icon_item_archer_quarreelshooter01_3_f
 I;하급 용병 코스튬(여);1;icon_item_lowtactic01_f
 G;Armor
 I;감정사 코스튬;1;icon_item_appraiser_f
-I;쿼렐슈터 코스튬;1;icon_item_quarrelshooter_f
 I;캐노니어 코스튬;1;icon_item_archer_cannoneer_f
+I;쿼렐슈터 코스튬;1;icon_item_quarrelshooter_f
 G;Material
 I;모루;17;icon_item_anvil
 I;황금 모루;3;icon_item_anvil_gold

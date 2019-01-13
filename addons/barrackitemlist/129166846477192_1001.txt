@@ -148,8 +148,6 @@ G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
-I;초대에 응한 자 코스튬(여);1;icon_item_blacksuit01_f
-I;전사용 심플 컬러 코스튬(여);1;warrior_simplecolor_f
 G;Material
 I;모루;8;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1

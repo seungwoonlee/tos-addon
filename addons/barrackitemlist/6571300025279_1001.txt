@@ -106,6 +106,9 @@ I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
 I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
 I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
 I;인스턴스 던전 배수 토큰;32;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -167,7 +170,6 @@ I;확성기;162;icon_item_Mike
 I;확성기 10개 상자;1;icon_item_Mike_bundle
 I;축제용 심플 코스튬(남);1;icon_item_simple_festival_m
 G;Armor
-I;턴 부츠;1;icon_item_boots_sage_white
 I;바르그아르 플레이트 건틀릿;1;icon_item_vargu_gloves
 I;베르타스 라즈나 레더 글로브;1;icon_item_razna_gloves
 I;베르타스 마로네 글로브;1;icon_item_malone_gloves
@@ -175,20 +177,14 @@ I;슈페리어 그리마 글로브;1;icon_item_gloves_highmage
 I;슈페리어 그리마 글로브;1;icon_item_gloves_highmage
 I;턴 글로브;1;icon_item_gloves_sage_white
 I;턴 레더 글로브;1;icon_item_gloves_gairas_gray
-I;턴 플레이트 건틀릿;1;icon_item_gloves_SRchain
 I;턴 팬츠;1;icon_item_pants_sage_white
 I;턴 팬츠;1;icon_item_pants_sage_white
-I;턴 플레이트 레깅스;1;icon_item_pants_SRchain
 I;턴 플레이트 레깅스;1;icon_item_pants_SRchain
 I;카이트 실드;1;icon_item_Shield_9
 I;턴 로브;1;icon_item_shirts_sage_white
-I;턴 플레이트 아머;1;icon_item_shirts_SRchain
 I;노비스 네클리스;1;item_necklace_10
-I;유코푸스 네클리스;1;item_necklace_11
 I;노블 브레이슬릿;1;item_bracelet_03
 I;부베 뱅글;1;item_bracelet_16
-I;크리스탈 뱅글;1;item_bracelet_15
-I;홈 파인 뱅글;1;item_bracelet_15
 I;엘리멘탈리스트 코스튬;1;icon_item_warrock_f
 G;Material
 I;모루;4;icon_item_anvil

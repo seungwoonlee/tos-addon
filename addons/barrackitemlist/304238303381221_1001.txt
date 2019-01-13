@@ -70,21 +70,21 @@ G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 G;Drug
 I;리사이클 메달;122;icon_item_recyclemedal
-I;SP 회복 소형 엘릭서 ;5;icon_item_SPelixir_Small
-I;[PC방] HP 회복 소형 엘릭서 ;18;icon_item_random_hpellixerbox
+I;SP 회복 소형 엘릭서 ;4;icon_item_SPelixir_Small
+I;[PC방] HP 회복 소형 엘릭서 ;17;icon_item_random_hpellixerbox
 I;[Re:Build] 축복이 깃든 씨앗;14;icon_item_event161215_01
 I;고농축 HP포션;169;item_HP_oil_3
 I;고농축 SP포션;142;item_SP_requid_3
 I;고농축 이동속도 증가 포션;20;item_speed_requid_1
-I;농축 HP포션 LV15;45;icon_item_HP_Alche
-I;농축 SP포션 LV15;11;icon_item_SP_Alche
+I;농축 HP포션 LV15;42;icon_item_HP_Alche
+I;농축 SP포션 LV15;7;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;80;item_speed_requid_1
 I;레드옥스;6;icon_item_Red_Ox
 I;루팅 찬스 증가 포션;9;icon_item_looting_potion_01
 I;바루날레샤;1;icon_item_Varnalesa
 I;보급용 SP포션;30;item_SP_requid_2
-I;보급용 농축 HP포션 LV15;453;item_HP_oil_3
-I;보급용 농축 SP포션 LV15;343;item_SP_requid_3
+I;보급용 농축 HP포션 LV15;450;item_HP_oil_3
+I;보급용 농축 SP포션 LV15;341;item_SP_requid_3
 I;보급용 이동속도 증가 포션;3;item_speed_requid_1
 I;보급용 작은 스태미나 알약;22;item_STA_pill_1
 I;보급용 작은 회복포션;3;item_HPSP_potion_1
@@ -170,8 +170,9 @@ I;파이라이트;2;32_item_ore_pyrite
 I;헤일매리 애로우;149;item_icon_hail_mary_arrow
 I;주석;1;1_item_ore_copper
 I;호박;1;22_item_ore_amber
+I;시에라 가루;10;icon_item_breakpowder_2
 I;LV2 보물상자 열쇠;2;icon_item_key1
-I;[Re:Build] 기념 주화;28;icon_item_rebuild_coin
+I;[Re:Build] 기념 주화;8;icon_item_rebuild_coin
 I;갈고리;1;icon_item_claw_01
 I;거대한 갈고리;6;icon_item_claw_01
 I;그롤의 뿔;1;icon_item_shorthorn

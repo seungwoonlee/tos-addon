@@ -104,9 +104,6 @@ I;플락의 갑옷조각;1;icon_item_FORMINE_ARMOR_SCAPULAR
 I;하나밍 꽃잎;2;icon_item_HanamingPetal
 I;할로우벤터의 손뼈;3;icon_item_bone
 I;노란 파이란 날개;2;icon_item_batwing
-I;붉은 발래리요나스;5;icon_item_Valerijonas_Red
-I;노란 뷰올리우이다스;3;icon_item_Geranium_farm_Yellow
-I;파란 아우로라파스;5;icon_item_maple_25_grassflute_Blue
 I;붉은 슬라임의 핵;2;38_item_ore_mercury
 I;귀환석;1;MercenaryBadge
 G;Quest

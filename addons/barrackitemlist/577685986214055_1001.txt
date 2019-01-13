@@ -29,7 +29,6 @@ I;이동속도 향상의 포션;2;item_speed_requid_1
 I;이동속도 향상의 포션:1시간;4;item_speed_requid_1
 I;정착 지원 포션;9;item_speed_requid_3
 I;정착 지원 포션 Lv2;83;item_speed_requid_3
-I;축복이 깃든 씨앗;4;icon_item_event161215_01
 I;클라페다 워프 주문서;15;GolemMagicItem1
 I;포포리온 고기;11;icon_item_meat_02
 I;해독제;19;icon_item_Quest_00020
@@ -46,17 +45,6 @@ I;다과 세트;1;icon_item_artefact_Tea_Set
 I;다과 세트;1;icon_item_artefact_Tea_Set
 I;클라페다 카프리콘즈 응원 슬로건;1;icon_item_aretfact_victory_purple
 I;푸드 커버;1;icon_item_artefact_Dome_Cover
-G;Collection
-I;계시록: 대립편 컬렉션;1;icon_item_holyark
-I;컬렉션: 기원의 숲;1;icon_item_box
-I;컬렉션: 네프리타스 벼랑;1;icon_item_box
-I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
-I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
-I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
-I;컬렉션: 수정광산 2층;1;icon_item_box
-I;컬렉션: 수정광산 3층;1;icon_item_box
-I;컬렉션: 스라우타스 협곡;1;icon_item_box
-I;컬렉션: 지마 수코트;1;icon_item_box
 G;SubWeapon
 I;이스토라 리볼버;1;icon_item_revolver
 G;Book
@@ -112,11 +100,17 @@ G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 I;낡은 보급용 낚싯대;1;icon_item_Fishing_Rod_1
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
-G;Gem
-I;레드 젬;Lv1;item_icon_circle150
-I;그린 젬;Lv1;item_icon_Dia150
-I;블루 젬;Lv1;item_icon_Square150
-I;옐로우 젬;Lv1;item_icon_Star150
+G;Collection
+I;계시록: 대립편 컬렉션;1;icon_item_holyark
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 네프리타스 벼랑;1;icon_item_box
+I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
+I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
+I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
+I;컬렉션: 수정광산 2층;1;icon_item_box
+I;컬렉션: 수정광산 3층;1;icon_item_box
+I;컬렉션: 스라우타스 협곡;1;icon_item_box
+I;컬렉션: 지마 수코트;1;icon_item_box
 G;Premium
 I;긴급 수리 키트;3;icon_item_repairkit
 I;소울 크리스탈;33;icon_item_soulCrystal
@@ -191,7 +185,6 @@ I;거대한 갈고리;2;icon_item_claw_01
 I;그루머 잎;7;icon_item_leaves_green
 I;그리바루 방울;2;icon_item_crystal_yellow
 I;나무 말뚝;4;icon_item_wood_3
-I;노란 뷰올리우이다스;3;icon_item_Geranium_farm_Yellow
 I;노란 파이란 날개;4;icon_item_batwing
 I;러블렘 파편;1;icon_item_Misc_00006
 I;레비 털;42;icon_item_fur_01Yellow
@@ -206,7 +199,6 @@ I;밴시의 사념체;1;icon_item_spirit_orange
 I;벨리글러 깃털;3;icon_item_feather_03Green
 I;부베 활대;1;icon_item_bubebow
 I;부베족의 증표;17;icon_item_bubetoken
-I;붉은 발래리요나스;2;icon_item_Valerijonas_Red
 I;붉은 슬라임의 핵;2;38_item_ore_mercury
 I;붉은 위저드 주술 인형의 핵;1;38_item_ore_mercury
 I;소나무;2;icon_item_wood_3
@@ -241,7 +233,6 @@ I;코카트리스 깃털;2;icon_item_feather_02Yellow
 I;콜리플라이 수술;1;icon_item_small_bag
 I;톤투리아의 가시;1;icon_item_thorn_Yellow
 I;트리펠리의 결정;1;icon_item_crystal_yellow
-I;파란 아우로라파스;3;icon_item_maple_25_grassflute_Blue
 I;판토족의 뿔;4;icon_item_pantohorn
 I;포쿠부 가죽;1;icon_item_Misc_00011
 I;플로르;1;icon_item_crystal_green

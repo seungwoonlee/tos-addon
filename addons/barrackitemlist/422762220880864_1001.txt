@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;99999;icon_item_silver
 G;Drug
 I;붉은 케파 조각;2;OnionPiece_Red
 I;보급용 이동속도 증가 포션;3;item_speed_requid_1
@@ -28,12 +28,12 @@ I;케이스타스 회복포션Lv2;5;item_HPSP_potion_2
 I;식빵;87;icon_item_whitebread
 I;폭죽;20;icon_item_firework
 I;케이스타스 용맹의 포션;5;icon_item_Drug_exATK1
-I;농축 SP포션 LV15;21;icon_item_SP_Alche
+I;농축 SP포션 LV15;20;icon_item_SP_Alche
 I;해독제;30;icon_item_Quest_00020
 I;복숭아;2;icon_item_Peach
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;농축 HP포션 LV15;12;icon_item_HP_Alche
+I;농축 HP포션 LV15;11;icon_item_HP_Alche
 I;보급용 작은 HP포션;200;item_HP_oil_1
 I;보급용 작은 SP포션;200;item_SP_requid_1
 I;보급용 SP포션;200;item_SP_requid_2
@@ -77,7 +77,7 @@ I;황금 모루;4;icon_item_anvil_gold
 I;모루;15;icon_item_anvil
 I;파이라이트;10;32_item_ore_pyrite
 I;크리오라이트;12;39_icon_item_Cry8rite
-I;마법 가루;494;icon_item_MagicPowder
+I;마법 가루;466;icon_item_MagicPowder
 I;주석;4;1_item_ore_copper
 I;갈고리;10;icon_item_claw_01
 I;말라두의 고기;29;icon_item_meat_02
@@ -247,9 +247,8 @@ I;영험한 가루;1;icon_item_sesami
 I;기침약;8;icon_item_holywater
 I;깨진 마력핵 조각;8;icon_item_pieceofglass
 G;Armor
-I;나뭇잎 장식 투구;1;accessory_leafhelm
 I;스파르타 투구;1;icon_item_red_long_helmet
 I;에보니 룩;1;icon_item_accessory_chessRook
-I;강철 투구;1;hairacc_35_helm3
+I;나뭇잎 장식 투구;1;accessory_leafhelm
 I;스콰이어 코스튬;1;icon_item_squire_f
 I;불릿 마커 코스튬;1;icon_item_bulletmarker_f

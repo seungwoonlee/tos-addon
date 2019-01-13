@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;39206;icon_item_silver
+I;실버;99999;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;30;icon_item_HPelixir_Small
 I;보급용 SP포션;30;item_SP_requid_2

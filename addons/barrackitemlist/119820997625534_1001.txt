@@ -17,7 +17,6 @@ I;컬렉션: 지마 수코트;1;icon_item_box
 G;Event
 I;인스턴스 던전 입장 횟수 초기화권:14일;1;icon_item_indunFreeEnter
 I;특성 포인트 10,000;10;icon_item_abilitypoint4
-I;특성 포인트 500 (14일);1;icon_item_abilitypoint2
 I;연하장;1;icon_item_event_invitation2
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
@@ -61,14 +60,14 @@ I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 G;Drug
 I;리사이클 메달;32;icon_item_recyclemedal
 I;100일 기념 포션;24;item_speed_requid_3
-I;HP 회복 소형 엘릭서 ;9;icon_item_HPelixir_Small
-I;[PC방] SP 회복 소형 엘릭서 ;14;icon_item_random_spellixerbox
+I;HP 회복 소형 엘릭서 ;8;icon_item_HPelixir_Small
+I;[PC방] SP 회복 소형 엘릭서 ;13;icon_item_random_spellixerbox
 I;[Re:Build] 축복이 깃든 씨앗;13;icon_item_event161215_01
 I;고농축 HP포션;289;item_HP_oil_3
-I;고농축 SP포션;142;item_SP_requid_3
+I;고농축 SP포션;139;item_SP_requid_3
 I;고농축 이동속도 증가 포션;23;item_speed_requid_1
-I;농축 HP포션 LV15;40;icon_item_HP_Alche
-I;농축 SP포션 LV15;27;icon_item_SP_Alche
+I;농축 HP포션 LV15;37;icon_item_HP_Alche
+I;농축 SP포션 LV15;22;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;60;item_speed_requid_1
 I;딜겔레;1;icon_item_Dilgele
 I;라무넬레;1;icon_item_Ramunele
@@ -161,11 +160,11 @@ I;[Re:Build] 빛나는 황금 모루;1;icon_item_anvil_gold
 I;모루;17;icon_item_anvil
 I;크리오라이트;3;39_icon_item_Cry8rite
 I;파이라이트;6;32_item_ore_pyrite
-I;포지;6;icon_item_Forge
+I;포지;5;icon_item_Forge
 I;주석;1;1_item_ore_copper
 I;호박;6;22_item_ore_amber
 I;LV2 보물상자 열쇠;1;icon_item_key1
-I;[Re:Build] 기념 주화;11;icon_item_rebuild_coin
+I;[Re:Build] 기념 주화;21;icon_item_rebuild_coin
 I;거대한 갈고리;7;icon_item_claw_01
 I;그루머 잎;8;icon_item_leaves_green
 I;그리바 줄기;1;icon_item_stem_yellow
@@ -279,6 +278,7 @@ I;하나밍 꽃잎;8;icon_item_HanamingPetal
 I;할로우벤터의 손뼈;4;icon_item_bone
 I;호그마 엄니;3;icon_item_tooth_white
 I;호글란 부리;1;icon_item_small_bag
+I;레이드 포탈 스톤;1;icon_item_dungeon_portalstone
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;검 연습대 제작 도구;1;icon_item_Quest_00017

@@ -133,6 +133,7 @@ I;벚꽃 로맨스 세일러복 코스튬(여);1;icon_item_pink_Sailor01_f
 I;뱀파이어 코스튬(여);1;icon_item_vampire02_f
 I;레드 메이드 코스튬(여);1;icon_item_maiduniform_red_f
 G;Armor
+I;호랑나비;1;hairacc_17_butterfly
 I;어쌔신 리즈다스 플레저;1;icon_item_scoutCos_assa01_f
 I;아웃로 더크더즈;1;icon_item_scoutCos_outlaw01_f
 I;어쌔신 리즈다스 키퍼;1;icon_item_scoutCos_assa02_f
@@ -223,8 +224,6 @@ I;하나밍 꽃잎;4;icon_item_HanamingPetal
 I;하루갈 뼈;2;icon_item_bone
 I;하얀 웬디고 활대;5;icon_item_bow_wendigo_white
 I;할로우벤터의 손뼈;5;icon_item_bone
-I;붉은 발래리요나스;3;icon_item_Valerijonas_Red
-I;파란 아우로라파스;4;icon_item_maple_25_grassflute_Blue
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01

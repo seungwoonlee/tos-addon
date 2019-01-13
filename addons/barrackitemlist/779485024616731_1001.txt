@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;99999;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
@@ -22,8 +22,8 @@ I;페디미안 워프 주문서;9;GolemMagicItem1
 I;포포리온 고기;19;icon_item_meat_02
 I;해독제;10;icon_item_Quest_00020
 I;보급용 작은 HP포션;100;item_HP_oil_1
-I;보급용 작은 SP포션;100;item_SP_requid_1
-I;보급용 HP포션;100;item_HP_oil_2
+I;보급용 작은 SP포션;99;item_SP_requid_1
+I;보급용 HP포션;99;item_HP_oil_2
 I;보급용 SP포션;100;item_SP_requid_2
 I;보급용 큰 HP포션;100;item_HP_oil_3
 I;보급용 큰 SP포션;100;item_SP_requid_3
@@ -39,8 +39,6 @@ I;블루 오브:이노움;1;icon_item_Dreamshade
 I;블루 오브:츄파카브라;1;icon_item_Dreamshade
 I;블루 오브:코왁;1;icon_item_Dreamshade
 I;블루 오브:하루갈;1;icon_item_Dreamshade
-G;SubWeapon
-I;디오니스 암밴드;1;icon_item_armband_dinios
 G;Book
 I;남작 사병 차고스의 일지;1;icon_item_diary
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
@@ -186,4 +184,4 @@ I;펜듈럼;1;icon_item_pendulum
 I;화살 묶음;1;item_icon_barbedhead_arrow
 G;Weapon
 I;머스킷;1;Musket_it_w_oldpistol_1
-I;베르타스 즈바이더 머스킷;1;icon_item_mus_nicopolis1
+I;프리머스 즈바이더 머스킷;1;icon_item_mus_nicopolis1

@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;99999;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
@@ -8,7 +8,7 @@ I;고농축 HP포션;40;item_HP_oil_3
 I;고농축 SP포션;37;item_SP_requid_3
 I;고농축 이동속도 증가 포션;10;item_speed_requid_1
 I;긴급 수리 키트;2;icon_item_repairkit
-I;농축 HP포션 LV15;18;icon_item_HP_Alche
+I;농축 HP포션 LV15;17;icon_item_HP_Alche
 I;농축 SP포션 LV15;30;icon_item_SP_Alche
 I;대형 HP포션;4;item_HP_oil_3
 I;대형 SP포션;2;item_SP_requid_3
@@ -24,6 +24,7 @@ I;보급용 작은 회복포션;1;item_HPSP_potion_1
 I;보급용 큰 HP포션;100;item_HP_oil_3
 I;보급용 큰 SP포션;100;item_SP_requid_3
 I;붉은 케파 조각;3;OnionPiece_Red
+I;아말라스;2;icon_item_Amalas
 I;아비에테;1;icon_item_Aviete
 I;오르샤 워프 주문서;10;GolemMagicItem1
 I;이동속도 향상의 포션;3;item_speed_requid_1
@@ -41,6 +42,7 @@ I;페디미안 워프 주문서;7;GolemMagicItem1
 I;포포리온 고기;12;icon_item_meat_02
 I;해독제;10;icon_item_Quest_00020
 I;LV14 경험치 카드;67;icon_item_expcard
+I;LV5 경험치 카드;2;icon_item_expcard
 I;LV6 경험치 카드;7;icon_item_expcard
 I;LV7 경험치 카드;4;icon_item_expcard
 I;LV8 경험치 카드;2;icon_item_expcard
@@ -62,10 +64,16 @@ I;찢어진 일기의 일부 1;1;icon_item_paperpiece
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
 I;카듀멜 시대의 갑주;1;icon_item_collection_04Black
 G;Recipe
-I;제작서-마시니오스 로드;1;icon_item_weapon_misc5
+I;제작서-마시니오스 대거;1;icon_item_weapon_misc5
+I;제작서-마시니오스 로드;2;icon_item_weapon_misc5
+I;제작서-마시니오스 파이크;1;icon_item_weapon_misc5
+I;제작서-일룬;1;icon_item_weapon_misc1
+I;제작서 - 아시오 스태프;1;icon_item_weapon_misc5
+I;제작서-라이타스 글로브;1;icon_item_gloves_misc5
 I;제작서-아우스라 그리브;1;icon_item_boots_misc5
 I;제작서-아우스라 플레이트 아머;1;icon_item_shirts_misc5
 I;제작서-아우스라 플레이트 팬츠;1;icon_item_pants_misc5
+I;제작서-피에타스 레더 팬츠;1;icon_item_pants_misc5
 I;제작서-레다스 네클리스;2;icon_item_necklace_misc3
 I;제작서-메이스트라 브레이슬릿;1;icon_item_bracelet_misc4
 I;제작서-미르티 브레이슬릿;6;icon_item_bracelet_misc4
@@ -75,9 +83,11 @@ I;제작서-아키바 브레이슬릿;7;icon_item_bracelet_misc4
 I;제작서-아티카 네클리스;1;icon_item_necklace_misc4
 I;제작서-우프올 펄 브레이슬릿;11;icon_item_bracelet_misc4
 I;제작서-제메이 네클리스;2;icon_item_necklace_misc3
-I;제작서-피크오 펄 브레이슬릿;4;icon_item_bracelet_misc4
+I;제작서-파다;1;icon_item_bracelet_misc5
+I;제작서-피크오 펄 브레이슬릿;5;icon_item_bracelet_misc4
+I;제작서-아그니 네클리스;1;icon_item_necklace_misc3
 I;제작서-x8 경험의 서;5;icon_item_recipe_misc1
-I;제작서-레이드 포탈 스톤;62;icon_item_recipe_misc1
+I;제작서-레이드 포탈 스톤;79;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 G;Collection
@@ -118,22 +128,12 @@ I;컬렉션: 테넷 성당 지상 1층;1;icon_item_box
 I;컬렉션: 테넷 성당 지상 2층;1;icon_item_box
 I;컬렉션: 테넷 화원;1;icon_item_box
 I;컬렉션: 필그림 들길;1;icon_item_box
-G;Helmet
-I;송편 헬멧 코스튬;1;icon_item_helmet_songpyun
-I;송편 헬멧 코스튬;1;icon_item_helmet_songpyun
-I;송편 헬멧 코스튬;1;icon_item_helmet_songpyun
 G;Premium
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
-I;[Re:Build] 380 유니크 무기 제작서 선택 상자;1;icon_item_event_recipebox2
-I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
-I;벚꽃 로맨스 세일러복 코스튬(여);1;icon_item_pink_Sailor01_f
-I;상어 해적단 코스튬(여);1;icon_item_cosair03_f
-I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
-I;에보니 나이트 코스튬(여);1;icon_item_chessUniform02_f
 G;Material
 I;모루;13;icon_item_anvil
-I;종이 인형;4710;icon_item_paperdoll
+I;종이 인형;4702;icon_item_paperdoll
 I;크리오라이트;1;39_icon_item_Cry8rite
 I;파이라이트;299;32_item_ore_pyrite
 I;주석;4;1_item_ore_copper
@@ -162,14 +162,15 @@ I;레무리아의 꼬리;1;icon_item_Quest_00017
 I;레푸스버니 털;1;icon_item_fur_05Gray
 I;록타눈 깃털;3;icon_item_feather_00Basic
 I;루나엔젤의 나팔;13;icon_item_misc_0511
-I;리디아의 붉은 꽃;6;icon_item_misc_0519
+I;니코폴리스 은하 방울;5;icon_item_misc_0526
 I;리자드맨 송곳니;1;icon_item_canine
 I;리프넛의 뿔;3;icon_item_shorthorn
 I;리플라이 날개;7;icon_item_bugwing
 I;말라두의 고기;24;icon_item_meat_02
 I;묘지 골렘의 핵;13;icon_item_core_blue
-I;물푸레나무;3;icon_item_wood_2
+I;물푸레나무;4;icon_item_wood_2
 I;미노스의 뼈;7;icon_item_bone
+I;밀납;1;icon_item_wax
 I;바를거너의 대포 조각;1;icon_item_misc_0512
 I;바를스키퍼의 검신;4;icon_item_misc_0513
 I;바를헬름즈먼의 둔기 머리;12;icon_item_misc_0514
@@ -189,7 +190,7 @@ I;붉은 슬라임의 핵;4;38_item_ore_mercury
 I;비테록시아 잎;8;icon_item_leaves_blue
 I;사막 츄파카브라 고기;3;icon_item_meat_01
 I;사우가의 핵;1;icon_item_core_yellow
-I;소나무;3;icon_item_wood_3
+I;소나무;9;icon_item_wood_3
 I;소켓의 껍질;5;icon_item_shell_blue
 I;송진;3;37_item_ore_sulfur
 I;수은;4;38_item_ore_mercury
@@ -231,8 +232,9 @@ I;코도모르 가시;10;icon_item_thorn_blue
 I;코릴러스의 뿔;1;icon_item_pantohorn
 I;코카트리스 깃털;1;icon_item_feather_02Yellow
 I;쿠게리의 천조각;2;icon_item_clothpiece_white
-I;크레토의 깃털;8;icon_item_misc_0518
+I;크레토의 깃털;11;icon_item_misc_0518
 I;타마 잎;7;icon_item_leaves_red
+I;타마의 껍질;1;icon_item_tamashell
 I;트리피드 가시;1;icon_item_thorn_green
 I;티켄의 뼈;1;icon_item_bone
 I;티피오의 꽃술;11;icon_item_tipiostamen
