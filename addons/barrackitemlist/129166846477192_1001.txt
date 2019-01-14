@@ -32,18 +32,18 @@ I;포포리온 고기;11;icon_item_meat_02
 I;폭죽;25;icon_item_firework
 I;LV13 경험치 카드;11;icon_item_expcard
 I;LV14 경험치 카드;20;icon_item_expcard
+I;기슬로티스 씨앗;2;icon_item_seed_green
+I;길드 타워;1;icon_item_guildtower
+I;라벤더 씨앗;2;icon_item_seed_red
 I;라오도넬리스 씨앗;2;icon_item_seed_green
 I;레드 오브:주황 단델;1;icon_item_Dreamshade_red
 I;레드 오브:폰드;1;icon_item_Dreamshade_red
 I;로즈마리 씨앗;2;icon_item_seed_green
 I;마이루나스 씨앗;2;icon_item_seed_yellow
-I;라벤더 씨앗;2;icon_item_seed_red
 I;블루 오브:타마;1;icon_item_Dreamshade
 I;블루 오브:폰드;1;icon_item_Dreamshade
 I;아카데미;1;icon_item_Academy
-I;기슬로티스 씨앗;2;icon_item_seed_green
 I;요나졸레 씨앗;2;icon_item_seed_brown
-I;길드 타워;1;icon_item_guildtower
 I;디스펠러;47;icon_item_grimoire_blue
 I;신랑 비둘기 오르골;1;icon_item_MusicBox_Wedding01
 I;종이상자;1;icon_item_paperbox
@@ -58,7 +58,6 @@ I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;그을린 실마리;1;icon_item_PILGRIM_PIECE
 I;낡은 일기;1;icon_item_collection_04Black
 I;남작 비서 안돌의 일지;1;icon_item_collection_04Black
-I;버려진 일기장;1;icon_item_collection_00Basic
 I;록소나 내전 제 1장;1;icon_item_collection_01Red
 I;록소나 내전 제 2장;1;icon_item_collection_04Black
 I;루클리스 병영 일지 사본 1권;1;icon_item_collection_04Black
@@ -70,6 +69,7 @@ I;리디아 샤펜의 오늬;1;icon_item_collection_01Red
 I;마족 처단 명령서;1;Siaul_Act3_Confirmation
 I;마지막 기록;1;icon_item_paperpiece
 I;바스러져 가는 쪽지;1;icon_item_paper
+I;버려진 일기장;1;icon_item_collection_00Basic
 I;베이키얼의 답장;1;icon_item_indulgence
 I;부스러져가는 공문;1;icon_item_magicpaper
 I;분노로 휘갈긴 일지;1;icon_item_magicpaper
@@ -239,11 +239,13 @@ I;부러진 판토 소드;1;icon_item_bladepiece
 I;부베 활대;4;icon_item_bubebow
 I;부베족의 증표;5;icon_item_bubetoken
 I;부우크의 핵;6;icon_item_core_yellow
+I;붉은 글리퀘어의 조각;1;icon_item_small_bag
 I;붉은 레푸스버니 꼬리;4;icon_item_tail_repusbunny_red
 I;붉은 빅 그리바 갓;2;icon_item_mushroomcap
 I;붉은 소켓의 날개;1;icon_item_wig_socket_red
 I;붉은 소켓의 뿔;12;icon_item_horn_socket_red
 I;붉은 슬라임의 핵;9;38_item_ore_mercury
+I;붉은 위저드 주술 인형의 핵;2;38_item_ore_mercury
 I;붉은 인프로 락터의 껍질;1;icon_item_shell
 I;붉은 코카트 깃털;8;icon_item_feather_cockatries_red
 I;비카라스의 핵;2;icon_item_core_yellow
@@ -365,8 +367,6 @@ I;호글란 부리;3;icon_item_small_bag
 I;호헨 가죽;5;icon_item_Misc_00011
 I;호헨 깃발 조각;2;icon_item_flag_hohen
 I;회색 날개 개구리의 뼈;15;icon_item_bone
-I;붉은 위저드 주술 인형의 핵;2;38_item_ore_mercury
-I;붉은 글리퀘어의 조각;1;icon_item_small_bag
 I;누군가의 나무 망치;1;icon_item_farm47_wood_hammer
 I;귀환석;1;MercenaryBadge
 G;Quest

@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;99999;icon_item_silver
 G;Drug
 I;보급용 이동속도 증가 포션;9;item_speed_requid_1
 I;포포리온 고기;15;icon_item_meat_02
@@ -31,11 +31,13 @@ I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;케이스타스 회복포션Lv4;78;item_HPSP_potion_3
 I;붉은 케파 조각;1;OnionPiece_Red
 I;긴급 수리 키트;2;icon_item_repairkit
+I;딜겔레;3;icon_item_Dilgele
 I;보급용 HP포션;99;item_HP_oil_2
 I;보급용 큰 SP포션;100;item_SP_requid_3
 I;보급용 워프 주문서;2;GolemMagicItem1
 I;LV6 경험치 카드;1;icon_item_expcard
 I;LV14 경험치 카드;61;icon_item_expcard
+I;LV13 경험치 카드;7;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
 I;인챈트탄;12;icon_item_panto_core
 G;SubWeapon
@@ -61,6 +63,7 @@ I;남작 사병 차고스의 일지;1;icon_item_diary
 I;카듀멜 시대의 갑주;1;icon_item_collection_04Black
 G;Recipe
 I;제작서-살타스 스태프;1;icon_item_weapon_misc3
+I;제작서-마울;1;icon_item_weapon_misc1
 G;Collection
 I;컬렉션: 틸라 수도원;1;icon_item_box
 I;컬렉션: 테브린 종유동 1구역;1;icon_item_box
@@ -74,12 +77,12 @@ I;컬렉션: 왕릉 노역자 숙소;1;icon_item_box
 I;컬렉션: 왕릉 건축자 예배당;1;icon_item_box
 I;컬렉션: 사크니스 벌판;1;icon_item_box
 I;컬렉션: 드바시아 고개;1;icon_item_box
+I;컬렉션: 지마 수코트;1;icon_item_box
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
 G;Armor
-I;(바랜)옥시니스 부츠;1;icon_item_boots_Auksinis
 I;레다스 네클리스;1;item_necklace_21_blue
 I;크리오맨서 코스튬;1;icon_item_kriomancer_f
 I;사이코키노 코스튬;1;icon_item_psychokinesist_f
@@ -89,8 +92,8 @@ I;모루;2;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;파이라이트;23;32_item_ore_pyrite
-I;룬 스톤;182;icon_item_rune_stone_board
-I;크리오라이트;216;39_icon_item_Cry8rite
+I;룬 스톤;163;icon_item_rune_stone_board
+I;크리오라이트;211;39_icon_item_Cry8rite
 I;빈 스펠북;10;icon_item_emptySpellBook
 I;인프로 락터의 껍질;3;icon_item_shell
 I;치넨시 잎;3;icon_item_bokchoyleaf
@@ -175,8 +178,8 @@ I;시엘라;1;icon_item_Siela
 I;호헨 가죽;1;icon_item_Misc_00011
 I;리자드맨 뼈;4;icon_item_bone
 I;타마 잎;3;icon_item_leaves_red
-I;사크몰리 줄기;13;icon_item_stem_gray
-I;리디메드 줄기;11;icon_item_stem_gray
+I;사크몰리 줄기;15;icon_item_stem_gray
+I;리디메드 줄기;12;icon_item_stem_gray
 I;노란 요노움의 핵;6;icon_item_core_yellow
 I;노란 게이징 골렘의 핵;3;icon_item_core_yellow
 I;엘로마고 잎;1;icon_item_leaves_blue
@@ -232,6 +235,10 @@ I;트리굴 줄기;2;icon_item_stem_brown
 I;에큐바이트 이빨;1;icon_item_tooth_blue
 I;위버 더듬이;1;icon_item_feeler_black
 I;에큐바이트 더듬이;1;icon_item_feeler_purple
+I;노란 아르마의 꼬리;1;icon_item_Quest_00017
+I;노란 파이란 날개;1;icon_item_batwing
+I;붉은 위저드 주술 인형의 핵;1;38_item_ore_mercury
+I;붉은 슬라임의 핵;3;38_item_ore_mercury
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;수정광산의 계시;1;icon_item_stonetablet
@@ -256,6 +263,7 @@ I;몽당나무의 뿔조각;15;icon_item_shorthorn
 I;신비한 빛을 내는 결정;1;37_item_ore_sulfur
 I;마력 추적지도 : 살비야스 숲;1;GolemMagicItem1
 I;마족의 사악한 정수;1;icon_item_core_06Black
+I;흉작으로 죽은 농작물;13;icon_item_grassbladeb
 G;Weapon
 I;아이스 로드;1;staff_cane_lowver_up
 I;테메레;1;Mage_f_staff_servant_b

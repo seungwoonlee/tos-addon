@@ -158,14 +158,8 @@ I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Card
 I;모야브루카 카드;Lv1;icon_item_card_atk
 G;Armor
-I;베르타스 팽글 플레이트 그리브;1;icon_item_gladiuspangle_boots
 I;팽글 플레이트 그리브;1;icon_item_gladiuspangle_boots
-I;베르타스 팽글 플레이트 그리브;1;icon_item_gladiuspangle_boots
-I;베르타스 알프라 글로브;1;icon_item_alframerchant_gloves
-I;팽글 플레이트 글로브;1;icon_item_gladiuspangle_gloves
-I;팽글 플레이트 레깅스;1;icon_item_gladiuspangle_pants
 I;갈라티카 플레이트 아머;1;icon_item_shirts_frost
-I;팽글 플레이트 아머;1;icon_item_gladiuspangle_armor
 I;스틸 네클리스;1;item_necklace_10
 I;아이언 네클리스;1;item_necklace_10
 I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
@@ -183,7 +177,9 @@ I;파이라이트;15;32_item_ore_pyrite
 I;주석;3;1_item_ore_copper
 I;호박;3;22_item_ore_amber
 I;시에라 가루;10;icon_item_breakpowder_2
+I;아틸로늄;2;18_item_plantite
 I;LV2 보물상자 열쇠;1;icon_item_key1
+I;[Re:Build] 기념 주화;40;icon_item_rebuild_coin
 I;갈고리;5;icon_item_claw_01
 I;갈록 가죽;3;icon_item_Misc_00007
 I;갈색 라프세이프 잎;10;icon_item_leaves_lapasape_brown

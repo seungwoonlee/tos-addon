@@ -9,7 +9,9 @@ I;[Re:Build] 축복이 깃든 씨앗;8;icon_item_event161215_01
 I;고농축 이동속도 증가 포션;5;item_speed_requid_1
 I;농축 이동속도 향상의 포션;19;item_speed_requid_1
 I;딜겔레;2;icon_item_Dilgele
+I;보급용 HP포션;100;item_HP_oil_2
 I;보급용 HP포션 LV10;98;item_HP_oil_3
+I;보급용 SP포션;100;item_SP_requid_2
 I;보급용 SP포션 LV10;96;item_SP_requid_3
 I;보급용 농축 HP포션 LV15;99;item_HP_oil_3
 I;보급용 농축 SP포션 LV15;100;item_SP_requid_3
@@ -29,14 +31,12 @@ I;케이스타스 회복포션Lv1;5;item_HPSP_potion_1
 I;클라페다 워프 주문서;10;GolemMagicItem1
 I;포포리온 고기;5;icon_item_meat_02
 I;폭죽;5;icon_item_firework
-I;보급용 HP포션;100;item_HP_oil_2
-I;보급용 SP포션;100;item_SP_requid_2
 I;LV14 경험치 카드;2;icon_item_expcard
+I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;보급용 워프 주문서;19;GolemMagicItem1
 I;블루 오브:케파;1;icon_item_Dreamshade
 I;은빛 물고기;4;icon_item_fish2
-I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
 G;Collection
 I;컬렉션: 겔리 고원;1;icon_item_box
 I;컬렉션: 네프리타스 벼랑;1;icon_item_box
@@ -51,22 +51,23 @@ I;낡은 일기;1;icon_item_collection_04Black
 G;Recipe
 I;제작서-그레이트 소드;1;icon_item_weapon_misc1
 I;제작서-롱 아스타;1;icon_item_weapon_misc1
-I;제작서-틸리 투 핸드 소드;1;icon_item_weapon_misc4
 I;제작서-세이모스 메이스;2;icon_item_weapon_misc4
 I;제작서-틸리 보우;1;icon_item_weapon_misc4
+I;제작서-틸리 투 핸드 소드;1;icon_item_weapon_misc4
 I;제작서-그리마 로브;2;icon_item_shirts_misc1
 I;제작서-리에나 로브;1;icon_item_shirts_misc3
 I;제작서-카펜터 글로브;1;icon_item_gloves_misc3
+I;제작서-매듭진 암밴드;1;icon_item_recipe_misc1
 I;제작서-매직 탈리스만;5;icon_item_necklace_misc3
 I;제작서-샤인 브레이슬릿;1;icon_item_bracelet_misc3
-I;제작서-컨트롤 뱅글;2;icon_item_bracelet_misc3
+I;제작서-아그니 네클리스;2;icon_item_necklace_misc3
 I;제작서-안티 다크 네클리스;2;icon_item_necklace_misc3
 I;제작서-안티 콜드 브레이슬릿;4;icon_item_bracelet_misc3
-I;제작서-아그니 네클리스;2;icon_item_necklace_misc3
-I;제작서-매듭진 암밴드;1;icon_item_recipe_misc1
+I;제작서-컨트롤 뱅글;2;icon_item_bracelet_misc3
 I;제작서-x4 경험의 서;1;icon_item_recipe_misc1
 G;Premium
 I;15레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;170레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;40레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;75레벨 무기 / 방어구 선택상자;1;icon_item_event_weaponbox1
 I;[Re:Build] 인스턴스 던전 1회 입장권;3;icon_item_indunonemoreEnter
@@ -116,7 +117,9 @@ I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;워프 주문서;19;icon_item_warpPremium
 I;워프 주문서 10개 상자;1;icon_item_warpPremium_bundle
 I;인스턴스 던전 배수 토큰;7;icon_item_indunexmode
-I;170레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -212,53 +215,53 @@ I;마크 부츠;1;icon_item_boots_brigan
 I;마크 부츠;1;icon_item_boots_brigan
 I;퀼트 부츠;1;icon_item_boots_bube
 I;퀼트 부츠;1;icon_item_boots_bube
-I;턴 부츠;1;icon_item_boots_sage_white
 I;턴 레더 부츠;1;icon_item_boots_gairas_gray
+I;턴 레더 부츠;1;icon_item_boots_gairas_gray
+I;턴 레더 부츠;1;icon_item_boots_gairas_gray
+I;턴 부츠;1;icon_item_boots_sage_white
+I;턴 부츠;1;icon_item_boots_sage_white
 I;턴 부츠;1;icon_item_boots_sage_white
 I;턴 플레이트 그리브;1;icon_item_boots_SRchain
-I;턴 레더 부츠;1;icon_item_boots_gairas_gray
-I;턴 레더 부츠;1;icon_item_boots_gairas_gray
-I;턴 부츠;1;icon_item_boots_sage_white
 I;레더 글로브;1;icon_item_gloves_bube_blue
 I;마크 글로브;1;icon_item_gloves_brigan
 I;마크 글로브;1;icon_item_gloves_brigan
 I;퀼트 글로브;1;icon_item_gloves_bube
-I;팽글 플레이트 글로브;1;icon_item_gladiuspangle_gloves
-I;턴 플레이트 건틀릿;1;icon_item_gloves_SRchain
 I;턴 레더 글로브;1;icon_item_gloves_gairas_gray
-I;턴 팬츠;1;icon_item_pants_sage_white
+I;턴 플레이트 건틀릿;1;icon_item_gloves_SRchain
+I;팽글 플레이트 글로브;1;icon_item_gladiuspangle_gloves
 I;래그 팬츠;1;icon_item_pants_bube
 I;레더 팬츠;1;icon_item_pants_bube_blue
 I;턴 레더 팬츠;1;icon_item_pants_gairas_gray
-I;턴 팬츠;1;icon_item_pants_sage_white
-I;턴 팬츠;1;icon_item_pants_sage_white
-I;턴 팬츠;1;icon_item_pants_sage_white
 I;턴 레더 팬츠;1;icon_item_pants_gairas_gray
+I;턴 레더 팬츠;1;icon_item_pants_gairas_gray
+I;턴 팬츠;1;icon_item_pants_sage_white
+I;턴 팬츠;1;icon_item_pants_sage_white
+I;턴 팬츠;1;icon_item_pants_sage_white
+I;턴 팬츠;1;icon_item_pants_sage_white
+I;턴 팬츠;1;icon_item_pants_sage_white
+I;턴 팬츠;1;icon_item_pants_sage_white
 I;턴 플레이트 레깅스;1;icon_item_pants_SRchain
 I;턴 플레이트 레깅스;1;icon_item_pants_SRchain
-I;턴 팬츠;1;icon_item_pants_sage_white
-I;턴 팬츠;1;icon_item_pants_sage_white
-I;턴 레더 팬츠;1;icon_item_pants_gairas_gray
 I;우든 실드;1;icon_item_Shield_7
 I;우든 카이트 실드;1;icon_item_Shield_8
 I;우든 카이트 실드;1;icon_item_Shield_8
-I;턴 레더 튜닉;1;icon_item_shirts_gairas_gray
 I;라이트 아머;1;icon_item_shirts_bube
 I;알프라 로브;1;icon_item_alframerchant_armor
+I;턴 레더 튜닉;1;icon_item_shirts_gairas_gray
 I;턴 로브;1;icon_item_shirts_sage_white
 I;노비스 네클리스;1;item_necklace_10
+I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
+I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
+I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
+I;아우르 메달;1;item_necklace_19
+I;아우르 메달;1;item_necklace_19
 I;플라티나 메달;1;item_necklace_19
-I;아우르 메달;1;item_necklace_19
-I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
-I;아우르 메달;1;item_necklace_19
-I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
-I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
 I;라이트 아이언 뱅글;1;item_bracelet_08
+I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
+I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
+I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
 I;우든 뱅글;1;item_bracelet_20
 I;우든 뱅글;1;item_bracelet_20
-I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
-I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
-I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
 I;페더풋 코스튬;1;icon_item_mage_featherfoot_f
 G;Material
 I;연습용 모루;1;icon_item_anvil
@@ -304,11 +307,11 @@ I;메이스;1;mace
 I;파이브 해머;1;mace_blacksmith
 I;병사의 롱 로드;1;icon_item_Staff_1
 I;스케티스 로드;1;icon_item_rod_celenial
-I;크룩;1;icon_item_crook
 I;아이스 로드;1;staff_cane_lowver_up
+I;크룩;1;icon_item_crook
+I;만드라픽;1;sword_sabre_up
+I;만드라픽;1;sword_sabre_up
 I;케도란 벨니웁;1;icon_item_snickersnee_up
-I;만드라픽;1;sword_sabre_up
-I;만드라픽;1;sword_sabre_up
 I;아이언 보우;1;selfbow_up
 I;[Re:Build] 캔들 스태프 (30일);1;Mage_f_staff_candlestick
 I;스태프;1;Mage_f_staff_stick

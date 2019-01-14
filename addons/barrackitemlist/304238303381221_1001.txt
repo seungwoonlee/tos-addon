@@ -152,8 +152,6 @@ I;특성 포인트 상자 S급;1;icon_item_Ability_coupon_box_S
 I;확성기;228;icon_item_Mike
 I;확성기 10개 상자;1;icon_item_Mike_bundle
 I;확성기 50개 상자;3;icon_item_Mike_bundle
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
 I;[이벤트] 5초월 스크롤;1;icon_item_transcendence_coupon
 I;프리미엄 각성석;3;icon_item_awakeningstone
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
@@ -172,7 +170,7 @@ I;주석;1;1_item_ore_copper
 I;호박;1;22_item_ore_amber
 I;시에라 가루;10;icon_item_breakpowder_2
 I;LV2 보물상자 열쇠;2;icon_item_key1
-I;[Re:Build] 기념 주화;8;icon_item_rebuild_coin
+I;[Re:Build] 기념 주화;18;icon_item_rebuild_coin
 I;갈고리;1;icon_item_claw_01
 I;거대한 갈고리;6;icon_item_claw_01
 I;그롤의 뿔;1;icon_item_shorthorn

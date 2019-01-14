@@ -647,10 +647,10 @@ I;덴덴 꽃잎;1;icon_item_leaves_blue
 I;도요르 잎다발;2;icon_item_doyorleaf
 I;돌;9;icon_item_Misc_00004
 I;드레이크 고기;4;icon_item_meat_02
-I;드레이크의 뿔;2;icon_item_longhorn
+I;드레이크의 뿔;6;icon_item_longhorn
 I;드레이크의 피막;2;icon_item_batwing
 I;떡갈나무;15;icon_item_wood_1
-I;라플라워 뿌리;32;icon_item_onionroot
+I;라플라워 뿌리;33;icon_item_onionroot
 I;라플렛 꽃;7;icon_item_raffletflfower
 I;락터의 껍질;4;icon_item_shell_green
 I;램베어 뼈;27;icon_item_bone
@@ -736,7 +736,7 @@ I;소나무;8;icon_item_wood_3
 I;소켓의 껍질;24;icon_item_shell_blue
 I;소켓의 뿔;8;icon_item_pantohorn
 I;송진;9;37_item_ore_sulfur
-I;수은;34;38_item_ore_mercury
+I;수은;37;38_item_ore_mercury
 I;수정거미 더듬이;14;icon_item_feeler_blue
 I;수정거미 수정;3;icon_item_Crystal_00005
 I;쉬레디드의 천조각;17;icon_item_clothpiece_red
@@ -745,7 +745,7 @@ I;스타울리트 심장;5;item_icon_heart_red
 I;스톤오르카의 핵;21;icon_item_core_yellow
 I;시드 오일;1;icon_item_holywater_empty
 I;시스트 가시;2;icon_item_thorn_green
-I;시체의 손;72;icon_item_misc_spector_gh
+I;시체의 손;79;icon_item_misc_spector_gh
 I;식칼;35;icon_item_knife01
 I;신나바르;20;35_item_ore_phlogiston
 I;씨드미아 씨앗;5;icon_item_seed_brown
@@ -779,7 +779,7 @@ I;유리 조각;9;icon_item_pieceofglass
 I;유코테일 꼬리;8;icon_item_tail_jukotail
 I;유코푸스 잎;58;icon_item_leaves_blue
 I;유황;3;37_item_ore_sulfur
-I;은괴;1;icon_item_ironbar_s
+I;은괴;3;icon_item_ironbar_s
 I;이끼;4;icon_item_grassbladeg
 I;이노움의 핵;3;icon_item_core_purple
 I;인프로 락터의 껍질;20;icon_item_shell
@@ -864,7 +864,7 @@ I;트리펠리의 결정;9;icon_item_crystal_yellow
 I;트리피드 가시;5;icon_item_thorn_green
 I;티켄의 뼈;1;icon_item_bone
 I;파란 아우로라파스;4;icon_item_maple_25_grassflute_Blue
-I;판토족의 뿔;4;icon_item_pantohorn
+I;판토족의 뿔;25;icon_item_pantohorn
 I;팔라팜 조각 Lv1;17;KQ_recipe_hethran_material_1_3
 I;페릿의 털;42;icon_item_fur_spion_white
 I;펜딘마이어 가면;2;icon_item_mask_pendinmire
@@ -899,13 +899,13 @@ I;플락의 갑옷조각;5;icon_item_FORMINE_ARMOR_SCAPULAR
 I;플로론의 잎;2;icon_item_leaf
 I;피노의 줄기;2;icon_item_stem_brown
 I;피라콘 잎;41;icon_item_leaves_red
-I;피렌트 꽃;46;icon_item_firentflower
+I;피렌트 꽃;49;icon_item_firentflower
 I;하나밍 꽃잎;4;icon_item_HanamingPetal
 I;하루갈 가죽;5;icon_item_Misc_00009
 I;하루갈 뼈;25;icon_item_bone
 I;하밍 잎;7;icon_item_leaves_green
 I;하얀 스피온 털;6;icon_item_fur_spion_white
-I;하얀 웬디고 활대;71;icon_item_bow_wendigo_white
+I;하얀 웬디고 활대;76;icon_item_bow_wendigo_white
 I;하얀 점액;1;38_item_ore_mercury
 I;하얀 체인;14;icon_item_chain
 I;하이 부베족의 증표;16;icon_item_bubetoken
