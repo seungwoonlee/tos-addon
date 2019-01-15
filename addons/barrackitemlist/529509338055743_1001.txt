@@ -253,7 +253,6 @@ I;허밍버드의 날개;1;icon_item_bugwing
 I;호그마 엄니;1;icon_item_tooth_white
 I;호글란 부리;1;icon_item_small_bag
 I;호헨 가죽;1;icon_item_Misc_00011
-I;루나엔젤의 나팔;3;icon_item_misc_0511
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;가시숲의 계시;1;icon_item_stonetablet

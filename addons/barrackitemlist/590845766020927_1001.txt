@@ -57,7 +57,7 @@ I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 G;Drug
 I;[Re:Build] 축복이 깃든 씨앗;14;icon_item_event161215_01
 I;농축 HP포션 LV15;32;icon_item_HP_Alche
-I;농축 SP포션 LV15;31;icon_item_SP_Alche
+I;농축 SP포션 LV15;28;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;80;item_speed_requid_1
 I;딸기;2;icon_item_Strawberry
 I;레드옥스;1;icon_item_Red_Ox
@@ -110,6 +110,7 @@ G;Card
 I;템플슈터 카드;Lv10;icon_item_card_stat
 I;프로스터 로드 카드;Lv10;icon_item_card_atk
 I;툼로드 카드;Lv1;icon_item_card_atk
+I;툼로드 카드;Lv1;icon_item_card_atk
 G;Armor
 I;섀도우맨서 루너하이더 코스튬;1;icon_item_mage_shadowmancer04_f
 I;섀도우맨서 선하이더 코스튬;1;icon_item_mage_shadowmancer02_f
@@ -121,13 +122,14 @@ I;[Re:Build] 빛나는 황금 모루;1;icon_item_anvil_gold
 I;모루;1;icon_item_anvil
 I;연습용 모루;1;icon_item_anvil
 I;마법 가루;965;icon_item_MagicPowder
-I;빈 스펠북;21;icon_item_emptySpellBook
+I;빈 스펠북;20;icon_item_emptySpellBook
 I;시간의 결정;39;icon_item_timespace
 I;시간의 결정 파편;300;icon_item_spacepiece
-I;파이라이트;221;32_item_ore_pyrite
+I;파이라이트;217;32_item_ore_pyrite
 I;주석;2;1_item_ore_copper
 I;호박;8;22_item_ore_amber
 I;LV2 보물상자 열쇠;1;icon_item_key1
+I;[Re:Build] 기념 주화;10;icon_item_rebuild_coin
 I;각성 가루;9;icon_item_wakepowder
 I;갈록 가죽;1;icon_item_Misc_00007
 I;갈색 라프세이프 잎;6;icon_item_leaves_lapasape_brown
@@ -140,6 +142,7 @@ I;누덕고치의 껍질;1;icon_item_shell_blue
 I;단델의 날개;2;icon_item_batwing
 I;데스모두스 이빨;6;icon_item_tooth_yellow
 I;라우지누테의 껍질;7;icon_item_shell_red
+I;레이드 포탈 스톤;1;icon_item_dungeon_portalstone
 I;레지네이트;1;16_item_treenite
 I;리자드맨 송곳니;1;icon_item_canine
 I;메슘의 줄기;1;icon_item_stem_brown
@@ -172,7 +175,7 @@ I;에큐바이트 이빨;3;icon_item_tooth_blue
 I;엘마 머리카락;1;icon_item_hair_elma
 I;오넨 정수 Lv1;7;KQ_recipe_hethran_material_1_2
 I;오페러의 껍질;1;icon_item_shell_yellow
-I;요노움의 핵;30;icon_item_core_purple
+I;요노움의 핵;28;icon_item_core_purple
 I;위버 더듬이;4;icon_item_feeler_black
 I;유코푸스 잎;6;icon_item_leaves_blue
 I;이노움의 핵;6;icon_item_core_purple

@@ -161,7 +161,7 @@ I;라플리 줄기;1;icon_item_stem_gray
 I;레무리아의 꼬리;1;icon_item_Quest_00017
 I;레푸스버니 털;1;icon_item_fur_05Gray
 I;록타눈 깃털;3;icon_item_feather_00Basic
-I;루나엔젤의 나팔;13;icon_item_misc_0511
+I;루나엔젤의 나팔;16;icon_item_misc_0511
 I;니코폴리스 은하 방울;5;icon_item_misc_0526
 I;리자드맨 송곳니;1;icon_item_canine
 I;리프넛의 뿔;3;icon_item_shorthorn
@@ -235,6 +235,7 @@ I;쿠게리의 천조각;2;icon_item_clothpiece_white
 I;크레토의 깃털;11;icon_item_misc_0518
 I;타마 잎;7;icon_item_leaves_red
 I;타마의 껍질;1;icon_item_tamashell
+I;[Re:Build] 기념 주화;10;icon_item_rebuild_coin
 I;트리피드 가시;1;icon_item_thorn_green
 I;티켄의 뼈;1;icon_item_bone
 I;티피오의 꽃술;11;icon_item_tipiostamen

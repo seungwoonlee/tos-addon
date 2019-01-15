@@ -45,6 +45,8 @@ I;컬렉션: 페디미안 외곽;1;icon_item_box
 G;Event
 I;경험의 서:14일;1;icon_item_boostertoken
 I;경험의 서:14일;1;icon_item_boostertoken
+I;인스턴스 던전 입장 횟수 초기화권:14일;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권:14일;1;icon_item_indunFreeEnter
 I;[Re:Build] 레벨업 상자 (180레벨);1;icon_item_giftBox_2
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black

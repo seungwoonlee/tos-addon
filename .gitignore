@@ -10,6 +10,7 @@ release/**/
 !release/release.revision.txt
 !release/hotkey*.*
 system/
+!addons/
 data/addon.ipf
 data/animation.ipf
 data/bg.ipf
@@ -51,3 +52,4 @@ data/xml_minigame.ipf
 data/xml_sklmove.ipf
 data/xml_tool.ipf
 data/xml_tree.ipf
+!data/

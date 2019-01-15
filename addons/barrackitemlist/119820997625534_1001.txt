@@ -51,6 +51,7 @@ I;제작서-페디미안 레더 부츠;1;icon_item_boots_misc1
 I;제작서-산양 뿔;3;icon_item_helm_misc1
 I;제작서-샤인 브레이슬릿;1;icon_item_bracelet_misc3
 I;제작서-일렉투스;1;icon_item_necklace_misc4
+I;제작서-레비잔 네클리스;1;icon_item_necklace_misc4
 I;제작서-x8 경험의 서;5;icon_item_recipe_misc1
 I;제작서-여신의 축복석;15;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(레이피어);3;icon_item_recipe_misc1
@@ -64,10 +65,10 @@ I;HP 회복 소형 엘릭서 ;8;icon_item_HPelixir_Small
 I;[PC방] SP 회복 소형 엘릭서 ;13;icon_item_random_spellixerbox
 I;[Re:Build] 축복이 깃든 씨앗;13;icon_item_event161215_01
 I;고농축 HP포션;289;item_HP_oil_3
-I;고농축 SP포션;139;item_SP_requid_3
+I;고농축 SP포션;138;item_SP_requid_3
 I;고농축 이동속도 증가 포션;23;item_speed_requid_1
-I;농축 HP포션 LV15;37;icon_item_HP_Alche
-I;농축 SP포션 LV15;22;icon_item_SP_Alche
+I;농축 HP포션 LV15;35;icon_item_HP_Alche
+I;농축 SP포션 LV15;18;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;60;item_speed_requid_1
 I;딜겔레;1;icon_item_Dilgele
 I;라무넬레;1;icon_item_Ramunele
@@ -102,6 +103,7 @@ I;블루 오브:벨레그;1;icon_item_Dreamshade
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;은빛 물고기;90;icon_item_fish2
+I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
 I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
 I;TOS 플래카드;1;icon_item_artefact_Ticket_TOS
 I;푸드 커버;1;icon_item_artefact_Dome_Cover
@@ -160,11 +162,11 @@ I;[Re:Build] 빛나는 황금 모루;1;icon_item_anvil_gold
 I;모루;17;icon_item_anvil
 I;크리오라이트;3;39_icon_item_Cry8rite
 I;파이라이트;6;32_item_ore_pyrite
-I;포지;5;icon_item_Forge
+I;포지;4;icon_item_Forge
 I;주석;1;1_item_ore_copper
 I;호박;6;22_item_ore_amber
 I;LV2 보물상자 열쇠;1;icon_item_key1
-I;[Re:Build] 기념 주화;21;icon_item_rebuild_coin
+I;[Re:Build] 기념 주화;31;icon_item_rebuild_coin
 I;거대한 갈고리;7;icon_item_claw_01
 I;그루머 잎;8;icon_item_leaves_green
 I;그리바 줄기;1;icon_item_stem_yellow

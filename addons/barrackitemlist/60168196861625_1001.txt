@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;99999;icon_item_silver
+I;실버;91999;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
@@ -37,6 +37,8 @@ I;레드 오브:분홍 츄파루카;1;icon_item_Dreamshade_red
 I;블루 오브:부베 주술사;1;icon_item_Dreamshade
 I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
 I;디스펠러;10;icon_item_grimoire_blue
+G;Event
+I;[이벤트]황금돼지 상자;1;icon_item_happybox_red
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;낡은 일기;1;icon_item_collection_04Black
@@ -62,6 +64,7 @@ I;카롤리스 이야기 1권;1;icon_item_collection_04Black
 I;카롤리스 이야기 2권;1;icon_item_collection_02green
 I;카롤리스 이야기 3권;1;icon_item_collection_03Blue
 I;타다 만 일지를 적은 메모;1;icon_item_paperpiece
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-그레이트 소드;1;icon_item_weapon_misc1
 I;제작서-로얄 파르티잔;3;icon_item_weapon_misc1
@@ -155,7 +158,7 @@ I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;괴황지;4336;icon_item_guehwangji
 I;성수;412;icon_item_holywater
-I;조각용 나무;1895;icon_item_wood_5
+I;조각용 나무;1892;icon_item_wood_5
 I;크리오라이트;7;39_icon_item_Cry8rite
 I;파이라이트;17;32_item_ore_pyrite
 I;홀리 파우더;470;icon_item_powderw
@@ -335,6 +338,7 @@ I;호그마 엄니;47;icon_item_tooth_white
 I;호그마 전투대장 송곳니;1;icon_item_tooth_00Basic
 I;호글란 부리;1;icon_item_small_bag
 I;회색 스타울리트 힘줄;6;icon_item_Leash
+I;우르바스 증표;1;icon_item_borutakey
 I;작은 미스릴 광석 조각;1;13_item_mythril
 I;귀환석;1;MercenaryBadge
 G;Quest

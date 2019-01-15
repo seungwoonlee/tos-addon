@@ -90,7 +90,7 @@ G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
-I;전사용 매니시룩 코스튬(여);1;icon_item_warrior_manish_f
+I;하이랜더 스페셜 코스튬(여);1;icon_item_warrior_highrander_f
 G;Material
 I;모루;9;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1

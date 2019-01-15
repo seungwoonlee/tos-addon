@@ -133,7 +133,7 @@ I;벚꽃 로맨스 세일러복 코스튬(여);1;icon_item_pink_Sailor01_f
 I;뱀파이어 코스튬(여);1;icon_item_vampire02_f
 I;레드 메이드 코스튬(여);1;icon_item_maiduniform_red_f
 G;Armor
-I;호랑나비;1;hairacc_17_butterfly
+I;별 머리핀;1;Hat_GSTAR16
 I;어쌔신 리즈다스 플레저;1;icon_item_scoutCos_assa01_f
 I;아웃로 더크더즈;1;icon_item_scoutCos_outlaw01_f
 I;어쌔신 리즈다스 키퍼;1;icon_item_scoutCos_assa02_f

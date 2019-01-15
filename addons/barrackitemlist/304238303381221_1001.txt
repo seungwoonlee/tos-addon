@@ -22,11 +22,13 @@ G;Event
 I;인스턴스 던전 입장 횟수 초기화권:14일;1;icon_item_indunFreeEnter
 I;특성 포인트 1,000;7;icon_item_abilitypoint
 I;특성 포인트 10,000;10;icon_item_abilitypoint4
+I;특성 포인트 100;2;icon_item_abilitypoint3
 I;강화 실버 할인 쿠폰 : 10만 실버;10;icon_item_reinforce_100000coupon
 I;연하장;1;icon_item_event_invitation2
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-게일 슬래셔;5;icon_item_weapon_misc4
 I;제작서-겔티 알슈피스;4;icon_item_weapon_misc1
@@ -62,6 +64,7 @@ I;제작서-페디미안 레깅스;1;icon_item_pants_misc1
 I;제작서-페디미안 실드;2;icon_item_shirts_misc1
 I;제작서-포쿠부 아머;1;icon_item_shirts_misc3
 I;제작서-샤인 브레이슬릿;1;icon_item_bracelet_misc3
+I;제작서-레비잔 브레이슬릿;1;icon_item_bracelet_misc4
 I;제작서-x4 경험의 서;1;icon_item_recipe_misc1
 I;제작서-x8 경험의 서;12;icon_item_recipe_misc1
 I;제작서-여신의 축복석;5;icon_item_recipe_misc1
@@ -76,15 +79,14 @@ I;[Re:Build] 축복이 깃든 씨앗;14;icon_item_event161215_01
 I;고농축 HP포션;169;item_HP_oil_3
 I;고농축 SP포션;142;item_SP_requid_3
 I;고농축 이동속도 증가 포션;20;item_speed_requid_1
-I;농축 HP포션 LV15;42;icon_item_HP_Alche
-I;농축 SP포션 LV15;7;icon_item_SP_Alche
+I;농축 HP포션 LV15;34;icon_item_HP_Alche
 I;농축 이동속도 향상의 포션;80;item_speed_requid_1
 I;레드옥스;6;icon_item_Red_Ox
 I;루팅 찬스 증가 포션;9;icon_item_looting_potion_01
 I;바루날레샤;1;icon_item_Varnalesa
 I;보급용 SP포션;30;item_SP_requid_2
-I;보급용 농축 HP포션 LV15;450;item_HP_oil_3
-I;보급용 농축 SP포션 LV15;341;item_SP_requid_3
+I;보급용 농축 HP포션 LV15;441;item_HP_oil_3
+I;보급용 농축 SP포션 LV15;332;item_SP_requid_3
 I;보급용 이동속도 증가 포션;3;item_speed_requid_1
 I;보급용 작은 스태미나 알약;22;item_STA_pill_1
 I;보급용 작은 회복포션;3;item_HPSP_potion_1
@@ -170,7 +172,7 @@ I;주석;1;1_item_ore_copper
 I;호박;1;22_item_ore_amber
 I;시에라 가루;10;icon_item_breakpowder_2
 I;LV2 보물상자 열쇠;2;icon_item_key1
-I;[Re:Build] 기념 주화;18;icon_item_rebuild_coin
+I;[Re:Build] 기념 주화;38;icon_item_rebuild_coin
 I;갈고리;1;icon_item_claw_01
 I;거대한 갈고리;6;icon_item_claw_01
 I;그롤의 뿔;1;icon_item_shorthorn
@@ -290,6 +292,9 @@ I;호그마 엄니;4;icon_item_tooth_white
 I;호그마 전투대장 송곳니;1;icon_item_tooth_00Basic
 I;호헨 가죽;2;icon_item_Misc_00011
 I;화약;5;icon_item_powderbl
+I;레이드 포탈 스톤;4;icon_item_dungeon_portalstone
+I;우르바스 증표;1;icon_item_borutakey
+I;탈트;3;30_item_ore_talt
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;고원 사탕무;1;icon_item_beet

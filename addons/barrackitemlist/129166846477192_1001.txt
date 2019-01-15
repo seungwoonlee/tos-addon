@@ -48,9 +48,9 @@ I;디스펠러;47;icon_item_grimoire_blue
 I;신랑 비둘기 오르골;1;icon_item_MusicBox_Wedding01
 I;종이상자;1;icon_item_paperbox
 G;SubWeapon
-I;느낌있는 암밴드;1;icon_item_armband_exclamationMark_icon
 I;디오니스 암밴드;1;icon_item_armband_dinios
-I;리본 암밴드;1;icon_item_armband_ribbon
+I;길드 사랑 암밴드;1;icon_item_armband_guild04
+I;느낌있는 암밴드;1;icon_item_armband_exclamationMark_icon
 I;물조리개;1;icon_item_wateringcan
 I;좌절 깃발;1;OTL_flag
 G;Book

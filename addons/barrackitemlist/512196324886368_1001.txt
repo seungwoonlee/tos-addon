@@ -6,20 +6,19 @@ I;작은 은빛 물고기;12;icon_item_fish4
 G;Drug
 I;리사이클 메달;60;icon_item_recyclemedal
 I;HP 회복의 엘릭서 [이벤트];8;icon_item_HPelixir
-I;SP 회복의 엘릭서 [이벤트];5;icon_item_SPelixir
+I;SP 회복의 엘릭서 [이벤트];4;icon_item_SPelixir
 I;[Re:Build] 축복이 깃든 씨앗;14;icon_item_event161215_01
 I;고농축 이동속도 증가 포션;13;item_speed_requid_1
-I;농축 HP포션 LV15;28;icon_item_HP_Alche
-I;농축 SP포션 LV15;3;icon_item_SP_Alche
+I;농축 HP포션 LV15;27;icon_item_HP_Alche
 I;농축 이동속도 향상의 포션;60;item_speed_requid_1
 I;루팅 찬스 증가 포션;9;icon_item_looting_potion_01
 I;바루날레샤;5;icon_item_Varnalesa
 I;보급용 농축 HP포션 LV15;379;item_HP_oil_3
-I;보급용 농축 SP포션 LV15;345;item_SP_requid_3
+I;보급용 농축 SP포션 LV15;343;item_SP_requid_3
 I;보급용 이동속도 증가 포션;2;item_speed_requid_1
 I;보급용 작은 스태미나 알약;27;item_STA_pill_1
-I;보급용 큰 HP포션;94;item_HP_oil_3
-I;보급용 큰 SP포션;82;item_SP_requid_3
+I;보급용 큰 HP포션;93;item_HP_oil_3
+I;보급용 큰 SP포션;81;item_SP_requid_3
 I;붉은 케파 조각;4;OnionPiece_Red
 I;아말라스;2;icon_item_Amalas
 I;오르샤 워프 주문서;7;GolemMagicItem1
@@ -61,6 +60,7 @@ I;연하장;1;icon_item_event_invitation2
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;낡은 일기;1;icon_item_collection_04Black
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서 - [이벤트] 아시오 투 핸드 메이스;1;icon_item_weapon_misc5
 I;제작서-모플라;2;icon_item_weapon_misc1
@@ -119,7 +119,7 @@ I;팔라딘 코스튬;1;icon_item_paladin_f
 G;Material
 I;[Re:Build] 빛나는 황금 모루;1;icon_item_anvil_gold
 I;모루;12;icon_item_anvil
-I;고문도구;123;icon_item_torturing_tool
+I;고문도구;97;icon_item_torturing_tool
 I;크리오라이트;2;39_icon_item_Cry8rite
 I;파이라이트;4;32_item_ore_pyrite
 I;홀리 파우더;375;icon_item_powderw
@@ -213,7 +213,7 @@ I;크로뉴트의 뼈;2;icon_item_bone
 I;크로마독 뼈;7;icon_item_bone
 I;크루마보 잎;1;icon_item_leaves_green
 I;타마 잎;1;icon_item_leaves_red
-I;[Re:Build] 기념 주화;27;icon_item_rebuild_coin
+I;[Re:Build] 기념 주화;47;icon_item_rebuild_coin
 I;노란 리프넛의 꼬리;3;icon_item_misc04_64
 I;톤투리아의 가시;7;icon_item_thorn_Yellow
 I;투켄의 껍질;1;icon_item_shell_purple
@@ -234,7 +234,9 @@ I;호그마 엄니;2;icon_item_tooth_white
 I;호그마 전투대장 송곳니;2;icon_item_tooth_00Basic
 I;호글란 부리;1;icon_item_small_bag
 I;모닝버드의 꼬리;3;icon_item_misc04_73
-I;레이드 포탈 스톤;1;icon_item_dungeon_portalstone
+I;레이드 포탈 스톤;2;icon_item_dungeon_portalstone
+I;탈트;3;30_item_ore_talt
+I;우르바스 증표;1;icon_item_borutakey
 I;수은;2;38_item_ore_mercury
 I;귀환석;1;MercenaryBadge
 G;Quest

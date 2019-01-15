@@ -6,6 +6,72 @@ I;눈꽃 스프레이;1;icon_item_snowflower
 I;핫팩;1;icon_item_hotpack
 G;PasteBait
 I;작은 은빛 물고기;9;icon_item_fish4
+G;Helmet
+I;쑥송편 헬멧 코스튬;1;icon_item_helmet_songpyun2
+G;Armor
+I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
+I;스틸 네클리스;1;item_necklace_10
+I;아이언 네클리스;1;item_necklace_10
+I;라딧슈;1;icon_item_Radish
+I;보코르 코스튬;1;icon_item_bokor_f
+I;섀도우맨서 루너하이더 코스튬;1;icon_item_mage_shadowmancer04_f
+I;섀도우맨서 코스튬;1;icon_item_mage_shadowmancer_f
+I;워록 코스튬;1;icon_item_mage_warlock_f
+G;Event
+I;인스턴스 던전 입장 횟수 초기화권:14일;1;icon_item_indunFreeEnter
+I;특성 포인트 1,000;10;icon_item_abilitypoint
+I;특성 포인트 10,000;10;icon_item_abilitypoint4
+I;연하장;1;icon_item_event_invitation2
+G;Book
+I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
+I;낡은 일기;1;icon_item_collection_04Black
+I;찢어진 일기의 일부 1;1;icon_item_paperpiece
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
+G;Recipe
+I;제작서-게일 슬래셔;4;icon_item_weapon_misc4
+I;제작서-겔티 알슈피스;3;icon_item_weapon_misc1
+I;제작서-더블 스택;1;icon_item_weapon_misc4
+I;제작서-드라군 파이퍼;3;icon_item_weapon_misc4
+I;제작서-뚫어뻥;1;icon_item_weapon_misc5
+I;제작서-라이온 헤드 대거;2;icon_item_weapon_misc4
+I;제작서-라이온 헤드 캐논;5;icon_item_weapon_misc4
+I;제작서-모플라;1;icon_item_weapon_misc1
+I;제작서-블랙 혼;1;icon_item_weapon_misc5
+I;제작서-비엔나라지스 메이스;4;icon_item_weapon_misc4
+I;제작서-비엔나라지스 스태프;1;icon_item_weapon_misc4
+I;제작서-비엔나라지스 투 핸드 메이스;7;icon_item_weapon_misc4
+I;제작서-세크메트;7;icon_item_weapon_misc4
+I;제작서-슈페리어 드레이크 스태프;1;icon_item_weapon_misc1
+I;제작서-실버 호크;1;icon_item_weapon_misc4
+I;제작서-아프가울레 보우;4;icon_item_weapon_misc4
+I;제작서-에멘가드 캐논;1;icon_item_weapon_misc5
+I;제작서-엘가 레이피어;4;icon_item_weapon_misc4
+I;제작서-윈디아 로드;4;icon_item_weapon_misc4
+I;제작서-카츠발게르;1;icon_item_weapon_misc1
+I;제작서-캐타펄트;1;icon_item_weapon_misc1
+I;제작서-페디미안 클럽;1;icon_item_weapon_misc1
+I;제작서-포텐티아;1;icon_item_weapon_misc3
+I;제작서-피그리 스피어;4;icon_item_weapon_misc4
+I;제작서-피레네 소드;3;icon_item_weapon_misc4
+I;제작서-네펜더스 글로브;1;icon_item_gloves_misc3
+I;제작서-라이온 헤드 실드;2;icon_item_shirts_misc4
+I;제작서-비틀백;2;icon_item_shirts_misc4
+I;제작서-슈페리어 로얄 가드 건틀릿;2;icon_item_gloves_misc1
+I;제작서-스틸 카이트 실드;1;icon_item_shirts_misc1
+I;제작서-추종자의 레더 아머;1;icon_item_shirts_misc3
+I;제작서-카펜터 글로브;3;icon_item_gloves_misc3
+I;제작서-페디미안 레깅스;2;icon_item_pants_misc1
+I;제작서-페디미안 실드;3;icon_item_shirts_misc1
+I;제작서-페디미안 아머;4;icon_item_shirts_misc1
+I;제작서-샤인 브레이슬릿;2;icon_item_bracelet_misc3
+I;제작서-x8 경험의 서;7;icon_item_recipe_misc1
+I;제작서-여신의 축복석;10;icon_item_recipe_misc1
+I;제작서-종이로 된 큐브(리볼버);2;icon_item_recipe_misc1
+I;제작서-종이로 된 큐브(한손둔기);3;icon_item_recipe_misc1
+G;FishingRod
+I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
+I;낡은 보급용 낚싯대;1;icon_item_Fishing_Rod_1
+I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 G;Drug
 I;리사이클 메달;120;icon_item_recyclemedal
 I;HP 회복의 엘릭서 [이벤트];10;icon_item_HPelixir
@@ -16,8 +82,8 @@ I;[Re:Build] 축복이 깃든 씨앗;14;icon_item_event161215_01
 I;고농축 HP포션;3;item_HP_oil_3
 I;고농축 SP포션;10;item_SP_requid_3
 I;고농축 이동속도 증가 포션;18;item_speed_requid_1
-I;농축 HP포션 LV15;29;icon_item_HP_Alche
-I;농축 SP포션 LV15;59;icon_item_SP_Alche
+I;농축 HP포션 LV15;22;icon_item_HP_Alche
+I;농축 SP포션 LV15;45;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;80;item_speed_requid_1
 I;땅 속성 저항력 포션;1;icon_item_Seed_HR1
 I;라무넬레;3;icon_item_Ramunele
@@ -28,10 +94,10 @@ I;물리 치명타 공격력 증가 포션;1;item_speed_requid_1
 I;물리+마법 방어력 포션;2;item_speed_requid_1
 I;바루날레샤;3;icon_item_Varnalesa
 I;발래리요나스;6;icon_item_Valerijonas
-I;보급용 HP포션;10;item_HP_oil_2
-I;보급용 SP포션;2;item_SP_requid_2
+I;보급용 HP포션;9;item_HP_oil_2
+I;보급용 SP포션;1;item_SP_requid_2
 I;보급용 농축 HP포션 LV15;300;item_HP_oil_3
-I;보급용 농축 SP포션 LV15;260;item_SP_requid_3
+I;보급용 농축 SP포션 LV15;253;item_SP_requid_3
 I;보급용 레드옥스;6;icon_item_Red_Ox
 I;보급용 이동속도 증가 포션;6;item_speed_requid_1
 I;보급용 작은 HP포션;7;item_HP_oil_1
@@ -56,6 +122,7 @@ I;할로윈 폭죽;1;icon_item_firework
 I;해독제;6;icon_item_Quest_00020
 I;LV13 경험치 카드;7;icon_item_expcard
 I;LV5 경험치 카드;5;icon_item_expcard
+I;LV6 경험치 카드;6;icon_item_expcard
 I;LV7 경험치 카드;2;icon_item_expcard
 I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
@@ -66,73 +133,19 @@ I;블루 오브:붉은 트리펠리;1;icon_item_Dreamshade
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;은빛 물고기;29;icon_item_fish2
 I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
-I;LV6 경험치 카드;4;icon_item_expcard
+I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
 I;다과 세트;1;icon_item_artefact_Tea_Set
 I;푸드 커버;1;icon_item_artefact_Dome_Cover
-G;Helmet
-I;쑥송편 헬멧 코스튬;1;icon_item_helmet_songpyun2
-G;Event
-I;[Re:Build] 특성 포인트 1,000;5;icon_item_abilitypoint
-I;인스턴스 던전 입장 횟수 초기화권:14일;1;icon_item_indunFreeEnter
-I;특성 포인트 1,000;10;icon_item_abilitypoint
-I;특성 포인트 10,000;10;icon_item_abilitypoint4
-I;연하장;1;icon_item_event_invitation2
-G;Book
-I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
-I;낡은 일기;1;icon_item_collection_04Black
-I;찢어진 일기의 일부 1;1;icon_item_paperpiece
-G;Recipe
-I;제작서-게일 슬래셔;4;icon_item_weapon_misc4
-I;제작서-겔티 알슈피스;3;icon_item_weapon_misc1
-I;제작서-더블 스택;1;icon_item_weapon_misc4
-I;제작서-드라군 파이퍼;3;icon_item_weapon_misc4
-I;제작서-뚫어뻥;1;icon_item_weapon_misc5
-I;제작서-라이온 헤드 대거;2;icon_item_weapon_misc4
-I;제작서-라이온 헤드 캐논;5;icon_item_weapon_misc4
-I;제작서-모플라;1;icon_item_weapon_misc1
-I;제작서-블랙 혼;1;icon_item_weapon_misc5
-I;제작서-비엔나라지스 메이스;4;icon_item_weapon_misc4
-I;제작서-비엔나라지스 스태프;1;icon_item_weapon_misc4
-I;제작서-비엔나라지스 투 핸드 메이스;7;icon_item_weapon_misc4
-I;제작서-세크메트;7;icon_item_weapon_misc4
-I;제작서-슈페리어 드레이크 스태프;1;icon_item_weapon_misc1
-I;제작서-실버 호크;1;icon_item_weapon_misc4
-I;제작서-아프가울레 보우;4;icon_item_weapon_misc4
-I;제작서-에멘가드 캐논;1;icon_item_weapon_misc5
-I;제작서-엘가 레이피어;4;icon_item_weapon_misc4
-I;제작서-윈디아 로드;4;icon_item_weapon_misc4
-I;제작서-캐타펄트;1;icon_item_weapon_misc1
-I;제작서-페디미안 클럽;1;icon_item_weapon_misc1
-I;제작서-포텐티아;1;icon_item_weapon_misc3
-I;제작서-피그리 스피어;4;icon_item_weapon_misc4
-I;제작서-피레네 소드;3;icon_item_weapon_misc4
-I;제작서-카츠발게르;1;icon_item_weapon_misc1
-I;제작서-네펜더스 글로브;1;icon_item_gloves_misc3
-I;제작서-라이온 헤드 실드;2;icon_item_shirts_misc4
-I;제작서-비틀백;2;icon_item_shirts_misc4
-I;제작서-슈페리어 로얄 가드 건틀릿;2;icon_item_gloves_misc1
-I;제작서-스틸 카이트 실드;1;icon_item_shirts_misc1
-I;제작서-추종자의 레더 아머;1;icon_item_shirts_misc3
-I;제작서-카펜터 글로브;3;icon_item_gloves_misc3
-I;제작서-페디미안 실드;3;icon_item_shirts_misc1
-I;제작서-페디미안 아머;4;icon_item_shirts_misc1
-I;제작서-페디미안 레깅스;2;icon_item_pants_misc1
-I;제작서-샤인 브레이슬릿;2;icon_item_bracelet_misc3
-I;제작서-x8 경험의 서;7;icon_item_recipe_misc1
-I;제작서-여신의 축복석;10;icon_item_recipe_misc1
-I;제작서-종이로 된 큐브(리볼버);2;icon_item_recipe_misc1
-I;제작서-종이로 된 큐브(한손둔기);3;icon_item_recipe_misc1
-G;FishingRod
-I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
-I;낡은 보급용 낚싯대;1;icon_item_Fishing_Rod_1
-I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
+G;Card
+I;모야브루카 카드;Lv1;icon_item_card_atk
+I;툼로드 카드;Lv1;icon_item_card_atk
 G;Premium
 I;[Re:Build] 인스턴스 던전 1회 입장권;1;icon_item_indunonemoreEnter
 I;[Re:Build] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;[Re:Build] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;[보상용] 해금권 선택 상자;1;icon_item_classsolution_box
 I;긴급 수리 키트;41;icon_item_repairkit
-I;소울 크리스탈;406;icon_item_soulCrystal
+I;소울 크리스탈;408;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
@@ -155,31 +168,18 @@ I;확성기 10개 상자;1;icon_item_Mike_bundle
 I;확성기 50개 상자;3;icon_item_Mike_bundle
 I;[이벤트] 5초월 스크롤;1;icon_item_transcendence_coupon
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
-G;Card
-I;모야브루카 카드;Lv1;icon_item_card_atk
-G;Armor
-I;팽글 플레이트 그리브;1;icon_item_gladiuspangle_boots
-I;갈라티카 플레이트 아머;1;icon_item_shirts_frost
-I;스틸 네클리스;1;item_necklace_10
-I;아이언 네클리스;1;item_necklace_10
-I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
-I;라딧슈;1;icon_item_Radish
-I;보코르 코스튬;1;icon_item_bokor_f
-I;섀도우맨서 루너하이더 코스튬;1;icon_item_mage_shadowmancer04_f
-I;섀도우맨서 코스튬;1;icon_item_mage_shadowmancer_f
-I;워록 코스튬;1;icon_item_mage_warlock_f
 G;Material
 I;[Re:Build] 빛나는 황금 모루;1;icon_item_anvil_gold
 I;모루;6;icon_item_anvil
 I;황금 모루(14일);1;icon_item_anvil_gold
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;파이라이트;15;32_item_ore_pyrite
-I;주석;3;1_item_ore_copper
-I;호박;3;22_item_ore_amber
 I;시에라 가루;10;icon_item_breakpowder_2
 I;아틸로늄;2;18_item_plantite
+I;주석;3;1_item_ore_copper
+I;호박;3;22_item_ore_amber
 I;LV2 보물상자 열쇠;1;icon_item_key1
-I;[Re:Build] 기념 주화;40;icon_item_rebuild_coin
+I;[Re:Build] 기념 주화;20;icon_item_rebuild_coin
 I;갈고리;5;icon_item_claw_01
 I;갈록 가죽;3;icon_item_Misc_00007
 I;갈색 라프세이프 잎;10;icon_item_leaves_lapasape_brown
@@ -190,12 +190,12 @@ I;그롤의 뿔;3;icon_item_shorthorn
 I;그루머 잎;11;icon_item_leaves_green
 I;그리바 줄기;1;icon_item_stem_yellow
 I;글리자돈의 뼈;5;icon_item_bone
-I;은괴;2;icon_item_ironbar_s
+I;금괴;3;icon_item_goldbar_s
 I;나무 말뚝;11;icon_item_wood_3
 I;낚시대;1;icon_item_fishingrod
 I;노란 게이징 골렘의 핵;3;icon_item_core_yellow
 I;노란 그리바 줄기;3;icon_item_stem_yellow
-I;수은;4;38_item_ore_mercury
+I;노란 뷰올리우이다스;1;icon_item_Geranium_farm_Yellow
 I;노란 파이란 날개;2;icon_item_batwing
 I;누덕고치의 껍질;1;icon_item_shell_blue
 I;늙은 케파 껍질;1;icon_item_onionpiece
@@ -205,7 +205,7 @@ I;데스모두스 이빨;14;icon_item_tooth_yellow
 I;드레이크 고기;3;icon_item_meat_02
 I;떡갈나무;6;icon_item_wood_1
 I;라우지누테의 껍질;1;icon_item_shell_red
-I;레이드 포탈 스톤;4;icon_item_dungeon_portalstone
+I;레이드 포탈 스톤;8;icon_item_dungeon_portalstone
 I;루바보스 가죽;2;icon_item_Misc_00010
 I;리자드맨 송곳니;6;icon_item_canine
 I;리프넛의 뿔;2;icon_item_shorthorn
@@ -239,7 +239,7 @@ I;소나무;6;icon_item_wood_3
 I;소켓의 껍질;8;icon_item_shell_blue
 I;소켓의 뿔;1;icon_item_pantohorn
 I;송진;2;37_item_ore_sulfur
-I;노란 뷰올리우이다스;1;icon_item_Geranium_farm_Yellow
+I;수은;4;38_item_ore_mercury
 I;수정거미 더듬이;22;icon_item_feeler_blue
 I;쉬타임 파편;4;icon_item_Misc_00004
 I;스타울리트 심장;11;item_icon_heart_red
@@ -257,12 +257,13 @@ I;에하드의 핵;1;icon_item_core_yellow
 I;엘마 머리카락;2;icon_item_hair_elma
 I;오페러의 껍질;2;icon_item_shell_yellow
 I;요노움의 핵;30;icon_item_core_purple
+I;우르바스 증표;1;icon_item_borutakey
 I;우펜트의 껍질;2;icon_item_Misc_00015
 I;웬디고 이빨;3;icon_item_tooth_white
 I;위버 더듬이;30;icon_item_feeler_black
 I;유리 조각;2;icon_item_pieceofglass
 I;유코푸스 잎;36;icon_item_leaves_blue
-I;금괴;3;icon_item_goldbar_s
+I;은괴;2;icon_item_ironbar_s
 I;이노움의 핵;12;icon_item_core_purple
 I;인프로 버크의 껍질;2;icon_item_shell_red
 I;인프로 블러드 줄기;1;icon_item_stem_gray
@@ -270,6 +271,7 @@ I;잎방개의 껍질;7;icon_item_shell_green
 I;작은 마족의 뿔;15;icon_item_pantohorn
 I;잡초;1;icon_item_grassbladeb
 I;장작;23;icon_item_woodpiece
+I;전환의 수정조각;1;icon_item_BlokenMirror
 I;족쇄;1;icon_item_legiron
 I;졸렘의 핵;1;icon_item_core_yellow
 I;주술인형의 핵;2;icon_item_core_red
@@ -324,7 +326,6 @@ I;허밍버드의 날개;1;icon_item_bugwing
 I;호그마 엄니;2;icon_item_tooth_white
 I;호그마 전투대장 송곳니;1;icon_item_tooth_00Basic
 I;회색 스타울리트 힘줄;6;icon_item_Leash
-I;탈트;2;30_item_ore_talt
 I;마석 조각;1;icon_item_gimmick_scaredcrystal
 I;귀환석;1;MercenaryBadge
 G;Quest

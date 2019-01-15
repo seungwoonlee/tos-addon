@@ -35,6 +35,7 @@ G;SubWeapon
 I;눈꽃 스프레이;1;icon_item_snowflower
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-라이온 헤드 대거;1;icon_item_weapon_misc4
 I;제작서-마가스 메이스;1;icon_item_weapon_misc4
@@ -106,6 +107,7 @@ I;황금 모루;2;icon_item_anvil_gold
 I;실드 차저;3;icon_item_ShieldCharge
 I;주석;4;1_item_ore_copper
 I;LV2 보물상자 열쇠;1;icon_item_key1
+I;우르바스 증표;1;icon_item_borutakey
 I;거대한 갈고리;9;icon_item_claw_01
 I;그루머 잎;6;icon_item_leaves_green
 I;글리자돈의 뼈;5;icon_item_bone

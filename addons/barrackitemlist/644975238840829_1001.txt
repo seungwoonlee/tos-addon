@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;10077;icon_item_silver
+I;실버;252541;icon_item_silver
 G;Drug
 I;정착 지원 포션 Lv2;28;item_speed_requid_3
 I;포포리온 고기;10;icon_item_meat_02
@@ -11,7 +11,7 @@ I;보급용 이동속도 증가 포션;3;item_speed_requid_1
 I;바루날레샤;2;icon_item_Varnalesa
 I;붉은 케파 조각;1;OnionPiece_Red
 I;오르샤 워프 주문서;1;GolemMagicItem1
-I;농축 HP포션 LV15;11;icon_item_HP_Alche
+I;농축 HP포션 LV15;10;icon_item_HP_Alche
 I;농축 SP포션 LV15;12;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;19;item_speed_requid_1
 I;보급용 농축 HP포션 LV15;88;item_HP_oil_3
@@ -57,6 +57,8 @@ I;컬렉션: 겔리 고원;1;icon_item_box
 I;컬렉션: 스라우타스 협곡;1;icon_item_box
 I;컬렉션: 네프리타스 벼랑;1;icon_item_box
 I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 마당 고원;1;icon_item_box
+I;컬렉션: 베다 고원;1;icon_item_box
 G;Premium
 I;소울 크리스탈;10;icon_item_soulCrystal
 I;워프 주문서;7;icon_item_warpPremium
@@ -131,7 +133,8 @@ I;묘지 골렘의 핵;1;icon_item_core_blue
 I;코도모르 가시;2;icon_item_thorn_blue
 I;나무 말뚝;3;icon_item_wood_3
 I;돌;3;icon_item_Misc_00004
-I;포탈 스톤;111;icon_item_portalstone
+I;포탈 스톤;68;icon_item_portalstone
+I;[Re:Build] 기념 주화;10;icon_item_rebuild_coin
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;수정광산의 계시;1;icon_item_stonetablet
@@ -150,3 +153,4 @@ I;제거티 여신의 수정;1;14_item_ithildin
 I;과거의 기억을 기록하는 보주;1;icon_item_Dreamshade
 G;Weapon
 I;페버디마스 로드;1;icon_item_pabudimas_rod
+I;미간티스 스태프;1;icon_item_miegantis_staff

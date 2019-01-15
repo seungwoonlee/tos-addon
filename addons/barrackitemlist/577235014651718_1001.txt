@@ -45,6 +45,7 @@ I;리디아 샤펜의 교차선;1;icon_item_collection_04Black
 I;리디아 샤펜의 교차선;1;icon_item_collection_04Black
 I;리디아 샤펜의 오늬;1;icon_item_collection_01Red
 I;리디아 샤펜의 오늬;1;icon_item_collection_01Red
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-강화된 비스타 캐논;1;icon_item_weapon_misc3
 I;제작서-리가드 혼 크로스보우;1;icon_item_weapon_misc5
@@ -159,6 +160,7 @@ I;물푸레나무;10;icon_item_wood_2
 I;노란 아르마의 꼬리;1;icon_item_Quest_00017
 I;노란 파이란 날개;3;icon_item_batwing
 I;붉은 슬라임의 핵;1;38_item_ore_mercury
+I;우르바스 증표;1;icon_item_borutakey
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01

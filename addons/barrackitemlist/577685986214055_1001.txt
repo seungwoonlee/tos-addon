@@ -53,6 +53,7 @@ I;리디아 샤펜과 럼펠스틸스킨;1;icon_item_collection_02green
 I;리디아 샤펜과 플레쳐;1;icon_item_collection_00Basic
 I;리디아 샤펜의 교차선;1;icon_item_collection_04Black
 I;리디아 샤펜의 오늬;1;icon_item_collection_01Red
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-더블 스택;1;icon_item_weapon_misc4
 I;제작서-드라군 파이퍼;2;icon_item_weapon_misc4
@@ -181,6 +182,7 @@ I;돌 탄환;3;icon_item_Misc_00001
 I;파이라이트;2;32_item_ore_pyrite
 I;주석;1;1_item_ore_copper
 I;LV2 보물상자 열쇠;3;icon_item_key1
+I;우르바스 증표;1;icon_item_borutakey
 I;거대한 갈고리;2;icon_item_claw_01
 I;그루머 잎;7;icon_item_leaves_green
 I;그리바루 방울;2;icon_item_crystal_yellow

@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;99999;icon_item_silver
+I;실버;276327;icon_item_silver
 G;PasteBait
 I;작은 은빛 물고기;22;icon_item_fish4
 G;Drug
@@ -9,8 +9,8 @@ I;SP 회복 소형 엘릭서 ;20;icon_item_SPelixir_Small
 I;고농축 HP포션;145;item_HP_oil_3
 I;고농축 SP포션;117;item_SP_requid_3
 I;긴급 수리 키트;11;icon_item_repairkit
-I;농축 HP포션 LV15;18;icon_item_HP_Alche
-I;농축 SP포션 LV15;11;icon_item_SP_Alche
+I;농축 HP포션 LV15;15;icon_item_HP_Alche
+I;농축 SP포션 LV15;4;icon_item_SP_Alche
 I;대형 HP포션;5;item_HP_oil_3
 I;대형 SP포션;3;item_SP_requid_3
 I;딸기;21;icon_item_Strawberry
@@ -52,6 +52,7 @@ G;SubWeapon
 I;버블스틱;1;icon_item_artefact_bublestick
 I;좌절 깃발;1;OTL_flag
 G;Book
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 I;공간의 책;1;icon_item_collection_00Basic
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;그을린 실마리;1;icon_item_PILGRIM_PIECE
@@ -146,6 +147,10 @@ I;제작서-종이로 된 큐브(한손둔기);2;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(한손창);2;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
+G;Cube
+I;수녀 아이스테의 감사 선물;1;icon_item_jewelrybox_close
+I;축복의 큐브;1;icon_item_cube1
+I;살러스 큐브(협곡);3;icon_item_cube4
 G;Collection
 I;컬렉션: 강철 고원;1;icon_item_box
 I;컬렉션: 그리나스 구릉지;1;icon_item_box
@@ -202,7 +207,7 @@ I;확성기;15;icon_item_Mike
 G;Material
 I;모루;14;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;괴황지;145;icon_item_guehwangji
+I;괴황지;1987;icon_item_guehwangji
 I;성수;2;icon_item_holywater
 I;크리오라이트;17;39_icon_item_Cry8rite
 I;사파이어;1;39_icon_item_Cry8rite
@@ -220,6 +225,7 @@ I;검은 드레이크의 심장;4;item_icon_heart_red
 I;검은 샤드스태튜 날개;8;icon_item_batwing
 I;검은 주술인형의 핵;10;icon_item_core_yellow
 I;검은 콜리플라이 수술;2;icon_item_stamen_colifly_black
+I;우르바스 증표;1;icon_item_borutakey
 I;고블린 부적;6;icon_item_bubetoken
 I;고사루의 뼈;2;icon_item_bone
 I;공명용 수정;1;icon_item_Crystal_00005
@@ -233,6 +239,7 @@ I;글리자돈의 뼈;7;icon_item_bone
 I;글리프링 파편;24;icon_item_Misc_00006
 I;나무 말뚝;9;icon_item_wood_3
 I;나부의 온전한 꼬리;59;icon_item_misc04_63
+I;[Re:Build] 기념 주화;10;icon_item_rebuild_coin
 I;노란 듀마로의 발톱;4;icon_item_tooth_00Basic
 I;노란 리프넛 날개;7;icon_item_batwing
 I;노란 리프넛의 꼬리;77;icon_item_misc04_64
