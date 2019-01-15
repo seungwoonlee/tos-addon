@@ -45,6 +45,7 @@ I;버려진 일기장;1;icon_item_collection_00Basic
 I;부스러져가는 공문;1;icon_item_magicpaper
 I;순례자의 쪽지;1;icon_item_Paper1
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-그레이트 소드;2;icon_item_weapon_misc1
 I;제작서-로얄 파르티잔;1;icon_item_weapon_misc1
@@ -121,6 +122,7 @@ I;헤일매리 애로우;829;item_icon_hail_mary_arrow
 I;주석;2;1_item_ore_copper
 I;호박;58;22_item_ore_amber
 I;LV2 보물상자 열쇠;1;icon_item_key1
+I;우르바스 증표;1;icon_item_borutakey
 I;거대한 갈고리;8;icon_item_claw_01
 I;그롤의 뿔;1;icon_item_shorthorn
 I;그리바루 방울;1;icon_item_crystal_yellow

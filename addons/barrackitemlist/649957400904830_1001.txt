@@ -40,6 +40,7 @@ I;LV4 경험치 카드;2;icon_item_expcard
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-강화된 비스타 캐논;2;icon_item_weapon_misc3
 I;제작서-게일 슬래셔;2;icon_item_weapon_misc4
@@ -180,6 +181,7 @@ I;소나무;3;icon_item_wood_3
 I;노란 파이란 날개;2;icon_item_batwing
 I;붉은 위저드 주술 인형의 핵;2;38_item_ore_mercury
 I;붉은 슬라임의 핵;2;38_item_ore_mercury
+I;우르바스 증표;1;icon_item_borutakey
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01

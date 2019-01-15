@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;276327;icon_item_silver
+I;실버;99999;icon_item_silver
 G;PasteBait
 I;작은 은빛 물고기;22;icon_item_fish4
 G;Drug
@@ -10,7 +10,7 @@ I;고농축 HP포션;145;item_HP_oil_3
 I;고농축 SP포션;117;item_SP_requid_3
 I;긴급 수리 키트;11;icon_item_repairkit
 I;농축 HP포션 LV15;15;icon_item_HP_Alche
-I;농축 SP포션 LV15;4;icon_item_SP_Alche
+I;농축 SP포션 LV15;3;icon_item_SP_Alche
 I;대형 HP포션;5;item_HP_oil_3
 I;대형 SP포션;3;item_SP_requid_3
 I;딸기;21;icon_item_Strawberry
@@ -130,6 +130,7 @@ I;제작서-매듭진 암밴드;1;icon_item_recipe_misc1
 I;제작서-스트랭스 팬던트;1;icon_item_necklace_misc3
 I;제작서-컨트롤 뱅글;1;icon_item_bracelet_misc3
 I;제작서-매직 탈리스만;1;icon_item_necklace_misc3
+I;제작서-아크메이지 뱅글;1;icon_item_bracelet_misc4
 I;제작서-x4 경험의 서;1;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(레이피어);2;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(로드);2;icon_item_recipe_misc1
@@ -147,10 +148,6 @@ I;제작서-종이로 된 큐브(한손둔기);2;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(한손창);2;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
-G;Cube
-I;수녀 아이스테의 감사 선물;1;icon_item_jewelrybox_close
-I;축복의 큐브;1;icon_item_cube1
-I;살러스 큐브(협곡);3;icon_item_cube4
 G;Collection
 I;컬렉션: 강철 고원;1;icon_item_box
 I;컬렉션: 그리나스 구릉지;1;icon_item_box
@@ -207,7 +204,7 @@ I;확성기;15;icon_item_Mike
 G;Material
 I;모루;14;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;괴황지;1987;icon_item_guehwangji
+I;괴황지;1942;icon_item_guehwangji
 I;성수;2;icon_item_holywater
 I;크리오라이트;17;39_icon_item_Cry8rite
 I;사파이어;1;39_icon_item_Cry8rite
@@ -239,7 +236,6 @@ I;글리자돈의 뼈;7;icon_item_bone
 I;글리프링 파편;24;icon_item_Misc_00006
 I;나무 말뚝;9;icon_item_wood_3
 I;나부의 온전한 꼬리;59;icon_item_misc04_63
-I;[Re:Build] 기념 주화;10;icon_item_rebuild_coin
 I;노란 듀마로의 발톱;4;icon_item_tooth_00Basic
 I;노란 리프넛 날개;7;icon_item_batwing
 I;노란 리프넛의 꼬리;77;icon_item_misc04_64
