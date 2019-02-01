@@ -4,7 +4,6 @@ I;실버;99999;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;[Re:Build] 축복이 깃든 씨앗;14;icon_item_event161215_01
 I;고농축 HP포션;20;item_HP_oil_3
 I;고농축 SP포션;20;item_SP_requid_3
 I;고농축 이동속도 증가 포션;5;item_speed_requid_1
@@ -31,20 +30,15 @@ I;오르샤 워프 주문서;10;GolemMagicItem1
 I;정착 지원 포션 Lv2;26;item_speed_requid_3
 I;클라페다 워프 주문서;10;GolemMagicItem1
 I;포포리온 고기;10;icon_item_meat_02
-I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
-I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
-I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
-I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;레드 오브:라플라워;2;icon_item_Dreamshade_red
 I;레드 오브:티피오;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;10;GolemMagicItem1
 I;블루 오브:붉은 케파;1;icon_item_Dreamshade
 I;블루 오브:아르마;1;icon_item_Dreamshade
 I;LV14 경험치 카드;5;icon_item_expcard
-G;Event
-I;[Re:Build] 날마다 특성 포인트 상자;1;icon_item_giftBox_1
 G;Book
 I;대해적과 하이레번 하권;1;icon_item_collection_00Basic
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-겔티 알슈피스;2;icon_item_weapon_misc1
 I;제작서-그레이트 소드;3;icon_item_weapon_misc1
@@ -57,7 +51,6 @@ I;제작서-비니 트윈 블레이드;1;icon_item_weapon_misc3
 I;제작서-비엔나라지스 메이스;1;icon_item_weapon_misc4
 I;제작서-비엔나라지스 스태프;1;icon_item_weapon_misc4
 I;제작서-슈페리어 데몬 파이크;2;icon_item_weapon_misc1
-I;제작서-슈페리어 크로스보우;1;icon_item_weapon_misc3
 I;제작서-스컬 보우;1;icon_item_weapon_misc1
 I;제작서-스톰 스태프;1;icon_item_weapon_misc1
 I;제작서-알터 로드;1;icon_item_weapon_misc1
@@ -120,7 +113,6 @@ I;컬렉션: 파수꾼의 묘역;1;icon_item_box
 I;컬렉션: 페디미안 외곽;1;icon_item_box
 G;Premium
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;소울 크리스탈;1;icon_item_soulCrystal
 I;워프 주문서;5;icon_item_warpPremium
 I;케도라 상단의 지원 선택상자 (40레벨 방어구);4;icon_item_event_armorbox1
@@ -133,14 +125,15 @@ I;벚꽃 로맨스 세일러복 코스튬(여);1;icon_item_pink_Sailor01_f
 I;뱀파이어 코스튬(여);1;icon_item_vampire02_f
 I;레드 메이드 코스튬(여);1;icon_item_maiduniform_red_f
 G;Armor
-I;별 머리핀;1;Hat_GSTAR16
+I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
+I;크리스탈 뱅글;1;item_bracelet_15
+I;젖소 머리띠;1;hairacc_36_cow
 I;어쌔신 리즈다스 플레저;1;icon_item_scoutCos_assa01_f
 I;아웃로 더크더즈;1;icon_item_scoutCos_outlaw01_f
 I;어쌔신 리즈다스 키퍼;1;icon_item_scoutCos_assa02_f
 I;아웃로 러피안 리버리;1;icon_item_scoutCos_outlaw02brown_f
 I;로그 코스튬;1;icon_item_rogue_f
 G;Material
-I;[Re:Build] 빛나는 황금 모루;1;icon_item_anvil_gold
 I;모루;2;icon_item_anvil
 I;크리오라이트;7;39_icon_item_Cry8rite
 I;파이라이트;11;32_item_ore_pyrite
@@ -159,6 +152,7 @@ I;단단한 껍질;19;icon_item_shell_yellow
 I;단델의 날개;2;icon_item_batwing
 I;도요르 잎다발;1;icon_item_doyorleaf
 I;드레이크 고기;23;icon_item_meat_02
+I;우르바스 증표;1;icon_item_borutakey
 I;러블렘 파편;9;icon_item_Misc_00006
 I;러블렘의 핵;1;icon_item_core_red
 I;리플라이 날개;11;icon_item_bugwing
@@ -168,11 +162,11 @@ I;모야 파편;7;icon_item_shell_blue
 I;박쥐 이빨;2;icon_item_tooth_white
 I;박쥐의 날개;22;icon_item_batwing
 I;밴시의 사념체;13;icon_item_spirit_orange
-I;부베 활대;4;icon_item_bubebow
+I;부베 활대;2;icon_item_bubebow
 I;부베족의 증표;24;icon_item_bubetoken
 I;붉은 소켓의 뿔;17;icon_item_horn_socket_red
 I;사막 츄파카브라 고기;3;icon_item_meat_01
-I;수정거미 더듬이;9;icon_item_feeler_blue
+I;수정거미 더듬이;3;icon_item_feeler_blue
 I;스타울리트 심장;1;item_icon_heart_red
 I;스톤오르카의 핵;16;icon_item_core_yellow
 I;식칼;4;icon_item_knife01

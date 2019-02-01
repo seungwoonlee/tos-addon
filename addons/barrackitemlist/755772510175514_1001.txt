@@ -63,6 +63,7 @@ I;찢어진 일기의 일부 1;1;icon_item_paperpiece
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
 I;카듀멜 시대의 갑주;1;icon_item_collection_04Black
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-마시니오스 대거;1;icon_item_weapon_misc5
 I;제작서-마시니오스 로드;2;icon_item_weapon_misc5
@@ -87,7 +88,7 @@ I;제작서-파다;1;icon_item_bracelet_misc5
 I;제작서-피크오 펄 브레이슬릿;5;icon_item_bracelet_misc4
 I;제작서-아그니 네클리스;1;icon_item_necklace_misc3
 I;제작서-x8 경험의 서;5;icon_item_recipe_misc1
-I;제작서-레이드 포탈 스톤;79;icon_item_recipe_misc1
+I;제작서-레이드 포탈 스톤;85;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 G;Collection
@@ -131,6 +132,8 @@ I;컬렉션: 필그림 들길;1;icon_item_box
 G;Premium
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
+I;아시오 무기 제작서 선택상자;1;icon_item_event_recipebox1
+I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
 G;Material
 I;모루;13;icon_item_anvil
 I;종이 인형;4702;icon_item_paperdoll
@@ -170,7 +173,7 @@ I;말라두의 고기;24;icon_item_meat_02
 I;묘지 골렘의 핵;13;icon_item_core_blue
 I;물푸레나무;4;icon_item_wood_2
 I;미노스의 뼈;7;icon_item_bone
-I;밀납;1;icon_item_wax
+I;레이드 포탈 스톤;131;icon_item_dungeon_portalstone
 I;바를거너의 대포 조각;1;icon_item_misc_0512
 I;바를스키퍼의 검신;4;icon_item_misc_0513
 I;바를헬름즈먼의 둔기 머리;12;icon_item_misc_0514
@@ -193,7 +196,7 @@ I;사우가의 핵;1;icon_item_core_yellow
 I;소나무;9;icon_item_wood_3
 I;소켓의 껍질;5;icon_item_shell_blue
 I;송진;3;37_item_ore_sulfur
-I;수은;4;38_item_ore_mercury
+I;수은;8;38_item_ore_mercury
 I;수정거미 더듬이;15;icon_item_feeler_blue
 I;쉬타임 파편;10;icon_item_Misc_00004
 I;스타울리트 심장;10;item_icon_heart_red
@@ -235,7 +238,7 @@ I;쿠게리의 천조각;2;icon_item_clothpiece_white
 I;크레토의 깃털;11;icon_item_misc_0518
 I;타마 잎;7;icon_item_leaves_red
 I;타마의 껍질;1;icon_item_tamashell
-I;[Re:Build] 기념 주화;10;icon_item_rebuild_coin
+I;우르바스 증표;1;icon_item_borutakey
 I;트리피드 가시;1;icon_item_thorn_green
 I;티켄의 뼈;1;icon_item_bone
 I;티피오의 꽃술;11;icon_item_tipiostamen
@@ -281,8 +284,8 @@ I;테넷 성당의 계시;1;icon_item_stonetablet
 I;펜듈럼;1;icon_item_pendulum
 I;화살 묶음;1;item_icon_barbedhead_arrow
 G;Armor
-I;레다스 네클리스;1;item_necklace_21_blue
 I;제메이 네클리스;1;item_necklace_16
+I;계란초밥;1;icon_item_sushi2
 I;사이코키노 코스튬;1;icon_item_psychokinesist_f
 I;음양사의 가운 코스튬;1;icon_item_wizard_onmyoji01_f
 I;음양사의 왕국의상 코스튬;1;icon_item_wizard_onmyoji02_f

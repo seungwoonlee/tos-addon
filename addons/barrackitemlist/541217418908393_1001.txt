@@ -6,7 +6,7 @@ I;HP 회복의 엘릭서 [이벤트];6;icon_item_HPelixir
 I;SP 회복의 엘릭서 [이벤트];8;icon_item_SPelixir
 I;[Re:Build] 축복이 깃든 씨앗;14;icon_item_event161215_01
 I;농축 HP포션 LV15;9;icon_item_HP_Alche
-I;농축 SP포션 LV15;29;icon_item_SP_Alche
+I;농축 SP포션 LV15;28;icon_item_SP_Alche
 I;농축 이동속도 증가 포션 LV15;9;item_speed_requid_1
 I;농축 이동속도 향상의 포션;40;item_speed_requid_1
 I;라프세이프 버섯;2;icon_item_Pinemushroom
@@ -116,7 +116,7 @@ I;보드킨 포인트 애로우;941;item_icon_bodkinpoint_arrow
 I;브로드 헤드 애로우;966;item_icon_arrow_barbedhead
 I;신기전;1429;icon_item_singijon
 I;크리오라이트;7;39_icon_item_Cry8rite
-I;트랩 키트;1357;icon_item_trap_kit
+I;트랩 키트;1335;icon_item_trap_kit
 I;파이라이트;13;32_item_ore_pyrite
 I;헤일매리 애로우;829;item_icon_hail_mary_arrow
 I;주석;2;1_item_ore_copper

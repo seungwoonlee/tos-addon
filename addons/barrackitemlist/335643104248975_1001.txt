@@ -59,9 +59,9 @@ I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
-I;모루;43;icon_item_anvil
+I;모루;26;icon_item_anvil
 I;황금 모루;1;icon_item_anvil_gold
-I;기슬로티스;994;icon_item_Gyslotis
+I;기슬로티스;993;icon_item_Gyslotis
 I;성수;782;icon_item_holywater
 I;크리오라이트;1;39_icon_item_Cry8rite
 I;파이라이트;11;32_item_ore_pyrite

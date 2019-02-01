@@ -12,7 +12,7 @@ I;발래리요나스;1;icon_item_Valerijonas
 I;보급용 HP포션;99;item_HP_oil_2
 I;보급용 SP포션;99;item_SP_requid_2
 I;보급용 농축 HP포션 LV15;97;item_HP_oil_3
-I;보급용 농축 SP포션 LV15;84;item_SP_requid_3
+I;보급용 농축 SP포션 LV15;80;item_SP_requid_3
 I;보급용 작은 HP포션;125;item_HP_oil_1
 I;보급용 작은 SP포션;243;item_SP_requid_1
 I;보급용 작은 스태미나 알약;23;item_STA_pill_1
@@ -114,7 +114,6 @@ I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;긴급 수리 키트;12;icon_item_repairkit
 I;소울 크리스탈;255;icon_item_soulCrystal
 I;워프 주문서;188;icon_item_warpPremium
@@ -186,9 +185,7 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;확성기;202;icon_item_Mike
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 G;Armor
 I;엘고스 부츠;1;icon_item_boots_scholar
 I;카울라스 레더 부츠;1;icon_item_boots_kaulas
@@ -214,9 +211,9 @@ I;질럿 컨트리션 코스튬;1;icon_item_zealot2_f
 I;질럿 퍼티션 코스튬;1;icon_item_zealot4_f
 I;프리스트 코스튬;1;icon_item_prist_f
 G;Material
-I;기슬로티스;93;icon_item_Gyslotis
-I;성수;293;icon_item_holywater
-I;홀리 파우더;94;icon_item_powderw
+I;기슬로티스;89;icon_item_Gyslotis
+I;성수;289;icon_item_holywater
+I;홀리 파우더;90;icon_item_powderw
 I;주석;1;1_item_ore_copper
 I;호박;3;22_item_ore_amber
 I;그루머 잎;2;icon_item_leaves_green

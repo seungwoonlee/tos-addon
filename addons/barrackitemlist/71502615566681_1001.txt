@@ -68,6 +68,7 @@ I;찢어진 일기의 일부 4;1;icon_item_paperpiece
 I;카롤리스 이야기 1권;1;icon_item_collection_04Black
 I;카롤리스 이야기 2권;1;icon_item_collection_02green
 I;타다 만 일지를 적은 메모;1;icon_item_paperpiece
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-마가스 슈터;1;icon_item_weapon_misc4
 G;Collection
@@ -115,10 +116,7 @@ I;궁수의 수영복 코스튬(여);1;icon_item_archer_mizuki_f
 I;궁수의 스쿨룩 코스튬(여);1;icon_item_archer_school_f
 I;궁수의 제복 코스튬(여);1;icon_item_archer_uniform_f
 I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
-I;초대에 응한 자 코스튬(여);1;icon_item_blacksuit01_f
-I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 I;쿼렐슈터 스페셜 코스튬(여);1;icon_item_archer_quarreelshooter01_3_f
-I;하급 용병 코스튬(여);1;icon_item_lowtactic01_f
 G;Armor
 I;감정사 코스튬;1;icon_item_appraiser_f
 I;캐노니어 코스튬;1;icon_item_archer_cannoneer_f
@@ -126,9 +124,6 @@ I;쿼렐슈터 코스튬;1;icon_item_quarrelshooter_f
 G;Material
 I;모루;17;icon_item_anvil
 I;황금 모루;3;icon_item_anvil_gold
-I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;돌 탄환;9;icon_item_Misc_00001
 I;크리오라이트;17;39_icon_item_Cry8rite
 I;파이라이트;47;32_item_ore_pyrite
@@ -298,6 +293,7 @@ I;호그마 엄니;6;icon_item_tooth_white
 I;호그마 전투대장 송곳니;1;icon_item_tooth_00Basic
 I;회색 스타울리트 힘줄;6;icon_item_Leash
 I;희미한 별빛의 결정;2;24_item_ore_topaz
+I;우르바스 증표;1;icon_item_borutakey
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;가시숲의 계시;1;icon_item_stonetablet

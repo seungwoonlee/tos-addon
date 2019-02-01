@@ -26,7 +26,7 @@ I;보급용 HP포션;100;item_HP_oil_2
 I;보급용 SP포션;100;item_SP_requid_2
 I;보급용 큰 HP포션;100;item_HP_oil_3
 I;보급용 큰 SP포션;100;item_SP_requid_3
-I;LV14 경험치 카드;21;icon_item_expcard
+I;LV14 경험치 카드;33;icon_item_expcard
 I;레드 오브:리자드맨;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;23;GolemMagicItem1
 I;은빛 물고기;20;icon_item_fish2
@@ -40,6 +40,7 @@ I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;낡은 일기;1;icon_item_collection_04Black
 I;남작 사병 차고스의 일지;1;icon_item_diary
 I;버려진 일기장;1;icon_item_collection_00Basic
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 I;찢어진 일기;1;icon_item_magicpaper
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
 I;찢어진 일기의 일부 2;1;icon_item_paperpiece
@@ -251,6 +252,7 @@ I;호글란 부리;1;icon_item_small_bag
 I;호헨 가죽;4;icon_item_Misc_00011
 I;회색 날개 개구리의 뼈;2;icon_item_bone
 I;회색 스타울리트 힘줄;1;icon_item_Leash
+I;우르바스 증표;1;icon_item_borutakey
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01

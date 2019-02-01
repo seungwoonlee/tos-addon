@@ -5,8 +5,8 @@ G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;농축 HP포션 LV10;28;icon_item_HP_Alche
-I;농축 HP포션 LV15;22;icon_item_HP_Alche
-I;농축 SP포션 LV15;24;icon_item_SP_Alche
+I;농축 HP포션 LV15;21;icon_item_HP_Alche
+I;농축 SP포션 LV15;20;icon_item_SP_Alche
 I;농축 이동속도 증가 포션 LV15;4;item_speed_requid_1
 I;딸기;32;icon_item_Strawberry
 I;마이트 포션;1;item_speed_requid_1
@@ -68,7 +68,7 @@ G;Premium
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;16;icon_item_Mike
 G;Material
-I;모루;7;icon_item_anvil
+I;모루;18;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;돌 탄환;11;icon_item_Misc_00001
 I;크리오라이트;11;39_icon_item_Cry8rite
@@ -281,7 +281,8 @@ I;펜듈럼;1;icon_item_pendulum
 I;헝겊인형 조각;8;icon_item_strawdoll2
 I;트라시움 조각;13;icon_item_gimmick_scaredcrystal
 G;Armor
-I;커세어 코스튬;1;icon_item_corsair_f
+I;황야의 무법자;1;hairacc_76_cowbowhat
 I;불릿 마커 코스튬;1;icon_item_bulletmarker_f
 I;불릿 마커 휠러 코스튬;1;icon_item_bulletmarker03_f
 I;링커 코스튬;1;icon_item_linker_f
+I;커세어 코스튬;1;icon_item_corsair_f

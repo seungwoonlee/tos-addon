@@ -43,8 +43,6 @@ I;컬렉션: 네프리타스 벼랑;1;icon_item_box
 I;컬렉션: 왕릉 건축자 예배당;1;icon_item_box
 I;컬렉션: 페디미안 외곽;1;icon_item_box
 G;Event
-I;경험의 서:14일;1;icon_item_boostertoken
-I;경험의 서:14일;1;icon_item_boostertoken
 I;인스턴스 던전 입장 횟수 초기화권:14일;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권:14일;1;icon_item_indunFreeEnter
 I;[Re:Build] 레벨업 상자 (180레벨);1;icon_item_giftBox_2
@@ -112,9 +110,9 @@ I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
-I;경험의 서;1;icon_item_boostertoken
+I;x4 경험의 서;1;icon_item_expbookx4
 I;긴급 수리 키트;10;icon_item_repairkit
-I;소울 크리스탈;18;icon_item_soulCrystal
+I;소울 크리스탈;19;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;워프 주문서;19;icon_item_warpPremium
 I;워프 주문서 10개 상자;1;icon_item_warpPremium_bundle
@@ -187,10 +185,6 @@ I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
 I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
 I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
 I;확성기;48;icon_item_Mike
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
 G;Cube
 I;[PC방] 성장 지원 상자;2;icon_item_box_pc_month
 G;Gem
@@ -211,46 +205,10 @@ I;옐로우 젬;Lv1;item_icon_Star150
 I;옐로우 젬;Lv1;item_icon_Star150
 I;옐로우 젬;Lv1;item_icon_Star150
 G;Armor
-I;레더 부츠;1;icon_item_boots_bube_blue
-I;마크 부츠;1;icon_item_boots_brigan
-I;마크 부츠;1;icon_item_boots_brigan
-I;마크 부츠;1;icon_item_boots_brigan
-I;퀼트 부츠;1;icon_item_boots_bube
-I;퀼트 부츠;1;icon_item_boots_bube
-I;턴 레더 부츠;1;icon_item_boots_gairas_gray
-I;턴 레더 부츠;1;icon_item_boots_gairas_gray
-I;턴 레더 부츠;1;icon_item_boots_gairas_gray
-I;턴 부츠;1;icon_item_boots_sage_white
-I;턴 부츠;1;icon_item_boots_sage_white
-I;턴 부츠;1;icon_item_boots_sage_white
-I;턴 플레이트 그리브;1;icon_item_boots_SRchain
-I;레더 글로브;1;icon_item_gloves_bube_blue
-I;마크 글로브;1;icon_item_gloves_brigan
-I;마크 글로브;1;icon_item_gloves_brigan
-I;퀼트 글로브;1;icon_item_gloves_bube
-I;턴 레더 글로브;1;icon_item_gloves_gairas_gray
-I;턴 플레이트 건틀릿;1;icon_item_gloves_SRchain
 I;팽글 플레이트 글로브;1;icon_item_gladiuspangle_gloves
-I;래그 팬츠;1;icon_item_pants_bube
-I;레더 팬츠;1;icon_item_pants_bube_blue
-I;턴 레더 팬츠;1;icon_item_pants_gairas_gray
-I;턴 레더 팬츠;1;icon_item_pants_gairas_gray
-I;턴 레더 팬츠;1;icon_item_pants_gairas_gray
-I;턴 팬츠;1;icon_item_pants_sage_white
-I;턴 팬츠;1;icon_item_pants_sage_white
-I;턴 팬츠;1;icon_item_pants_sage_white
-I;턴 팬츠;1;icon_item_pants_sage_white
-I;턴 팬츠;1;icon_item_pants_sage_white
-I;턴 팬츠;1;icon_item_pants_sage_white
-I;턴 플레이트 레깅스;1;icon_item_pants_SRchain
-I;턴 플레이트 레깅스;1;icon_item_pants_SRchain
-I;우든 실드;1;icon_item_Shield_7
-I;우든 카이트 실드;1;icon_item_Shield_8
-I;우든 카이트 실드;1;icon_item_Shield_8
-I;라이트 아머;1;icon_item_shirts_bube
+I;라즈나 레더 팬츠;1;icon_item_razna_leg
+I;베르타스 마로네 로브;1;icon_item_malone_amor
 I;알프라 로브;1;icon_item_alframerchant_armor
-I;턴 레더 튜닉;1;icon_item_shirts_gairas_gray
-I;턴 로브;1;icon_item_shirts_sage_white
 I;노비스 네클리스;1;item_necklace_10
 I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
 I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
@@ -303,18 +261,12 @@ I;진주로 만든 보주;1;icon_item_whiteorb
 I;파괴된 결계의 조각;1;icon_item_pieceofglass
 I;파괴용 주술인형 소환서;1;GolemMagicItem1
 G;Weapon
-I;도큐;1;icon_item_dokyu
 I;와이드 크로스보우;1;crossbow_oak_crossbow
-I;메이스;1;mace
 I;파이브 해머;1;mace_blacksmith
-I;병사의 롱 로드;1;icon_item_Staff_1
 I;스케티스 로드;1;icon_item_rod_celenial
 I;아이스 로드;1;staff_cane_lowver_up
-I;크룩;1;icon_item_crook
 I;만드라픽;1;sword_sabre_up
 I;만드라픽;1;sword_sabre_up
 I;케도란 벨니웁;1;icon_item_snickersnee_up
 I;아이언 보우;1;selfbow_up
 I;[Re:Build] 캔들 스태프 (30일);1;Mage_f_staff_candlestick
-I;스태프;1;Mage_f_staff_stick
-I;오크 스태프;1;Mage_f_staff_oakstick

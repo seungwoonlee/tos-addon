@@ -34,6 +34,7 @@ I;베이키얼의 답장;1;icon_item_indulgence
 I;버려진 일기장;1;icon_item_collection_00Basic
 I;낡은 일기;1;icon_item_collection_04Black
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-x8 경험의 서;2;icon_item_recipe_misc1
 G;Collection
@@ -234,6 +235,7 @@ I;카로 잎사귀;1;icon_item_leaves_green
 I;하얀 체인;1;icon_item_chain
 I;쿠게리의 천조각;2;icon_item_clothpiece_white
 I;쿠게리 심바니의 모자장식;1;icon_item_misc04_104
+I;우르바스 증표;1;icon_item_borutakey
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01

@@ -9,8 +9,8 @@ I;SP 회복 소형 엘릭서 ;20;icon_item_SPelixir_Small
 I;고농축 HP포션;145;item_HP_oil_3
 I;고농축 SP포션;117;item_SP_requid_3
 I;긴급 수리 키트;11;icon_item_repairkit
-I;농축 HP포션 LV15;15;icon_item_HP_Alche
-I;농축 SP포션 LV15;3;icon_item_SP_Alche
+I;농축 HP포션 LV15;29;icon_item_HP_Alche
+I;농축 SP포션 LV15;45;icon_item_SP_Alche
 I;대형 HP포션;5;item_HP_oil_3
 I;대형 SP포션;3;item_SP_requid_3
 I;딸기;21;icon_item_Strawberry
@@ -19,7 +19,7 @@ I;루팅 찬스 증가 포션;2;icon_item_looting_potion_01
 I;루팅 찬스: 100;4;item_icon_luckypotion_100
 I;매두스;17;icon_item_Medus
 I;바루날레샤;95;icon_item_Varnalesa
-I;보급용 작은 SP포션;687;item_SP_requid_1
+I;보급용 작은 SP포션;686;item_SP_requid_1
 I;보급용 작은 스태미나 알약;26;item_STA_pill_1
 I;복숭아;14;icon_item_Peach
 I;아비에테;22;icon_item_Aviete
@@ -52,7 +52,6 @@ G;SubWeapon
 I;버블스틱;1;icon_item_artefact_bublestick
 I;좌절 깃발;1;OTL_flag
 G;Book
-I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 I;공간의 책;1;icon_item_collection_00Basic
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;그을린 실마리;1;icon_item_PILGRIM_PIECE
@@ -98,11 +97,13 @@ I;카롤리스 이야기 1권;1;icon_item_collection_04Black
 I;카롤리스 이야기 2권;1;icon_item_collection_02green
 I;카롤리스 이야기 3권;1;icon_item_collection_03Blue
 I;타다 만 일지를 적은 메모;1;icon_item_paperpiece
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 I;파우스타스의 일기;1;icon_item_collection_04Black
 I;현대 마스터 총람 2권;1;icon_item_collection_01Red
 G;Recipe
 I;제작서-디델 그랜드 크로스;1;icon_item_weapon_misc4
 I;제작서-로얄 피스톨;1;icon_item_weapon_misc1
+I;제작서-루시두스;1;icon_item_weapon_misc4
 I;제작서-리가드 혼 스태프;7;icon_item_weapon_misc5
 I;제작서-리가드 혼 크로스보우;2;icon_item_weapon_misc5
 I;제작서-리가드 혼 파이크;5;icon_item_weapon_misc5
@@ -120,17 +121,17 @@ I;제작서-에멘가드 캐논;9;icon_item_weapon_misc5
 I;제작서-윙샤드 스피어;12;icon_item_weapon_misc5
 I;제작서-코로나 로드;1;icon_item_weapon_misc1
 I;제작서-하트 오브 글로리;9;icon_item_weapon_misc5
-I;제작서-루시두스;1;icon_item_weapon_misc4
 I;제작서-에멘가드 실드;9;icon_item_shirts_misc5
 I;제작서-페디미안 레더 부츠;1;icon_item_boots_misc1
 I;제작서-페디미안 레더 아머;1;icon_item_shirts_misc1
 I;제작서-페디미안 아머;1;icon_item_shirts_misc1
-I;제작서-테라리온;1;icon_item_necklace_misc4
+I;제작서-레비잔 브레이슬릿;1;icon_item_bracelet_misc4
 I;제작서-매듭진 암밴드;1;icon_item_recipe_misc1
-I;제작서-스트랭스 팬던트;1;icon_item_necklace_misc3
-I;제작서-컨트롤 뱅글;1;icon_item_bracelet_misc3
 I;제작서-매직 탈리스만;1;icon_item_necklace_misc3
+I;제작서-스트랭스 팬던트;1;icon_item_necklace_misc3
 I;제작서-아크메이지 뱅글;1;icon_item_bracelet_misc4
+I;제작서-컨트롤 뱅글;1;icon_item_bracelet_misc3
+I;제작서-테라리온;2;icon_item_necklace_misc4
 I;제작서-x4 경험의 서;1;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(레이피어);2;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(로드);2;icon_item_recipe_misc1
@@ -202,9 +203,8 @@ I;소울 크리스탈;14;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
 G;Material
-I;모루;14;icon_item_anvil
-I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;괴황지;1942;icon_item_guehwangji
+I;모루;21;icon_item_anvil
+I;괴황지;1579;icon_item_guehwangji
 I;성수;2;icon_item_holywater
 I;크리오라이트;17;39_icon_item_Cry8rite
 I;사파이어;1;39_icon_item_Cry8rite
@@ -222,7 +222,6 @@ I;검은 드레이크의 심장;4;item_icon_heart_red
 I;검은 샤드스태튜 날개;8;icon_item_batwing
 I;검은 주술인형의 핵;10;icon_item_core_yellow
 I;검은 콜리플라이 수술;2;icon_item_stamen_colifly_black
-I;우르바스 증표;1;icon_item_borutakey
 I;고블린 부적;6;icon_item_bubetoken
 I;고사루의 뼈;2;icon_item_bone
 I;공명용 수정;1;icon_item_Crystal_00005
@@ -235,7 +234,7 @@ I;그리바루 방울;1;icon_item_crystal_yellow
 I;글리자돈의 뼈;7;icon_item_bone
 I;글리프링 파편;24;icon_item_Misc_00006
 I;나무 말뚝;9;icon_item_wood_3
-I;나부의 온전한 꼬리;59;icon_item_misc04_63
+I;나부의 온전한 꼬리;62;icon_item_misc04_63
 I;노란 듀마로의 발톱;4;icon_item_tooth_00Basic
 I;노란 리프넛 날개;7;icon_item_batwing
 I;노란 리프넛의 꼬리;77;icon_item_misc04_64
@@ -294,7 +293,7 @@ I;멘티우드의 껍질;2;icon_item_shell_purple
 I;멜라타눈 심장;2;item_icon_heart_yellow
 I;멜리치 껍질;11;icon_item_shell_yellow
 I;모글란 껍질;5;icon_item_shell_blackbrown
-I;모닝버드의 꼬리;60;icon_item_misc04_73
+I;모닝버드의 꼬리;66;icon_item_misc04_73
 I;모링가가의 더듬이;4;icon_item_misc04_76
 I;모야 파편;11;icon_item_shell_blue
 I;묘지 골렘의 핵;6;icon_item_core_blue
@@ -367,6 +366,7 @@ I;엘로마고 잎;8;icon_item_leaves_blue
 I;엘마 머리카락;14;icon_item_hair_elma
 I;오페러의 껍질;5;icon_item_shell_yellow
 I;요노움의 핵;27;icon_item_core_purple
+I;우르바스 증표;1;icon_item_borutakey
 I;웬디고 이빨;17;icon_item_tooth_white
 I;위버 더듬이;19;icon_item_feeler_black
 I;유리 조각;33;icon_item_pieceofglass
@@ -386,7 +386,7 @@ I;족쇄;7;icon_item_legiron
 I;졸렘의 핵;1;icon_item_core_yellow
 I;주술인형의 핵;1;icon_item_core_red
 I;주황 그루머 날개;8;icon_item_batwing
-I;주황 그루머의 더듬이;55;icon_item_misc04_90
+I;주황 그루머의 더듬이;59;icon_item_misc04_90
 I;주황 샤울라브 가면;6;icon_item_mask_pendinmire
 I;지누테의 껍질;18;icon_item_shell_blue
 I;지누테카스의 핵;1;icon_item_core_green
@@ -426,11 +426,11 @@ I;코카트리스 깃털;15;icon_item_feather_02Yellow
 I;콜리플라워의 줄기;3;icon_item_stem_brown
 I;쿠게리 누마니의 방울;1;icon_item_misc04_97
 I;쿠게리 리오니의 뿔;69;icon_item_misc04_98
-I;쿠게리 발저의 꽃바구니;78;icon_item_misc04_99
+I;쿠게리 발저의 꽃바구니;81;icon_item_misc04_99
 I;쿠게리 솜털;10;icon_item_fur_00White
 I;쿠게리 심바니의 검;48;icon_item_misc04_103
 I;쿠게리 자비의 탈;54;icon_item_misc04_106
-I;쿠게리 제피의 장식;64;icon_item_misc04_108
+I;쿠게리 제피의 장식;67;icon_item_misc04_108
 I;크로마독 뼈;24;icon_item_bone
 I;크루마보 잎;4;icon_item_leaves_green
 I;타마 잎;31;icon_item_leaves_red
@@ -499,6 +499,7 @@ I;암살자 에보니폰의 증표;1;icon_item_Gem_Pendent9
 I;액상 융해제;1;icon_item_oli2
 I;오래된 도구;8;icon_item_farm47_wood_hammer
 I;왕의 목소리 영약;1;item_HPSP_potion_3
+I;음양사 본향 지원 명단;1;Siaul_Act3_Confirmation
 I;일회용 시약병;1;icon_item_Quest_00020
 I;자카리엘 왕릉의 계시;1;icon_item_stonetablet
 I;칼레이마스 감옥의 계시;1;icon_item_stonetablet
@@ -506,7 +507,6 @@ I;테넷 성당의 계시;1;icon_item_stonetablet
 I;펜듈럼;1;icon_item_pendulum
 I;휠렌의 증표;1;icon_item_Gem_Elemental17
 I;힘이 복구된 사울레의 성구;1;icon_item_crimson3
-I;음양사 본향 지원 명단;1;Siaul_Act3_Confirmation
 G;Armor
 I;도사 코스튬;1;icon_item_daoshi_f
 I;섀도우맨서 루너하이더 코스튬;1;icon_item_mage_shadowmancer04_f

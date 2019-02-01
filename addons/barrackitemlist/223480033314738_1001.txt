@@ -42,6 +42,7 @@ I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;베이키얼의 답장;1;icon_item_indulgence
 I;부스러져가는 공문;1;icon_item_magicpaper
 I;낡은 일기;1;icon_item_collection_04Black
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-뚫어뻥;26;icon_item_weapon_misc5
 G;Collection
@@ -202,6 +203,7 @@ I;사디피 결정 Lv1;16;KQ_recipe_hethran_material_1_1
 I;오넨 정수 Lv1;11;KQ_recipe_hethran_material_1_2
 I;팔라팜 조각 Lv1;5;KQ_recipe_hethran_material_1_3
 I;쿠게리의 천조각;1;icon_item_clothpiece_white
+I;우르바스 증표;1;icon_item_borutakey
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01

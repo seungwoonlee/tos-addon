@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;99999;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
@@ -67,6 +67,7 @@ I;찢어진 일기의 일부 1;1;icon_item_paperpiece
 I;찢어진 일기의 일부 2;1;icon_item_paperpiece
 I;찢어진 일기의 일부 3;1;icon_item_paperpiece
 I;찢어진 일기의 일부 4;1;icon_item_paperpiece
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 I;카듀멜 시대의 갑주;1;icon_item_collection_04Black
 G;Recipe
 I;제작서-트윈 블레이드;4;icon_item_weapon_misc1
@@ -298,6 +299,7 @@ I;허밍버드의 날개;1;icon_item_bugwing
 I;호그마 엄니;14;icon_item_tooth_white
 I;호헨 가죽;7;icon_item_Misc_00011
 I;회색 스타울리트 힘줄;4;icon_item_Leash
+I;우르바스 증표;1;icon_item_borutakey
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;가시숲의 계시;1;icon_item_stonetablet

@@ -1,12 +1,12 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;99999;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
-I;SP 회복 소형 엘릭서 ;9;icon_item_SPelixir_Small
-I;농축 HP포션 LV15;19;icon_item_HP_Alche
+I;SP 회복 소형 엘릭서 ;6;icon_item_SPelixir_Small
+I;농축 HP포션 LV15;21;icon_item_HP_Alche
 I;케이스타스 회복포션Lv4;7;item_HPSP_potion_3
-I;농축 SP포션 LV15;20;icon_item_SP_Alche
+I;농축 SP포션 LV15;14;icon_item_SP_Alche
 I;물리+마법 방어력 포션;1;item_speed_requid_1
 I;바루날레샤;4;icon_item_Varnalesa
 I;발래리요나스;5;icon_item_Valerijonas
@@ -31,15 +31,16 @@ I;큰 스태미나 알약;6;item_STA_pill_3
 I;클라페다 워프 주문서;11;GolemMagicItem1
 I;페디미안 워프 주문서;5;GolemMagicItem1
 I;해독제;7;icon_item_Quest_00020
-I;LV14 경험치 카드;41;icon_item_expcard
+I;LV14 경험치 카드;48;icon_item_expcard
 I;LV2 경험치 카드;6;icon_item_expcard
 I;보급용 워프 주문서;22;GolemMagicItem1
 I;디스펠러;10;icon_item_grimoire_blue
-I;인챈트탄;455;icon_item_panto_core
+I;인챈트탄;322;icon_item_panto_core
 G;SubWeapon
 I;엄지척 암밴드;1;icon_item_armband_facebook
 I;잎사귀 무늬 암밴드;1;icon_item_armband_leaf
 G;Book
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;그을린 실마리;1;icon_item_PILGRIM_PIECE
 I;낡은 일기;1;icon_item_collection_04Black
@@ -55,8 +56,16 @@ G;Recipe
 I;제작서-슈페리어 캐논;2;icon_item_weapon_misc1
 I;제작서-스폰툰;2;icon_item_weapon_misc1
 I;제작서-아스트로 스태프;1;icon_item_weapon_misc1
+I;제작서-아티 스태그 스태프;2;icon_item_weapon_misc3
+I;제작서-비니 코르세스카;2;icon_item_weapon_misc3
+I;제작서-헬스 데몬 파이크;1;icon_item_weapon_misc3
+I;제작서-세이모스 소드;1;icon_item_weapon_misc4
 I;제작서-슈페리어 로얄 가드 건틀릿;3;icon_item_gloves_misc1
+I;제작서-비르토브 레더 글로브;1;icon_item_gloves_misc4
+I;제작서-안티 다크 네클리스;1;icon_item_necklace_misc3
 I;제작서-x8 경험의 서;1;icon_item_recipe_misc1
+G;Seal
+I;카제 인장 - 스카우트;1;icon_item_Seal_QuestRune
 G;Collection
 I;계시록: 대립편 컬렉션;1;icon_item_holyark
 I;컬렉션: 강철 고원;1;icon_item_box
@@ -104,6 +113,7 @@ I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
 I;모루;10;icon_item_anvil
 I;황금 모루;5;icon_item_anvil_gold
+I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;주석;3;1_item_ore_copper
 I;호박;65;22_item_ore_amber
@@ -242,6 +252,8 @@ I;할로우벤터의 손뼈;1;icon_item_bone
 I;허니빈 침;5;icon_item_tooth_01Yellow
 I;허밍버드의 날개;4;icon_item_bugwing
 I;호그마 엄니;3;icon_item_tooth_white
+I;우르바스 증표;1;icon_item_borutakey
+I;전환의 수정조각;1;icon_item_BlokenMirror
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공구박스;1;icon_item_Quest_00017
@@ -278,8 +290,8 @@ I;세이지 마스터의 편지;1;icon_item_loveletter
 I;세이지 마스터의 편지;1;icon_item_loveletter
 I;행상인의 손수건;1;icon_item_bandana
 I;요리 도구가 든 가방;1;icon_item_sidebag
-I;수호의 수정 유지도구;1;icon_item_Siela
 G;Armor
+I;하얀색 토끼 귀;1;icon_item_blackRabbitEar_white
 I;까만 토끼귀;1;hairacc_45_blackrabbitears
 I;불릿 마커 매처 코스튬;1;icon_item_bulletmarker02_f
 I;불릿 마커 휠러 코스튬;1;icon_item_bulletmarker03_f

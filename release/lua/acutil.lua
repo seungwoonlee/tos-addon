@@ -14,7 +14,6 @@ function acutil.addThousandsSeparator(amount)
 
 	while true do
 		formatted, k = string.gsub(formatted, "^(-?%d+)(%d%d%d)", '%1,%2')
-
 		if (k == 0) then
 			break
 		end
@@ -39,24 +38,20 @@ function acutil.rightPad(str, len, char)
 	return str .. string.rep(char, len - #str)
 end
 
-function acutil.tostring(var)
-	if (var == nil) then return 'nil'; end
-
-	local tp = type(var);
-
-	if (tp == 'string' or tp == 'number') then
-		return var;
-	end
-
-	if (tp == 'boolean') then
-		if (var) then 
-			return 'true';
-		else
-			return 'false';
-		end
-	end
-
-	return tp;
+function acutil.tostring(var) 
+    if (var == nil) then return 'nil'; end  
+    local tp = type(var); 
+    if (tp == 'string' or tp == 'number') then 
+        return var; 
+    end
+    if (tp == 'boolean') then 
+        if (var) then 
+            return 'true';
+        else
+            return 'false';
+        end
+    end
+    return tp;
 end
 
 -- ================================================================
@@ -64,126 +59,135 @@ end
 -- ================================================================
 
 function acutil.getStatPropertyFromPC(typeStr, statStr, pc)
-	local errorText = "Param was nil";
+    local errorText = "Param was nil";
 
-	if typeStr ~= nil and statStr ~= nil and pc ~= nil then
-		if typeStr == "JOB" then
-			if statStr == "STR" then
-				return pc.STR_JOB;
-			elseif statStr == "DEX" then
-				return pc.DEX_JOB;
-			elseif statStr == "CON" then
-				return pc.CON_JOB;
-			elseif statStr == "INT" then
-				return pc.INT_JOB;
-			elseif statStr == "MNA" then
-				return pc.MNA_JOB;
-			elseif statStr == "LUCK" then
-				return pc.LUCK_JOB;
-			else
-				errorText = "Could not find stat "..statStr.." for type "..typeStr;
-			end
-		elseif typeStr == "STAT" then
-			if statStr == "STR" then
-				return pc.STR_STAT;
-			elseif statStr == "DEX" then
-				return pc.DEX_STAT;
-			elseif statStr == "CON" then
-				return pc.CON_STAT;
-			elseif statStr == "INT" then
-				return pc.INT_STAT;
-			elseif statStr == "MNA" then
-				return pc.MNA_STAT;
-			elseif statStr == "LUCK" then
-				return pc.LUCK_STAT;
-			else
-				errorText = "Could not find stat "..statStr.." for type "..typeStr;
-			end
-		elseif typeStr == "BONUS" then
-			if statStr == "STR" then
-				return pc.STR_Bonus;
-			elseif statStr == "DEX" then
-				return pc.DEX_Bonus;
-			elseif statStr == "CON" then
-				return pc.CON_Bonus;
-			elseif statStr == "INT" then
-				return pc.INT_Bonus;
-			elseif statStr == "MNA" then
-				return pc.MNA_Bonus;
-			else
-				errorText = "Could not find stat "..statStr.." for type "..typeStr;
-			end
-		elseif typeStr == "ADD" then
-			if statStr == "STR" then
-				return pc.STR_ADD;
-			elseif statStr == "DEX" then
-				return pc.DEX_ADD;
-			elseif statStr == "CON" then
-				return pc.CON_ADD;
-			elseif statStr == "INT" then
-				return pc.INT_ADD;
-			elseif statStr == "MNA" then
-				return pc.MNA_ADD;
-			elseif statStr == "LUCK" then
-				return pc.LUCK_ADD;
-			else
-				errorText = "Could not find stat "..statStr.." for type "..typeStr;
-			end
-		elseif typeStr == "BM" then
-			if statStr == "STR" then
-				return pc.STR_BM;
-			elseif statStr == "DEX" then
-				return pc.DEX_BM;
-			elseif statStr == "CON" then
-				return pc.CON_BM;
-			elseif statStr == "INT" then
-				return pc.INT_BM;
-			elseif statStr == "MNA" then
-				return pc.MNA_BM;
-			elseif statStr == "LUCK" then
-				return pc.LUCK_BM;
-			else
-				errorText = "Could not find stat "..statStr.." for type "..typeStr;
-			end
-		else
-			errorText = "Could not find a property for type "..typeStr;
-		end
-	end
+    if typeStr ~= nil and statStr ~= nil and pc ~= nil then
 
-	ui.SysMsg(errorText);
-	return 0;
+        if typeStr == "JOB" then
+            if statStr == "STR" then
+                return pc.STR_JOB;
+            elseif statStr == "DEX" then
+                return pc.DEX_JOB;
+            elseif statStr == "CON" then
+                return pc.CON_JOB;
+            elseif statStr == "INT" then
+                return pc.INT_JOB;
+            elseif statStr == "MNA" then
+                return pc.MNA_JOB;
+            elseif statStr == "LUCK" then
+                return pc.LUCK_JOB;
+            else
+                errorText = "Could not find stat "..statStr.." for type "..typeStr;
+            end
+
+        elseif typeStr == "STAT" then
+            if statStr == "STR" then
+                return pc.STR_STAT;
+            elseif statStr == "DEX" then
+                return pc.DEX_STAT;
+            elseif statStr == "CON" then
+                return pc.CON_STAT;
+            elseif statStr == "INT" then
+                return pc.INT_STAT;
+            elseif statStr == "MNA" then
+                return pc.MNA_STAT;
+            elseif statStr == "LUCK" then
+                return pc.LUCK_STAT;
+            else
+                errorText = "Could not find stat "..statStr.." for type "..typeStr;
+            end
+
+        elseif typeStr == "BONUS" then
+            if statStr == "STR" then
+                return pc.STR_Bonus;
+            elseif statStr == "DEX" then
+                return pc.DEX_Bonus;
+            elseif statStr == "CON" then
+                return pc.CON_Bonus;
+            elseif statStr == "INT" then
+                return pc.INT_Bonus;
+            elseif statStr == "MNA" then
+                return pc.MNA_Bonus;
+            else
+                errorText = "Could not find stat "..statStr.." for type "..typeStr;
+            end
+
+        elseif typeStr == "ADD" then
+            if statStr == "STR" then
+                return pc.STR_ADD;
+            elseif statStr == "DEX" then
+                return pc.DEX_ADD;
+            elseif statStr == "CON" then
+                return pc.CON_ADD;
+            elseif statStr == "INT" then
+                return pc.INT_ADD;
+            elseif statStr == "MNA" then
+                return pc.MNA_ADD;
+            elseif statStr == "LUCK" then
+                return pc.LUCK_ADD;
+            else
+                errorText = "Could not find stat "..statStr.." for type "..typeStr;
+            end
+
+        elseif typeStr == "BM" then
+            if statStr == "STR" then
+                return pc.STR_BM;
+            elseif statStr == "DEX" then
+                return pc.DEX_BM;
+            elseif statStr == "CON" then
+                return pc.CON_BM;
+            elseif statStr == "INT" then
+                return pc.INT_BM;
+            elseif statStr == "MNA" then
+                return pc.MNA_BM;
+            elseif statStr == "LUCK" then
+                return pc.LUCK_BM;
+            else
+                errorText = "Could not find stat "..statStr.." for type "..typeStr;
+            end
+
+        else
+            errorText = "Could not find a property for type "..typeStr;
+        end
+    end
+
+    ui.SysMsg(errorText);
+    return 0;
 end
 
 function acutil.isValidStat(statStr, includeLuck)
-	if statStr == "LUCK" then
-		return includeLuck;
-	elseif statStr == "STR" or statStr == "DEX" or statStr == "CON" or statStr == "INT" or statStr == "MNA" then
-		return true;
-	end
+    if statStr == "LUCK" then
+        return includeLuck;
+    elseif statStr == "STR" or
+           statStr == "DEX" or
+           statStr == "CON" or
+           statStr == "INT" or
+           statStr == "MNA" then
+        return true;
+    end
 
-	return false;
+    return false;
 end
 
 function acutil.textControlFactory(attributeName, isMainSection)
-	local text = "";
+    local text = "";
 
-	if attributeName == "MNA" then
-		attributeName = "SPR"
-	elseif attributeName == "MountDEF" then
-		attributeName = "물리 방어력"
-	elseif attributeName == "MountDR" then
-		attributeName = "회피"
-	elseif attributeName == "MountMHP" then
-		attributeName = "최대 HP"
-	end
+    if attributeName == "MNA" then
+        attributeName = "SPR"
+    elseif attributeName == "MountDEF" then
+        attributeName = "physical defense"
+    elseif attributeName == "MountDR" then
+        attributeName = "evasion"
+    elseif attributeName == "MountMHP" then
+        attributeName = "max HP"
+    end
 
-	if isMainSection then
-		text = "순수 포인트 투자 " .. attributeName;
-	else
-		text = "컴패니언 탑승 시 " .. attributeName .. " 보너스";
-	end
-
-	return text;
+    if isMainSection then
+        text = "Points invested in " .. attributeName;
+    else
+        text = "Mounted " .. attributeName .. " bonus";
+    end
+    return text;
 end
 
 -- ================================================================
@@ -191,28 +195,26 @@ end
 -- ================================================================
 
 function acutil.getItemRarityColor(itemObj)
-	local itemProp = geItemTable.GetProp(itemObj.ClassID);
-	local grade = itemObj.ItemGrade;
+    local itemProp = geItemTable.GetProp(itemObj.ClassID);
+    local grade = itemObj.ItemGrade;
 
-	if (itemObj.ItemType == "Recipe") then
-		local recipeGrade = string.match(itemObj.Icon, "misc(%d)");
-
-		if recipeGrade ~= nil then
-			grade = tonumber(recipeGrade) - 1
-			grade = (grade > 1 and grade) or 1
-		end
-	end
-
-	if (itemProp.setInfo ~= nil) then return "00FF00"; -- set piece 
-	elseif (grade == 0) then return "FFBA03"; -- premium
-	elseif (grade == 1) then return "FFFFFF"; -- common
-	elseif (grade == 2) then return "108CFF"; -- rare
-	elseif (grade == 3) then return "AA40FF"; -- epic
-	elseif (grade == 4) then return "FF4F00"; -- Good old Red-ish Legendary that degraded to unique
-	elseif (grade == 5) then return "EFEA00"; -- All new Bright-Yellow legendary. (Solmiki/Lolo/Some event item. might useful in future)
-	end
-
-	return "E1E1E1"; -- no grade (non-equipment items)
+    if (itemObj.ItemType == "Recipe") then
+        local recipeGrade = string.match(itemObj.Icon, "misc(%d)");
+        if recipeGrade ~= nil then
+            grade = tonumber(recipeGrade) - 1
+            grade = (grade > 1 and grade) or 1
+        end
+    end
+    
+    if (itemProp.setInfo ~= nil) then return "00FF00"; -- set piece 
+    elseif (grade == 0) then return "FFBA03"; -- premium
+    elseif (grade == 1) then return "FFFFFF"; -- common
+    elseif (grade == 2) then return "108CFF"; -- rare
+    elseif (grade == 3) then return "AA40FF"; -- epic
+    elseif (grade == 4) then return "FF4F00"; -- Good old Red-ish Legendary that degraded to unique
+    elseif (grade == 5) then return "EFEA00"; -- All new Bright-Yellow legendary. (Solmiki/Lolo/Some event item. might useful in future)
+    end 
+    return "E1E1E1"; -- no grade (non-equipment items)
 end
 
 -- ================================================================
@@ -221,7 +223,6 @@ end
 
 function acutil.setupHook(newFunction, hookedFunctionStr)
 	local storeOldFunc = hookedFunctionStr .. "_OLD";
-
 	if _G[storeOldFunc] == nil then
 		_G[storeOldFunc] = _G[hookedFunctionStr];
 		_G[hookedFunctionStr] = newFunction;
@@ -252,6 +253,10 @@ function acutil.setupEvent(myAddon, functionNameAbs, myFunctionName)
 	myAddon:RegisterMsg(functionName, myFunctionName);
 end
 
+-- usage:
+-- function myFunc(addonFrame, eventMsg)
+--     local arg1, arg2, arg3 = acutils.getEventArgs(eventMsg);
+-- end
 function acutil.getEventArgs(eventMsg)
 	return unpack(_G['ADDONS']['EVENTS']['ARGS'][eventMsg]);
 end
@@ -272,36 +277,33 @@ end
 -- tblMerge is optional, use this to merge new pairs from tblMerge while
 -- preserving the pairs set in the pre-existing config file
 function acutil.loadJSON(path, tblMerge, ignoreError)
-	-- opening the file
+    -- opening the file
 	local file, err=io.open(path,"r");
-	local t = nil;
-
-	-- if a error happened
-	if (err) then
-		-- if the ignoreError is true
-		if (ignoreError) then
-			-- we simply set it as a empty json
-			t = {};
-		else 
-			-- if it's not, the error is returned
-			return _,err
-		end
-	else
-		-- if nothing wrong happened, the file is read
-		local content = file:read("*all");
-		file:close();
-		t = json.decode(content);
-	end
-
-	-- if there is another table to merge (like default options)
+    local t = nil;
+    -- if a error happened 
+	if (err) then 
+        -- if the ignoreError is true
+        if (ignoreError) then
+            -- we simply set it as a empty json
+            t = {};
+        else 
+            -- if it's not, the error is returned
+            return _,err
+        end
+    else 
+        -- if nothing wrong happened, the file is read
+	    local content = file:read("*all");
+        file:close();
+        t = json.decode(content);
+    end
+    -- if there is another table to merge (like default options)
 	if tblMerge then
-		-- we merge it
+        -- we merge it
 		t = acutil.mergeLeft(tblMerge, t)
-		-- and save it back to file
+        -- and save it back to file
 		acutil.saveJSON(path, t);
 	end
-
-	-- returning the table
+    -- returning the table
 	return t;
 end
 
@@ -318,23 +320,22 @@ function acutil.mergeLeft(t1, t2)
 			t1[k] = v
 		end
 	end
-
 	return t1
 end
 
 -- table length (when #table doesn't works)
 function acutil.tableLength(T)
-	local count = 0
-	for _ in pairs(T) do count = count + 1 end
-	return count
+    local count = 0
+    for _ in pairs(T) do count = count + 1 end
+    return count
 end
 
 -- ================================================================
 -- Logging
 -- ================================================================
 
-function acutil.log(msg)
-	CHAT_SYSTEM(acutil.tostring(msg));
+function acutil.log(msg)     
+    CHAT_SYSTEM(acutil.tostring(msg));  
 end
 
 -- ================================================================
@@ -350,99 +351,86 @@ function acutil.slashCommand(cmd, fn)
 end
 
 function acutil.slashSet(set)
-	if (not set.base) then return ui.SysMsg('[acutil.slashSet] missing "base" string.'); end
-	if (set.title) then set.title = set.title..'{nl}-----------{nl}'; else set.title = ''; end
+    if (not set.base) then return ui.SysMsg('[acutil.slashSet] missing "base" string.'); end
+    if (set.title) then set.title = set.title..'{nl}-----------{nl}'; else set.title = ''; end
 
-	local fnError = set.error;
+    local fnError = set.error;
 
-	if (not fnError) then
-		fnError = function(extraMsg)
-			if (extraMsg) then extraMsg = '{nl}-----------{nl}'..extraMsg..'{nl}-----------{nl}'; else extraMsg = ''; end
-			return 'Command not valid.{nl}'..extraMsg..'Type "'..set.base..'" for help.', '', 'Nope';
-		end
-	end
+    if (not fnError) then
+        fnError = function(extraMsg)
+            if (extraMsg) then extraMsg = '{nl}-----------{nl}'..extraMsg..'{nl}-----------{nl}'; else extraMsg = ''; end
+            return 'Command not valid.{nl}'..extraMsg..'Type "'..set.base..'" for help.', '', 'Nope';
+        end
+    end
 
-	local executeSetCmd = function(fn,params) 
-		local p1, p2, p3;
+    local executeSetCmd = function(fn,params) 
+        local p1, p2, p3;
+        if (params) then
+            p1,p2,p3 = fn(params);
+        else
+            p1,p2,p3 = fn(); 
+        end         
+        if (p1) then 
+            local msg = set.title..p1;
+            if (p2 and p3) then return ui.MsgBox(msg,p2,p3); end
+            if (p2) then return ui.MsgBox(msg,p2); end
+            return ui.MsgBox(msg);
+        end
+    end
 
-		if (params) then
-			p1,p2,p3 = fn(params);
-		else
-			p1,p2,p3 = fn(); 
-		end
+    local mainFn = function(words)
+        local word = table.remove(words,1);     
+        if (word == 'help') then word = nil; end
 
-		if (p1) then 
-			local msg = set.title..p1;
-			if (p2 and p3) then return ui.MsgBox(msg,p2,p3); end
-			if (p2) then return ui.MsgBox(msg,p2); end
-			return ui.MsgBox(msg);
-		end
-	end
-
-	local mainFn = function(words)
-		local word = table.remove(words,1);
-		if (word == 'help') then word = nil; end
-
-		if (word) then
-			for cmd,data in pairs(set.cmds) do
-				if (cmd == word) then
-					local fn = data.fn;
-					local qtexpected = data.nparams or 0;
-					local qtfound = acutil.tableLength(words);
-
-					if (qtfound ~= qtexpected) then
-						return executeSetCmd(fnError,set.base..' '..cmd..' expects '..qtexpected..' params, not '..qtfound..'.');
-					else
-						local params = {}; 
-						local n = 0;
-
-						while (acutil.tableLength(words) > 0) do
-							params[n] = table.remove(words,1);
-							n = n+1;
-						end
-
-						return executeSetCmd(fn,params);
-					end
-				end
-			end
-
-			return executeSetCmd(fnError,word..' is not a valid call.');
-		else
-			if (set.empty) then
-				return executeSetCmd(set.empty);
-			end
-
-			local lines = set.base..'{nl}Show addon help.{nl}-----------{nl}';
-
-			for cmd,data in pairs(set.cmds) do
-				local params = ' ';
-				local qtparams = data.nparams or 0;
-
-				for i = 1, qtparams do 
-					params = params .. '$param'..i..' '; 
-				end
-
-				lines = lines .. set.base..' '..cmd..params..'{nl}-----------{nl}';
-			end
-
-			return ui.MsgBox(set.title..lines,'','Nope');
-		end
-	end
-
-	acutil.slashCommand(set.base,mainFn);
+        if (word) then
+            for cmd,data in pairs(set.cmds) do
+                if (cmd == word) then
+                    local fn = data.fn;     
+                    local qtexpected = data.nparams or 0;                   
+                    local qtfound = acutil.tableLength(words);
+                    if (qtfound ~= qtexpected) then
+                        return executeSetCmd(fnError,set.base..' '..cmd..' expects '..qtexpected..' params, not '..qtfound..'.');
+                    else
+                        local params = {}; 
+                        local n = 0;
+                        while (acutil.tableLength(words) > 0) do
+                            params[n] = table.remove(words,1);
+                            n = n+1;
+                        end
+                        return executeSetCmd(fn,params);
+                    end
+                end
+            end
+            return executeSetCmd(fnError,word..' is not a valid call.');
+        else
+            if (set.empty) then
+                return executeSetCmd(set.empty);
+            end
+            local lines = set.base..'{nl}Show addon help.{nl}-----------{nl}';
+            for cmd,data in pairs(set.cmds) do
+                local params = ' ';
+                local qtparams = data.nparams or 0;
+                for i = 1, qtparams do 
+                    params = params .. '$param'..i..' '; 
+                end
+                lines = lines .. set.base..' '..cmd..params..'{nl}-----------{nl}';
+            end
+            return ui.MsgBox(set.title..lines,'','Nope');
+        end
+    end
+   
+    acutil.slashCommand(set.base,mainFn);
 end
 
 function acutil.onUIChat(msg)
 	acutil.uiChat_OLD(msg);
 
 	local words = {};
-
 	for word in msg:gmatch('%S+') do
 		table.insert(words, word)
 	end
 
 	local cmd = table.remove(words,1);
-
 	for i,v in ipairs({"/r","/w","/p","/y","/s","/g"}) do
 		if (tostring(cmd) == tostring(v)) then
 			cmd = table.remove(words,1);
@@ -451,7 +439,6 @@ function acutil.onUIChat(msg)
 	end
 
 	local fn = acutil.slashCommands[cmd];
-
 	if (fn ~= nil) then
 		acutil.closeChat();
 		return fn(words);
@@ -476,6 +463,7 @@ end
 
 ui.Chat = acutil.onUIChat;
 
+
 -- ================================================================
 -- Addon Sysmenu
 -- ================================================================
@@ -496,7 +484,6 @@ end
 
 function ACUTIL_OPEN_ADDON_SYSMENU()
 	local frm = ui.GetFrame("ACUTIL_ADDON_SYSMENU");
-
 	if frm ~= nil then
 		if frm:IsVisible() == 1 then
 			frm:ShowWindow(0);
@@ -512,9 +499,9 @@ function ACUTIL_OPEN_ADDON_SYSMENU()
 	end
 
 	local sysMenuFrame = ui.GetFrame("sysmenu");
-	local rankBtn = sysMenuFrame:GetChild("rankBtn");
+	local status = sysMenuFrame:GetChild("status");
 	local acutilbutton = sysMenuFrame:GetChild("acutiladdon");
-	local margin = rankBtn:GetMargin();
+	local margin = status:GetMargin();
 	frm:Resize(1920 , 100);
 	frm:MoveFrame(sysMenuFrame:GetX(), sysMenuFrame:GetY()+35);
 	frm:SetSkinName("systemmenu_vertical 잠정제거");
@@ -522,10 +509,10 @@ function ACUTIL_OPEN_ADDON_SYSMENU()
 	ACUTIL_sysmenuMargin = acutilbutton:GetMargin().right;
 
 	for k,v in pairs(ACUTIL_sysmenuAddons) do
-		local btn = frm:CreateOrGetControl("button", "acutilAddon"..tostring(k), rankBtn:GetWidth(), rankBtn:GetHeight(), ui.LEFT, ui.BOTTOM, 0, margin.top, margin.right, margin.bottom);
+		local btn = frm:CreateOrGetControl("button", "acutilAddon"..tostring(k), status:GetWidth(), status:GetHeight(), ui.LEFT, ui.BOTTOM, 0, margin.top, margin.right, margin.bottom);
 		local btnMargin = btn:GetMargin();
 		btn:SetMargin(btnMargin.left, btnMargin.top, ACUTIL_sysmenuMargin, btnMargin.bottom);
-		btn:CloneFrom(rankBtn);
+		btn:CloneFrom(status);
 		AUTO_CAST(btn);
 		btn:SetImage(v.icon);
 
@@ -533,36 +520,33 @@ function ACUTIL_OPEN_ADDON_SYSMENU()
 		btn:SetEventScript(ui.LBUTTONUP, v.functionString);
 		btn:SetTextTooltip("{@st59}"..v.tooltip);
 
-		ACUTIL_sysmenuMargin = ACUTIL_sysmenuMargin-35;
+		ACUTIL_sysmenuMargin = ACUTIL_sysmenuMargin-39;
 	end
 end
 
 function ACUTIL_SYSMENU_ICON(frame)
 	if acutil.tableLength(ACUTIL_sysmenuAddons) > 0 then
 		local extraBag = frame:GetChild('extraBag');
-		local rankBtn = frame:GetChild('rankBtn');
-		local offsetX = rankBtn:GetX() - extraBag:GetX();
+		local offsetX = 39;
 		local rightMargin = 0;
-
 		for idx = 0, frame:GetChildCount()-1 do
 			local t = frame:GetChildByIndex(idx):GetMargin().right;
-
 			if rightMargin < t and frame:GetChildByIndex(idx):GetName() ~= "acutiladdon" then
 				rightMargin = t;
 			end
 		end
-
 		rightMargin = rightMargin + offsetX;
-		local margin = rankBtn:GetMargin();
-		local btn = frame:CreateOrGetControl("button", "acutiladdon", rankBtn:GetWidth(), rankBtn:GetHeight(), ui.LEFT, ui.BOTTOM, 0, margin.top, margin.right, margin.bottom);
+		local margin = extraBag:GetMargin();
+		local btn = frame:CreateOrGetControl("button", "acutiladdon", extraBag:GetWidth(), extraBag:GetHeight(), ui.LEFT, ui.BOTTOM, 0, margin.top, margin.right, margin.bottom);
 		local btnMargin = btn:GetMargin();
 		btn:SetMargin(btnMargin.left, btnMargin.top, rightMargin, btnMargin.bottom);
-		btn:CloneFrom(rankBtn);
+		btn:CloneFrom(extraBag);
 		AUTO_CAST(btn);
 		btn:SetImage("sysmenu_sys");
 		btn:SetUserValue("IS_VAR_ICON", "YES");
+
 		btn:SetEventScript(ui.LBUTTONUP, 'ACUTIL_OPEN_ADDON_SYSMENU');
-		btn:SetTextTooltip("{@st59}애드온");
+		btn:SetTextTooltip("{@st59}Addons");
 	end
 end
 
@@ -574,9 +558,9 @@ function SYSMENU_CHECK_HIDE_VAR_ICONS_HOOKED(frame, isAcutil)
 	ACUTIL_SYSMENU_ICON(frame);
 end
 
-function SYSMENU_CREATE_VARICON_HOOKED(frame, rankBtn, ctrlName, frameName, imageName, startX, offsetX, hotkeyName)
+function SYSMENU_CREATE_VARICON_HOOKED(frame, status, ctrlName, frameName, imageName, startX, offsetX, hotkeyName)
 	local margin = startX;
-	margin = _G["SYSMENU_CREATE_VARICON_OLD"](frame, rankBtn, ctrlName, frameName, imageName, startX, offsetX, hotkeyName);
+	margin = _G["SYSMENU_CREATE_VARICON_OLD"](frame, status, ctrlName, frameName, imageName, startX, offsetX, hotkeyName);
 
 	ACUTIL_SYSMENU_ICON(frame);
 	return margin;
@@ -587,6 +571,7 @@ acutil.setupHook(SYSMENU_CREATE_VARICON_HOOKED, "SYSMENU_CREATE_VARICON");
 
 local sysmenuFrame = ui.GetFrame("sysmenu");
 SYSMENU_CHECK_HIDE_VAR_ICONS(sysmenuFrame);
+
 
 -- ================================================================
 -- Return

@@ -4,8 +4,8 @@ I;실버;99999;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;농축 HP포션 LV15;31;icon_item_HP_Alche
-I;농축 SP포션 LV15;14;icon_item_SP_Alche
+I;농축 HP포션 LV15;28;icon_item_HP_Alche
+I;농축 SP포션 LV15;4;icon_item_SP_Alche
 I;딸기;17;icon_item_Strawberry
 I;라무넬레;4;icon_item_Ramunele
 I;라프세이프 버섯;3;icon_item_Pinemushroom
@@ -25,15 +25,18 @@ I;페디미안 워프 주문서;12;GolemMagicItem1
 I;포포리온 고기;12;icon_item_meat_02
 I;폭죽;29;icon_item_firework
 I;해독제;5;icon_item_Quest_00020
+I;LV14 경험치 카드;13;icon_item_expcard
 I;레드 오브:붉은 슬라임;1;icon_item_Dreamshade_red
 I;레드 오브:붉은 케파;1;icon_item_Dreamshade_red
 I;블루 오브:붉은 케파;1;icon_item_Dreamshade
 I;블루 오브:푸른 티니 궁수;1;icon_item_Dreamshade
+I;LV10 경험치 카드;1;icon_item_expcard
 I;종이상자;1;icon_item_paperbox
 G;SubWeapon
 I;좌절 깃발;1;OTL_flag
 I;크리스마스 핸드벨;1;icon_item_artefact_bell
 G;Book
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;그을린 실마리;1;icon_item_PILGRIM_PIECE
 I;낡은 일기;1;icon_item_collection_04Black
@@ -116,18 +119,14 @@ I;전사용 스쿨룩 코스튬(여);1;icon_item_warrior_school_f
 I;전사용 심플 컬러 코스튬(여);1;warrior_simplecolor_f
 I;전사용 제복 코스튬(여);1;icon_item_warrior_uniform_f
 I;전사용 파티 드레스 코스튬(여);1;icon_item_Warrior_BluePeacock_f
-I;초대에 응한 자 코스튬(여);1;icon_item_blacksuit01_f
-I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
-I;하급 용병 코스튬(여);1;icon_item_lowtactic01_f
 G;Armor
-I;도펠죌트너 코스튬;1;icon_item_doppelsoldner_f
+I;하플라이트 코스튬;1;icon_item_hoplites_f
 I;마타도르 벨라니멀 코스튬;1;icon_item_warrior_matador03_f
 I;마타도르 벨비스트 코스튬;1;icon_item_warrior_matador02_f
 I;마타도르 코스튬;1;icon_item_warrior_matador_f
 I;펜서 코스튬;1;icon_item_fencer_f
 G;Material
 I;황금 모루;2;icon_item_anvil_gold
-I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;크리오라이트;7;39_icon_item_Cry8rite
 I;파이라이트;10;32_item_ore_pyrite
 I;강철 광석;14;3_item_ore_steel
@@ -305,7 +304,6 @@ I;트리펠리의 결정;7;icon_item_crystal_yellow
 I;트리피드 가시;1;icon_item_thorn_green
 I;티켄의 뼈;7;icon_item_bone
 I;티피오의 꽃술;6;icon_item_tipiostamen
-I;판토족의 뿔;55;icon_item_pantohorn
 I;페롯 줄기;4;icon_item_stem_brown
 I;페이그 헝겊;3;icon_item_clothpiece_brown
 I;포쿠본 가죽;10;icon_item_Misc_00009
@@ -321,14 +319,13 @@ I;플로래비 솜털;2;icon_item_fur_spion_white
 I;플로론의 잎;2;icon_item_leaf
 I;하나밍 꽃잎;83;icon_item_HanamingPetal
 I;하루갈 뼈;3;icon_item_bone
-I;하얀 웬디고 활대;3;icon_item_bow_wendigo_white
 I;할로우벤터의 손뼈;9;icon_item_bone
 I;허밍버드의 날개;9;icon_item_bugwing
 I;호그마 엄니;7;icon_item_tooth_white
 I;호그마 전투대장 송곳니;2;icon_item_tooth_00Basic
 I;호글란 부리;4;icon_item_small_bag
 I;호헨 가죽;2;icon_item_Misc_00011
-I;회색 스타울리트 힘줄;1;icon_item_Leash
+I;우르바스 증표;1;icon_item_borutakey
 I;차원의 정수;1;icon_item_Gem_Stone_INT
 I;귀환석;1;MercenaryBadge
 G;Quest

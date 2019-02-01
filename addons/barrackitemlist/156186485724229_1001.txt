@@ -61,6 +61,7 @@ I;남작 비서 안돌의 일지;1;icon_item_collection_04Black
 I;부스러져가는 공문;1;icon_item_magicpaper
 I;남작 사병 차고스의 일지;1;icon_item_diary
 I;카듀멜 시대의 갑주;1;icon_item_collection_04Black
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-살타스 스태프;1;icon_item_weapon_misc3
 I;제작서-마울;1;icon_item_weapon_misc1
@@ -89,11 +90,9 @@ I;사이코키노 코스튬;1;icon_item_psychokinesist_f
 I;룬캐스터 코스튬;1;icon_item_mage_runecaster_f
 G;Material
 I;모루;2;icon_item_anvil
-I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;파이라이트;23;32_item_ore_pyrite
-I;룬 스톤;163;icon_item_rune_stone_board
-I;크리오라이트;211;39_icon_item_Cry8rite
+I;룬 스톤;150;icon_item_rune_stone_board
+I;크리오라이트;207;39_icon_item_Cry8rite
 I;빈 스펠북;10;icon_item_emptySpellBook
 I;인프로 락터의 껍질;3;icon_item_shell
 I;치넨시 잎;3;icon_item_bokchoyleaf
@@ -236,6 +235,7 @@ I;에큐바이트 이빨;1;icon_item_tooth_blue
 I;위버 더듬이;1;icon_item_feeler_black
 I;에큐바이트 더듬이;1;icon_item_feeler_purple
 I;노란 아르마의 꼬리;1;icon_item_Quest_00017
+I;우르바스 증표;1;icon_item_borutakey
 I;노란 파이란 날개;1;icon_item_batwing
 I;붉은 위저드 주술 인형의 핵;1;38_item_ore_mercury
 I;붉은 슬라임의 핵;3;38_item_ore_mercury

@@ -38,6 +38,7 @@ I;핫팩;1;icon_item_hotpack
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;낡은 일기;1;icon_item_collection_04Black
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-일룬;2;icon_item_weapon_misc1
 I;제작서-x4 경험의 서;5;icon_item_recipe_misc1
@@ -62,7 +63,7 @@ G;Material
 I;모루;1;icon_item_anvil
 I;연습용 모루;1;icon_item_anvil
 I;기슬로티스;97;icon_item_Gyslotis
-I;성수;717;icon_item_holywater
+I;성수;417;icon_item_holywater
 I;조각용 나무;452;icon_item_wood_5
 I;크리오라이트;3;39_icon_item_Cry8rite
 I;파이라이트;5;32_item_ore_pyrite
@@ -193,7 +194,7 @@ I;허밍버드의 날개;2;icon_item_bugwing
 I;호그마 엄니;1;icon_item_tooth_white
 I;호그마 전투대장 송곳니;1;icon_item_tooth_00Basic
 I;호헨 가죽;1;icon_item_Misc_00011
-I;[Re:Build] 기념 주화;10;icon_item_rebuild_coin
+I;우르바스 증표;1;icon_item_borutakey
 I;밀납;1;icon_item_wax
 I;귀환석;1;MercenaryBadge
 G;Quest

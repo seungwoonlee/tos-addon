@@ -46,6 +46,7 @@ I;낡은 일기;1;icon_item_collection_04Black
 I;대해적과 하이레번 하권;1;icon_item_collection_00Basic
 I;아트만의 확장;1;icon_item_collection_03Blue
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 I;카듀멜 시대의 갑주;1;icon_item_collection_04Black
 G;Recipe
 I;제작서-알터 로드;1;icon_item_weapon_misc1
@@ -161,6 +162,7 @@ I;하루갈 뼈;4;icon_item_bone
 I;할로우벤터의 손뼈;1;icon_item_bone
 I;호헨 가죽;3;icon_item_Misc_00011
 I;화약;10;icon_item_powderbl
+I;우르바스 증표;1;icon_item_borutakey
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01

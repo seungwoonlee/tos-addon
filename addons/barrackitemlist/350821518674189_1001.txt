@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;99999;icon_item_silver
 G;Drug
 I;보급용 작은 회복포션;3;item_HPSP_potion_1
 I;클라페다 워프 주문서;8;GolemMagicItem1

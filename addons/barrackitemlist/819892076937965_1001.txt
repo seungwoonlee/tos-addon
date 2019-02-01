@@ -1,14 +1,14 @@
 S;1001
 G;Unused
-I;실버;99999;icon_item_silver
+I;실버;177799;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;고농축 HP포션;40;item_HP_oil_3
 I;고농축 SP포션;40;item_SP_requid_3
 I;고농축 이동속도 증가 포션;10;item_speed_requid_1
-I;농축 HP포션 LV15;20;icon_item_HP_Alche
-I;농축 SP포션 LV15;28;icon_item_SP_Alche
+I;농축 HP포션 LV15;18;icon_item_HP_Alche
+I;농축 SP포션 LV15;20;icon_item_SP_Alche
 I;딸기;26;icon_item_Strawberry
 I;라무넬레;5;icon_item_Ramunele
 I;라프세이프 버섯;16;icon_item_Pinemushroom
@@ -31,20 +31,6 @@ I;페디미안 워프 주문서;10;GolemMagicItem1
 I;포포리온 고기;14;icon_item_meat_02
 I;할로윈 폭죽;13;icon_item_firework
 I;해독제;5;icon_item_Quest_00020
-I;LV1 경험치 카드;40;icon_item_expcard
-I;LV10 경험치 카드;64;icon_item_expcard
-I;LV11 경험치 카드;216;icon_item_expcard
-I;LV12 경험치 카드;104;icon_item_expcard
-I;LV13 경험치 카드;102;icon_item_expcard
-I;LV14 경험치 카드;96;icon_item_expcard
-I;LV2 경험치 카드;200;icon_item_expcard
-I;LV3 경험치 카드;300;icon_item_expcard
-I;LV4 경험치 카드;100;icon_item_expcard
-I;LV5 경험치 카드;100;icon_item_expcard
-I;LV6 경험치 카드;100;icon_item_expcard
-I;LV7 경험치 카드;100;icon_item_expcard
-I;LV8 경험치 카드;59;icon_item_expcard
-I;LV9 경험치 카드;86;icon_item_expcard
 I;레드 오브:부베 약탈자;1;icon_item_Dreamshade_red
 I;레드 오브:유코푸스;1;icon_item_Dreamshade_red
 I;레드 오브:푸른 테라임프;1;icon_item_Dreamshade_red
@@ -73,6 +59,7 @@ I;찢어진 일기의 일부 4;1;icon_item_paperpiece
 I;카듀멜 시대의 갑주;1;icon_item_collection_04Black
 I;카롤리스 이야기 1권;1;icon_item_collection_04Black
 I;카롤리스 이야기 2권;1;icon_item_collection_02green
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-겐다와;1;icon_item_weapon_misc1
 I;제작서-겔티 알슈피스;1;icon_item_weapon_misc1
@@ -117,6 +104,7 @@ I;제작서-파이어 머스킷;1;icon_item_weapon_misc3
 I;제작서-페디미안 클럽;1;icon_item_weapon_misc1
 I;제작서-페디미안 터렛;1;icon_item_weapon_misc1
 I;제작서-호크 보우;1;icon_item_weapon_misc3
+I;제작서-쏜 커터;1;icon_item_weapon_misc1
 I;제작서-그리마 글로브;1;icon_item_gloves_misc1
 I;제작서-네펜더스 글로브;1;icon_item_gloves_misc3
 I;제작서-드레이크 레더 부츠;1;icon_item_boots_misc3
@@ -242,6 +230,7 @@ I;컬렉션: 페디미안 외곽;1;icon_item_box
 I;컬렉션: 해안 지역;1;icon_item_box
 G;Card
 I;자우라 카드;Lv10;icon_item_card_def
+I;마르녹스 카드;Lv10;icon_item_card_util
 G;Premium
 I;확성기;7;icon_item_Mike
 G;Material
@@ -260,9 +249,9 @@ I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;빈 스펠북;78;icon_item_emptySpellBook
+I;빈 스펠북;71;icon_item_emptySpellBook
 I;시간의 결정;34;icon_item_timespace
-I;시간의 결정 파편;595;icon_item_spacepiece
+I;시간의 결정 파편;506;icon_item_spacepiece
 I;크리오라이트;9;39_icon_item_Cry8rite
 I;파이라이트;15;32_item_ore_pyrite
 I;압시듐 광석;10;8_item_ore_platinum
@@ -302,7 +291,6 @@ I;데스모두스 이빨;15;icon_item_tooth_yellow
 I;덴덴 꽃잎;1;icon_item_leaves_blue
 I;도요르 잎다발;2;icon_item_doyorleaf
 I;드레이크 고기;30;icon_item_meat_02
-I;드레이크의 뿔;5;icon_item_longhorn
 I;디머의 구슬;1;icon_item_bead
 I;떡갈나무;2;icon_item_wood_1
 I;라우지누테의 껍질;23;icon_item_shell_red
@@ -335,7 +323,6 @@ I;모야 파편;6;icon_item_shell_blue
 I;물푸레나무;16;icon_item_wood_2
 I;미노스의 뼈;1;icon_item_bone
 I;미니번 가죽;5;icon_item_Misc_00007
-I;밀납;5;icon_item_wax
 I;바브 더듬이;24;icon_item_feeler_black
 I;바퀴;4;icon_item_wheel
 I;박쥐 이빨;1;icon_item_tooth_white
@@ -385,7 +372,6 @@ I;여신의 서약 증표;1;21_item_ore_torium
 I;오넨 정수 Lv1;4;KQ_recipe_hethran_material_1_2
 I;오페러의 껍질;8;icon_item_shell_yellow
 I;요노움의 핵;20;icon_item_core_purple
-I;우펜트의 껍질;1;icon_item_Misc_00015
 I;웬디고 송곳니;1;icon_item_tooth_white
 I;웬디고 이빨;1;icon_item_tooth_white
 I;위버 더듬이;10;icon_item_feeler_black
@@ -411,7 +397,7 @@ I;지누테의 껍질;15;icon_item_shell_blue
 I;지누테카스의 핵;9;icon_item_core_green
 I;지푸라기;13;icon_item_leaves_yellow
 I;집게발;2;icon_item_Quest_00017
-I;찢어진 종이조각;3;icon_item_flag_hohen
+I;찢어진 종이조각;4;icon_item_flag_hohen
 I;체이퍼러의 껍질;1;icon_item_shell_purple
 I;체이퍼러의 날개;50;icon_item_bugwing
 I;초록 고블린의 천조각;1;icon_item_clothpiece_green
@@ -467,7 +453,7 @@ I;판토족의 뿔;7;icon_item_pantohorn
 I;팔라팜 조각 Lv1;2;KQ_recipe_hethran_material_1_3
 I;페롯 줄기;4;icon_item_stem_brown
 I;포쿠부 가죽;8;icon_item_Misc_00011
-I;포탈 스톤;15;icon_item_portalstone
+I;포탈 스톤;77;icon_item_portalstone
 I;폴리부 잎;4;icon_item_leaves_red
 I;푸른 누오의 뿔;15;icon_item_horn_nuo_blue
 I;푸른 누카 갑옷 파편;4;icon_item_armor_nuka_blue
@@ -502,6 +488,7 @@ I;호글란 부리;3;icon_item_small_bag
 I;호박;4;icon_item_small_bag
 I;호헨 가죽;3;icon_item_Misc_00011
 I;회색 스타울리트 힘줄;12;icon_item_Leash
+I;우르바스 증표;1;icon_item_borutakey
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;가시숲의 계시;1;icon_item_stonetablet
@@ -539,5 +526,5 @@ I;펜서 마스터의 답장;1;icon_item_loveletter
 I;흉작으로 죽은 농작물;20;icon_item_grassbladeb
 I;힘이 복구된 사울레의 성구;1;icon_item_crimson3
 G;Armor
-I;소서러 코스튬;1;icon_item_sorcerer_f
+I;크로노맨서 코스튬;1;icon_item_chronomancer_f
 I;세이지 코스튬;1;icon_item_mage_sage_f

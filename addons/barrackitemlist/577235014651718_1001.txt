@@ -7,7 +7,7 @@ I;보급용 SP포션;30;item_SP_requid_2
 I;SP 회복 소형 엘릭서 ;34;icon_item_SPelixir_Small
 I;[PC방] SP 회복 소형 엘릭서 ;8;icon_item_random_spellixerbox
 I;[Re:Build] 축복이 깃든 씨앗;13;icon_item_event161215_01
-I;농축 HP포션 LV15;32;icon_item_HP_Alche
+I;농축 HP포션 LV15;31;icon_item_HP_Alche
 I;농축 이동속도 향상의 포션;60;item_speed_requid_1
 I;라프세이프 버섯;2;icon_item_Pinemushroom
 I;바루날레샤;3;icon_item_Varnalesa
@@ -19,7 +19,7 @@ I;정착 지원 포션 Lv2;87;item_speed_requid_3
 I;클라페다 워프 주문서;2;GolemMagicItem1
 I;포포리온 고기;7;icon_item_meat_02
 I;해독제;3;icon_item_Quest_00020
-I;농축 SP포션 LV15;17;icon_item_SP_Alche
+I;농축 SP포션 LV15;15;icon_item_SP_Alche
 I;아말라스;5;icon_item_Amalas
 I;딜겔레;2;icon_item_Dilgele
 I;LV14 경험치 카드;4;icon_item_expcard
@@ -33,8 +33,10 @@ I;보급용 워프 주문서;18;GolemMagicItem1
 I;은빛 물고기;12;icon_item_fish2
 I;LV13 경험치 카드;7;icon_item_expcard
 I;LV7 경험치 카드;2;icon_item_expcard
+I;LV6 경험치 카드;2;icon_item_expcard
+I;LV11 경험치 카드;1;icon_item_expcard
 I;오르샤 라이온스 응원 슬로건;1;icon_item_aretfact_victory_red
-I;인챈트탄;681;icon_item_panto_core
+I;인챈트탄;666;icon_item_panto_core
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;대해적과 하이레번 하권;1;icon_item_collection_00Basic
@@ -72,6 +74,7 @@ I;제작서-페디미안 아머;3;icon_item_shirts_misc1
 I;제작서-매직 탈리스만;1;icon_item_necklace_misc3
 I;제작서-산양 뿔;1;icon_item_helm_misc1
 I;제작서-안티 다크 네클리스;3;icon_item_necklace_misc3
+I;제작서-레비잔 네클리스;1;icon_item_necklace_misc4
 I;제작서-x8 경험의 서;5;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(머스킷);3;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(양손활);2;icon_item_recipe_misc1
@@ -98,6 +101,7 @@ G;Material
 I;[Re:Build] 빛나는 황금 모루;1;icon_item_anvil_gold
 I;모루;28;icon_item_anvil
 I;빈 스펠북;30;icon_item_emptySpellBook
+I;시에라 가루;10;icon_item_breakpowder_2
 I;LV2 보물상자 열쇠;1;icon_item_key1
 I;거대한 갈고리;9;icon_item_claw_01
 I;그롤의 뿔;1;icon_item_shorthorn

@@ -3,7 +3,7 @@ G;Unused
 I;실버;99999;icon_item_silver
 G;Drug
 I;포포리온 고기;12;icon_item_meat_02
-I;보급용 작은 스태미나 알약;26;item_STA_pill_1
+I;보급용 작은 스태미나 알약;25;item_STA_pill_1
 I;라무넬레;2;icon_item_Ramunele
 I;발래리요나스;3;icon_item_Valerijonas
 I;농축 HP포션 LV10;5;icon_item_HP_Alche
@@ -23,11 +23,11 @@ I;해독제;5;icon_item_Quest_00020
 I;농축 HP포션 LV15;27;icon_item_HP_Alche
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
-I;농축 SP포션 LV15;26;icon_item_SP_Alche
+I;농축 SP포션 LV15;22;icon_item_SP_Alche
 I;보급용 작은 HP포션;100;item_HP_oil_1
 I;보급용 작은 SP포션;100;item_SP_requid_1
-I;보급용 HP포션;100;item_HP_oil_2
-I;보급용 SP포션;100;item_SP_requid_2
+I;보급용 HP포션;98;item_HP_oil_2
+I;보급용 SP포션;98;item_SP_requid_2
 I;보급용 큰 HP포션;100;item_HP_oil_3
 I;보급용 큰 SP포션;100;item_SP_requid_3
 I;보급용 워프 주문서;11;GolemMagicItem1
@@ -91,17 +91,18 @@ I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
-I;금강불개 무사 코스튬(여);1;item_icon_gold_amor01_f
+I;몽크 스페셜 코스튬(여);1;icon_item_Cleric_monk_f
 G;Material
 I;황금 모루;2;icon_item_anvil_gold
 I;모루;7;icon_item_anvil
 I;마력 흡수침;4;icon_item_spellneedle
 I;파이라이트;30;32_item_ore_pyrite
 I;크리오라이트;21;39_icon_item_Cry8rite
-I;성수;100;icon_item_holywater
-I;홀리 파우더;206;icon_item_powderw
-I;기슬로티스;100;icon_item_Gyslotis
+I;성수;139;icon_item_holywater
+I;홀리 파우더;251;icon_item_powderw
+I;기슬로티스;139;icon_item_Gyslotis
 I;고문도구;290;icon_item_torturing_tool
+I;망토;195;icon_item_cape
 I;호박;47;22_item_ore_amber
 I;주석;2;1_item_ore_copper
 I;유코푸스 잎;52;icon_item_leaves_blue

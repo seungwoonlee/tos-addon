@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;99999;icon_item_silver
 G;Drug
 I;해독제;3;icon_item_Quest_00020
 I;보급용 이동속도 증가 포션;2;item_speed_requid_1
@@ -21,7 +21,7 @@ I;보급용 HP포션;100;item_HP_oil_2
 I;보급용 SP포션;100;item_SP_requid_2
 I;보급용 큰 HP포션;100;item_HP_oil_3
 I;보급용 큰 SP포션;100;item_SP_requid_3
-I;파편 단지;30;icon_item_potb
+I;사체 파편 단지;20;icon_item_potb
 I;보급용 워프 주문서;7;GolemMagicItem1
 I;LV14 경험치 카드;55;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
@@ -38,6 +38,7 @@ I;버려진 일기장;1;icon_item_collection_00Basic
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;자카리엘 왕의 사초;1;icon_item_collection_01Red
 I;순례자의 쪽지;1;icon_item_Paper1
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-비르토브 글로브;1;icon_item_gloves_misc4
 I;제작서-실버 플레이트 건틀릿;1;icon_item_gloves_misc3
@@ -87,7 +88,7 @@ I;크리오라이트;7;39_icon_item_Cry8rite
 I;마법 가루;5;icon_item_MagicPowder
 I;시간의 결정 파편;549;icon_item_spacepiece
 I;빈 스펠북;18;icon_item_emptySpellBook
-I;룬 스톤;833;icon_item_rune_stone_board
+I;룬 스톤;829;icon_item_rune_stone_board
 I;시간의 결정;97;icon_item_timespace
 I;주석;2;1_item_ore_copper
 I;호박;6;22_item_ore_amber
@@ -100,7 +101,7 @@ I;인프로 락터의 껍질;4;icon_item_shell
 I;비토우 더듬이;4;icon_item_feeler_yellow
 I;부베족의 증표;31;icon_item_bubetoken
 I;LV2 보물상자 열쇠;2;icon_item_key1
-I;말라두의 고기;32;icon_item_meat_02
+I;말라두의 고기;30;icon_item_meat_02
 I;씨드미아 씨앗;2;icon_item_seed_brown
 I;위버 더듬이;12;icon_item_feeler_black
 I;잎방개의 껍질;5;icon_item_shell_green
@@ -232,6 +233,8 @@ I;미끈한 수액;1;icon_item_Drug_51021
 I;쿠게리의 천조각;4;icon_item_clothpiece_white
 I;포탈 스톤;124;icon_item_portalstone
 I;트리피드 가시;1;icon_item_thorn_green
+I;우르바스 증표;1;icon_item_borutakey
+I;고블린 부적;1;icon_item_bubetoken
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;일회용 시약병;1;icon_item_Quest_00020

@@ -127,8 +127,6 @@ I;컬렉션: 페디미안 외곽;1;icon_item_box
 I;컬렉션: 포슬린키스 숲;1;icon_item_box
 I;컬렉션: 필그림 들길;1;icon_item_box
 I;컬렉션: 해안 지역;1;icon_item_box
-G;SubWeapon
-I;프리머스 즈바이더 피스톨;1;icon_item_pistol_nicopolis1
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;낡은 일기;1;icon_item_collection_04Black
@@ -138,6 +136,7 @@ I;찢어진 일기의 일부 1;1;icon_item_paperpiece
 I;찢어진 일기의 일부 2;1;icon_item_paperpiece
 I;찢어진 일기의 일부 3;1;icon_item_paperpiece
 I;찢어진 일기의 일부 4;1;icon_item_paperpiece
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-슈페리어 크로스보우;1;icon_item_weapon_misc3
 I;제작서-스네이크 보우;1;icon_item_weapon_misc3
@@ -148,11 +147,12 @@ I;제작서-테넷 체인 팬츠;1;icon_item_pants_misc3
 I;제작서-산양 뿔;1;icon_item_helm_misc1
 I;제작서-자카리엘 뱅글;1;icon_item_bracelet_misc4
 I;제작서-x8 경험의 서;1;icon_item_recipe_misc1
-G;Premium
-I;몬스터 젬 선택 상자: 직업;3;icon_item_jewelrybox_close
-I;소울 크리스탈;15;icon_item_soulCrystal
-I;워프 주문서;15;icon_item_warpPremium
-I;확성기;15;icon_item_Mike
+G;Armor
+I;보코르 코스튬;1;icon_item_bokor_f
+I;섀도우맨서 루너하이더 코스튬;1;icon_item_mage_shadowmancer04_f
+I;섀도우맨서 선하이더 코스튬;1;icon_item_mage_shadowmancer02_f
+I;섀도우맨서 코스튬;1;icon_item_mage_shadowmancer_f
+I;워록 코스튬;1;icon_item_mage_warlock_f
 G;Gem
 I;레드 젬;Lv5;item_icon_circle150
 I;레드 젬;Lv5;item_icon_circle150
@@ -539,6 +539,14 @@ I;프리즌커터 카드;Lv10;icon_item_card_atk
 I;프리즌커터 카드;Lv10;icon_item_card_atk
 I;프리즌커터 카드;Lv1;icon_item_card_atk
 I;히드라 카드;Lv10;icon_item_card_atk
+I;자이언트 우드 고블린 카드;Lv1;icon_item_card_atk
+I;툼로드 카드;Lv1;icon_item_card_atk
+I;모야브루카 카드;Lv1;icon_item_card_atk
+I;툼로드 카드;Lv1;icon_item_card_atk
+I;툼로드 카드;Lv1;icon_item_card_atk
+I;플록스케 카드;Lv1;icon_item_card_atk
+I;플록스케 카드;Lv1;icon_item_card_atk
+I;모스템 카드;Lv1;icon_item_card_atk
 I;고르곤 카드;Lv1;icon_item_card_def
 I;고르곤 카드;Lv1;icon_item_card_def
 I;고르곤 카드;Lv1;icon_item_card_def
@@ -803,6 +811,21 @@ I;회색 골렘 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
 I;가이갈라스 카드;Lv1;icon_item_card_util
 I;게이징 골렘 카드;Lv10;icon_item_card_util
 I;게이징 골렘 카드;Lv10;icon_item_card_util
@@ -898,20 +921,22 @@ I;하르피아 카드;Lv1;icon_item_card_util
 I;하르피아 카드;Lv1;icon_item_card_util
 I;하르피아 카드;Lv1;icon_item_card_util
 I;현혹의 스펙터 카드;Lv1;icon_item_card_util
-G;Armor
-I;보코르 코스튬;1;icon_item_bokor_f
-I;섀도우맨서 루너하이더 코스튬;1;icon_item_mage_shadowmancer04_f
-I;섀도우맨서 선하이더 코스튬;1;icon_item_mage_shadowmancer02_f
-I;섀도우맨서 코스튬;1;icon_item_mage_shadowmancer_f
-I;워록 코스튬;1;icon_item_mage_warlock_f
+I;리카우스 카드;Lv10;icon_item_card_util
+I;말렛와이번 카드;Lv1;icon_item_card_util
+I;웨어울프 카드;Lv1;icon_item_card_util
+G;Premium
+I;몬스터 젬 선택 상자: 직업;3;icon_item_jewelrybox_close
+I;소울 크리스탈;15;icon_item_soulCrystal
+I;워프 주문서;15;icon_item_warpPremium
+I;확성기;15;icon_item_Mike
 G;Material
 I;모루;12;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;2성 젬 연마제;1;icon_item_powderp
 I;빛나는 2성 젬 연마제;7;icon_item_powderp
-I;빛나는 3성 젬 연마제;29;icon_item_powderp
-I;강화용 카드 : 100;45;monster_card
+I;빛나는 3성 젬 연마제;30;icon_item_powderp
+I;강화용 카드 : 100;53;monster_card
 I;마법 가루;281;icon_item_MagicPowder
 I;빈 스펠북;8;icon_item_emptySpellBook
 I;크리오라이트;9;39_icon_item_Cry8rite
@@ -1038,6 +1063,7 @@ I;할로우벤터의 손뼈;2;icon_item_bone
 I;호그마 전투대장 송곳니;2;icon_item_tooth_00Basic
 I;호헨 깃발 조각;5;icon_item_flag_hohen
 I;회색 스타울리트 힘줄;5;icon_item_Leash
+I;우르바스 증표;1;icon_item_borutakey
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;가시숲의 계시;1;icon_item_stonetablet
@@ -1077,5 +1103,4 @@ I;푸른 크로뉴트 독침술사의 마력 결정;3;icon_item_core_06Black
 I;하얀 스피온의 정수;5;icon_item_core_02Yellow
 G;Weapon
 I;이그니션;1;icon_item_ignition
-I;판토 로드;1;Panto_wand
 I;판토 로드;1;Panto_wand

@@ -50,6 +50,7 @@ I;완성된 바키스의 연구 자료;1;icon_item_Spellbook_1
 I;아트만의 확장;1;icon_item_collection_03Blue
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;낡은 일기;1;icon_item_collection_04Black
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Collection
 I;컬렉션: 알렘빅 동굴;1;icon_item_box
 I;컬렉션: 노브리어 숲;1;icon_item_box
@@ -220,6 +221,7 @@ I;멜리치 껍질;5;icon_item_shell_yellow
 I;트리굴 줄기;10;icon_item_stem_brown
 I;덴옵틱의 눈;1;icon_item_Velorb
 I;웬디고 송곳니;2;icon_item_tooth_white
+I;우르바스 증표;1;icon_item_borutakey
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;왕의 목소리 영약;1;item_HPSP_potion_3

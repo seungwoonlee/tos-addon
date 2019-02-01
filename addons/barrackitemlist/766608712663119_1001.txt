@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;99999;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;11;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;8;icon_item_SPelixir_Small
@@ -22,13 +22,11 @@ I;페디미안 워프 주문서;22;GolemMagicItem1
 I;포포리온 고기;5;icon_item_meat_02
 I;해독제;10;icon_item_Quest_00020
 I;아말라스;1;icon_item_Amalas
-I;LV2 경험치 카드;6;icon_item_expcard
-I;LV5 경험치 카드;4;icon_item_expcard
-I;LV13 경험치 카드;7;icon_item_expcard
 I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;보급용 워프 주문서;3;GolemMagicItem1
 G;Book
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 G;Recipe
 I;제작서-일룬;1;icon_item_weapon_misc1
@@ -67,6 +65,7 @@ I;망토;9;icon_item_cape
 I;성수;242;icon_item_holywater
 I;조각용 나무;1;icon_item_wood_5
 I;홀리 파우더;2330;icon_item_powderw
+I;우르바스 증표;1;icon_item_borutakey
 I;거대한 갈고리;2;icon_item_claw_01
 I;나무 말뚝;7;icon_item_wood_3
 I;늙은 케파 껍질;1;icon_item_onionpiece
@@ -125,7 +124,7 @@ I;지휘관 줄리안의 명령서;1;icon_item_Scroll
 I;허밀가의 붉은 수정;1;icon_item_Gem_Stone_STR
 G;Armor
 I;사두 코스튬;1;icon_item_sadhu_f
-I;엑소시스트 콘코르다트 코스튬;1;icon_item_Exorcist03_f
+I;엑소시스트 루브릭 코스튬;1;icon_item_Exorcist04_f
 I;엑소시스트 소울 바인더 코스튬;1;icon_item_Exorcist02_f
 I;엑소시스트 코스튬;1;icon_item_Exorcist01_f
 I;크리비 코스튬;1;icon_item_kribi_f
