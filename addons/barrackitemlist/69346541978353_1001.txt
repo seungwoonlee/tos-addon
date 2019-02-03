@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;99999;icon_item_silver
+I;실버;5022629;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
@@ -119,11 +119,14 @@ I;전사용 스쿨룩 코스튬(여);1;icon_item_warrior_school_f
 I;전사용 심플 컬러 코스튬(여);1;warrior_simplecolor_f
 I;전사용 제복 코스튬(여);1;icon_item_warrior_uniform_f
 I;전사용 파티 드레스 코스튬(여);1;icon_item_Warrior_BluePeacock_f
+I;하급 용병 코스튬(여);1;icon_item_lowtactic01_f
+G;Event
+I;[이벤트]황금돼지 상자;1;icon_item_happybox_red
 G;Armor
 I;하플라이트 코스튬;1;icon_item_hoplites_f
-I;마타도르 벨라니멀 코스튬;1;icon_item_warrior_matador03_f
 I;마타도르 벨비스트 코스튬;1;icon_item_warrior_matador02_f
 I;마타도르 코스튬;1;icon_item_warrior_matador_f
+I;마타도르 벨라니멀 코스튬;1;icon_item_warrior_matador03_f
 I;펜서 코스튬;1;icon_item_fencer_f
 G;Material
 I;황금 모루;2;icon_item_anvil_gold
@@ -364,4 +367,4 @@ I;테넷 성당의 계시;1;icon_item_stonetablet
 I;펜듈럼;1;icon_item_pendulum
 I;할로우벤터 목탄;1;icon_item_Misc_00022
 G;Weapon
-I;베니에르;1;Fencer_cristalrapier
+I;서번트 로드;1;Mage_f_staff_servant_a

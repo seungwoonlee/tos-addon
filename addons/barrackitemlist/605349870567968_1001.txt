@@ -826,6 +826,29 @@ I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
 I;가이갈라스 카드;Lv1;icon_item_card_util
 I;게이징 골렘 카드;Lv10;icon_item_card_util
 I;게이징 골렘 카드;Lv10;icon_item_card_util
@@ -931,7 +954,6 @@ I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
 G;Material
 I;모루;12;icon_item_anvil
-I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;2성 젬 연마제;1;icon_item_powderp
 I;빛나는 2성 젬 연마제;7;icon_item_powderp

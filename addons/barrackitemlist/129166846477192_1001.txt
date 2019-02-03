@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;200000;icon_item_silver
+I;실버;198621;icon_item_silver
 G;Drug
 I;100일 기념 포션;1;item_speed_requid_3
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
@@ -8,8 +8,8 @@ I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;고농축 HP포션;40;item_HP_oil_3
 I;고농축 SP포션;40;item_SP_requid_3
 I;고농축 이동속도 증가 포션;10;item_speed_requid_1
-I;농축 HP포션 LV15;50;icon_item_HP_Alche
-I;농축 SP포션 LV15;50;icon_item_SP_Alche
+I;농축 HP포션 LV15;46;icon_item_HP_Alche
+I;농축 SP포션 LV15;44;icon_item_SP_Alche
 I;딸기;28;icon_item_Strawberry
 I;라프세이프 버섯;4;icon_item_Pinemushroom
 I;매두스;10;icon_item_Medus
@@ -33,6 +33,7 @@ I;폭죽;25;icon_item_firework
 I;긴급 수리 키트;8;icon_item_repairkit
 I;[이벤트] 달콤한 군고구마;1;icon_item_sweet_potato
 I;보급용 워프 주문서;8;GolemMagicItem1
+I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
 I;기슬로티스 씨앗;2;icon_item_seed_green
 I;길드 타워;1;icon_item_guildtower
 I;라벤더 씨앗;2;icon_item_seed_red
@@ -158,9 +159,7 @@ I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;17;icon_item_Mike
 I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;스탯 초기화 포션(14일);1;icon_item_statReset
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 G;Material
 I;모루;13;icon_item_anvil
 I;황금 모루(14일);1;icon_item_anvil_gold
@@ -252,7 +251,6 @@ I;버드니의 잎;3;icon_item_leaf
 I;베누켈로스의 핵;1;icon_item_core_yellow
 I;베카라베의 껍질;5;icon_item_shell_yellow
 I;벨리글러 깃털;39;icon_item_feather_03Green
-I;로열 블레이드 파편;2;icon_item_misc_0529
 I;부베 활대;4;icon_item_bubebow
 I;부베족의 증표;5;icon_item_bubetoken
 I;부우크의 핵;6;icon_item_core_yellow
@@ -385,13 +383,9 @@ I;호헨 가죽;5;icon_item_Misc_00011
 I;호헨 깃발 조각;2;icon_item_flag_hohen
 I;회색 날개 개구리의 뼈;15;icon_item_bone
 I;우르바스 증표;2;icon_item_borutakey
-I;탈트;36;30_item_ore_talt
-I;푸른 구슬 던전 주화;64;icon_item_annycoin_1
 I;카타콤 잎방개의 껍질;2;icon_item_shell_purple
-I;몬스터의 기운;5;icon_item_panto_core
 I;누군가의 나무 망치;1;icon_item_farm47_wood_hammer
 I;귀환석;1;MercenaryBadge
-I;특성 포인트 100;2;icon_item_abilitypoint3
 G;Quest
 I;가시숲의 계시;1;icon_item_stonetablet
 I;공간의 문장;1;icon_item_void_01
@@ -405,7 +399,7 @@ I;마력 추적지도 : 테브린 종유동 1구역;1;GolemMagicItem1
 I;마법사의 탑의 계시;1;icon_item_stonetablet
 I;베다 고원 병사의 유품;3;icon_item_small_bag
 I;불타는 결정;1;icon_item_spirit_red
-I;쓸만한 마법석;9;icon_item_core_04Blue
+I;흡수석;1;icon_item_gimmick_movecrystal
 I;세이지 마스터의 편지;1;icon_item_loveletter
 I;세이지 마스터의 편지;1;icon_item_loveletter
 I;수정광산의 계시;1;icon_item_stonetablet
@@ -427,5 +421,3 @@ I;허밀가의 붉은 수정;1;icon_item_Gem_Stone_STR
 I;휠렌의 증표;1;icon_item_Gem_Elemental17
 G;Event
 I;수행자의 포션;1;icon_item_offensive_potion
-I;특별한 푸른 구슬;1;icon_item_core_blue
-I;푸른색 조각;5;RootCrystal_Piece

@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;8856410;icon_item_silver
+I;실버;8845390;icon_item_silver
 G;Premium
 I;소울 크리스탈;65;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
@@ -26,6 +26,7 @@ I;펭마린 알;1;icon_item_egg_penguin_blue
 I;확성기;71;icon_item_Mike
 I;확성기 50개 상자;3;icon_item_Mike_bundle
 I;프리미엄 각성석;1;icon_item_awakeningstone
+I;[이벤트]신비한 돋보기;1;icon_item_magnifier_blue
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Collection
 I;컬렉션: 마법사의 탑 2층;1;icon_item_box
@@ -145,6 +146,7 @@ I;마타도르 벨비스트 코스튬;1;icon_item_warrior_matador02_f
 I;하플라이트 코스튬;1;icon_item_hoplites_f
 I;사심이 담긴 상소문;1;icon_item_wing_scroll2
 G;Material
+I;황금 모루(14일);1;icon_item_anvil_gold
 I;모루;17;icon_item_anvil
 I;축복받은 조각;35;icon_item_Gem_Elemental1
 I;여신의 축복석;3;icon_item_transcendence_Stone
@@ -154,7 +156,7 @@ I;포지;4;icon_item_Forge
 I;주석;1;1_item_ore_copper
 I;호박;6;22_item_ore_amber
 I;LV2 보물상자 열쇠;1;icon_item_key1
-I;푸른 구슬 던전 주화;60;icon_item_annycoin_1
+I;푸른 구슬 던전 주화;72;icon_item_annycoin_1
 I;거대한 갈고리;7;icon_item_claw_01
 I;그루머 잎;8;icon_item_leaves_green
 I;그리바 줄기;1;icon_item_stem_yellow
@@ -268,7 +270,7 @@ I;하나밍 꽃잎;8;icon_item_HanamingPetal
 I;할로우벤터의 손뼈;4;icon_item_bone
 I;호그마 엄니;3;icon_item_tooth_white
 I;호글란 부리;1;icon_item_small_bag
-I;레이드 포탈 스톤;1;icon_item_dungeon_portalstone
+I;레이드 포탈 스톤;4;icon_item_dungeon_portalstone
 I;우르바스 증표;1;icon_item_borutakey
 I;탈트;15;30_item_ore_talt
 I;귀환석;1;MercenaryBadge

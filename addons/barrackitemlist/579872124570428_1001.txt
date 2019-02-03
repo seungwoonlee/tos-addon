@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;99999;icon_item_silver
+I;실버;826999;icon_item_silver
 G;Drug
 I;SP 회복 소형 엘릭서 ;3;icon_item_SPelixir_Small
 I;농축 HP포션 LV15;12;icon_item_HP_Alche
@@ -12,7 +12,7 @@ I;발래리요나스;1;icon_item_Valerijonas
 I;보급용 HP포션;99;item_HP_oil_2
 I;보급용 SP포션;99;item_SP_requid_2
 I;보급용 농축 HP포션 LV15;97;item_HP_oil_3
-I;보급용 농축 SP포션 LV15;80;item_SP_requid_3
+I;보급용 농축 SP포션 LV15;79;item_SP_requid_3
 I;보급용 작은 HP포션;125;item_HP_oil_1
 I;보급용 작은 SP포션;243;item_SP_requid_1
 I;보급용 작은 스태미나 알약;23;item_STA_pill_1
@@ -35,6 +35,16 @@ I;LV9 경험치 카드;3;icon_item_expcard
 I;레드 오브:낡은 누덕 갈고리;1;icon_item_Dreamshade_red
 I;레드 오브:말라두;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;4;GolemMagicItem1
+G;Collection
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 네프리타스 벼랑;1;icon_item_box
+I;컬렉션: 비석로;1;icon_item_box
+I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
+I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
+I;컬렉션: 자카리엘 교차로;1;icon_item_box
+I;컬렉션: 초보자의 무기;1;icon_item_box
+I;컬렉션: 코발트 숲;1;icon_item_box
+I;컬렉션: 테넷 화원;1;icon_item_box
 G;SubWeapon
 I;(바랜)스몰 크리스타라스;1;icon_item_dagger_cristal
 I;아르데 대거;1;icon_item_main-gauche
@@ -77,16 +87,32 @@ I;제작서-x4 경험의 서;2;icon_item_recipe_misc1
 I;제작서-x8 경험의 서;1;icon_item_recipe_misc1
 G;FishingRod
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
-G;Collection
-I;컬렉션: 기원의 숲;1;icon_item_box
-I;컬렉션: 네프리타스 벼랑;1;icon_item_box
-I;컬렉션: 비석로;1;icon_item_box
-I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
-I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
-I;컬렉션: 자카리엘 교차로;1;icon_item_box
-I;컬렉션: 초보자의 무기;1;icon_item_box
-I;컬렉션: 코발트 숲;1;icon_item_box
-I;컬렉션: 테넷 화원;1;icon_item_box
+G;Cube
+I;란코 호수 던전 큐브;18;icon_item_cube2
+G;Armor
+I;엘고스 부츠;1;icon_item_boots_scholar
+I;카울라스 레더 부츠;1;icon_item_boots_kaulas
+I;카프리선 부츠;1;icon_item_boots_brigan
+I;(바랜)칼리니스 글로브;1;icon_item_gloves_kailinis
+I;베르타스 카울라스 레더 글로브;1;icon_item_gloves_kaulas
+I;카프리선 글로브;1;icon_item_gloves_brigan
+I;크라이지어스 건틀릿;1;icon_item_gloves_kryzius
+I;(바랜)칼리니스 팬츠;1;icon_item_pants_kailinis
+I;카프리선 팬츠;1;icon_item_pants_brigan
+I;크라이지어스 플레이트 팬츠;1;icon_item_pants_kryzius
+I;(바랜)미간티스 실드;1;icon_item_miegantis_shield
+I;페버디마스 실드;1;icon_item_pabudimas_shield
+I;(바랜)칼리니스 로브;1;icon_item_shirts_kailinis
+I;베르타스 카울라스 레더 아머;1;icon_item_shirts_kaulas
+I;카프리선 아머;1;icon_item_shirts_brigan
+I;크라이지어스 플레이트 아머;1;icon_item_shirts_kryzius
+I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
+I;플랜츠 브레이슬릿;1;item_bracelet_18
+I;탐험가용 큰 붉은꽃 머리장식;1;hairacc_hat072
+I;오라클 코스튬;1;icon_item_oracle_f
+I;질럿 컨트리션 코스튬;1;icon_item_zealot2_f
+I;질럿 퍼티션 코스튬;1;icon_item_zealot4_f
+I;프리스트 코스튬;1;icon_item_prist_f
 G;Premium
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
@@ -186,34 +212,10 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;확성기;202;icon_item_Mike
-G;Armor
-I;엘고스 부츠;1;icon_item_boots_scholar
-I;카울라스 레더 부츠;1;icon_item_boots_kaulas
-I;카프리선 부츠;1;icon_item_boots_brigan
-I;(바랜)칼리니스 글로브;1;icon_item_gloves_kailinis
-I;베르타스 카울라스 레더 글로브;1;icon_item_gloves_kaulas
-I;카프리선 글로브;1;icon_item_gloves_brigan
-I;크라이지어스 건틀릿;1;icon_item_gloves_kryzius
-I;(바랜)칼리니스 팬츠;1;icon_item_pants_kailinis
-I;카프리선 팬츠;1;icon_item_pants_brigan
-I;크라이지어스 플레이트 팬츠;1;icon_item_pants_kryzius
-I;(바랜)미간티스 실드;1;icon_item_miegantis_shield
-I;페버디마스 실드;1;icon_item_pabudimas_shield
-I;(바랜)칼리니스 로브;1;icon_item_shirts_kailinis
-I;베르타스 카울라스 레더 아머;1;icon_item_shirts_kaulas
-I;카프리선 아머;1;icon_item_shirts_brigan
-I;크라이지어스 플레이트 아머;1;icon_item_shirts_kryzius
-I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
-I;플랜츠 브레이슬릿;1;item_bracelet_18
-I;탐험가용 큰 붉은꽃 머리장식;1;hairacc_hat072
-I;오라클 코스튬;1;icon_item_oracle_f
-I;질럿 컨트리션 코스튬;1;icon_item_zealot2_f
-I;질럿 퍼티션 코스튬;1;icon_item_zealot4_f
-I;프리스트 코스튬;1;icon_item_prist_f
 G;Material
-I;기슬로티스;89;icon_item_Gyslotis
-I;성수;289;icon_item_holywater
-I;홀리 파우더;90;icon_item_powderw
+I;기슬로티스;86;icon_item_Gyslotis
+I;성수;286;icon_item_holywater
+I;홀리 파우더;87;icon_item_powderw
 I;주석;1;1_item_ore_copper
 I;호박;3;22_item_ore_amber
 I;그루머 잎;2;icon_item_leaves_green

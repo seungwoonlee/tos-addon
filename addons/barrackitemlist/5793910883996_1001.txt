@@ -1166,7 +1166,7 @@ I;묘지 골렘의 핵;18;icon_item_core_blue
 I;물푸레나무;41;icon_item_wood_2
 I;미노스의 뼈;26;icon_item_bone
 I;미니번 가죽;24;icon_item_Misc_00007
-I;밀납;10;icon_item_wax
+I;밀납;11;icon_item_wax
 I;바브 더듬이;17;icon_item_feeler_black
 I;바브의 껍질;35;icon_item_shell_blackbrown
 I;바퀴;8;icon_item_wheel

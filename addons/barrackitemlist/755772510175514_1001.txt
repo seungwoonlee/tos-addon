@@ -173,7 +173,6 @@ I;말라두의 고기;24;icon_item_meat_02
 I;묘지 골렘의 핵;13;icon_item_core_blue
 I;물푸레나무;4;icon_item_wood_2
 I;미노스의 뼈;7;icon_item_bone
-I;레이드 포탈 스톤;131;icon_item_dungeon_portalstone
 I;바를거너의 대포 조각;1;icon_item_misc_0512
 I;바를스키퍼의 검신;4;icon_item_misc_0513
 I;바를헬름즈먼의 둔기 머리;12;icon_item_misc_0514

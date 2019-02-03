@@ -5,12 +5,12 @@ G;PasteBait
 I;작은 은빛 물고기;22;icon_item_fish4
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
-I;SP 회복 소형 엘릭서 ;20;icon_item_SPelixir_Small
+I;SP 회복 소형 엘릭서 ;25;icon_item_SPelixir_Small
 I;고농축 HP포션;145;item_HP_oil_3
 I;고농축 SP포션;117;item_SP_requid_3
 I;긴급 수리 키트;11;icon_item_repairkit
-I;농축 HP포션 LV15;29;icon_item_HP_Alche
-I;농축 SP포션 LV15;45;icon_item_SP_Alche
+I;농축 HP포션 LV15;21;icon_item_HP_Alche
+I;농축 SP포션 LV15;38;icon_item_SP_Alche
 I;대형 HP포션;5;item_HP_oil_3
 I;대형 SP포션;3;item_SP_requid_3
 I;딸기;21;icon_item_Strawberry
@@ -32,7 +32,7 @@ I;케이스타스 회복포션Lv3;6;item_HPSP_potion_3
 I;케이트리스 용맹의 포션;1;icon_item_Drug_AGI2
 I;케이트리스 회복의 포션;1;icon_item_Drug_ATK2
 I;큰 HP포션;6;item_HP_oil_3
-I;큰 SP포션;8;item_SP_requid_3
+I;큰 SP포션;6;item_SP_requid_3
 I;클라페다 워프 주문서;9;GolemMagicItem1
 I;특대형 HP포션;8;item_HP_oil_3
 I;특대형 SP포션;3;item_SP_requid_3
@@ -204,7 +204,7 @@ I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
 G;Material
 I;모루;21;icon_item_anvil
-I;괴황지;1579;icon_item_guehwangji
+I;괴황지;1187;icon_item_guehwangji
 I;성수;2;icon_item_holywater
 I;크리오라이트;17;39_icon_item_Cry8rite
 I;사파이어;1;39_icon_item_Cry8rite

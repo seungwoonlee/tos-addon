@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;100001;icon_item_silver
+I;실버;99999;icon_item_silver
 G;Collection
 I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
 G;Armor
