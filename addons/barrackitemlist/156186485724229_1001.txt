@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;75776;icon_item_silver
+I;실버;99999;icon_item_silver
 G;Drug
 I;보급용 이동속도 증가 포션;9;item_speed_requid_1
 I;포포리온 고기;15;icon_item_meat_02
@@ -16,7 +16,7 @@ I;오르샤 워프 주문서;3;GolemMagicItem1
 I;클라페다 워프 주문서;2;GolemMagicItem1
 I;보급용 레드옥스;8;icon_item_Red_Ox
 I;고농축 SP포션;5;item_SP_requid_3
-I;농축 SP포션 LV15;30;icon_item_SP_Alche
+I;농축 SP포션 LV15;26;icon_item_SP_Alche
 I;보급용 SP포션;111;item_SP_requid_2
 I;마이트 포션;1;item_speed_requid_1
 I;보급용 큰 HP포션;102;item_HP_oil_3
@@ -25,20 +25,15 @@ I;땅 속성 저항력 포션;1;icon_item_Seed_HR1
 I;케이스타스 용맹의 포션;2;icon_item_Drug_exATK1
 I;폭죽;20;icon_item_firework
 I;아말라스;1;icon_item_Amalas
-I;농축 HP포션 LV15;30;icon_item_HP_Alche
+I;농축 HP포션 LV15;27;icon_item_HP_Alche
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
-I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
+I;SP 회복 소형 엘릭서 ;9;icon_item_SPelixir_Small
 I;케이스타스 회복포션Lv4;78;item_HPSP_potion_3
 I;붉은 케파 조각;1;OnionPiece_Red
 I;긴급 수리 키트;2;icon_item_repairkit
-I;딜겔레;22;icon_item_Dilgele
 I;보급용 HP포션;99;item_HP_oil_2
 I;보급용 큰 SP포션;100;item_SP_requid_3
 I;보급용 워프 주문서;2;GolemMagicItem1
-I;LV6 경험치 카드;1;icon_item_expcard
-I;LV14 경험치 카드;61;icon_item_expcard
-I;LV12 경험치 카드;1;icon_item_expcard
-I;LV13 경험치 카드;7;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
 I;인챈트탄;12;icon_item_panto_core
 G;SubWeapon
@@ -93,10 +88,10 @@ I;룬캐스터 코스튬;1;icon_item_mage_runecaster_f
 G;Material
 I;모루;2;icon_item_anvil
 I;파이라이트;23;32_item_ore_pyrite
-I;룬 스톤;138;icon_item_rune_stone_board
-I;크리오라이트;203;39_icon_item_Cry8rite
+I;룬 스톤;500;icon_item_rune_stone_board
+I;크리오라이트;500;39_icon_item_Cry8rite
 I;빈 스펠북;10;icon_item_emptySpellBook
-I;압시듐 광석;2;8_item_ore_platinum
+I;압시듐 광석;4;8_item_ore_platinum
 I;인프로 락터의 껍질;3;icon_item_shell
 I;치넨시 잎;3;icon_item_bokchoyleaf
 I;포쿠부 가죽;9;icon_item_Misc_00011
@@ -242,6 +237,9 @@ I;우르바스 증표;1;icon_item_borutakey
 I;노란 파이란 날개;1;icon_item_batwing
 I;붉은 위저드 주술 인형의 핵;1;38_item_ore_mercury
 I;붉은 슬라임의 핵;3;38_item_ore_mercury
+I;몬스터의 기운;36;icon_item_panto_core
+I;전환의 수정조각;1;icon_item_BlokenMirror
+I;로열 블레이드 파편;3;icon_item_misc_0529
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;수정광산의 계시;1;icon_item_stonetablet
@@ -261,7 +259,6 @@ I;케파리 살점;4;icon_item_PILGRIM_MEAT_01
 I;침묵 스크롤;1;icon_item_Spellbook_2
 I;유기용제;1;icon_item_Drug_CON1
 I;헝겊인형 조각;7;icon_item_strawdoll2
-I;수상한 수정 주머니;1;icon_item_farm47_sack_01
 I;몽당나무의 뿔조각;15;icon_item_shorthorn
 I;신비한 빛을 내는 결정;1;37_item_ore_sulfur
 I;마력 추적지도 : 살비야스 숲;1;GolemMagicItem1

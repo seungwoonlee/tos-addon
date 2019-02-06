@@ -42,7 +42,6 @@ I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-비르토브 글로브;1;icon_item_gloves_misc4
 I;제작서-실버 플레이트 건틀릿;1;icon_item_gloves_misc3
-I;제작서-레이드 포탈 스톤;1;icon_item_recipe_misc1
 G;Collection
 I;컬렉션: 쿨레 고개;1;icon_item_box
 I;컬렉션: 스팔빈가스 숲;1;icon_item_box

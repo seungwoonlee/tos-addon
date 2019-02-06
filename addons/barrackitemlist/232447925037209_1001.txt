@@ -10,7 +10,7 @@ I;고농축 HP포션;145;item_HP_oil_3
 I;고농축 SP포션;117;item_SP_requid_3
 I;긴급 수리 키트;11;icon_item_repairkit
 I;농축 HP포션 LV15;21;icon_item_HP_Alche
-I;농축 SP포션 LV15;38;icon_item_SP_Alche
+I;농축 SP포션 LV15;37;icon_item_SP_Alche
 I;대형 HP포션;5;item_HP_oil_3
 I;대형 SP포션;3;item_SP_requid_3
 I;딸기;21;icon_item_Strawberry
@@ -204,7 +204,7 @@ I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
 G;Material
 I;모루;21;icon_item_anvil
-I;괴황지;1187;icon_item_guehwangji
+I;괴황지;1164;icon_item_guehwangji
 I;성수;2;icon_item_holywater
 I;크리오라이트;17;39_icon_item_Cry8rite
 I;사파이어;1;39_icon_item_Cry8rite

@@ -4,7 +4,7 @@ I;실버;99999;icon_item_silver
 G;Drug
 I;100일 기념 포션;6;item_speed_requid_3
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
-I;SP 회복 소형 엘릭서 ;6;icon_item_SPelixir_Small
+I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;고농축 HP포션;68;item_HP_oil_3
 I;고농축 SP포션;50;item_SP_requid_3
 I;고농축 이동속도 증가 포션;10;item_speed_requid_1
@@ -417,7 +417,6 @@ I;호헨 가죽;1;icon_item_Misc_00011
 I;호헨 깃발 조각;4;icon_item_flag_hohen
 I;회색 날개 개구리의 뼈;2;icon_item_bone
 I;희미한 별빛의 결정;1;24_item_ore_topaz
-I;레이드 포탈 스톤;1;icon_item_dungeon_portalstone
 I;별빛이 깃든 이슬;2;icon_item_misc_0520
 I;초록 페이그 널스의 천조각;3;icon_item_clothpiece_green
 I;차원 탐색 스크롤;1;GolemMagicItem1
@@ -436,7 +435,6 @@ I;마법사의 탑의 계시;1;icon_item_stonetablet
 I;흡수석;1;icon_item_gimmick_movecrystal
 I;반짝이는 붉은 조각;4;icon_item_Gem_Stone_STR
 I;수정광산의 계시;1;icon_item_stonetablet
-I;순례자의 표식;30;neck_pilgrim_01
 I;쉬트리가일라의 오브;1;icon_item_core_red
 I;아띠의 노란 즙액;17;icon_item_Drug_STA1
 I;아이트바라스의 기록;1;icon_item_diary

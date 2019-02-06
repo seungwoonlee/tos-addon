@@ -88,7 +88,7 @@ I;제작서-파다;1;icon_item_bracelet_misc5
 I;제작서-피크오 펄 브레이슬릿;5;icon_item_bracelet_misc4
 I;제작서-아그니 네클리스;1;icon_item_necklace_misc3
 I;제작서-x8 경험의 서;5;icon_item_recipe_misc1
-I;제작서-레이드 포탈 스톤;85;icon_item_recipe_misc1
+I;제작서-레이드 포탈 스톤;90;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 G;Collection
@@ -136,11 +136,15 @@ I;아시오 무기 제작서 선택상자;1;icon_item_event_recipebox1
 I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
 G;Material
 I;모루;13;icon_item_anvil
+I;축복받은 조각;7;icon_item_Gem_Elemental1
+I;여신의 축복석;1;icon_item_transcendence_Stone
 I;종이 인형;4702;icon_item_paperdoll
 I;크리오라이트;1;39_icon_item_Cry8rite
 I;파이라이트;299;32_item_ore_pyrite
 I;주석;4;1_item_ore_copper
 I;호박;17;22_item_ore_amber
+I;프락토늄;2;icon_item_crystal_High
+I;뉴클 가루;62;icon_item_breakpowder_1
 I;LV2 보물상자 열쇠;3;icon_item_key1
 I;갈록 가죽;3;icon_item_Misc_00007
 I;갈색 라프세이프 잎;10;icon_item_leaves_lapasape_brown
@@ -173,6 +177,7 @@ I;말라두의 고기;24;icon_item_meat_02
 I;묘지 골렘의 핵;13;icon_item_core_blue
 I;물푸레나무;4;icon_item_wood_2
 I;미노스의 뼈;7;icon_item_bone
+I;영광의 촛대;4;icon_item_misc_0525
 I;바를거너의 대포 조각;1;icon_item_misc_0512
 I;바를스키퍼의 검신;4;icon_item_misc_0513
 I;바를헬름즈먼의 둔기 머리;12;icon_item_misc_0514

@@ -282,7 +282,7 @@ I;헝겊인형 조각;8;icon_item_strawdoll2
 I;트라시움 조각;13;icon_item_gimmick_scaredcrystal
 G;Armor
 I;황야의 무법자;1;hairacc_76_cowbowhat
+I;커세어 코스튬;1;icon_item_corsair_f
 I;불릿 마커 코스튬;1;icon_item_bulletmarker_f
 I;불릿 마커 휠러 코스튬;1;icon_item_bulletmarker03_f
 I;링커 코스튬;1;icon_item_linker_f
-I;커세어 코스튬;1;icon_item_corsair_f

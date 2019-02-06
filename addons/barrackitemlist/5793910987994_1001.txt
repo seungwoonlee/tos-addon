@@ -254,4 +254,3 @@ I;만드라픽;1;sword_sabre_up
 I;만드라픽;1;sword_sabre_up
 I;케도란 벨니웁;1;icon_item_snickersnee_up
 I;아이언 보우;1;selfbow_up
-I;[Re:Build] 캔들 스태프 (30일);1;Mage_f_staff_candlestick

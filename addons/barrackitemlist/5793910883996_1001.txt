@@ -10,13 +10,13 @@ I;고농축 SP포션;50;item_SP_requid_3
 I;고농축 이동속도 증가 포션;10;item_speed_requid_1
 I;공기 정화 수정;1;14_item_ithildin
 I;광역 공격 비율 증가 포션 LV15;1;item_speed_requid_1
-I;농축 HP포션 LV15;37;icon_item_HP_Alche
-I;농축 SP포션 LV15;37;icon_item_SP_Alche
+I;농축 HP포션 LV15;34;icon_item_HP_Alche
+I;농축 SP포션 LV15;34;icon_item_SP_Alche
 I;농축 이동속도 증가 포션 LV15;2;item_speed_requid_1
 I;농축 이동속도 향상의 포션;2;item_speed_requid_1
 I;누켈라;3;icon_item_Nukela
 I;대왕 꿀송편;1;icon_item_Largehoney_Songpyeon
-I;딜겔레;11;icon_item_Dilgele
+I;딜겔레;33;icon_item_Dilgele
 I;딸기;6;icon_item_Strawberry
 I;라무넬레;2;icon_item_Ramunele
 I;레드옥스;2;icon_item_Red_Ox
@@ -78,6 +78,7 @@ I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
 I;아웃로 데스페라도 어타이어 코스튬 상자;1;icon_item_jewelrybox
 I;어쌔신 리즈다스 피닉스 코스튬 상자;1;icon_item_jewelrybox
 I;크리스마스 산타 팝업북;1;icon_item_christmastree02_popupbook
@@ -316,6 +317,7 @@ I;호랑이 가면;1;hairacc_55_tigermask
 I;화분;1;icon_item_accessory_pollen
 I;흑립;1;icon_item_accessory_Gat
 I;흰 열쇠장식 모자;1;icon_item_white_cloud
+I;태양;1;icon_item_sun_acc
 I;[이벤트] 분홍색 사탕;1;icon_item_redBall
 I;강아지귀;1;hairacc_30_dogears
 I;고양이귀;1;icon_item_cap_3
@@ -850,7 +852,7 @@ I;제작서-포쿠부 아머;1;icon_item_shirts_misc3
 I;제작서-프로바 글로브;2;icon_item_gloves_misc3
 I;제작서-가디언 네클리스;3;icon_item_necklace_misc1
 I;제작서-둥지튼 병아리;12;icon_item_helm_misc1
-I;제작서-래피드 뱅글;1;icon_item_bracelet_misc3
+I;제작서-래피드 뱅글;2;icon_item_bracelet_misc3
 I;제작서-레비잔 네클리스;31;icon_item_necklace_misc4
 I;제작서-레비잔 브레이슬릿;35;icon_item_bracelet_misc4
 I;제작서-막스 페타미온;1;icon_item_necklace_misc5
@@ -1017,11 +1019,15 @@ I;행운 상자;1;item_icon_luckybox_C
 I;헤어 액세서리 선택 상자: 블루 앵커;1;icon_item_acc_hair_box1
 I;확성기;105;icon_item_Mike
 I;확성기 50개 상자;1;icon_item_Mike_bundle
+I;[이벤트]전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
 I;마법 부여 스크롤;9;icon_item_enchantScroll
 I;빛나는 각성석;1;icon_item_awakeningstone
 I;빛나는 은빛 모루;3;icon_item_anvil_silver
 I;빛나는 은빛 아이커 추출 키트;3;icon_item_Extractkit_Sliver
 I;[이벤트]신비한 돋보기;1;icon_item_magnifier_blue
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
 I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 I;검은 츄리닝;1;icon_item_sweat_suit_black_f
@@ -1087,10 +1093,10 @@ I;모루;11;icon_item_anvil
 I;황금 모루;6;icon_item_anvil_gold
 I;마력 흡수침;35;icon_item_spellneedle
 I;분해의 망치;32;icon_item_farm47_wood_hammer
-I;괴황지;2157;icon_item_guehwangji
+I;괴황지;2075;icon_item_guehwangji
 I;빈 스펠북;11;icon_item_emptySpellBook
 I;시간의 결정;3;icon_item_timespace
-I;시간의 결정 파편;204;icon_item_spacepiece
+I;시간의 결정 파편;191;icon_item_spacepiece
 I;칼사이트;11;14_item_ithildin
 I;크리오라이트;16;39_icon_item_Cry8rite
 I;파이라이트;9;32_item_ore_pyrite
@@ -1276,7 +1282,7 @@ I;인프로 락터의 뼈;5;icon_item_bone
 I;인프로 버크의 껍질;1;icon_item_shell_red
 I;인프로 홀더의 뼈;12;icon_item_bone
 I;잎방개의 껍질;2;icon_item_shell_green
-I;작은 마족의 뿔;19;icon_item_pantohorn
+I;작은 마족의 뿔;15;icon_item_pantohorn
 I;잡초;14;icon_item_grassbladeb
 I;장작;8;icon_item_woodpiece
 I;전환의 수정조각;1;icon_item_BlokenMirror

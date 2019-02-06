@@ -73,6 +73,7 @@ I;카롤리스 이야기 3권;1;icon_item_collection_03Blue
 I;타다 만 일지를 적은 메모;1;icon_item_paperpiece
 I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
+I;제작서-아바레스트;1;icon_item_weapon_misc1
 I;제작서-로얄 파르티잔;3;icon_item_weapon_misc1
 I;제작서-바들레르;1;icon_item_weapon_misc1
 I;제작서-알터 로드;1;icon_item_weapon_misc1
@@ -88,14 +89,7 @@ I;제작서-페디미안 레더 글로브;3;icon_item_gloves_misc1
 I;제작서-페디미안 레더 부츠;1;icon_item_boots_misc1
 I;제작서-페디미안 레더 팬츠;2;icon_item_pants_misc1
 G;Armor
-I;밥그릇;1;icon_item_ricebowl
-I;밥그릇;1;icon_item_ricebowl
-I;밥그릇;1;icon_item_ricebowl
-I;연어초밥;1;icon_item_sushi5
 I;잠자는 표범;1;icon_item_sleeping_leopard
-I;태양;1;icon_item_sun_acc
-I;태양;1;icon_item_sun_acc
-I;태양;1;icon_item_sun_acc
 I;딥디르비 코스튬;1;icon_item_dievdirbys_f
 I;엑소시스트 루브릭 코스튬;1;icon_item_Exorcist04_f
 I;엑소시스트 소울 바인더 코스튬;1;icon_item_Exorcist02_f

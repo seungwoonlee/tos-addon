@@ -329,4 +329,3 @@ I;펜듈럼;1;icon_item_pendulum
 I;푸른 원혼;1;icon_item_core_04Blue
 G;Weapon
 I;캐논;1;cannon_canon
-I;달 토끼 캐논;1;icon_item_MoonRabbit_cannon
