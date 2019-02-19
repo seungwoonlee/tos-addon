@@ -24,11 +24,14 @@ I;라프세이프 버섯;2;icon_item_Pinemushroom
 I;해독제;5;icon_item_Quest_00020
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;농축 HP포션 LV15;5;icon_item_HP_Alche
+I;농축 HP포션 LV15;30;icon_item_HP_Alche
 I;케이스타스 회복포션Lv4;111;item_HPSP_potion_3
-I;농축 SP포션 LV15;9;icon_item_SP_Alche
+I;농축 SP포션 LV15;36;icon_item_SP_Alche
+I;보급용 작은 HP포션;3;item_HP_oil_1
 I;레드 오브:말라두;1;icon_item_Dreamshade_red
-I;LV14 경험치 카드;29;icon_item_expcard
+I;LV14 경험치 카드;35;icon_item_expcard
+I;LV1 경험치 카드;23;icon_item_expcard
+I;보급용 워프 주문서;10;GolemMagicItem1
 I;디스펠러;10;icon_item_grimoire_blue
 G;SubWeapon
 I;디오니스 암밴드;1;icon_item_armband_dinios
@@ -53,12 +56,18 @@ I;컬렉션: 라다르 숲;1;icon_item_box
 I;컬렉션: 실라 숲;1;icon_item_box
 I;컬렉션: 기원의 숲;1;icon_item_box
 I;컬렉션: 그리나스 숲길;1;icon_item_box
+I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
+I;컬렉션: 이국 사랑;1;icon_item_box
+I;컬렉션: 덧댄다리 숲;1;icon_item_box
+I;컬렉션: 초보자의 무기;1;icon_item_box
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
-I;확성기;15;icon_item_Mike
+I;확성기;20;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Armor
+I;레더 글로브;1;icon_item_gloves_bube_blue
+I;우든 뱅글;1;item_bracelet_20
 I;캐터프랙트 코스튬;1;icon_item_cataphract_f
 I;랜서 코스튬;1;icon_item_warrior_lancer_f
 G;Material
@@ -100,13 +109,13 @@ I;허밍버드의 날개;1;icon_item_bugwing
 I;거대한 갈고리;24;icon_item_claw_01
 I;멘티우드의 껍질;2;icon_item_shell_purple
 I;츄파카브라 이빨;8;icon_item_tooth_white
-I;부베족의 증표;34;icon_item_bubetoken
-I;위버 더듬이;14;icon_item_feeler_black
+I;부베족의 증표;37;icon_item_bubetoken
+I;위버 더듬이;15;icon_item_feeler_black
 I;에큐바이트 더듬이;9;icon_item_feeler_purple
 I;부베 활대;3;icon_item_bubebow
-I;케파 줄기;7;icon_item_stem_green
+I;케파 줄기;9;icon_item_stem_green
 I;하나밍 꽃잎;102;icon_item_HanamingPetal
-I;치넨시 잎;4;icon_item_bokchoyleaf
+I;치넨시 잎;5;icon_item_bokchoyleaf
 I;인프로 락터의 껍질;6;icon_item_shell
 I;갈록 가죽;2;icon_item_Misc_00007
 I;지누테카스의 핵;10;icon_item_core_green
@@ -204,6 +213,7 @@ I;오넨 정수 Lv1;11;KQ_recipe_hethran_material_1_2
 I;팔라팜 조각 Lv1;5;KQ_recipe_hethran_material_1_3
 I;쿠게리의 천조각;1;icon_item_clothpiece_white
 I;우르바스 증표;1;icon_item_borutakey
+I;포쿠부 가죽;1;icon_item_Misc_00011
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01
@@ -214,16 +224,20 @@ I;가시숲의 계시;1;icon_item_stonetablet
 I;자카리엘 왕릉의 계시;1;icon_item_stonetablet
 I;순례자의 표식;30;neck_pilgrim_01
 I;작은 오르골;1;icon_item_musicbox
-I;연붉은 잎사귀;4;icon_item_leaves_red
 I;펜듈럼;1;icon_item_pendulum
 I;단서 메모;1;icon_item_diary
 I;제 9구역 기밀 설비 안내서;1;icon_item_Ring_120013
 I;유기용제;1;icon_item_Drug_CON1
 I;영험한 가루;1;icon_item_sesami
 I;오래된 도구;8;icon_item_farm47_wood_hammer
-I;흩어진 기록지;15;GolemMagicItem1
 I;허밀가의 붉은 수정;1;icon_item_Gem_Stone_STR
+I;검 연습대 파편;1;icon_item_Quest_00017
+I;검 연습대 제작 도구;1;icon_item_Quest_00017
 G;Weapon
+I;병사의 라이트 보우;1;bow_bow01
+I;베르타스 라파이 보우;1;icon_item_bow_lapai
 I;리가드 혼 파이크;1;icon_item_spear_regardhorn_TH
 I;프리머스 라파이 파이크;1;icon_item_spear_twohand_lapai
 I;프리머스 라파이 파이크;1;icon_item_spear_twohand_lapai
+I;라파이 파이크;1;icon_item_spear_twohand_lapai
+I;일기당천 언월도;1;icon_item_BlueDragon_thspear

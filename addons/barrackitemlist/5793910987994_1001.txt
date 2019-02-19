@@ -19,9 +19,13 @@ I;보급용 이동속도 증가 포션;3;item_speed_requid_1
 I;보급용 작은 HP포션;126;item_HP_oil_1
 I;보급용 작은 SP포션;264;item_SP_requid_1
 I;보급용 작은 스태미나 알약;23;item_STA_pill_1
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;오르샤 워프 주문서;11;GolemMagicItem1
 I;정착 지원 포션;10;item_speed_requid_3
 I;정착 지원 포션 Lv2;30;item_speed_requid_3
+I;축복이 깃든 씨앗;7;icon_item_event161215_01
 I;케이스타스 HP포션 Lv1;5;item_HP_oil_2
 I;케이스타스 SP포션 Lv1;5;item_SP_requid_2
 I;케이스타스 수호의 포션;60;icon_item_Drug_exDEF1
@@ -33,12 +37,9 @@ I;폭죽;5;icon_item_firework
 I;LV14 경험치 카드;2;icon_item_expcard
 I;보급용 워프 주문서;19;GolemMagicItem1
 I;블루 오브:케파;1;icon_item_Dreamshade
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;은빛 물고기;4;icon_item_fish2
-G;Collection
-I;컬렉션: 겔리 고원;1;icon_item_box
-I;컬렉션: 네프리타스 벼랑;1;icon_item_box
-I;컬렉션: 왕릉 건축자 예배당;1;icon_item_box
-I;컬렉션: 페디미안 외곽;1;icon_item_box
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black
 G;Recipe
@@ -58,11 +59,23 @@ I;제작서-안티 다크 네클리스;2;icon_item_necklace_misc3
 I;제작서-안티 콜드 브레이슬릿;4;icon_item_bracelet_misc3
 I;제작서-컨트롤 뱅글;2;icon_item_bracelet_misc3
 I;제작서-x4 경험의 서;1;icon_item_recipe_misc1
+G;Collection
+I;컬렉션: 겔리 고원;1;icon_item_box
+I;컬렉션: 네프리타스 벼랑;1;icon_item_box
+I;컬렉션: 왕릉 건축자 예배당;1;icon_item_box
+I;컬렉션: 페디미안 외곽;1;icon_item_box
+G;Cube
+I;[PC방] 성장 지원 상자;2;icon_item_box_pc_month
 G;Armor
+I;베르타스 크라이지어스 그리브;1;icon_item_boots_kryzius
+I;크라이지어스 건틀릿;1;icon_item_gloves_kryzius
 I;팽글 플레이트 글로브;1;icon_item_gladiuspangle_gloves
 I;라즈나 레더 팬츠;1;icon_item_razna_leg
+I;크라이지어스 플레이트 팬츠;1;icon_item_pants_kryzius
+I;베르타스 즈바이더 실드;1;icon_item_shield_nicopolis1
 I;베르타스 마로네 로브;1;icon_item_malone_amor
 I;알프라 로브;1;icon_item_alframerchant_armor
+I;크라이지어스 플레이트 아머;1;icon_item_shirts_kryzius
 I;노비스 네클리스;1;item_necklace_10
 I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
 I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
@@ -70,78 +83,77 @@ I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
 I;아우르 메달;1;item_necklace_19
 I;아우르 메달;1;item_necklace_19
 I;플라티나 메달;1;item_necklace_19
+I;플라티나 메달;1;item_necklace_19
+I;노블 브레이슬릿;1;item_bracelet_03
 I;라이트 아이언 뱅글;1;item_bracelet_08
 I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
 I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
 I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
+I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
+I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
 I;우든 뱅글;1;item_bracelet_20
 I;우든 뱅글;1;item_bracelet_20
+I;자카리엘 뱅글;1;item_bracelet_10
+I;자카리엘 뱅글;1;item_bracelet_10
 I;페더풋 코스튬;1;icon_item_mage_featherfoot_f
-G;Cube
-I;[PC방] 성장 지원 상자;2;icon_item_box_pc_month
-G;Gem
-I;레드 젬;Lv1;item_icon_circle150
-I;레드 젬;Lv1;item_icon_circle150
-I;레드 젬;Lv1;item_icon_circle150
-I;레드 젬;Lv1;item_icon_circle150
-I;그린 젬;Lv1;item_icon_Dia150
-I;그린 젬;Lv1;item_icon_Dia150
-I;그린 젬;Lv1;item_icon_Dia150
-I;그린 젬;Lv1;item_icon_Dia150
-I;블루 젬;Lv1;item_icon_Square150
-I;블루 젬;Lv1;item_icon_Square150
-I;블루 젬;Lv1;item_icon_Square150
-I;블루 젬;Lv1;item_icon_Square150
-I;옐로우 젬;Lv1;item_icon_Star150
-I;옐로우 젬;Lv1;item_icon_Star150
-I;옐로우 젬;Lv1;item_icon_Star150
-I;옐로우 젬;Lv1;item_icon_Star150
 G;Premium
 I;x4 경험의 서;1;icon_item_expbookx4
 I;x4 경험의 서;1;icon_item_expbookx4
 I;x4 경험의 서;1;icon_item_expbookx4
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
 I;x4 경험의 서;1;icon_item_expbookx4
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
 I;긴급 수리 키트;10;icon_item_repairkit
 I;소울 크리스탈;19;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;워프 주문서;19;icon_item_warpPremium
 I;워프 주문서 10개 상자;1;icon_item_warpPremium_bundle
 I;인스턴스 던전 배수 토큰;7;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -207,6 +219,7 @@ I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
 I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
 I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
 I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
+I;파스텔 그린 염색약;1;haircolor_green
 I;확성기;48;icon_item_Mike
 G;Material
 I;연습용 모루;1;icon_item_anvil

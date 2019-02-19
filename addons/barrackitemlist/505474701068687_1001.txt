@@ -30,9 +30,6 @@ I;포포리온 고기;24;icon_item_meat_02
 I;폭죽;34;icon_item_firework
 I;할로윈 폭죽;2;icon_item_firework
 I;해독제;3;icon_item_Quest_00020
-I;[이벤트] 달콤한 군고구마;4;icon_item_sweet_potato
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
 I;레드 오브:이노움;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;15;GolemMagicItem1
 I;블루 오브:이노움;1;icon_item_Dreamshade
@@ -57,6 +54,7 @@ I;찢어진 일기의 일부 4;1;icon_item_paperpiece
 I;카듀멜 시대의 갑주;1;icon_item_collection_04Black
 I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
+I;제작서-트윈 블레이드;1;icon_item_weapon_misc1
 I;제작서-모플라;1;icon_item_weapon_misc1
 I;제작서-발타스 모닝스타;1;icon_item_weapon_misc3
 I;제작서-웰시 스태프;1;icon_item_weapon_misc3
@@ -165,7 +163,6 @@ I;모야 파편;4;icon_item_shell_blue
 I;묘지 골렘의 핵;3;icon_item_core_blue
 I;미끈한 수액;4;icon_item_Drug_51021
 I;미니번 가죽;1;icon_item_Misc_00007
-I;리디아의 붉은 꽃;1;icon_item_misc_0519
 I;바브 더듬이;10;icon_item_feeler_black
 I;바퀴;3;icon_item_wheel
 I;박쥐의 날개;6;icon_item_batwing
@@ -286,9 +283,6 @@ I;할로우벤터의 손뼈;25;icon_item_bone
 I;호그마 엄니;10;icon_item_tooth_white
 I;호그마 전투대장 송곳니;2;icon_item_tooth_00Basic
 I;호글란 부리;1;icon_item_small_bag
-I;몬스터의 기운;4;icon_item_panto_core
-I;보늬 교훈의 화살;3;icon_item_misc_0524
-I;로열 블레이드 파편;3;icon_item_misc_0529
 I;차원 탐색 스크롤;1;GolemMagicItem1
 I;귀환석;1;MercenaryBadge
 G;Quest

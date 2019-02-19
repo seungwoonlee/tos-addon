@@ -25,10 +25,7 @@ I;포포리온 고기;17;icon_item_meat_02
 I;해독제;30;icon_item_Quest_00020
 I;보급용 워프 주문서;19;GolemMagicItem1
 I;은빛 물고기;30;icon_item_fish2
-I;예식용 칼;1;icon_item_artefact_Decorative_knife
 I;클라페다 카프리콘즈 응원 슬로건;1;icon_item_aretfact_victory_purple
-G;SubWeapon
-I;눈꽃 스프레이;1;icon_item_snowflower
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
@@ -85,16 +82,6 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;확성기;39;icon_item_Mike
-G;Armor
-I;붉은빛 플라워 헤어밴드;1;icon_item_redflowerband
-I;케파 인형;1;hairacc_48_cepadoll
-I;태양;1;icon_item_sun_acc
-I;아보카도 롤;1;icon_item_sushi10
-I;큰 흰꽃 머리장식;1;hairacc_hat071
-I;탐험가용 큰 붉은꽃 머리장식;1;hairacc_hat072
-I;펠타스타 코스튬;1;icon_item_Peltasta_f
-I;하카펠 코스튬;1;icon_item_hakapalle_f
-I;사심이 담긴 상소문;1;icon_item_wing_scroll2
 G;Material
 I;모루;14;icon_item_anvil
 I;황금 모루;2;icon_item_anvil_gold
@@ -164,5 +151,6 @@ I;유기용제;1;icon_item_Drug_CON1
 I;음양사 본향 지원 명단;1;Siaul_Act3_Confirmation
 I;의식용 밧줄;1;icon_item_tentaclel
 I;테넷 성당의 계시;1;icon_item_stonetablet
-G;Weapon
-I;프리머스 즈바이더 소드;1;icon_item_sword_nicopolis1
+G;Armor
+I;펠타스타 코스튬;1;icon_item_Peltasta_f
+I;하카펠 코스튬;1;icon_item_hakapalle_f

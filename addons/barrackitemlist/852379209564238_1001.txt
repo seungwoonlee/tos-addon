@@ -3,12 +3,26 @@ G;Unused
 I;실버;99999;icon_item_silver
 G;Collection
 I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
+G;Premium
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 G;Drug
 I;보급용 작은 HP포션;128;item_HP_oil_1
 I;보급용 작은 SP포션;126;item_SP_requid_1
 I;보급용 작은 스태미나 알약;23;item_STA_pill_1
 I;보급용 이동속도 증가 포션;3;item_speed_requid_1
 I;보급용 워프 주문서;10;GolemMagicItem1
+G;Armor
+I;아웃로 더크더즈;1;icon_item_scoutCos_outlaw01_f
 G;Material
 I;케파 줄기;5;icon_item_stem_green
 I;하나밍 꽃잎;5;icon_item_HanamingPetal
@@ -20,5 +34,5 @@ I;레지네이트;1;16_item_treenite
 I;귀환석;1;MercenaryBadge
 G;SubWeapon
 I;연습용 크리스 대거;1;icon_item_f_dagger_kreive
-G;Armor
-I;아웃로 더크더즈;1;icon_item_scoutCos_outlaw01_f
+G;Weapon
+I;오래된 글라디우스;1;icon_item_Sword_22

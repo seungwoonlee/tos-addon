@@ -4,7 +4,6 @@ I;실버;99999;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;11;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;8;icon_item_SPelixir_Small
-I;[Re:Build] 축복이 깃든 씨앗;14;icon_item_event161215_01
 I;농축 HP포션 LV15;26;icon_item_HP_Alche
 I;농축 SP포션 LV15;11;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;20;item_speed_requid_1
@@ -22,8 +21,6 @@ I;페디미안 워프 주문서;22;GolemMagicItem1
 I;포포리온 고기;5;icon_item_meat_02
 I;해독제;10;icon_item_Quest_00020
 I;아말라스;1;icon_item_Amalas
-I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
-I;[Re:Build] 여신의 조각상;1;icon_item_farm47_broken_zemina
 I;보급용 워프 주문서;3;GolemMagicItem1
 G;Book
 I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
@@ -47,15 +44,10 @@ I;컬렉션: 테브린 종유동 1구역;1;icon_item_box
 I;컬렉션: 파수꾼의 묘역;1;icon_item_box
 I;컬렉션: 지마 수코트;1;icon_item_box
 G;Premium
-I;[Re:Build] 인스턴스 던전 1회 입장권;1;icon_item_indunonemoreEnter
-I;[Re:Build] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;[Re:Build] 인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;13;icon_item_warpPremium
 I;확성기;25;icon_item_Mike
 I;확성기 50개 상자;1;icon_item_Mike_bundle
 G;Material
-I;[Re:Build] 빛나는 황금 모루;1;icon_item_anvil_gold
 I;모루;11;icon_item_anvil
 I;연습용 모루;1;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1

@@ -28,6 +28,9 @@ I;레드 오브:코릴러스;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;24;GolemMagicItem1
 I;레드 오브:갈색 스타울리트 궁수;1;icon_item_Dreamshade_red
 I;디스펠러;10;icon_item_grimoire_blue
+G;SubWeapon
+I;디오니스 암밴드;1;icon_item_armband_dinios
+I;지구의 행복 암밴드;1;icon_item_armband_g9
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;베이키얼의 답장;1;icon_item_indulgence

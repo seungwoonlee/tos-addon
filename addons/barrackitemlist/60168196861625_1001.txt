@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;99999;icon_item_silver
+I;실버;100000;icon_item_silver
 G;Helmet
 I;송편 헬멧 코스튬;1;icon_item_helmet_songpyun
 G;Collection
@@ -126,8 +126,6 @@ I;페디미안 워프 주문서;3;GolemMagicItem1
 I;포포리온 고기;13;icon_item_meat_02
 I;폭죽;25;icon_item_firework
 I;해독제;8;icon_item_Quest_00020
-I;LV13 경험치 카드;12;icon_item_expcard
-I;LV14 경험치 카드;110;icon_item_expcard
 I;레드 오브:분홍 츄파루카;1;icon_item_Dreamshade_red
 I;블루 오브:부베 주술사;1;icon_item_Dreamshade
 I;디스펠러;10;icon_item_grimoire_blue
@@ -151,16 +149,16 @@ I;성직자의 수영복 코스튬(여);1;icon_item_Cleric_mizuki_f
 I;성직자의 스쿨룩 코스튬(여);1;icon_item_Cleric_school_f
 I;성직자의 앨리스 코스튬(여);1;icon_item_Cleric_alice_f
 I;성직자의 제복 코스튬(여);1;icon_item_Cleric_uniform_f
-I;성직자의 크리스마스 코스튬(여);1;icon_item_cleric_christmas_f
 I;나는네선물 산타 코스튬(여);1;icon_item_winter_santa_f
 I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
 I;초대에 응한 자 코스튬(여);1;icon_item_blacksuit01_f
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
+I;성직자의 크리스마스 코스튬(여);1;icon_item_cleric_christmas_f
 G;Material
 I;모루;8;icon_item_anvil
 I;괴황지;4336;icon_item_guehwangji
 I;성수;402;icon_item_holywater
-I;조각용 나무;1750;icon_item_wood_5
+I;조각용 나무;1739;icon_item_wood_5
 I;크리오라이트;7;39_icon_item_Cry8rite
 I;파이라이트;17;32_item_ore_pyrite
 I;홀리 파우더;470;icon_item_powderw

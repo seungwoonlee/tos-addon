@@ -31,11 +31,8 @@ I;클라페다 워프 주문서;3;GolemMagicItem1
 I;포포리온 고기;11;icon_item_meat_02
 I;폭죽;25;icon_item_firework
 I;긴급 수리 키트;8;icon_item_repairkit
-I;[이벤트] 달콤한 군고구마;1;icon_item_sweet_potato
 I;보급용 워프 주문서;8;GolemMagicItem1
-I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
 I;기슬로티스 씨앗;2;icon_item_seed_green
-I;길드 타워;1;icon_item_guildtower
 I;라벤더 씨앗;2;icon_item_seed_red
 I;라오도넬리스 씨앗;2;icon_item_seed_green
 I;레드 오브:주황 단델;1;icon_item_Dreamshade_red
@@ -50,9 +47,6 @@ I;디스펠러;47;icon_item_grimoire_blue
 I;신랑 비둘기 오르골;1;icon_item_MusicBox_Wedding01
 I;종이상자;1;icon_item_paperbox
 G;SubWeapon
-I;느낌있는 암밴드;1;icon_item_armband_exclamationMark_icon
-I;디오니스 암밴드;1;icon_item_armband_dinios
-I;길드 사랑 암밴드;1;icon_item_armband_guild04
 I;물조리개;1;icon_item_wateringcan
 I;좌절 깃발;1;OTL_flag
 G;Book
@@ -100,10 +94,7 @@ I;세이지의 기준점;1;icon_item_collection_01Red
 G;Recipe
 I;제작서-마가 투 핸드 소드;1;icon_item_weapon_misc5
 I;제작서-플라미니;1;icon_item_weapon_misc4
-I;제작서-실버 폴쳔;1;icon_item_weapon_misc3
 I;제작서-스트랭스 팬던트;1;icon_item_necklace_misc3
-I;제작서-레비잔 네클리스;1;icon_item_necklace_misc4
-I;제작서-레비잔 브레이슬릿;1;icon_item_bracelet_misc4
 G;Collection
 I;컬렉션: 갈르엣 평야;1;icon_item_box
 I;컬렉션: 강철 고원;1;icon_item_box
@@ -157,16 +148,9 @@ I;하이랜더 코스튬;1;icon_item_highlander_f
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
-I;확성기;17;icon_item_Mike
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;스탯 초기화 포션(14일);1;icon_item_statReset
+I;확성기;15;icon_item_Mike
 G;Material
 I;모루;13;icon_item_anvil
-I;황금 모루(14일);1;icon_item_anvil_gold
-I;황금 모루(14일);1;icon_item_anvil_gold
-I;은빛 모루(14일);1;icon_item_anvil_silver
-I;은빛 모루(14일);1;icon_item_anvil_silver
-I;은빛 모루(14일);1;icon_item_anvil_silver
 I;실드 차저;11;icon_item_ShieldCharge
 I;크리오라이트;14;39_icon_item_Cry8rite
 I;파이라이트;19;32_item_ore_pyrite

@@ -20,7 +20,6 @@ I;케이스타스 회복포션Lv4;47;item_HPSP_potion_3
 I;물리+마법 방어력 포션;1;item_speed_requid_1
 I;물리 치명타 공격력 증가 포션;1;item_speed_requid_1
 I;보급용 큰 HP포션;100;item_HP_oil_3
-I;스태미나 알약;5;item_STA_pill_2
 I;큰 스태미나 알약;5;item_STA_pill_3
 I;케이스타스 회복포션Lv1;2;item_HPSP_potion_1
 I;땅 속성 저항력 포션;1;icon_item_Seed_HR1
@@ -28,14 +27,37 @@ I;보급용 레드옥스;2;icon_item_Red_Ox
 I;케이스타스 회복포션Lv2;6;item_HPSP_potion_2
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;농축 HP포션 LV15;18;icon_item_HP_Alche
+I;농축 HP포션 LV15;17;icon_item_HP_Alche
 I;루팅 찬스 증가 포션;1;icon_item_looting_potion_01
-I;농축 SP포션 LV15;13;icon_item_SP_Alche
+I;달콤한 발렌타인 초콜릿;10;icon_item_chocolatebox
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;농축 SP포션 LV15;6;icon_item_SP_Alche
 I;보급용 큰 SP포션;99;item_SP_requid_3
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
 I;블루 오브:코릴러스;1;icon_item_Dreamshade
 I;보급용 워프 주문서;25;GolemMagicItem1
 I;블루 오브:갈색 테라임프;2;icon_item_Dreamshade
 I;LV14 경험치 카드;38;icon_item_expcard
+I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
+I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
+I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
 I;디스펠러;10;icon_item_grimoire_blue
 G;SubWeapon
 I;(바랜)파저리타스 대거;1;icon_item_dagger_scout
@@ -69,12 +91,11 @@ I;컬렉션: 긴다리 계곡;1;icon_item_box
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
+I;x8 경험의 서 (14일);1;icon_item_expbookx8
 I;확성기;15;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Armor
 I;아그니 네클리스;1;item_necklace_21
-I;레비잔 브레이슬릿;1;item_bracelet_14
-I;레비잔 브레이슬릿;1;item_bracelet_14
 I;파이로맨서 코스튬;1;icon_item_pyromancer_f
 I;엘리멘탈리스트 코스튬;1;icon_item_warrock_f
 I;사이코키노 코스튬;1;icon_item_psychokinesist_f
@@ -82,10 +103,8 @@ G;Material
 I;모루;2;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;파이라이트;425;32_item_ore_pyrite
+I;파이라이트;412;32_item_ore_pyrite
 I;크리오라이트;2;39_icon_item_Cry8rite
-I;빈 스펠북;4;icon_item_emptySpellBook
-I;마법 가루;293;icon_item_MagicPowder
 I;주석;4;1_item_ore_copper
 I;호박;1;22_item_ore_amber
 I;비토우 더듬이;5;icon_item_feeler_yellow
@@ -111,7 +130,7 @@ I;에큐바이트 더듬이;14;icon_item_feeler_purple
 I;부베 활대;2;icon_item_bubebow
 I;카로 잎사귀;7;icon_item_leaves_green
 I;갈록 가죽;1;icon_item_Misc_00007
-I;장작;19;icon_item_woodpiece
+I;장작;18;icon_item_woodpiece
 I;시스트 가시;3;icon_item_thorn_green
 I;피라콘 잎;5;icon_item_leaves_red
 I;유황;3;37_item_ore_sulfur

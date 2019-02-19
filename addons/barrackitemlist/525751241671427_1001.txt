@@ -7,30 +7,29 @@ I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;고농축 HP포션;20;item_HP_oil_3
 I;고농축 SP포션;20;item_SP_requid_3
 I;고농축 이동속도 증가 포션;5;item_speed_requid_1
-I;농축 HP포션 LV15;19;icon_item_HP_Alche
-I;농축 SP포션 LV15;2;icon_item_SP_Alche
+I;농축 HP포션 LV15;32;icon_item_HP_Alche
+I;농축 SP포션 LV15;21;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;20;item_speed_requid_1
 I;바루날레샤;5;icon_item_Varnalesa
-I;보급용 HP포션;99;item_HP_oil_2
-I;보급용 SP포션;99;item_SP_requid_2
+I;보급용 HP포션;98;item_HP_oil_2
+I;보급용 SP포션;129;item_SP_requid_2
 I;보급용 이동속도 증가 포션;3;item_speed_requid_1
-I;보급용 작은 스태미나 알약;29;item_STA_pill_1
+I;보급용 작은 스태미나 알약;24;item_STA_pill_1
 I;보급용 작은 회복포션;3;item_HPSP_potion_1
 I;보급용 큰 HP포션;100;item_HP_oil_3
-I;보급용 큰 SP포션;100;item_SP_requid_3
+I;보급용 큰 SP포션;99;item_SP_requid_3
 I;붉은 케파 조각;4;OnionPiece_Red
 I;정착 지원 포션 Lv2;3;item_speed_requid_3
 I;정착 지원 포션 Lv2;30;item_speed_requid_3
 I;케이스타스 수호의 포션;1;icon_item_Drug_exDEF1
 I;케이스타스 용맹의 포션;1;icon_item_Drug_exATK1
-I;케이스타스 회복포션Lv4;10;item_HPSP_potion_3
+I;케이스타스 회복포션Lv4;3;item_HPSP_potion_3
 I;페디미안 워프 주문서;9;GolemMagicItem1
 I;포포리온 고기;16;icon_item_meat_02
 I;해독제;5;icon_item_Quest_00020
-I;LV14 경험치 카드;34;icon_item_expcard
-I;보급용 워프 주문서;25;GolemMagicItem1
-I;LV5 경험치 카드;2;icon_item_expcard
-I;디스펠러;10;icon_item_grimoire_blue
+I;포춘 쿠키;2;icon_item_Fortunecookie
+I;보급용 워프 주문서;22;GolemMagicItem1
+I;디스펠러;59;icon_item_grimoire_blue
 G;SubWeapon
 I;잠자리 암밴드;1;icon_item_armband_dragonfly1
 I;버블스틱;1;icon_item_artefact_bublestick
@@ -40,9 +39,10 @@ I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;낡은 일기;1;icon_item_collection_04Black
 I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
-I;제작서-일룬;2;icon_item_weapon_misc1
 I;제작서-x4 경험의 서;5;icon_item_recipe_misc1
 I;제작서-x8 경험의 서;3;icon_item_recipe_misc1
+G;Cube
+I;벨코퍼 큐브;2;icon_item_cube_gold_Blow
 G;Collection
 I;컬렉션: 기원의 숲;1;icon_item_box
 I;컬렉션: 나하스 숲;1;icon_item_box
@@ -54,22 +54,24 @@ I;컬렉션: 실라 숲;1;icon_item_box
 I;컬렉션: 지마 수코트;1;icon_item_box
 I;컬렉션: 큰아귀 길;1;icon_item_box
 G;Premium
-I;소울 크리스탈;15;icon_item_soulCrystal
-I;워프 주문서;15;icon_item_warpPremium
+I;소울 크리스탈;14;icon_item_soulCrystal
+I;워프 주문서;13;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 I;클레릭 스페셜 코스튬(여);1;icon_item_Cleric_cleric01_3_f
 G;Material
 I;모루;1;icon_item_anvil
 I;연습용 모루;1;icon_item_anvil
-I;기슬로티스;97;icon_item_Gyslotis
-I;성수;417;icon_item_holywater
+I;황금 모루;1;icon_item_anvil_gold
+I;기슬로티스;286;icon_item_Gyslotis
+I;성수;1270;icon_item_holywater
 I;조각용 나무;452;icon_item_wood_5
 I;크리오라이트;3;39_icon_item_Cry8rite
 I;파이라이트;5;32_item_ore_pyrite
-I;홀리 파우더;53;icon_item_powderw
+I;홀리 파우더;286;icon_item_powderw
 I;주석;1;1_item_ore_copper
 I;호박;6;22_item_ore_amber
+I;벨코퍼 영혼 조각;3;icon_item_velcoffer_misc01
 I;LV2 보물상자 열쇠;2;icon_item_key1
 I;갈록 가죽;2;icon_item_Misc_00007
 I;갈색 티니의 뼈;2;icon_item_bone
@@ -78,7 +80,7 @@ I;검은 주술인형의 핵;1;icon_item_core_yellow
 I;그루머 잎;6;icon_item_leaves_green
 I;그리바 줄기;1;icon_item_stem_yellow
 I;글리자돈의 뼈;4;icon_item_bone
-I;나무 말뚝;6;icon_item_wood_3
+I;나무 말뚝;9;icon_item_wood_3
 I;노란 게이징 골렘의 핵;1;icon_item_core_yellow
 I;노란 요노움의 핵;1;icon_item_core_yellow
 I;노란 이노움의 핵;1;icon_item_core_yellow
@@ -130,7 +132,7 @@ I;삼나무;6;icon_item_wood_4
 I;소나무;4;icon_item_wood_3
 I;수정거미 더듬이;10;icon_item_feeler_blue
 I;쉬타임 파편;1;icon_item_Misc_00004
-I;스타울리트 심장;5;item_icon_heart_red
+I;스타울리트 심장;9;item_icon_heart_red
 I;스톤오르카의 핵;16;icon_item_core_yellow
 I;시스트 가시;1;icon_item_thorn_green
 I;식칼;7;icon_item_knife01
@@ -170,7 +172,7 @@ I;치넨시 잎;3;icon_item_bokchoyleaf
 I;케파 줄기;5;icon_item_stem_green
 I;케포 껍질;10;icon_item_onionpiece
 I;케포 솜털;2;icon_item_cotton
-I;코도모르 가시;2;icon_item_thorn_blue
+I;코도모르 가시;5;icon_item_thorn_blue
 I;코릴러스의 뿔;7;icon_item_pantohorn
 I;코카트리스 깃털;1;icon_item_feather_02Yellow
 I;타마 잎;3;icon_item_leaves_red
@@ -195,16 +197,15 @@ I;호그마 엄니;1;icon_item_tooth_white
 I;호그마 전투대장 송곳니;1;icon_item_tooth_00Basic
 I;호헨 가죽;1;icon_item_Misc_00011
 I;우르바스 증표;1;icon_item_borutakey
-I;밀납;1;icon_item_wax
+I;초록 우드고블린의 뿔;1;icon_item_horn_tiny_shine
+I;전환의 수정조각;1;icon_item_BlokenMirror
+I;몬스터의 기운;22;icon_item_panto_core
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01
-I;꼬질꼬질한 꾸러미;9;icon_item_small_bag
 I;단서 메모;1;icon_item_diary
 I;루클리스 시대의 기록;4;icon_item_stonepaper_01
 I;마력 추적지도 : 살비야스 숲;1;GolemMagicItem1
-I;보주 결정;7;icon_item_EvilEnergy_Powder
-I;비상 동력장치;1;icon_item_Ore_00009
 I;수정광산의 계시;1;icon_item_stonetablet
 I;순례자의 표식;30;neck_pilgrim_01
 I;실험용 약초 씨앗;1;icon_item_small_bag
@@ -215,13 +216,8 @@ I;칼레이마스의 비밀 장치 설명서;1;icon_item_magicpaper
 I;테넷 성당의 계시;1;icon_item_stonetablet
 I;펜듈럼;1;icon_item_pendulum
 I;푸른 램프의 기름;7;icon_item_liquid
-I;흩어진 기록지;15;GolemMagicItem1
+I;벨코퍼의 온전한 영혼 조각;1;icon_item_velcoffer_misc02
 G;Armor
-I;브리간딘 부츠;1;icon_item_boots_brigan
-I;그리나스 레깅스;1;icon_item_pants_royalGuard
-I;그리나스 아머;1;icon_item_shirts_royalGuard
-I;나이트 아머;1;icon_item_shirts_knight
-I;슈페리어 로얄 가드 아머;1;icon_item_shirts_royalGuard
 I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
 I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
 I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
@@ -236,43 +232,13 @@ I;나태의 목걸이;1;item_NECK_PILGRIM_02_AGT
 I;나태의 목걸이;1;item_NECK_PILGRIM_02_AGT
 I;노비스 네클리스;1;item_necklace_10
 I;노비스 네클리스;1;item_necklace_10
-I;로네사 클라페다 체인;1;item_necklace_09
-I;룬 팬던트;1;item_necklace_10
-I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
-I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
+I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
 I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
 I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
 I;매직 탈리스만;1;item_necklace_09
-I;매직 팬던트;1;item_necklace_01
-I;분노의 목걸이;1;item_NECK_PILGRIM_03_SPR
-I;사피에 네클리스;1;item_necklace_19
-I;사피에 네클리스;1;item_necklace_19
-I;스틸 네클리스;1;item_necklace_10
-I;스틸 네클리스;1;item_necklace_10
-I;식탐의 목걸이;1;item_NECK_PILGRIM_01_PWR
-I;실버 탈리스만;1;item_necklace_04
-I;애니무스;1;item_necklace_07
 I;유코푸스 네클리스;1;item_necklace_11
-I;유코푸스 네클리스;1;item_necklace_11
-I;일렉투스;1;item_necklace_19
-I;일렉트라 네클리스;1;item_necklace_21_yellow
 I;츄파카브라 네클리스;1;item_necklace_11
-I;츄파카브라 네클리스;1;item_necklace_11
-I;카너버 네클리스;1;item_necklace_17
-I;카너버 네클리스;1;item_necklace_17
-I;케파 팬던트;1;item_necklace_10
-I;케파 팬던트;1;item_necklace_10
-I;케파 팬던트;1;item_necklace_10
-I;크리오라이트 팬던트;1;item_necklace_01
-I;클라페다 체인;1;item_necklace_09
 I;탈리스만;1;item_necklace_19
-I;탈리스만;1;item_necklace_19
-I;탐욕의 목걸이;1;item_NECK_PILGRIM_05_HPW
-I;탐욕의 목걸이;1;item_NECK_PILGRIM_05_HPW
-I;탐욕의 목걸이;1;item_NECK_PILGRIM_05_HPW
-I;파이라이트 팬던트;1;item_necklace_01
-I;파이라이트 팬던트;1;item_necklace_01
-I;헬스 스톤;1;item_necklace_02
 I;글래스 브레이슬릿;1;item_bracelet_04
 I;노비스 뱅글;1;item_bracelet_15
 I;라이트 로네사 뱅글;1;item_bracelet_15
@@ -289,7 +255,8 @@ I;영주 헤먼데일의 브레이슬릿;1;icon_item_eventbracelet01
 I;자카리엘 뱅글;1;item_bracelet_10
 I;자카리엘 뱅글;1;item_bracelet_10
 I;포레스트 뱅글;1;item_bracelet_01
+I;베아카라스 브레이슬릿;1;item_bracelet_01
 I;큰 붉은꽃 머리장식;1;hairacc_hat072
 I;오라클 코스튬;1;icon_item_oracle_f
-I;카발리스트 코스튬;1;icon_item_cleric_kabbalist_f
+I;플레이그닥터 코스튬;1;icon_item_cleric_plague_doctor_f
 I;프리스트 코스튬;1;icon_item_prist_f

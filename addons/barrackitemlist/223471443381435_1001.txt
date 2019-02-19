@@ -1,43 +1,77 @@
 S;1001
 G;Unused
-I;실버;99999;icon_item_silver
-G;Event
-I;특별한 푸른 구슬;1;icon_item_core_blue
-I;특별한 포획용 덫;1;icon_item_pilgrim_trap
-I;연하장;1;icon_item_event_invitation2
-G;Premium
-I;[보상용] 해금권 선택 상자;1;icon_item_classsolution_box
-I;긴급 수리 키트;41;icon_item_repairkit
-I;소울 크리스탈;408;icon_item_soulCrystal
-I;스킬 초기화 포션;1;icon_item_potion_resetSkill
-I;스킬 초기화 포션;1;icon_item_potion_resetSkill
-I;스킬 초기화 포션;1;icon_item_potion_resetSkill
-I;스킬 초기화 포션;1;icon_item_potion_resetSkill
-I;스킬 초기화 포션;1;icon_item_potion_resetSkill
-I;스탯 초기화 포션;2;icon_item_statReset
-I;워프 주문서;48;icon_item_warpPremium
-I;워프 주문서 10개 상자;6;icon_item_warpPremium_bundle
-I;윈터펭 알;1;icon_item_egg_winterpeng
-I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
-I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
-I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
-I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
-I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
-I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
-I;파스텔 그린 염색약;1;haircolor_green
-I;펭마린 알;1;icon_item_egg_penguin_blue
-I;확성기;102;icon_item_Mike
-I;확성기 10개 상자;1;icon_item_Mike_bundle
-I;확성기 50개 상자;3;icon_item_Mike_bundle
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;[이벤트]신비한 돋보기;1;icon_item_magnifier_blue
-I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
+I;실버;69999;icon_item_silver
 G;PasteBait
 I;작은 은빛 물고기;9;icon_item_fish4
 G;Helmet
 I;쑥송편 헬멧 코스튬;1;icon_item_helmet_songpyun2
+G;Armor
+I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
+I;스틸 네클리스;1;item_necklace_10
+I;아이언 네클리스;1;item_necklace_10
+I;보코르 코스튬;1;icon_item_bokor_f
+I;섀도우맨서 루너하이더 코스튬;1;icon_item_mage_shadowmancer04_f
+I;섀도우맨서 코스튬;1;icon_item_mage_shadowmancer_f
+I;워록 코스튬;1;icon_item_mage_warlock_f
+G;Event
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+I;특별한 포획용 덫;1;icon_item_pilgrim_trap
+I;특별한 푸른 구슬;1;icon_item_core_blue
+I;연하장;1;icon_item_event_invitation2
+G;Book
+I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
+I;낡은 일기;1;icon_item_collection_04Black
+I;찢어진 일기의 일부 1;1;icon_item_paperpiece
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
+G;Recipe
+I;제작서-게일 슬래셔;4;icon_item_weapon_misc4
+I;제작서-겔티 알슈피스;3;icon_item_weapon_misc1
+I;제작서-더블 스택;1;icon_item_weapon_misc4
+I;제작서-드라군 파이퍼;3;icon_item_weapon_misc4
+I;제작서-뚫어뻥;1;icon_item_weapon_misc5
+I;제작서-라이온 헤드 대거;2;icon_item_weapon_misc4
+I;제작서-라이온 헤드 캐논;5;icon_item_weapon_misc4
+I;제작서-모플라;1;icon_item_weapon_misc1
+I;제작서-블랙 혼;1;icon_item_weapon_misc5
+I;제작서-비엔나라지스 메이스;4;icon_item_weapon_misc4
+I;제작서-비엔나라지스 스태프;1;icon_item_weapon_misc4
+I;제작서-비엔나라지스 투 핸드 메이스;7;icon_item_weapon_misc4
+I;제작서-세크메트;7;icon_item_weapon_misc4
+I;제작서-슈페리어 드레이크 스태프;1;icon_item_weapon_misc1
+I;제작서-실버 호크;1;icon_item_weapon_misc4
+I;제작서-아프가울레 보우;4;icon_item_weapon_misc4
+I;제작서-에멘가드 캐논;1;icon_item_weapon_misc5
+I;제작서-엘가 레이피어;4;icon_item_weapon_misc4
+I;제작서-윈디아 로드;4;icon_item_weapon_misc4
+I;제작서-카츠발게르;1;icon_item_weapon_misc1
+I;제작서-캐타펄트;1;icon_item_weapon_misc1
+I;제작서-페디미안 클럽;1;icon_item_weapon_misc1
+I;제작서-포텐티아;1;icon_item_weapon_misc3
+I;제작서-피그리 스피어;4;icon_item_weapon_misc4
+I;제작서-피레네 소드;3;icon_item_weapon_misc4
+I;제작서-네펜더스 글로브;1;icon_item_gloves_misc3
+I;제작서-라이온 헤드 실드;2;icon_item_shirts_misc4
+I;제작서-비틀백;2;icon_item_shirts_misc4
+I;제작서-슈페리어 로얄 가드 건틀릿;2;icon_item_gloves_misc1
+I;제작서-스틸 카이트 실드;1;icon_item_shirts_misc1
+I;제작서-추종자의 레더 아머;1;icon_item_shirts_misc3
+I;제작서-카펜터 글로브;3;icon_item_gloves_misc3
+I;제작서-페디미안 레깅스;2;icon_item_pants_misc1
+I;제작서-페디미안 실드;3;icon_item_shirts_misc1
+I;제작서-페디미안 아머;4;icon_item_shirts_misc1
+I;제작서-샤인 브레이슬릿;2;icon_item_bracelet_misc3
+I;제작서-x8 경험의 서;7;icon_item_recipe_misc1
+I;제작서-여신의 축복석;10;icon_item_recipe_misc1
+I;제작서-종이로 된 큐브(리볼버);2;icon_item_recipe_misc1
+I;제작서-종이로 된 큐브(한손둔기);3;icon_item_recipe_misc1
+G;FishingRod
+I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
+I;낡은 보급용 낚싯대;1;icon_item_Fishing_Rod_1
+I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 G;Drug
 I;리사이클 메달;120;icon_item_recyclemedal
 I;HP 회복의 엘릭서 [이벤트];10;icon_item_HPelixir
@@ -92,86 +126,65 @@ I;보급용 워프 주문서;26;GolemMagicItem1
 I;블루 오브:붉은 트리펠리;1;icon_item_Dreamshade
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;은빛 물고기;29;icon_item_fish2
+I;오마모리;20;icon_item_omarmori
 I;다과 세트;1;icon_item_artefact_Tea_Set
 I;푸드 커버;1;icon_item_artefact_Dome_Cover
+I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
+I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
+I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
 G;SubWeapon
 I;눈꽃 스프레이;1;icon_item_snowflower
 I;핫팩;1;icon_item_hotpack
-G;Book
-I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
-I;낡은 일기;1;icon_item_collection_04Black
-I;찢어진 일기의 일부 1;1;icon_item_paperpiece
-I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
-G;Recipe
-I;제작서-게일 슬래셔;4;icon_item_weapon_misc4
-I;제작서-겔티 알슈피스;3;icon_item_weapon_misc1
-I;제작서-더블 스택;1;icon_item_weapon_misc4
-I;제작서-드라군 파이퍼;3;icon_item_weapon_misc4
-I;제작서-뚫어뻥;1;icon_item_weapon_misc5
-I;제작서-라이온 헤드 대거;2;icon_item_weapon_misc4
-I;제작서-라이온 헤드 캐논;5;icon_item_weapon_misc4
-I;제작서-모플라;1;icon_item_weapon_misc1
-I;제작서-블랙 혼;1;icon_item_weapon_misc5
-I;제작서-비엔나라지스 메이스;4;icon_item_weapon_misc4
-I;제작서-비엔나라지스 스태프;1;icon_item_weapon_misc4
-I;제작서-비엔나라지스 투 핸드 메이스;7;icon_item_weapon_misc4
-I;제작서-세크메트;7;icon_item_weapon_misc4
-I;제작서-슈페리어 드레이크 스태프;1;icon_item_weapon_misc1
-I;제작서-실버 호크;1;icon_item_weapon_misc4
-I;제작서-아프가울레 보우;4;icon_item_weapon_misc4
-I;제작서-에멘가드 캐논;1;icon_item_weapon_misc5
-I;제작서-엘가 레이피어;4;icon_item_weapon_misc4
-I;제작서-윈디아 로드;4;icon_item_weapon_misc4
-I;제작서-카츠발게르;1;icon_item_weapon_misc1
-I;제작서-캐타펄트;1;icon_item_weapon_misc1
-I;제작서-페디미안 클럽;1;icon_item_weapon_misc1
-I;제작서-포텐티아;1;icon_item_weapon_misc3
-I;제작서-피그리 스피어;4;icon_item_weapon_misc4
-I;제작서-피레네 소드;3;icon_item_weapon_misc4
-I;제작서-네펜더스 글로브;1;icon_item_gloves_misc3
-I;제작서-라이온 헤드 실드;2;icon_item_shirts_misc4
-I;제작서-비틀백;2;icon_item_shirts_misc4
-I;제작서-슈페리어 로얄 가드 건틀릿;2;icon_item_gloves_misc1
-I;제작서-스틸 카이트 실드;1;icon_item_shirts_misc1
-I;제작서-추종자의 레더 아머;1;icon_item_shirts_misc3
-I;제작서-카펜터 글로브;3;icon_item_gloves_misc3
-I;제작서-페디미안 레깅스;2;icon_item_pants_misc1
-I;제작서-페디미안 실드;3;icon_item_shirts_misc1
-I;제작서-페디미안 아머;4;icon_item_shirts_misc1
-I;제작서-샤인 브레이슬릿;2;icon_item_bracelet_misc3
-I;제작서-x8 경험의 서;7;icon_item_recipe_misc1
-I;제작서-여신의 축복석;10;icon_item_recipe_misc1
-I;제작서-종이로 된 큐브(리볼버);2;icon_item_recipe_misc1
-I;제작서-종이로 된 큐브(한손둔기);3;icon_item_recipe_misc1
-G;FishingRod
-I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
-I;낡은 보급용 낚싯대;1;icon_item_Fishing_Rod_1
-I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
-G;Cube
-I;[PC방] TP 아이템 랜덤 상자;1;icon_item_random_cashbox
-G;Card
-I;미노타우로스 카드;Lv1;icon_item_card_stat
-I;플록스케 카드;Lv1;icon_item_card_atk
-G;Armor
-I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
-I;스틸 네클리스;1;item_necklace_10
-I;아이언 네클리스;1;item_necklace_10
-I;보코르 코스튬;1;icon_item_bokor_f
-I;섀도우맨서 루너하이더 코스튬;1;icon_item_mage_shadowmancer04_f
-I;섀도우맨서 코스튬;1;icon_item_mage_shadowmancer_f
-I;워록 코스튬;1;icon_item_mage_warlock_f
+G;Premium
+I;[이벤트]전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
+I;긴급 수리 키트;41;icon_item_repairkit
+I;소울 크리스탈;408;icon_item_soulCrystal
+I;스킬 초기화 포션;1;icon_item_potion_resetSkill
+I;스킬 초기화 포션;1;icon_item_potion_resetSkill
+I;스킬 초기화 포션;1;icon_item_potion_resetSkill
+I;스킬 초기화 포션;1;icon_item_potion_resetSkill
+I;스킬 초기화 포션;1;icon_item_potion_resetSkill
+I;스탯 초기화 포션;2;icon_item_statReset
+I;워프 주문서;48;icon_item_warpPremium
+I;워프 주문서 10개 상자;7;icon_item_warpPremium_bundle
+I;윈터펭 알;1;icon_item_egg_winterpeng
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
+I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
+I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
+I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
+I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
+I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
+I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
+I;파스텔 그린 염색약;1;haircolor_green
+I;펭마린 알;1;icon_item_egg_penguin_blue
+I;확성기;107;icon_item_Mike
+I;확성기 10개 상자;1;icon_item_Mike_bundle
+I;확성기 50개 상자;3;icon_item_Mike_bundle
+I;[이벤트]신비한 돋보기;1;icon_item_magnifier_blue
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
-I;황금 모루(14일);1;icon_item_anvil_gold
 I;모루;6;icon_item_anvil
 I;황금 모루(14일);1;icon_item_anvil_gold
 I;황금 모루(14일);1;icon_item_anvil_gold
-I;강화용 카드 : 500 (14일);1;monster_card
-I;강화용 카드 : 500 (14일);1;monster_card
-I;강화용 카드 : 500 (14일);1;monster_card
+I;5성 젬 연마제:14일;1;icon_item_powderp
+I;5성 젬 연마제:14일;1;icon_item_powderp
+I;5성 젬 연마제:14일;1;icon_item_powderp
+I;5성 젬 연마제:14일;1;icon_item_powderp
+I;5성 젬 연마제:14일;1;icon_item_powderp
+I;축복받은 조각;4;icon_item_Gem_Elemental1
 I;파이라이트;15;32_item_ore_pyrite
 I;아틸로늄;2;18_item_plantite
 I;주석;3;1_item_ore_copper
 I;호박;3;22_item_ore_amber
+I;프락토늄;1;icon_item_crystal_High
+I;미스릴 광석;20;13_item_mythril
 I;LV2 보물상자 열쇠;1;icon_item_key1
 I;갈고리;5;icon_item_claw_01
 I;갈록 가죽;3;icon_item_Misc_00007
@@ -197,7 +210,6 @@ I;데스모두스 이빨;14;icon_item_tooth_yellow
 I;드레이크 고기;3;icon_item_meat_02
 I;떡갈나무;6;icon_item_wood_1
 I;라우지누테의 껍질;1;icon_item_shell_red
-I;푸른 구슬 던전 주화;48;icon_item_annycoin_1
 I;루바보스 가죽;2;icon_item_Misc_00010
 I;리자드맨 송곳니;6;icon_item_canine
 I;리프넛의 뿔;2;icon_item_shorthorn
@@ -212,6 +224,7 @@ I;묘지 골렘의 핵;1;icon_item_core_blue
 I;물푸레나무;12;icon_item_wood_2
 I;미노스의 뼈;3;icon_item_bone
 I;바브 더듬이;2;icon_item_feeler_black
+I;바이보라의 날개 주화;10;icon_item_wingcoin
 I;바퀴;2;icon_item_wheel
 I;박쥐 이빨;1;icon_item_tooth_white
 I;박쥐의 날개;28;icon_item_batwing
@@ -298,6 +311,7 @@ I;파란 아우로라파스;2;icon_item_maple_25_grassflute_Blue
 I;판토족의 뿔;25;icon_item_pantohorn
 I;포쿠본 가죽;4;icon_item_Misc_00009
 I;포쿠부 가죽;8;icon_item_Misc_00011
+I;푸른 구슬 던전 주화;48;icon_item_annycoin_1
 I;푸른 누오의 뿔;2;icon_item_horn_nuo_blue
 I;푸른 누카 갑옷 파편;3;icon_item_armor_nuka_blue
 I;푸른 듀마로의 발톱;1;icon_item_claw_00Basic
@@ -315,6 +329,7 @@ I;허밍버드의 날개;1;icon_item_bugwing
 I;호그마 엄니;2;icon_item_tooth_white
 I;호그마 전투대장 송곳니;1;icon_item_tooth_00Basic
 I;회색 스타울리트 힘줄;6;icon_item_Leash
+I;탈트;90;30_item_ore_talt
 I;마석 조각;1;icon_item_gimmick_scaredcrystal
 I;귀환석;1;MercenaryBadge
 G;Quest

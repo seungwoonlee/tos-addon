@@ -24,13 +24,12 @@ I;케이스타스 수호의 포션;2;icon_item_Drug_exDEF1
 I;불완전한 루클리스 비약;3;icon_item_holywater_empty
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;케이스타스 회복포션Lv4;21;item_HPSP_potion_3
+I;케이스타스 회복포션Lv4;18;item_HPSP_potion_3
 I;아말라스;5;icon_item_Amalas
 I;정착 지원 포션;9;item_speed_requid_3
-I;농축 SP포션 LV15;5;icon_item_SP_Alche
-I;농축 HP포션 LV15;27;icon_item_HP_Alche
+I;농축 HP포션 LV15;35;icon_item_HP_Alche
+I;농축 SP포션 LV15;28;icon_item_SP_Alche
 I;보급용 워프 주문서;18;GolemMagicItem1
-I;LV14 경험치 카드;41;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
 G;SubWeapon
 I;버블스틱;1;icon_item_artefact_bublestick
@@ -47,6 +46,7 @@ I;무단출입금지 경고문;1;icon_item_paperpiece
 I;완성된 바키스의 연구 자료;1;icon_item_Spellbook_1
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;카듀멜 시대의 갑주;1;icon_item_collection_04Black
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-페디미안 레더 글로브;1;icon_item_gloves_misc1
 I;제작서-실버 탈리스만;1;icon_item_necklace_misc1
@@ -67,7 +67,6 @@ I;컬렉션: 에산치우 마을;1;icon_item_box
 I;컬렉션: 카듀멜 절벽;1;icon_item_box
 I;컬렉션: 여신의 옛뜰;1;icon_item_box
 G;Premium
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
@@ -78,7 +77,7 @@ I;모루;11;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;파이라이트;7;32_item_ore_pyrite
 I;크리오라이트;4;39_icon_item_Cry8rite
-I;인법용 폭약;300;icon_item_shinobibomb
+I;인법용 폭약;524;icon_item_shinobibomb
 I;주석;2;1_item_ore_copper
 I;호박;2;22_item_ore_amber
 I;미끈한 수액;1;icon_item_Drug_51021
@@ -93,7 +92,7 @@ I;호그마 엄니;9;icon_item_tooth_white
 I;마우로스의 핵;3;icon_item_core_yellow
 I;레푸스버니 털;11;icon_item_fur_05Gray
 I;톤투리아의 가시;10;icon_item_thorn_Yellow
-I;장작;14;icon_item_woodpiece
+I;장작;13;icon_item_woodpiece
 I;하나밍 꽃잎;93;icon_item_HanamingPetal
 I;인프로 락터의 껍질;1;icon_item_shell
 I;티피오의 꽃술;53;icon_item_tipiostamen
@@ -236,7 +235,10 @@ I;유리 조각;10;icon_item_pieceofglass
 I;미니번 가죽;10;icon_item_Misc_00007
 I;푸른 티니의 뿔;47;icon_item_horn_tiny_blue
 I;아르마의 뿔;2;icon_item_shorthorn
+I;로열 블레이드 파편;4;icon_item_misc_0529
+I;우르바스 증표;1;icon_item_borutakey
 I;귀환석;1;MercenaryBadge
+I;특성 포인트 100;3;icon_item_abilitypoint3
 G;Quest
 I;자카리엘 왕릉의 계시;1;icon_item_stonetablet
 I;순례자의 표식;30;neck_pilgrim_01
@@ -262,6 +264,7 @@ I;카포테;1;icon_capote
 I;카포테;1;icon_capote
 I;카포테;1;icon_capote
 G;Armor
+I;부베 뱅글;1;item_bracelet_16
 I;마타도르 벨비스트 코스튬;1;icon_item_warrior_matador02_f
 I;로그 코스튬;1;icon_item_rogue_f
 I;시노비 코스튬;1;icon_item_shinobi_f

@@ -36,6 +36,8 @@ I;보급용 워프 주문서;10;GolemMagicItem1
 I;블루 오브:붉은 케파;1;icon_item_Dreamshade
 I;블루 오브:아르마;1;icon_item_Dreamshade
 I;LV14 경험치 카드;5;icon_item_expcard
+I;어쌔신 리즈다스 피닉스 코스튬 상자;1;icon_item_jewelrybox
+I;아웃로 데스페라도 어타이어 코스튬 상자;1;icon_item_jewelrybox
 G;SubWeapon
 I;엄지척 암밴드;1;icon_item_armband_facebook
 G;Book
@@ -114,8 +116,6 @@ I;컬렉션: 티메리스 사원;1;icon_item_box
 I;컬렉션: 파수꾼의 묘역;1;icon_item_box
 I;컬렉션: 페디미안 외곽;1;icon_item_box
 G;Premium
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;소울 크리스탈;1;icon_item_soulCrystal
 I;워프 주문서;5;icon_item_warpPremium
 I;케도라 상단의 지원 선택상자 (40레벨 방어구);4;icon_item_event_armorbox1
 I;확성기;10;icon_item_Mike
