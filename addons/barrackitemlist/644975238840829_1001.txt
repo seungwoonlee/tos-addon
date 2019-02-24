@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;377197;icon_item_silver
+I;실버;393997;icon_item_silver
 G;Drug
 I;정착 지원 포션 Lv2;28;item_speed_requid_3
 I;포포리온 고기;10;icon_item_meat_02
@@ -28,6 +28,8 @@ I;LV9 경험치 카드;2;icon_item_expcard
 I;LV10 경험치 카드;3;icon_item_expcard
 I;LV5 경험치 카드;2;icon_item_expcard
 I;LV6 경험치 카드;4;icon_item_expcard
+G;Event
+I;클래스 변경권 Lv.1 (14일);10;icon_item_rankreset_paper_3
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 G;Recipe
@@ -133,7 +135,7 @@ I;묘지 골렘의 핵;1;icon_item_core_blue
 I;코도모르 가시;2;icon_item_thorn_blue
 I;나무 말뚝;3;icon_item_wood_3
 I;돌;3;icon_item_Misc_00004
-I;포탈 스톤;43;icon_item_portalstone
+I;포탈 스톤;40;icon_item_portalstone
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;수정광산의 계시;1;icon_item_stonetablet

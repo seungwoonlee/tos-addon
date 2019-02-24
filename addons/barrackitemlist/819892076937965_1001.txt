@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;492178;icon_item_silver
+I;실버;531378;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
@@ -453,7 +453,7 @@ I;판토족의 뿔;7;icon_item_pantohorn
 I;팔라팜 조각 Lv1;2;KQ_recipe_hethran_material_1_3
 I;페롯 줄기;4;icon_item_stem_brown
 I;포쿠부 가죽;8;icon_item_Misc_00011
-I;포탈 스톤;24;icon_item_portalstone
+I;포탈 스톤;17;icon_item_portalstone
 I;폴리부 잎;4;icon_item_leaves_red
 I;푸른 누오의 뿔;15;icon_item_horn_nuo_blue
 I;푸른 누카 갑옷 파편;4;icon_item_armor_nuka_blue

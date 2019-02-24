@@ -3,9 +3,11 @@ G;Unused
 I;실버;99999;icon_item_silver
 G;PasteBait
 I;작은 은빛 물고기;6;icon_item_fish4
+I;보급용 미끼;608;icon_item_Paste_Bait_basic
+I;[PC방] 화려한 지렁이;800;icon_item_Paste_Bait2_pc
 G;Drug
-I;HP 회복 소형 엘릭서 ;26;icon_item_HPelixir_Small
-I;SP 회복 소형 엘릭서 ;40;icon_item_SPelixir_Small
+I;HP 회복 소형 엘릭서 ;56;icon_item_HPelixir_Small
+I;SP 회복 소형 엘릭서 ;70;icon_item_SPelixir_Small
 I;[PC방] SP 회복 소형 엘릭서 ;3;icon_item_random_spellixerbox
 I;농축 HP포션 LV15;15;icon_item_HP_Alche
 I;농축 SP포션 LV15;22;icon_item_SP_Alche
@@ -85,6 +87,7 @@ I;확성기;39;icon_item_Mike
 G;Material
 I;모루;14;icon_item_anvil
 I;황금 모루;2;icon_item_anvil_gold
+I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;실드 차저;3;icon_item_ShieldCharge
 I;주석;4;1_item_ore_copper
 I;LV2 보물상자 열쇠;1;icon_item_key1

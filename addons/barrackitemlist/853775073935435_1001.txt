@@ -25,3 +25,6 @@ I;연습용 크리스 대거;1;icon_item_f_dagger_kreive
 I;연습용 피스톨;1;icon_item_chassepot_1
 G;Weapon
 I;오래된 글라디우스;1;icon_item_Sword_22
+I;프리머스 즈바이더 소드;1;icon_item_sword_nicopolis1
+I;페버디마스 소드;1;icon_item_pabudimas_sword
+I;(바랜)미간티스 소드;1;icon_item_miegantis_sword

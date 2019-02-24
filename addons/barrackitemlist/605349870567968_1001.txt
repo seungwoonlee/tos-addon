@@ -967,6 +967,13 @@ I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
 I;가이갈라스 카드;Lv1;icon_item_card_util
 I;게이징 골렘 카드;Lv10;icon_item_card_util
 I;게이징 골렘 카드;Lv10;icon_item_card_util
@@ -1073,8 +1080,9 @@ I;확성기;15;icon_item_Mike
 G;Material
 I;모루;12;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
+I;5성 젬 연마제:14일;1;icon_item_powderp
 I;빛나는 2성 젬 연마제;2;icon_item_powderp
-I;빛나는 3성 젬 연마제;32;icon_item_powderp
+I;빛나는 3성 젬 연마제;33;icon_item_powderp
 I;강화용 카드 : 100;54;monster_card
 I;마법 가루;281;icon_item_MagicPowder
 I;빈 스펠북;8;icon_item_emptySpellBook

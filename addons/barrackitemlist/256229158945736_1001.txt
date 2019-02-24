@@ -2,7 +2,6 @@ S;1001
 G;Unused
 I;실버;5771274;icon_item_silver
 G;Drug
-I;[이벤트] 달콤한 군고구마;2;icon_item_sweet_potato
 I;고농축 HP포션;198;item_HP_oil_3
 I;고농축 SP포션;200;item_SP_requid_3
 I;농축 HP포션 LV15;21;icon_item_HP_Alche
@@ -16,7 +15,6 @@ I;보급용 레드옥스;5;icon_item_Red_Ox
 I;보급용 이동속도 증가 포션;9;item_speed_requid_1
 I;보급용 작은 스태미나 알약;22;item_STA_pill_1
 I;아말라스;4;icon_item_Amalas
-I;달콤한 발렌타인 초콜릿;15;icon_item_chocolatebox
 I;정착 지원 포션;9;item_speed_requid_3
 I;정착 지원 포션 Lv2;30;item_speed_requid_3
 I;축복이 깃든 씨앗;1;icon_item_event161215_01
@@ -136,8 +134,11 @@ I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;소울 크리스탈;5;icon_item_soulCrystal
 I;워프 주문서;251;icon_item_warpPremium
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -268,7 +269,6 @@ I;레지네이트;1;16_item_treenite
 I;마이즈 포자 주머니;1;icon_item_maizespore
 I;말라두의 고기;10;icon_item_meat_02
 I;모야 파편;3;icon_item_shell_blue
-I;몬스터의 기운;27;icon_item_panto_core
 I;물푸레나무;1;icon_item_wood_2
 I;박쥐의 날개;6;icon_item_batwing
 I;밴시의 사념체;9;icon_item_spirit_orange

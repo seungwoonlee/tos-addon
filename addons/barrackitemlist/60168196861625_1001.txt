@@ -1,49 +1,8 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;99999;icon_item_silver
 G;Helmet
 I;송편 헬멧 코스튬;1;icon_item_helmet_songpyun
-G;Collection
-I;컬렉션: 곤충 혐오;1;icon_item_box
-I;컬렉션: 기원의 숲;1;icon_item_box
-I;컬렉션: 도심성벽 제 8구역;1;icon_item_box
-I;컬렉션: 라다르 숲;1;icon_item_box
-I;컬렉션: 레타스 개울가;1;icon_item_box
-I;컬렉션: 마법사의 탑 2층;1;icon_item_box
-I;컬렉션: 마법사의 탑 4층;1;icon_item_box
-I;컬렉션: 마법사의 탑 5층;1;icon_item_box
-I;컬렉션: 매너클 묘지;1;icon_item_box
-I;컬렉션: 몰로게오 숲;1;icon_item_box
-I;컬렉션: 벨라이 숲;1;icon_item_box
-I;컬렉션: 사크니스 벌판;1;icon_item_box
-I;컬렉션: 스팔빈가스 숲;1;icon_item_box
-I;컬렉션: 시르드겔라 숲;1;icon_item_box
-I;컬렉션: 실라 숲;1;icon_item_box
-I;컬렉션: 아르커스 숲;1;icon_item_box
-I;컬렉션: 알렘빅 동굴;1;icon_item_box
-I;컬렉션: 에메트 숲;1;icon_item_box
-I;컬렉션: 왕릉 노역자 숙소;1;icon_item_box
-I;컬렉션: 요나엘 기념구;1;icon_item_box
-I;컬렉션: 유데이안 숲;1;icon_item_box
-I;컬렉션: 지마 수코트;1;icon_item_box
-I;컬렉션: 지부리나스 숲;1;icon_item_box
-I;컬렉션: 초보자의 방어구;1;icon_item_box
-I;컬렉션: 쿨레 고개;1;icon_item_box
-I;컬렉션: 크란토 연안;1;icon_item_box
-I;컬렉션: 테넷 성당 지상 1층;1;icon_item_box
-I;컬렉션: 테넷 성당 지상 2층;1;icon_item_box
-I;컬렉션: 테브린 종유동 1구역;1;icon_item_box
-I;컬렉션: 테브린 종유동 2구역;1;icon_item_box
-I;컬렉션: 테브린 종유동 3구역;1;icon_item_box
-I;컬렉션: 테브린 종유동 4구역;1;icon_item_box
-I;컬렉션: 테브린 종유동 5구역;1;icon_item_box
-I;컬렉션: 티메리스 사원;1;icon_item_box
-I;컬렉션: 틸타스 협곡;1;icon_item_box
-I;컬렉션: 파마르 숲;1;icon_item_box
-I;컬렉션: 파수꾼의 묘역;1;icon_item_box
-I;컬렉션: 포슬린키스 숲;1;icon_item_box
-I;컬렉션: 피스티스 숲;1;icon_item_box
-I;컬렉션: 필그림 들길;1;icon_item_box
 G;SubWeapon
 I;잠자리 암밴드;1;icon_item_armband_dragonfly1
 G;Book
@@ -88,6 +47,47 @@ I;제작서-턴 팬츠;1;icon_item_pants_misc3
 I;제작서-페디미안 레더 글로브;3;icon_item_gloves_misc1
 I;제작서-페디미안 레더 부츠;1;icon_item_boots_misc1
 I;제작서-페디미안 레더 팬츠;2;icon_item_pants_misc1
+G;Collection
+I;컬렉션: 곤충 혐오;1;icon_item_box
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 도심성벽 제 8구역;1;icon_item_box
+I;컬렉션: 라다르 숲;1;icon_item_box
+I;컬렉션: 레타스 개울가;1;icon_item_box
+I;컬렉션: 마법사의 탑 2층;1;icon_item_box
+I;컬렉션: 마법사의 탑 4층;1;icon_item_box
+I;컬렉션: 마법사의 탑 5층;1;icon_item_box
+I;컬렉션: 매너클 묘지;1;icon_item_box
+I;컬렉션: 몰로게오 숲;1;icon_item_box
+I;컬렉션: 벨라이 숲;1;icon_item_box
+I;컬렉션: 사크니스 벌판;1;icon_item_box
+I;컬렉션: 스팔빈가스 숲;1;icon_item_box
+I;컬렉션: 시르드겔라 숲;1;icon_item_box
+I;컬렉션: 실라 숲;1;icon_item_box
+I;컬렉션: 아르커스 숲;1;icon_item_box
+I;컬렉션: 알렘빅 동굴;1;icon_item_box
+I;컬렉션: 에메트 숲;1;icon_item_box
+I;컬렉션: 왕릉 노역자 숙소;1;icon_item_box
+I;컬렉션: 요나엘 기념구;1;icon_item_box
+I;컬렉션: 유데이안 숲;1;icon_item_box
+I;컬렉션: 지마 수코트;1;icon_item_box
+I;컬렉션: 지부리나스 숲;1;icon_item_box
+I;컬렉션: 초보자의 방어구;1;icon_item_box
+I;컬렉션: 쿨레 고개;1;icon_item_box
+I;컬렉션: 크란토 연안;1;icon_item_box
+I;컬렉션: 테넷 성당 지상 1층;1;icon_item_box
+I;컬렉션: 테넷 성당 지상 2층;1;icon_item_box
+I;컬렉션: 테브린 종유동 1구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 2구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 3구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 4구역;1;icon_item_box
+I;컬렉션: 테브린 종유동 5구역;1;icon_item_box
+I;컬렉션: 티메리스 사원;1;icon_item_box
+I;컬렉션: 틸타스 협곡;1;icon_item_box
+I;컬렉션: 파마르 숲;1;icon_item_box
+I;컬렉션: 파수꾼의 묘역;1;icon_item_box
+I;컬렉션: 포슬린키스 숲;1;icon_item_box
+I;컬렉션: 피스티스 숲;1;icon_item_box
+I;컬렉션: 필그림 들길;1;icon_item_box
 G;Armor
 I;잠자는 표범;1;icon_item_sleeping_leopard
 I;딥디르비 코스튬;1;icon_item_dievdirbys_f
@@ -96,8 +96,6 @@ I;엑소시스트 소울 바인더 코스튬;1;icon_item_Exorcist02_f
 I;엑소시스트 코스튬;1;icon_item_Exorcist01_f
 I;무녀 코스튬;1;icon_item_miko_f
 I;진저브레드 실드;1;icon_item_winter_shield
-G;Event
-I;특별한 포획용 덫;1;icon_item_pilgrim_trap
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
@@ -130,10 +128,10 @@ I;레드 오브:분홍 츄파루카;1;icon_item_Dreamshade_red
 I;블루 오브:부베 주술사;1;icon_item_Dreamshade
 I;디스펠러;10;icon_item_grimoire_blue
 G;Premium
-I;소울 크리스탈;15;icon_item_soulCrystal
-I;워프 주문서;12;icon_item_warpPremium
+I;소울 크리스탈;20;icon_item_soulCrystal
+I;워프 주문서;20;icon_item_warpPremium
 I;워프 주문서 10개 상자;1;icon_item_warpPremium_bundle
-I;확성기;114;icon_item_Mike
+I;확성기;20;icon_item_Mike
 I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f
 I;검은 츄리닝;1;icon_item_sweat_suit_black_f
 I;아늑다정 북극여우 코스튬;1;icon_item_winter_fox_f
@@ -149,11 +147,11 @@ I;성직자의 수영복 코스튬(여);1;icon_item_Cleric_mizuki_f
 I;성직자의 스쿨룩 코스튬(여);1;icon_item_Cleric_school_f
 I;성직자의 앨리스 코스튬(여);1;icon_item_Cleric_alice_f
 I;성직자의 제복 코스튬(여);1;icon_item_Cleric_uniform_f
+I;성직자의 크리스마스 코스튬(여);1;icon_item_cleric_christmas_f
 I;나는네선물 산타 코스튬(여);1;icon_item_winter_santa_f
 I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
 I;초대에 응한 자 코스튬(여);1;icon_item_blacksuit01_f
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
-I;성직자의 크리스마스 코스튬(여);1;icon_item_cleric_christmas_f
 G;Material
 I;모루;8;icon_item_anvil
 I;괴황지;4336;icon_item_guehwangji

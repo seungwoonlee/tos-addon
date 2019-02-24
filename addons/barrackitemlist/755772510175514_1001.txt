@@ -130,24 +130,20 @@ I;컬렉션: 테넷 성당 지상 2층;1;icon_item_box
 I;컬렉션: 테넷 화원;1;icon_item_box
 I;컬렉션: 필그림 들길;1;icon_item_box
 G;Premium
-I;워프 주문서;15;icon_item_warpPremium
-I;확성기;15;icon_item_Mike
+I;워프 주문서;20;icon_item_warpPremium
+I;확성기;20;icon_item_Mike
 I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
 G;Material
 I;모루;13;icon_item_anvil
-I;축복받은 조각;7;icon_item_Gem_Elemental1
 I;종이 인형;4702;icon_item_paperdoll
 I;크리오라이트;1;39_icon_item_Cry8rite
 I;파이라이트;299;32_item_ore_pyrite
 I;주석;4;1_item_ore_copper
 I;호박;17;22_item_ore_amber
-I;피데슘;3;5_item_ore_fluorite
-I;토파즈;1;24_item_ore_topaz
-I;오팔;3;25_item_ore_opal
-I;사파이어;6;39_icon_item_Cry8rite
-I;미스릴 광석;7;13_item_mythril
-I;루비;4;26_item_ore_garnet
+I;피데슘;1;5_item_ore_fluorite
 I;프락토늄;2;icon_item_crystal_High
+I;토파즈;4;24_item_ore_topaz
+I;오팔;2;25_item_ore_opal
 I;LV2 보물상자 열쇠;3;icon_item_key1
 I;갈록 가죽;3;icon_item_Misc_00007
 I;갈색 라프세이프 잎;10;icon_item_leaves_lapasape_brown
@@ -180,7 +176,7 @@ I;말라두의 고기;24;icon_item_meat_02
 I;묘지 골렘의 핵;13;icon_item_core_blue
 I;물푸레나무;4;icon_item_wood_2
 I;미노스의 뼈;7;icon_item_bone
-I;이레디안 수정 조각;5;icon_item_iredian_misc02
+I;이레디안 수정 조각;9;icon_item_iredian_misc02
 I;바를거너의 대포 조각;1;icon_item_misc_0512
 I;바를스키퍼의 검신;4;icon_item_misc_0513
 I;바를헬름즈먼의 둔기 머리;12;icon_item_misc_0514
@@ -262,8 +258,9 @@ I;푸른 템플슬레이브의 두건;1;icon_item_hood_templeslave_blue
 I;하나밍 꽃잎;107;icon_item_HanamingPetal
 I;하밍 잎;1;icon_item_leaves_green
 I;허밍버드의 날개;3;icon_item_bugwing
-I;이레디안 브로치;4;icon_item_iredian_misc01
-I;로열 블레이드 파편;7;icon_item_misc_0529
+I;이레디안 브로치;6;icon_item_iredian_misc01
+I;로열 블레이드 파편;14;icon_item_misc_0529
+I;레이드 포탈 스톤;144;icon_item_dungeon_portalstone
 I;차원 탐색 스크롤;1;GolemMagicItem1
 I;귀환석;1;MercenaryBadge
 G;Quest

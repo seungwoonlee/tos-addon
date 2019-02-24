@@ -27,7 +27,6 @@ I;케이스타스 회복포션Lv4;3;item_HPSP_potion_3
 I;페디미안 워프 주문서;9;GolemMagicItem1
 I;포포리온 고기;16;icon_item_meat_02
 I;해독제;5;icon_item_Quest_00020
-I;포춘 쿠키;2;icon_item_Fortunecookie
 I;보급용 워프 주문서;22;GolemMagicItem1
 I;디스펠러;59;icon_item_grimoire_blue
 G;SubWeapon
@@ -54,9 +53,9 @@ I;컬렉션: 실라 숲;1;icon_item_box
 I;컬렉션: 지마 수코트;1;icon_item_box
 I;컬렉션: 큰아귀 길;1;icon_item_box
 G;Premium
-I;소울 크리스탈;14;icon_item_soulCrystal
-I;워프 주문서;13;icon_item_warpPremium
-I;확성기;15;icon_item_Mike
+I;소울 크리스탈;20;icon_item_soulCrystal
+I;워프 주문서;20;icon_item_warpPremium
+I;확성기;20;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 I;클레릭 스페셜 코스튬(여);1;icon_item_Cleric_cleric01_3_f
 G;Material
@@ -199,7 +198,6 @@ I;호헨 가죽;1;icon_item_Misc_00011
 I;우르바스 증표;1;icon_item_borutakey
 I;초록 우드고블린의 뿔;1;icon_item_horn_tiny_shine
 I;전환의 수정조각;1;icon_item_BlokenMirror
-I;몬스터의 기운;22;icon_item_panto_core
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01

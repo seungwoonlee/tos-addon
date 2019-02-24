@@ -141,10 +141,6 @@ I;컬렉션: 테브린 종유동 5구역;1;icon_item_box
 I;컬렉션: 티메리스 사원;1;icon_item_box
 I;컬렉션: 파마르 숲;1;icon_item_box
 I;컬렉션: 피스티스 숲;1;icon_item_box
-G;Armor
-I;도펠죌트너 코스튬;1;icon_item_doppelsoldner_f
-I;템플러 코스튬;1;icon_item_warrior_templar02_f
-I;하이랜더 코스튬;1;icon_item_highlander_f
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
@@ -403,5 +399,7 @@ I;펜듈럼;1;icon_item_pendulum
 I;향초;1;icon_item_candle
 I;허밀가의 붉은 수정;1;icon_item_Gem_Stone_STR
 I;휠렌의 증표;1;icon_item_Gem_Elemental17
-G;Event
-I;수행자의 포션;1;icon_item_offensive_potion
+G;Armor
+I;도펠죌트너 코스튬;1;icon_item_doppelsoldner_f
+I;템플러 코스튬;1;icon_item_warrior_templar02_f
+I;하이랜더 코스튬;1;icon_item_highlander_f
