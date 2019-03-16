@@ -15,6 +15,7 @@ I;LV4 경험치 카드;2;icon_item_expcard
 I;LV5 경험치 카드;2;icon_item_expcard
 I;LV9 경험치 카드;2;icon_item_expcard
 I;보급용 워프 주문서;10;GolemMagicItem1
+I;오마모리;40;icon_item_omarmori
 G;SubWeapon
 I;아르데 대거;1;icon_item_main-gauche
 I;알크리스;1;icon_item_pistol_orchid
@@ -22,25 +23,44 @@ G;Recipe
 I;제작서-아라스의 폴쳔;2;icon_item_weapon_misc3
 G;Cube
 I;[PC방] 성장 지원 상자;3;icon_item_box_pc_month
+G;Collection
+I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
 G;Armor
 I;베르타스 팽글 플레이트 그리브;1;icon_item_gladiuspangle_boots
 I;베르타스 팽글 플레이트 그리브;1;icon_item_gladiuspangle_boots
+I;팽글 플레이트 그리브;1;icon_item_gladiuspangle_boots
+I;(바랜)워메이지 부츠;1;icon_item_warmage_boots
+I;이브레 부츠;1;icon_item_boots_animalLeather
 I;베르타스 알프라 글로브;1;icon_item_alframerchant_gloves
 I;엘고스 글로브;1;icon_item_gloves_scholar
+I;이브레 글로브;1;icon_item_gloves_animalLeather
 I;팽글 플레이트 글로브;1;icon_item_gladiuspangle_gloves
+I;베르타스 크라이지어스 건틀릿;1;icon_item_gloves_kryzius
+I;(바랜)워메이지 글로브;1;icon_item_warmage_gloves
+I;포레스트 레더 글로브;1;icon_item_gloves_forest
 I;라이트 팬츠;1;icon_item_pants_bube
 I;이글스타 레더 팬츠;1;icon_item_eaglestar_pants
 I;팽글 플레이트 레깅스;1;icon_item_gladiuspangle_pants
+I;(바랜)워메이지 팬츠;1;icon_item_warmage_pants
+I;타이타나스 플레이트 팬츠;1;icon_item_pants_titanas
+I;크라이지어스 플레이트 팬츠;1;icon_item_pants_kryzius
+I;크라이지어스 플레이트 팬츠;1;icon_item_pants_kryzius
+I;베르타스 크라이지어스 플레이트 팬츠;1;icon_item_pants_kryzius
 I;베르타스 로들렌 실드;1;icon_item_shield_ishick
 I;알레멧 타워 실드;1;icon_item_shield_fedimiantower
 I;알레멧 타워 실드;1;icon_item_shield_fedimiantower
 I;카이트 실드;1;icon_item_Shield_9
+I;(바랜)로들렌 실드;1;icon_item_shield_ishick
 I;라이트 아머;1;icon_item_shirts_bube
 I;레더 아머;1;icon_item_shirts_bube_blue
 I;엘고스 로브;1;icon_item_shirts_scholar
 I;이글스타 레더 아머;1;icon_item_eaglestar_armor
 I;이글스타 레더 아머;1;icon_item_eaglestar_armor
+I;(바랜)워메이지 로브;1;icon_item_warmage_robe
+I;크라이지어스 플레이트 아머;1;icon_item_shirts_kryzius
 I;팽글 플레이트 아머;1;icon_item_gladiuspangle_armor
+I;베르타스 크라이지어스 플레이트 아머;1;icon_item_shirts_kryzius
+I;베르타스 제베넬리스 레더 아머;1;icon_item_leather_shirt_1
 I;노비스 네클리스;1;item_necklace_10
 I;매직 탈리스만;1;item_necklace_09
 I;부베 네클리스;1;item_necklace_18
@@ -62,8 +82,11 @@ I;케파 줄기;6;icon_item_stem_green
 I;플로르;2;icon_item_crystal_green
 I;하나밍 꽃잎;21;icon_item_HanamingPetal
 I;귀환석;1;MercenaryBadge
-G;Collection
-I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
+G;Premium
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Weapon
 I;크리지우스 슈터;1;icon_item_crossbow_diamond
 I;파이브 해머;1;mace_blacksmith

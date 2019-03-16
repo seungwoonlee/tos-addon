@@ -11,6 +11,7 @@ I;보급용 작은 HP포션;124;item_HP_oil_1
 I;보급용 작은 SP포션;126;item_SP_requid_1
 I;보급용 작은 스태미나 알약;23;item_STA_pill_1
 I;보급용 이동속도 증가 포션;3;item_speed_requid_1
+I;오마모리;40;icon_item_omarmori
 G;Material
 I;하나밍 꽃잎;4;icon_item_HanamingPetal
 I;인프로 락터의 껍질;2;icon_item_shell

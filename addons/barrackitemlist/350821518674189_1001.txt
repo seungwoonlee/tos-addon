@@ -238,7 +238,6 @@ I;아르마의 뿔;2;icon_item_shorthorn
 I;로열 블레이드 파편;4;icon_item_misc_0529
 I;우르바스 증표;1;icon_item_borutakey
 I;귀환석;1;MercenaryBadge
-I;특성 포인트 100;3;icon_item_abilitypoint3
 G;Quest
 I;자카리엘 왕릉의 계시;1;icon_item_stonetablet
 I;순례자의 표식;30;neck_pilgrim_01

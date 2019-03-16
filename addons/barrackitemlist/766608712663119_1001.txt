@@ -2,8 +2,8 @@ S;1001
 G;Unused
 I;실버;99999;icon_item_silver
 G;Drug
-I;HP 회복 소형 엘릭서 ;11;icon_item_HPelixir_Small
-I;SP 회복 소형 엘릭서 ;8;icon_item_SPelixir_Small
+I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
+I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;농축 HP포션 LV15;26;icon_item_HP_Alche
 I;농축 SP포션 LV15;11;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;20;item_speed_requid_1
@@ -44,8 +44,8 @@ I;컬렉션: 테브린 종유동 1구역;1;icon_item_box
 I;컬렉션: 파수꾼의 묘역;1;icon_item_box
 I;컬렉션: 지마 수코트;1;icon_item_box
 G;Premium
-I;워프 주문서;13;icon_item_warpPremium
-I;확성기;25;icon_item_Mike
+I;워프 주문서;20;icon_item_warpPremium
+I;확성기;20;icon_item_Mike
 I;확성기 50개 상자;1;icon_item_Mike_bundle
 G;Material
 I;모루;11;icon_item_anvil

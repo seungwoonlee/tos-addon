@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;3262079;icon_item_silver
+I;실버;4325591;icon_item_silver
 G;Drug
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;농축 HP포션 LV15;12;icon_item_HP_Alche
@@ -12,7 +12,7 @@ I;발래리요나스;1;icon_item_Valerijonas
 I;보급용 HP포션;99;item_HP_oil_2
 I;보급용 SP포션;99;item_SP_requid_2
 I;보급용 농축 HP포션 LV15;97;item_HP_oil_3
-I;보급용 농축 SP포션 LV15;78;item_SP_requid_3
+I;보급용 농축 SP포션 LV15;77;item_SP_requid_3
 I;보급용 작은 HP포션;125;item_HP_oil_1
 I;보급용 작은 SP포션;243;item_SP_requid_1
 I;보급용 작은 스태미나 알약;23;item_STA_pill_1
@@ -51,6 +51,7 @@ I;아르데 대거;1;icon_item_main-gauche
 I;핫팩;1;icon_item_hotpack
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-강화된 비스타 캐논;1;icon_item_weapon_misc3
 I;제작서-게일 슬래셔;1;icon_item_weapon_misc4
@@ -112,6 +113,10 @@ I;질럿 컨트리션 코스튬;1;icon_item_zealot2_f
 I;질럿 퍼티션 코스튬;1;icon_item_zealot4_f
 I;프리스트 코스튬;1;icon_item_prist_f
 G;Card
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
@@ -227,11 +232,13 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;확성기;202;icon_item_Mike
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 G;Material
-I;기슬로티스;82;icon_item_Gyslotis
-I;성수;282;icon_item_holywater
-I;홀리 파우더;83;icon_item_powderw
+I;기슬로티스;80;icon_item_Gyslotis
+I;성수;280;icon_item_holywater
+I;홀리 파우더;81;icon_item_powderw
 I;주석;1;1_item_ore_copper
 I;호박;3;22_item_ore_amber
 I;그루머 잎;2;icon_item_leaves_green
@@ -260,11 +267,12 @@ I;치넨시 잎;4;icon_item_bokchoyleaf
 I;케파 날개;1;icon_item_batwing
 I;케파 줄기;10;icon_item_stem_green
 I;코릴러스의 뿔;1;icon_item_pantohorn
-I;탈트;74;30_item_ore_talt
+I;탈트;16;30_item_ore_talt
 I;포쿠부 가죽;3;icon_item_Misc_00011
 I;플로르;1;icon_item_crystal_green
 I;허밍버드의 날개;1;icon_item_bugwing
 I;호그마 전투대장 송곳니;1;icon_item_tooth_00Basic
+I;우르바스 증표;1;icon_item_borutakey
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;고원 사탕무;1;icon_item_beet

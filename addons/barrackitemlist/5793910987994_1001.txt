@@ -113,10 +113,10 @@ I;소울 크리스탈;19;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;워프 주문서;19;icon_item_warpPremium
 I;워프 주문서 10개 상자;1;icon_item_warpPremium_bundle
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
-I;인스턴스 던전 배수 토큰;7;icon_item_indunexmode
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
+I;인스턴스 던전 배수 토큰;17;icon_item_indunexmode
 I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -191,6 +191,12 @@ I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
 I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
 I;파스텔 그린 염색약;1;haircolor_green
 I;확성기;48;icon_item_Mike
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 G;Armor
 I;베르타스 크라이지어스 그리브;1;icon_item_boots_kryzius
 I;크라이지어스 건틀릿;1;icon_item_gloves_kryzius

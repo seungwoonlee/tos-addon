@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;306194;icon_item_silver
+I;실버;99999;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
@@ -38,13 +38,10 @@ I;보급용 작은 SP포션;100;item_SP_requid_1
 I;보급용 HP포션;100;item_HP_oil_2
 I;보급용 큰 HP포션;100;item_HP_oil_3
 I;보급용 큰 SP포션;100;item_SP_requid_3
-I;딜겔레;1;icon_item_Dilgele
-I;LV14 경험치 카드;49;icon_item_expcard
 I;레드 오브:검은 드레이크;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;13;GolemMagicItem1
 I;블루 오브:유코푸스;1;icon_item_Dreamshade
-I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
-I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
+I;레드 오브:붉은 위저드 주술 인형;1;icon_item_Dreamshade_red
 I;디스펠러;10;icon_item_grimoire_blue
 G;Book
 I;순례자의 쪽지;1;icon_item_Paper1
@@ -89,7 +86,8 @@ I;딥디르비 스페셜 코스튬(여);1;icon_item_Cleric_dievdirbys01_3_f
 I;성직자용 심플 컬러 코스튬(여);1;cleric_simplecolor_f
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Armor
-I;베르타스 플라네타 부츠;1;icon_item_baronwear_boots
+I;바스티클 그리브;1;icon_item_iorn_boots_1
+I;바스티클 그리브;1;icon_item_iorn_boots_1
 I;아그니 네클리스;1;item_necklace_21
 I;나뭇잎 장식 투구;1;accessory_leafhelm
 I;딥디르비 코스튬;1;icon_item_dievdirbys_f
@@ -98,7 +96,10 @@ I;질럿 컨트리션 코스튬;1;icon_item_zealot2_f
 I;질럿 퍼티션 코스튬;1;icon_item_zealot4_f
 G;Material
 I;모루;9;icon_item_anvil
-I;조각용 나무;1490;icon_item_wood_5
+I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
+I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
+I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
+I;조각용 나무;929;icon_item_wood_5
 I;크리오라이트;3;39_icon_item_Cry8rite
 I;파이라이트;2;32_item_ore_pyrite
 I;주석;4;1_item_ore_copper
@@ -158,7 +159,6 @@ I;메슘의 줄기;6;icon_item_stem_brown
 I;멘티우드의 껍질;2;icon_item_shell_purple
 I;멜라타눈 심장;3;item_icon_heart_yellow
 I;묘지 골렘의 핵;3;icon_item_core_blue
-I;미듀쟈 촉수;1;icon_item_tentaclel
 I;바브 더듬이;1;icon_item_feeler_black
 I;바퀴;1;icon_item_wheel
 I;박쥐 이빨;2;icon_item_tooth_white
@@ -260,9 +260,12 @@ I;허밍버드의 날개;1;icon_item_bugwing
 I;호그마 엄니;1;icon_item_tooth_white
 I;호글란 부리;1;icon_item_small_bag
 I;호헨 가죽;1;icon_item_Misc_00011
-I;우르바스 증표;1;icon_item_borutakey
-I;로열 블레이드 파편;1;icon_item_misc_0529
+I;우르바스 증표;4;icon_item_borutakey
+I;소나무;2;icon_item_wood_3
+I;붉은 슬라임의 핵;1;38_item_ore_mercury
+I;붉은 위저드 주술 인형의 핵;1;38_item_ore_mercury
 I;귀환석;1;MercenaryBadge
+I;특성 포인트 100;2;icon_item_abilitypoint3
 G;Quest
 I;가시숲의 계시;1;icon_item_stonetablet
 I;공간의 문장;1;icon_item_void_01
@@ -278,7 +281,6 @@ I;레타스 개울가에서 주운 편지;1;icon_item_paper
 I;루클리스 부대 인장;1;icon_item_Gem_Elemental17
 I;마력 감지 나침반;1;icon_item_compass
 I;마력 추적지도 : 테브린 종유동 1구역;1;GolemMagicItem1
-I;먼지묻은 유적지 파편;12;icon_item_stonepiece_01Yellow
 I;단단한 나뭇조각;6;icon_item_wood_1
 I;수정광산의 계시;1;icon_item_stonetablet
 I;순례자의 표식;31;neck_pilgrim_01
@@ -296,3 +298,4 @@ I;하우벅 봉인조각;1;icon_item_Bezoari
 I;분홍 츄파루카의 심장;9;item_icon_heart_yellow
 G;Weapon
 I;베르타스 즈바이더 로드;1;icon_item_rod_nicopolis1
+I;라파이 파이크;1;icon_item_spear_twohand_lapai

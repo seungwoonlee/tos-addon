@@ -29,31 +29,11 @@ I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;농축 HP포션 LV15;17;icon_item_HP_Alche
 I;루팅 찬스 증가 포션;1;icon_item_looting_potion_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
 I;농축 SP포션 LV15;2;icon_item_SP_Alche
 I;보급용 큰 SP포션;99;item_SP_requid_3
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
 I;블루 오브:코릴러스;1;icon_item_Dreamshade
 I;보급용 워프 주문서;25;GolemMagicItem1
 I;블루 오브:갈색 테라임프;2;icon_item_Dreamshade
-I;LV14 경험치 카드;38;icon_item_expcard
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
 I;디스펠러;10;icon_item_grimoire_blue
 G;SubWeapon
 I;(바랜)파저리타스 대거;1;icon_item_dagger_scout
@@ -87,6 +67,10 @@ I;컬렉션: 긴다리 계곡;1;icon_item_box
 G;Premium
 I;소울 크리스탈;20;icon_item_soulCrystal
 I;워프 주문서;20;icon_item_warpPremium
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;확성기;20;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Armor

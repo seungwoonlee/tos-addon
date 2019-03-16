@@ -181,8 +181,6 @@ I;부베 독 견본;15;icon_item_Drug_exDEF1
 I;과거의 기억을 기록하는 보주;1;icon_item_Dreamshade
 I;조잡한 탐사막대;1;icon_item_Lrod
 G;Armor
-I;케파 인형;1;hairacc_48_cepadoll
-I;파인애플;1;hairacc_75_pineapple
 I;불릿 마커 휠러 코스튬;1;icon_item_bulletmarker03_f
 I;불릿 마커 코스튬;1;icon_item_bulletmarker_f
 I;불릿 마커 매처 코스튬;1;icon_item_bulletmarker02_f

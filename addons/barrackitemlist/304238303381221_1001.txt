@@ -1,80 +1,6 @@
 S;1001
-G;Unused
-I;실버;146720;icon_item_silver
-G;Armor
-I;베르타스 제베넬리스 레더 부츠;1;icon_item_leather_boots_1
-I;브리간딘 부츠;1;icon_item_boots_brigan
-I;베르타스 제베넬리스 레더 글로브;1;icon_item_leather_glove_1
-I;베르타스 제베넬리스 레더 팬츠;1;icon_item_leather_pants_1
-I;베르타스 제베넬리스 레더 아머;1;icon_item_leather_shirt_1
-I;알프라 로브;1;icon_item_alframerchant_armor
-I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
-I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
-I;크란토 브레이슬릿;1;item_bracelet_17
-I;밥그릇;1;icon_item_ricebowl
-I;붉은빛 플라워 헤어밴드;1;icon_item_redflowerband
-I;아보카도 롤;1;icon_item_sushi10
-I;케파 인형;1;hairacc_48_cepadoll
-I;태양;1;icon_item_sun_acc
-I;큰 흰꽃 머리장식;1;hairacc_hat071
-I;탐험가용 큰 붉은꽃 머리장식;1;hairacc_hat072
-I;레인저 코스튬;1;icon_item_ranger_f
-I;응사 코스튬;1;icon_item_falconer_f
-G;Collection
-I;컬렉션: 기원의 숲;1;icon_item_box
-I;컬렉션: 지마 수코트;1;icon_item_box
 G;Helmet
 I;쑥송편 헬멧 코스튬;1;icon_item_helmet_songpyun2
-G;Drug
-I;리사이클 메달;122;icon_item_recyclemedal
-I;SP 회복 소형 엘릭서 ;1;icon_item_SPelixir_Small
-I;[PC방] HP 회복 소형 엘릭서 ;13;icon_item_random_hpellixerbox
-I;고농축 HP포션;169;item_HP_oil_3
-I;고농축 SP포션;142;item_SP_requid_3
-I;고농축 이동속도 증가 포션;20;item_speed_requid_1
-I;농축 HP포션 LV15;39;icon_item_HP_Alche
-I;농축 SP포션 LV15;49;icon_item_SP_Alche
-I;농축 이동속도 향상의 포션;80;item_speed_requid_1
-I;레드옥스;6;icon_item_Red_Ox
-I;루팅 찬스 증가 포션;9;icon_item_looting_potion_01
-I;바루날레샤;1;icon_item_Varnalesa
-I;보급용 SP포션;30;item_SP_requid_2
-I;보급용 농축 HP포션 LV15;417;item_HP_oil_3
-I;보급용 농축 SP포션 LV15;300;item_SP_requid_3
-I;보급용 이동속도 증가 포션;3;item_speed_requid_1
-I;보급용 작은 스태미나 알약;22;item_STA_pill_1
-I;보급용 작은 회복포션;3;item_HPSP_potion_1
-I;붉은 케파 조각;3;OnionPiece_Red
-I;아말라스;9;icon_item_Amalas
-I;오르샤 워프 주문서;13;GolemMagicItem1
-I;정착 지원 포션;10;item_speed_requid_3
-I;정착 지원 포션 Lv2;115;item_speed_requid_3
-I;케이스타스 수호의 포션;1;icon_item_Drug_exDEF1
-I;케이스타스 용맹의 포션;3;icon_item_Drug_exATK1
-I;케이스타스 회복포션Lv4;5;item_HPSP_potion_3
-I;클라페다 워프 주문서;10;GolemMagicItem1
-I;포포리온 고기;8;icon_item_meat_02
-I;폭죽;35;icon_item_firework
-I;할로윈 폭죽;1;icon_item_firework
-I;해독제;7;icon_item_Quest_00020
-I;보급용 워프 주문서;16;GolemMagicItem1
-I;블루 오브:뇌옥투사;1;icon_item_Dreamshade
-I;다과 세트;1;icon_item_artefact_Tea_Set
-I;예식용 칼;1;icon_item_artefact_Decorative_knife
-I;푸드 커버;1;icon_item_artefact_Dome_Cover
-G;SubWeapon
-I;눈꽃 스프레이;1;icon_item_snowflower
-I;핫팩;1;icon_item_hotpack
-G;Event
-I;특성 포인트 1,000;7;icon_item_abilitypoint
-I;특성 포인트 10,000;10;icon_item_abilitypoint4
-I;특성 포인트 100;2;icon_item_abilitypoint3
-I;강화 실버 할인 쿠폰 : 10만 실버;10;icon_item_reinforce_100000coupon
-I;연하장;1;icon_item_event_invitation2
-G;Book
-I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
-I;찢어진 일기의 일부 1;1;icon_item_paperpiece
-I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-게일 슬래셔;5;icon_item_weapon_misc4
 I;제작서-겔티 알슈피스;4;icon_item_weapon_misc1
@@ -117,18 +43,8 @@ I;제작서-x4 경험의 서;1;icon_item_recipe_misc1
 I;제작서-x8 경험의 서;12;icon_item_recipe_misc1
 I;제작서-여신의 축복석;5;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(캐논);2;icon_item_recipe_misc1
-G;FishingRod
-I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
-G;Gem
-I;레드 젬;Lv6;item_icon_circle150
-I;레드 젬;Lv5;item_icon_circle150
-I;레드 젬;Lv2;item_icon_circle150
-I;레드 젬;Lv2;item_icon_circle150
-I;레드 젬;Lv2;item_icon_circle150
-G;Card
-I;페릿머로더 카드;Lv1;icon_item_card_util
-I;페릿머로더 카드;Lv1;icon_item_card_util
 G;Premium
+I;[이벤트]전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
 I;긴급 수리 키트;28;icon_item_repairkit
 I;소울 크리스탈;330;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
@@ -138,8 +54,9 @@ I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스탯 초기화 포션;3;icon_item_statReset
 I;워프 주문서;297;icon_item_warpPremium
-I;워프 주문서 10개 상자;9;icon_item_warpPremium_bundle
+I;워프 주문서 10개 상자;10;icon_item_warpPremium_bundle
 I;윈터펭 알;1;icon_item_egg_winterpeng
+I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -155,13 +72,17 @@ I;특성 포인트 상자 A급;1;icon_item_Ability_coupon_box_A
 I;특성 포인트 상자 B급;1;icon_item_Ability_coupon_box_B
 I;특성 포인트 상자 B급;1;icon_item_Ability_coupon_box_B
 I;특성 포인트 상자 S급;1;icon_item_Ability_coupon_box_S
-I;확성기;233;icon_item_Mike
+I;확성기;238;icon_item_Mike
 I;확성기 10개 상자;1;icon_item_Mike_bundle
 I;확성기 50개 상자;3;icon_item_Mike_bundle
-I;[이벤트]신비한 돋보기;1;icon_item_magnifier_blue
+I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
+I;[이벤트]신비한 돋보기;2;icon_item_magnifier_blue
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
-I;강화용 카드 : 100;1;monster_card
+I;황금 모루(14일);1;icon_item_anvil_gold
 I;마력 흡수침;1;icon_item_spellneedle
 I;매직 애로우;176;icon_item_magicarrow
 I;바브드 애로우;18;item_icon_arrow_barbedhead
@@ -207,7 +128,7 @@ I;미끈한 수액;1;icon_item_Drug_51021
 I;미듀쟈 촉수;2;icon_item_tentaclel
 I;밀납;1;icon_item_wax
 I;바브 더듬이;1;icon_item_feeler_black
-I;바이보라의 날개 주화;20;icon_item_wingcoin
+I;바이보라의 날개 주화;30;icon_item_wingcoin
 I;박쥐 이빨;4;icon_item_tooth_white
 I;박쥐의 날개;21;icon_item_batwing
 I;밴시의 사념체;3;icon_item_spirit_orange
@@ -291,6 +212,8 @@ I;호그마 엄니;4;icon_item_tooth_white
 I;호그마 전투대장 송곳니;1;icon_item_tooth_00Basic
 I;호헨 가죽;2;icon_item_Misc_00011
 I;화약;5;icon_item_powderbl
+I;주황 그루머 날개;1;icon_item_batwing
+I;노란 리프넛 날개;2;icon_item_batwing
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;고원 사탕무;1;icon_item_beet
@@ -311,5 +234,121 @@ I;작은 오르골;1;icon_item_musicbox
 I;파괴된 결계의 조각;1;icon_item_pieceofglass
 I;파괴용 주술인형 소환서;1;GolemMagicItem1
 I;흩어진 기록지;15;GolemMagicItem1
+G;Unused
+I;실버;289130;icon_item_silver
+G;PasteBait
+I;작은 은빛 물고기;8;icon_item_fish4
+I;[이벤트]요하가 기른 미꾸라지;479;icon_item_event1902_bait
+G;Drug
+I;리사이클 메달;122;icon_item_recyclemedal
+I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
+I;SP 회복 소형 엘릭서 ;1;icon_item_SPelixir_Small
+I;[PC방] HP 회복 소형 엘릭서 ;13;icon_item_random_hpellixerbox
+I;고농축 HP포션;169;item_HP_oil_3
+I;고농축 SP포션;142;item_SP_requid_3
+I;고농축 이동속도 증가 포션;20;item_speed_requid_1
+I;농축 HP포션 LV15;38;icon_item_HP_Alche
+I;농축 SP포션 LV15;45;icon_item_SP_Alche
+I;농축 이동속도 향상의 포션;80;item_speed_requid_1
+I;레드옥스;6;icon_item_Red_Ox
+I;루팅 찬스 증가 포션;9;icon_item_looting_potion_01
+I;바루날레샤;1;icon_item_Varnalesa
+I;보급용 SP포션;30;item_SP_requid_2
+I;보급용 농축 HP포션 LV15;416;item_HP_oil_3
+I;보급용 농축 SP포션 LV15;298;item_SP_requid_3
+I;보급용 이동속도 증가 포션;3;item_speed_requid_1
+I;보급용 작은 스태미나 알약;22;item_STA_pill_1
+I;보급용 작은 회복포션;3;item_HPSP_potion_1
+I;붉은 케파 조각;3;OnionPiece_Red
+I;아말라스;9;icon_item_Amalas
+I;오르샤 워프 주문서;13;GolemMagicItem1
+I;정착 지원 포션;10;item_speed_requid_3
+I;정착 지원 포션 Lv2;115;item_speed_requid_3
+I;케이스타스 수호의 포션;1;icon_item_Drug_exDEF1
+I;케이스타스 용맹의 포션;3;icon_item_Drug_exATK1
+I;케이스타스 회복포션Lv4;5;item_HPSP_potion_3
+I;클라페다 워프 주문서;10;GolemMagicItem1
+I;포포리온 고기;8;icon_item_meat_02
+I;폭죽;35;icon_item_firework
+I;할로윈 폭죽;1;icon_item_firework
+I;해독제;7;icon_item_Quest_00020
+I;은빛 물고기;10;icon_item_fish2
+I;[이벤트]보급형 떡밥(1일);1;icon_item_Spread_Bait_basic
+I;[이벤트]낚시 모닥불(1일);1;icon_item_Fishing_Fire_basic
+I;보급용 워프 주문서;16;GolemMagicItem1
+I;블루 오브:뇌옥투사;1;icon_item_Dreamshade
+I;[이벤트]보급형 떡밥(1일);1;icon_item_Spread_Bait_basic
+I;LV15 경험치 카드;9;icon_item_expcard
+I;다과 세트;1;icon_item_artefact_Tea_Set
+I;예식용 칼;1;icon_item_artefact_Decorative_knife
+I;푸드 커버;1;icon_item_artefact_Dome_Cover
+I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
+I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
+I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
+G;Event
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 10,000;10;icon_item_abilitypoint4
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 1000 (14일);1;icon_item_abilitypoint
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+I;강화 실버 할인 쿠폰 : 10만 실버;10;icon_item_reinforce_100000coupon
+I;연하장;1;icon_item_event_invitation2
+G;Book
+I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
+I;찢어진 일기의 일부 1;1;icon_item_paperpiece
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
+G;FishingRod
+I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
+G;Gem
+I;레드 젬;Lv6;item_icon_circle150
+I;레드 젬;Lv6;item_icon_circle150
+I;레드 젬;Lv2;item_icon_circle150
+I;레드 젬;Lv5;item_icon_circle150
+I;레드 젬;Lv2;item_icon_circle150
+G;Card
+I;파야우타 카드;Lv7;icon_item_card_stat
+I;페릿머로더 카드;Lv1;icon_item_card_util
+I;페릿머로더 카드;Lv1;icon_item_card_util
+G;Collection
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 지마 수코트;1;icon_item_box
+G;Armor
+I;베르타스 제베넬리스 레더 부츠;1;icon_item_leather_boots_1
+I;브리간딘 부츠;1;icon_item_boots_brigan
+I;베르타스 제베넬리스 레더 글로브;1;icon_item_leather_glove_1
+I;베르타스 제베넬리스 레더 팬츠;1;icon_item_leather_pants_1
+I;베르타스 제베넬리스 레더 아머;1;icon_item_leather_shirt_1
+I;알프라 로브;1;icon_item_alframerchant_armor
+I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
+I;화이트데이 목걸이 (마법)(14일);1;item_NECK99_110
+I;스트랭스 팬던트;1;item_necklace_08
+I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
+I;크란토 브레이슬릿;1;item_bracelet_17
+I;화이트데이 팔찌 (마법)(14일);1;item_BRC99_114
+I;크리스탈 뱅글;1;item_bracelet_15
+I;화이트데이 팔찌 (마법)(14일);1;item_BRC99_114
+I;크리스탈 뱅글;1;item_bracelet_15
+I;밥그릇;1;icon_item_ricebowl
+I;붉은빛 플라워 헤어밴드;1;icon_item_redflowerband
+I;아보카도 롤;1;icon_item_sushi10
+I;케파 인형;1;hairacc_48_cepadoll
+I;태양;1;icon_item_sun_acc
+I;하트 사탕;1;icon_item_heartNut
+I;탐험가용 큰 붉은꽃 머리장식;1;hairacc_hat072
+I;레인저 코스튬;1;icon_item_ranger_f
+I;응사 코스튬;1;icon_item_falconer_f
+G;SubWeapon
+I;눈꽃 스프레이;1;icon_item_snowflower
+I;핫팩;1;icon_item_hotpack
 G;Weapon
 I;[결속] 베르타스 라파이 보우;1;icon_item_bow_lapai

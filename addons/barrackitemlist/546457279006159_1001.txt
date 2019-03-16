@@ -4,8 +4,8 @@ I;실버;99999;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;농축 HP포션 LV15;22;icon_item_HP_Alche
-I;농축 SP포션 LV15;4;icon_item_SP_Alche
+I;농축 HP포션 LV15;20;icon_item_HP_Alche
+I;농축 SP포션 LV15;37;icon_item_SP_Alche
 I;바루날레샤;1;icon_item_Varnalesa
 I;발래리요나스;2;icon_item_Valerijonas
 I;보급용 이동속도 증가 포션;3;item_speed_requid_1
@@ -22,17 +22,15 @@ I;케이스타스 회복포션Lv4;48;item_HPSP_potion_3
 I;클라페다 워프 주문서;8;GolemMagicItem1
 I;페디미안 워프 주문서;10;GolemMagicItem1
 I;포포리온 고기;11;icon_item_meat_02
-I;보급용 HP포션;100;item_HP_oil_2
-I;보급용 SP포션;100;item_SP_requid_2
+I;보급용 HP포션;99;item_HP_oil_2
+I;보급용 SP포션;99;item_SP_requid_2
 I;보급용 큰 HP포션;100;item_HP_oil_3
 I;보급용 큰 SP포션;100;item_SP_requid_3
-I;LV14 경험치 카드;33;icon_item_expcard
 I;레드 오브:리자드맨;1;icon_item_Dreamshade_red
-I;보급용 워프 주문서;23;GolemMagicItem1
+I;보급용 워프 주문서;22;GolemMagicItem1
 I;은빛 물고기;20;icon_item_fish2
 I;신부 비둘기 오르골;1;icon_item_MusicBox_Wedding02
 G;SubWeapon
-I;(바랜)스몰 크리스타라스;1;icon_item_dagger_cristal
 I;디오니스 암밴드;1;icon_item_armband_dinios
 I;잠자리 암밴드;1;icon_item_armband_dragonfly1
 G;Book
@@ -46,6 +44,12 @@ I;찢어진 일기의 일부 1;1;icon_item_paperpiece
 I;찢어진 일기의 일부 2;1;icon_item_paperpiece
 I;찢어진 일기의 일부 3;1;icon_item_paperpiece
 I;찢어진 일기의 일부 4;1;icon_item_paperpiece
+I;카듀멜 시대의 갑주;1;icon_item_collection_04Black
+I;아트만의 확장;1;icon_item_collection_03Blue
+G;Recipe
+I;제작서-캐타펄트;1;icon_item_weapon_misc1
+I;제작서-일룬;2;icon_item_weapon_misc1
+I;제작서-모플라;1;icon_item_weapon_misc1
 G;FishingRod
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 G;Collection
@@ -90,23 +94,23 @@ I;컬렉션: 테넷 성당 지하 1층;1;icon_item_box
 I;컬렉션: 테넷 화원;1;icon_item_box
 I;컬렉션: 티메리스 사원;1;icon_item_box
 I;컬렉션: 필그림 들길;1;icon_item_box
-G;Armor
-I;프리머스 바스티클 그리브;1;icon_item_iorn_boots_1
-I;프리머스 바스티클 건틀릿;1;icon_item_iorn_glove_1
-I;프리머스 바스티클 플레이트 팬츠;1;icon_item_iorn_pants_1
-I;프리머스 바스티클 플레이트 아머;1;icon_item_iorn_shirt_1
-I;질럿 컨트리션 코스튬;1;icon_item_zealot2_f
-I;크리비 코스튬;1;icon_item_kribi_f
-I;드루이드 코스튬;1;icon_item_druid_f
-I;질럿 코스튬;1;icon_item_zealot1_f
+I;컬렉션: 지마 수코트;1;icon_item_box
+G;Premium
+I;소울 크리스탈;20;icon_item_soulCrystal
+I;워프 주문서;20;icon_item_warpPremium
+I;확성기;20;icon_item_Mike
+I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
 I;모루;8;icon_item_anvil
 I;연습용 모루;1;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
+I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
+I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;파이라이트;5;32_item_ore_pyrite
 I;홀리 파우더;500;icon_item_powderw
+I;고문도구;939;icon_item_torturing_tool
 I;주석;2;1_item_ore_copper
 I;호박;4;22_item_ore_amber
 I;LV2 보물상자 열쇠;2;icon_item_key1
@@ -119,7 +123,7 @@ I;그루머 잎;4;icon_item_leaves_green
 I;그리바 갓;6;icon_item_mushroomcap
 I;그리바 줄기;1;icon_item_stem_yellow
 I;그리바루 방울;3;icon_item_crystal_yellow
-I;글리자돈의 뼈;4;icon_item_bone
+I;글리자돈의 뼈;5;icon_item_bone
 I;글리프링 파편;3;icon_item_Misc_00006
 I;나무 말뚝;10;icon_item_wood_3
 I;낚시대;1;icon_item_fishingrod
@@ -190,7 +194,7 @@ I;얼타눈의 뼈;1;icon_item_bone
 I;에큐바이트 더듬이;3;icon_item_feeler_purple
 I;에큐바이트 이빨;3;icon_item_tooth_blue
 I;에하드의 핵;1;icon_item_core_yellow
-I;요노움의 핵;6;icon_item_core_purple
+I;요노움의 핵;8;icon_item_core_purple
 I;우펜트의 껍질;2;icon_item_Misc_00015
 I;웬디고 이빨;5;icon_item_tooth_white
 I;위버 더듬이;10;icon_item_feeler_black
@@ -203,7 +207,7 @@ I;인프로 버크의 껍질;1;icon_item_shell_red
 I;인프로 블러드 줄기;4;icon_item_stem_gray
 I;잎방개의 껍질;2;icon_item_shell_green
 I;작은 마족의 뿔;16;icon_item_pantohorn
-I;장작;22;icon_item_woodpiece
+I;장작;21;icon_item_woodpiece
 I;제페토의 줄기;2;icon_item_stem_brown
 I;족쇄;2;icon_item_legiron
 I;주술인형의 핵;3;icon_item_core_red
@@ -225,7 +229,7 @@ I;케포 껍질;1;icon_item_onionpiece
 I;코도모르 가시;11;icon_item_thorn_blue
 I;크로마독 뼈;4;icon_item_bone
 I;타마 잎;1;icon_item_leaves_red
-I;톤투리아의 가시;3;icon_item_thorn_Yellow
+I;톤투리아의 가시;7;icon_item_thorn_Yellow
 I;트리굴 줄기;1;icon_item_stem_brown
 I;트리펠리의 결정;2;icon_item_crystal_yellow
 I;티켄의 뼈;2;icon_item_bone
@@ -252,7 +256,12 @@ I;호글란 부리;1;icon_item_small_bag
 I;호헨 가죽;4;icon_item_Misc_00011
 I;회색 날개 개구리의 뼈;2;icon_item_bone
 I;회색 스타울리트 힘줄;1;icon_item_Leash
-I;우르바스 증표;1;icon_item_borutakey
+I;우르바스 증표;2;icon_item_borutakey
+I;물푸레나무;6;icon_item_wood_2
+I;소나무;4;icon_item_wood_3
+I;노란 파이란 날개;1;icon_item_batwing
+I;붉은 슬라임의 핵;2;38_item_ore_mercury
+I;붉은 위저드 주술 인형의 핵;1;38_item_ore_mercury
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01
@@ -262,7 +271,6 @@ I;락터의 돌다리;18;icon_item_Misc_00004
 I;루클리스 시대의 기록;4;icon_item_stonepaper_01
 I;마력이 농축된 뿔;1;icon_item_claw_hohen
 I;마른 다다니아 잎사귀;1;icon_item_leaf
-I;보주 결정;7;icon_item_EvilEnergy_Powder
 I;상인의 마력 탐지기;1;icon_item_compass
 I;수정광산의 계시;1;icon_item_stonetablet
 I;순례자의 표식;30;neck_pilgrim_01
@@ -277,8 +285,13 @@ I;틈게의 껍질조각;8;icon_item_scales
 I;펜듈럼;1;icon_item_pendulum
 I;푸른 라프세이프의 이끼;8;icon_item_coral_moss
 I;푸른 산호;5;icon_item_coral2
-G;Premium
-I;소울 크리스탈;15;icon_item_soulCrystal
-I;워프 주문서;15;icon_item_warpPremium
-I;확성기;15;icon_item_Mike
-I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
+I;과거의 기억을 기록하는 보주;1;icon_item_Dreamshade
+I;조잡한 탐사막대;1;icon_item_Lrod
+G;Armor
+I;베아카라스 브레이슬릿;1;item_bracelet_01
+I;아이스쿠스 브레이슬릿;1;item_icon_petocranto
+I;아이스쿠스 브레이슬릿;1;item_icon_petocranto
+I;질럿 컨트리션 코스튬;1;icon_item_zealot2_f
+I;팔라딘 코스튬;1;icon_item_paladin_f
+I;인퀴지터 코스튬;1;icon_item_inquisitor_f
+I;질럿 코스튬;1;icon_item_zealot1_f

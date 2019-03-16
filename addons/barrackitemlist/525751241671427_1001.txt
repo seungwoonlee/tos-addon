@@ -197,7 +197,7 @@ I;호그마 전투대장 송곳니;1;icon_item_tooth_00Basic
 I;호헨 가죽;1;icon_item_Misc_00011
 I;우르바스 증표;1;icon_item_borutakey
 I;초록 우드고블린의 뿔;1;icon_item_horn_tiny_shine
-I;전환의 수정조각;1;icon_item_BlokenMirror
+I;전환의 수정조각;2;icon_item_BlokenMirror
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01
@@ -254,6 +254,8 @@ I;자카리엘 뱅글;1;item_bracelet_10
 I;자카리엘 뱅글;1;item_bracelet_10
 I;포레스트 뱅글;1;item_bracelet_01
 I;베아카라스 브레이슬릿;1;item_bracelet_01
+I;레비잔 브레이슬릿;1;item_bracelet_14
+I;레비잔 브레이슬릿;1;item_bracelet_14
 I;큰 붉은꽃 머리장식;1;hairacc_hat072
 I;오라클 코스튬;1;icon_item_oracle_f
 I;플레이그닥터 코스튬;1;icon_item_cleric_plague_doctor_f

@@ -28,34 +28,31 @@ I;긴급 수리 키트;24;icon_item_repairkit
 I;소울 크리스탈;70;icon_item_soulCrystal
 I;스탯 초기화 포션;1;icon_item_statReset
 I;워프 주문서;58;icon_item_warpPremium
-I;워프 주문서 10개 상자;3;icon_item_warpPremium_bundle
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
+I;워프 주문서 10개 상자;4;icon_item_warpPremium_bundle
+I;[이벤트]전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
 I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
 I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
 I;인스턴스 던전 배수 토큰;2;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;토큰;1;icon_item_token
 I;펭마린 알;1;icon_item_egg_penguin_blue
-I;확성기;77;icon_item_Mike
+I;확성기;82;icon_item_Mike
 I;확성기 10개 상자;1;icon_item_Mike_bundle
-I;[이벤트]신비한 돋보기;1;icon_item_magnifier_blue
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;[이벤트]신비한 돋보기;2;icon_item_magnifier_blue
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
-I;5성 젬 연마제:14일;1;icon_item_powderp
+I;모루;20;icon_item_anvil
 I;5성 젬 연마제:14일;1;icon_item_powderp
 I;5성 젬 연마제:14일;1;icon_item_powderp
 I;5성 젬 연마제:14일;1;icon_item_powderp
 I;빛나는 3성 젬 연마제;3;icon_item_powderp
+I;강화용 카드 : 500 (14일);1;monster_card
+I;강화용 카드 : 500 (14일);1;monster_card
+I;강화용 카드 : 500 (14일);1;monster_card
 I;마법 가루;965;icon_item_MagicPowder
-I;빈 스펠북;5;icon_item_emptySpellBook
+I;빈 스펠북;4;icon_item_emptySpellBook
 I;시간의 결정;39;icon_item_timespace
 I;시간의 결정 파편;300;icon_item_spacepiece
 I;칼사이트;17;14_item_ithildin
@@ -64,7 +61,7 @@ I;이오니움;3;icon_item_crystal_yellow
 I;주석;2;1_item_ore_copper
 I;호박;8;22_item_ore_amber
 I;LV2 보물상자 열쇠;1;icon_item_key1
-I;각성 가루;47;icon_item_wakepowder
+I;각성 가루;191;icon_item_wakepowder
 I;갈록 가죽;1;icon_item_Misc_00007
 I;갈색 라프세이프 잎;6;icon_item_leaves_lapasape_brown
 I;거대한 갈고리;11;icon_item_claw_01
@@ -80,7 +77,7 @@ I;레지네이트;1;16_item_treenite
 I;리자드맨 송곳니;1;icon_item_canine
 I;메슘의 줄기;1;icon_item_stem_brown
 I;물푸레나무;4;icon_item_wood_2
-I;바이보라의 날개 주화;20;icon_item_wingcoin
+I;바이보라의 날개 주화;25;icon_item_wingcoin
 I;박쥐 이빨;1;icon_item_tooth_white
 I;박쥐의 날개;11;icon_item_batwing
 I;밴시의 사념체;4;icon_item_spirit_orange
@@ -110,7 +107,7 @@ I;에큐바이트 이빨;3;icon_item_tooth_blue
 I;엘마 머리카락;1;icon_item_hair_elma
 I;오넨 정수 Lv1;7;KQ_recipe_hethran_material_1_2
 I;오페러의 껍질;1;icon_item_shell_yellow
-I;요노움의 핵;10;icon_item_core_purple
+I;요노움의 핵;8;icon_item_core_purple
 I;우르바스 증표;1;icon_item_borutakey
 I;위버 더듬이;4;icon_item_feeler_black
 I;유코푸스 잎;6;icon_item_leaves_blue
@@ -169,7 +166,7 @@ I;펜듈럼;1;icon_item_pendulum
 I;푸른 빛이 깃든 날개;1;icon_item_misc04_42
 I;화살 묶음;1;item_icon_barbedhead_arrow
 G;Unused
-I;실버;7693086;icon_item_silver
+I;실버;6829104;icon_item_silver
 G;PasteBait
 I;작은 은빛 물고기;5;icon_item_fish4
 G;Drug
@@ -229,34 +226,31 @@ G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 I;낡은 보급용 낚싯대;1;icon_item_Fishing_Rod_1
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
-G;Gem
-I;블루 젬;Lv6;item_icon_Square150
 G;Card
 I;링크롤러 카드;Lv5;icon_item_card_stat
 I;템플슈터 카드;Lv10;icon_item_card_stat
 I;프로스터 로드 카드;Lv10;icon_item_card_atk
+I;샐러맨더 카드;Lv1;icon_item_card_util
 G;Collection
 I;컬렉션: 겔리 고원;1;icon_item_box
 G;Armor
-I;베르타스 이렐리스 부츠;1;icon_item_cloth_boots_1
-I;타이타나스 그리브;1;icon_item_boots_titanas
-I;베르타스 이렐리스 글로브;1;icon_item_cloth_glove_1
-I;베르타스 이렐리스 팬츠;1;icon_item_cloth_pants_1
-I;칼리니스 팬츠;1;icon_item_pants_kailinis
-I;베르타스 이렐리스 로브;1;icon_item_cloth_shirt_1
+I;화이트데이 목걸이 (물리)(14일);1;item_NECK99_110
+I;화이트데이 목걸이 (마법)(14일);1;item_NECK99_110
+I;화이트데이 팔찌 (마법)(14일);1;item_BRC99_114
+I;화이트데이 팔찌 (마법)(14일);1;item_BRC99_114
+I;화이트데이 팔찌 (물리)(14일);1;item_BRC99_115
+I;화이트데이 팔찌 (물리)(14일);1;item_BRC99_115
+I;물빛 조개장식;1;icon_item_skyblue_shell
+I;머슈카리아 모자;1;hairacc_23_mushcariahat
+I;강아지 풍선;1;icon_item_dogballoon
+I;탐험가용 큰 붉은꽃 머리장식;1;hairacc_hat072
+I;하트 사탕;1;icon_item_heartNut
 I;섀도우맨서 루너하이더 코스튬;1;icon_item_mage_shadowmancer04_f
 I;섀도우맨서 선하이더 코스튬;1;icon_item_mage_shadowmancer02_f
 I;소서러 코스튬;1;icon_item_sorcerer_f
 I;알케미스트 코스튬;1;icon_item_Alchemist_f
 I;파이로맨서 코스튬;1;icon_item_pyromancer_f
 G;Event
-I;클래스 변경권 Lv.1 (14일);10;icon_item_rankreset_paper_3
-I;특성 포인트 1000 (14일);1;icon_item_abilitypoint
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;연하장;1;icon_item_event_invitation2
 G;Weapon
 I;(바랜)페버디마스 로드;1;icon_item_pabudimas_rod

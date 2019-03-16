@@ -202,6 +202,10 @@ I;몬스터 젬 선택 상자: 직업;1;icon_item_jewelrybox_close
 I;소울 크리스탈;14;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 G;Material
 I;모루;21;icon_item_anvil
 I;괴황지;1080;icon_item_guehwangji
@@ -428,7 +432,7 @@ I;쿠게리 누마니의 방울;1;icon_item_misc04_97
 I;쿠게리 리오니의 뿔;69;icon_item_misc04_98
 I;쿠게리 발저의 꽃바구니;81;icon_item_misc04_99
 I;쿠게리 솜털;10;icon_item_fur_00White
-I;쿠게리 심바니의 검;48;icon_item_misc04_103
+I;쿠게리 심바니의 검;51;icon_item_misc04_103
 I;쿠게리 자비의 탈;57;icon_item_misc04_106
 I;쿠게리 제피의 장식;67;icon_item_misc04_108
 I;크로마독 뼈;24;icon_item_bone
@@ -508,6 +512,7 @@ I;펜듈럼;1;icon_item_pendulum
 I;휠렌의 증표;1;icon_item_Gem_Elemental17
 I;힘이 복구된 사울레의 성구;1;icon_item_crimson3
 G;Armor
+I;아그니 네클리스;1;item_necklace_21
 I;도사 코스튬;1;icon_item_daoshi_f
 I;섀도우맨서 루너하이더 코스튬;1;icon_item_mage_shadowmancer04_f
 I;섀도우맨서 선하이더 코스튬;1;icon_item_mage_shadowmancer02_f

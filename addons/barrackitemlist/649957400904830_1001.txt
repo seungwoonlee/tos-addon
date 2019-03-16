@@ -1,6 +1,9 @@
 S;1001
 G;Unused
-I;실버;123969;icon_item_silver
+I;실버;68969;icon_item_silver
+G;PasteBait
+I;[이벤트]요하가 기른 미꾸라지;423;icon_item_event1902_bait
+I;작은 은빛 물고기;7;icon_item_fish4
 G;Drug
 I;HP 회복의 엘릭서 [이벤트];8;icon_item_HPelixir
 I;농축 HP포션 LV15;23;icon_item_HP_Alche
@@ -20,18 +23,45 @@ I;보급용 작은 스태미나 알약;22;item_STA_pill_1
 I;보급용 큰 HP포션;100;item_HP_oil_3
 I;보급용 큰 SP포션;100;item_SP_requid_3
 I;붉은 케파 조각;2;OnionPiece_Red
+I;아말라스;5;icon_item_Amalas
 I;오르샤 워프 주문서;2;GolemMagicItem1
 I;정착 지원 포션;9;item_speed_requid_3
 I;정착 지원 포션 Lv2;78;item_speed_requid_3
 I;포포리온 고기;7;icon_item_meat_02
 I;해독제;5;icon_item_Quest_00020
-I;아말라스;5;icon_item_Amalas
 I;LV13 경험치 카드;9;icon_item_expcard
 I;LV14 경험치 카드;4;icon_item_expcard
+I;LV4 경험치 카드;2;icon_item_expcard
+I;LV5 경험치 카드;5;icon_item_expcard
+I;[이벤트]낚시 모닥불(1일);1;icon_item_Fishing_Fire_basic
+I;[이벤트]보급형 떡밥(1일);1;icon_item_Spread_Bait_basic
+I;[이벤트]낚시 모닥불(1일);1;icon_item_Fishing_Fire_basic
+I;[이벤트]보급형 떡밥(1일);1;icon_item_Spread_Bait_basic
 I;레드 오브:위버;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;14;GolemMagicItem1
-I;LV5 경험치 카드;5;icon_item_expcard
-I;LV4 경험치 카드;2;icon_item_expcard
+I;은빛 물고기;12;icon_item_fish2
+G;Event
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
@@ -46,6 +76,7 @@ I;제작서-디델 부라와;2;icon_item_weapon_misc3
 I;제작서-라이온 헤드 대거;5;icon_item_weapon_misc4
 I;제작서-라이온 헤드 캐논;1;icon_item_weapon_misc4
 I;제작서-마가스 레이피어;1;icon_item_weapon_misc4
+I;제작서-모플라;1;icon_item_weapon_misc1
 I;제작서-블랙 혼;1;icon_item_weapon_misc5
 I;제작서-비니 리볼버;1;icon_item_weapon_misc3
 I;제작서-비니 머스킷;1;icon_item_weapon_misc3
@@ -62,14 +93,13 @@ I;제작서-아티 스태그 스태프;1;icon_item_weapon_misc3
 I;제작서-아프가울레 보우;1;icon_item_weapon_misc4
 I;제작서-에멘가드 머스킷;1;icon_item_weapon_misc5
 I;제작서-윈디아 로드;5;icon_item_weapon_misc4
+I;제작서-일룬;1;icon_item_weapon_misc1
 I;제작서-카스티 보우;1;icon_item_weapon_misc4
+I;제작서-캐타펄트;1;icon_item_weapon_misc1
 I;제작서-페디미안 클럽;1;icon_item_weapon_misc1
 I;제작서-피그리 스피어;5;icon_item_weapon_misc4
 I;제작서-피레네 소드;3;icon_item_weapon_misc4
 I;제작서-헬스 데몬 파이크;1;icon_item_weapon_misc3
-I;제작서-일룬;1;icon_item_weapon_misc1
-I;제작서-모플라;1;icon_item_weapon_misc1
-I;제작서-캐타펄트;1;icon_item_weapon_misc1
 I;제작서-네펜더스 글로브;1;icon_item_gloves_misc3
 I;제작서-라이온 헤드 실드;3;icon_item_shirts_misc4
 I;제작서-비틀백;1;icon_item_shirts_misc4
@@ -80,6 +110,8 @@ I;제작서-페디미안 실드;1;icon_item_shirts_misc1
 I;제작서-페디미안 아머;1;icon_item_shirts_misc1
 I;제작서-매직 탈리스만;1;icon_item_necklace_misc3
 I;제작서-산양 뿔;1;icon_item_helm_misc1
+G;FishingRod
+I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 G;Collection
 I;계시록: 대립편 컬렉션;1;icon_item_holyark
 I;컬렉션: 기원의 숲;1;icon_item_box
@@ -88,30 +120,28 @@ I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
 I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
 I;컬렉션: 수정광산 2층;1;icon_item_box
 I;컬렉션: 수정광산 3층;1;icon_item_box
-I;컬렉션: 테넷 성당 지상 1층;1;icon_item_box
 I;컬렉션: 자카리엘 교차로;1;icon_item_box
+I;컬렉션: 테넷 성당 지상 1층;1;icon_item_box
 G;Premium
-I;긴급 수리 키트;10;icon_item_repairkit
 I;소울 크리스탈;7;icon_item_soulCrystal
 I;워프 주문서;39;icon_item_warpPremium
 I;확성기;60;icon_item_Mike
 I;확성기 50개 상자;1;icon_item_Mike_bundle
 G;Armor
 I;옥시니스 팬츠;1;icon_item_pants_Auksinis
+I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
 I;유코푸스 네클리스;1;item_necklace_11
 I;파이라이트 팬던트;1;item_necklace_01
-I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
+I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
+I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
 I;크리스탈 뱅글;1;item_bracelet_15
-I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
-I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
-I;강아지 풍선;1;icon_item_dogballoon
-I;머슈카리아 모자;1;hairacc_23_mushcariahat
-I;물빛 조개장식;1;icon_item_skyblue_shell
-I;탐험가용 큰 붉은꽃 머리장식;1;hairacc_hat072
 I;인퀴지터 코스튬;1;icon_item_inquisitor_f
 I;질럿 코스튬;1;icon_item_zealot1_f
 G;Material
 I;모루;4;icon_item_anvil
+I;5성 젬 연마제:14일;1;icon_item_powderp
+I;강화용 카드 : 500 (14일);1;monster_card
+I;강화용 카드 : 500 (14일);1;monster_card
 I;고문도구;118;icon_item_torturing_tool
 I;괴황지;532;icon_item_guehwangji
 I;기슬로티스;269;icon_item_Gyslotis
@@ -119,30 +149,41 @@ I;성수;271;icon_item_holywater
 I;홀리 파우더;304;icon_item_powderw
 I;주석;2;1_item_ore_copper
 I;LV2 보물상자 열쇠;1;icon_item_key1
-I;붉은 발래리요나스;3;icon_item_Valerijonas_Red
 I;갈록 가죽;1;icon_item_Misc_00007
 I;거대한 갈고리;7;icon_item_claw_01
 I;그루머 잎;5;icon_item_leaves_green
 I;나무 말뚝;3;icon_item_wood_3
+I;노란 파이란 날개;2;icon_item_batwing
 I;드레이크 고기;2;icon_item_meat_02
 I;레지네이트;1;16_item_treenite
+I;레푸스버니 털;1;icon_item_fur_05Gray
 I;로데나콩 솜털;1;icon_item_fur_00White
 I;리플라이 날개;9;icon_item_bugwing
 I;마우로스의 핵;1;icon_item_core_yellow
 I;말라두의 고기;15;icon_item_meat_02
+I;물푸레나무;4;icon_item_wood_2
+I;바이보라의 날개 주화;5;icon_item_wingcoin
 I;박쥐 이빨;1;icon_item_tooth_white
 I;박쥐의 날개;14;icon_item_batwing
 I;밴시의 사념체;5;icon_item_spirit_orange
 I;부베족의 증표;14;icon_item_bubetoken
+I;붉은 발래리요나스;3;icon_item_Valerijonas_Red
+I;붉은 슬라임의 핵;2;38_item_ore_mercury
+I;붉은 위저드 주술 인형의 핵;2;38_item_ore_mercury
+I;붉은 티켄의 뿔;1;icon_item_horn_ticen_red
+I;붉은 호헨 올벤의 수정구;1;icon_item_crystalball_hohen_red
 I;비토우 더듬이;1;icon_item_feeler_yellow
+I;소나무;3;icon_item_wood_3
 I;수정거미 더듬이;2;icon_item_feeler_blue
 I;스타울리트 심장;1;item_icon_heart_red
 I;스톤오르카의 핵;8;icon_item_core_yellow
 I;식칼;3;icon_item_knife01
 I;씨드미아 씨앗;12;icon_item_seed_brown
+I;악취나는 줄기;1;icon_item_stem_bassmell
 I;에큐바이트 더듬이;2;icon_item_feeler_purple
 I;에큐바이트 이빨;2;icon_item_tooth_blue
 I;요노움의 핵;22;icon_item_core_purple
+I;우르바스 증표;1;icon_item_borutakey
 I;위버 더듬이;7;icon_item_feeler_black
 I;유코푸스 잎;6;icon_item_leaves_blue
 I;이노움의 핵;14;icon_item_core_purple
@@ -156,26 +197,20 @@ I;치넨시 잎;1;icon_item_bokchoyleaf
 I;케파 줄기;1;icon_item_stem_green
 I;코릴러스의 뿔;8;icon_item_pantohorn
 I;콜리플라이 수술;1;icon_item_small_bag
+I;쿠게리 발저의 꽃바구니;1;icon_item_misc04_99
 I;크로마독 뼈;1;icon_item_bone
 I;톤투리아의 가시;1;icon_item_thorn_Yellow
 I;티피오의 꽃술;3;icon_item_tipiostamen
+I;파란 아우로라파스;4;icon_item_maple_25_grassflute_Blue
 I;판토족의 뿔;11;icon_item_pantohorn
 I;포쿠부 가죽;2;icon_item_Misc_00011
 I;플로르;2;icon_item_crystal_green
 I;하나밍 꽃잎;5;icon_item_HanamingPetal
 I;허밍버드의 날개;1;icon_item_bugwing
-I;레푸스버니 털;1;icon_item_fur_05Gray
-I;파란 아우로라파스;4;icon_item_maple_25_grassflute_Blue
-I;쿠게리 발저의 꽃바구니;1;icon_item_misc04_99
-I;물푸레나무;4;icon_item_wood_2
-I;소나무;3;icon_item_wood_3
-I;노란 파이란 날개;2;icon_item_batwing
-I;붉은 위저드 주술 인형의 핵;2;38_item_ore_mercury
-I;붉은 슬라임의 핵;2;38_item_ore_mercury
-I;우르바스 증표;1;icon_item_borutakey
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01
+I;과거의 기억을 기록하는 보주;1;icon_item_Dreamshade
 I;광산 마을의 식량;11;icon_item_Gem_Elemental8
 I;렘파르 점액;4;icon_item_Drug_51022
 I;마비가루;1;icon_item_powderw
@@ -184,8 +219,7 @@ I;수정광산의 계시;1;icon_item_stonetablet
 I;연붉은 잎사귀;2;icon_item_leaves_red
 I;유기용제;1;icon_item_Drug_CON1
 I;음양사 본향 지원 명단;1;Siaul_Act3_Confirmation
-I;침묵 스크롤;1;icon_item_Spellbook_2
 I;조잡한 탐사막대;1;icon_item_Lrod
-I;과거의 기억을 기록하는 보주;1;icon_item_Dreamshade
+I;침묵 스크롤;1;icon_item_Spellbook_2
 G;Weapon
 I;프리머스 라파이 투 핸드 메이스;1;icon_item_mace_twohand_lapai

@@ -9,7 +9,7 @@ I;고농축 SP포션;37;item_SP_requid_3
 I;고농축 이동속도 증가 포션;10;item_speed_requid_1
 I;긴급 수리 키트;2;icon_item_repairkit
 I;농축 HP포션 LV15;17;icon_item_HP_Alche
-I;농축 SP포션 LV15;30;icon_item_SP_Alche
+I;농축 SP포션 LV15;27;icon_item_SP_Alche
 I;대형 HP포션;4;item_HP_oil_3
 I;대형 SP포션;2;item_SP_requid_3
 I;딸기;2;icon_item_Strawberry
@@ -41,11 +41,9 @@ I;특대형 SP포션;3;item_SP_requid_3
 I;페디미안 워프 주문서;7;GolemMagicItem1
 I;포포리온 고기;12;icon_item_meat_02
 I;해독제;10;icon_item_Quest_00020
-I;LV14 경험치 카드;67;icon_item_expcard
-I;LV5 경험치 카드;2;icon_item_expcard
-I;LV6 경험치 카드;7;icon_item_expcard
-I;LV7 경험치 카드;4;icon_item_expcard
-I;LV8 경험치 카드;2;icon_item_expcard
+I;케이스타스 회복포션Lv4;20;item_HPSP_potion_3
+I;보급용 SP포션;30;item_SP_requid_2
+I;LV14 경험치 카드;5;icon_item_expcard
 I;레드 오브:붉은 소켓 궁수;1;icon_item_Dreamshade_red
 I;레드 오브:쿠게리 발저;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;16;GolemMagicItem1
@@ -69,6 +67,7 @@ I;제작서-마시니오스 대거;1;icon_item_weapon_misc5
 I;제작서-마시니오스 로드;2;icon_item_weapon_misc5
 I;제작서-마시니오스 파이크;1;icon_item_weapon_misc5
 I;제작서-일룬;1;icon_item_weapon_misc1
+I;제작서 - 아시오 보우;1;icon_item_weapon_misc5
 I;제작서 - 아시오 스태프;1;icon_item_weapon_misc5
 I;제작서-라이타스 글로브;1;icon_item_gloves_misc5
 I;제작서-아우스라 그리브;1;icon_item_boots_misc5
@@ -87,6 +86,7 @@ I;제작서-제메이 네클리스;2;icon_item_necklace_misc3
 I;제작서-파다;1;icon_item_bracelet_misc5
 I;제작서-피크오 펄 브레이슬릿;5;icon_item_bracelet_misc4
 I;제작서-아그니 네클리스;1;icon_item_necklace_misc3
+I;제작서-일렉트라 네클리스;2;icon_item_necklace_misc3
 I;제작서-x8 경험의 서;5;icon_item_recipe_misc1
 I;제작서-레이드 포탈 스톤;91;icon_item_recipe_misc1
 G;FishingRod
@@ -132,18 +132,27 @@ I;컬렉션: 필그림 들길;1;icon_item_box
 G;Premium
 I;워프 주문서;20;icon_item_warpPremium
 I;확성기;20;icon_item_Mike
+I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
+I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
 I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
+G;Armor
+I;플라네타 부츠;1;icon_item_baronwear_boots
+I;브리간딘 부츠;1;icon_item_boots_brigan
+I;제메이 네클리스;1;item_necklace_16
+I;사이코키노 코스튬;1;icon_item_psychokinesist_f
+I;음양사의 가운 코스튬;1;icon_item_wizard_onmyoji01_f
+I;음양사의 왕국의상 코스튬;1;icon_item_wizard_onmyoji02_f
+I;음양사의 왕실예복 코스튬;1;icon_item_wizard_onmyoji04_f
+I;파이로맨서 코스튬;1;icon_item_pyromancer_f
 G;Material
 I;모루;13;icon_item_anvil
-I;종이 인형;4702;icon_item_paperdoll
+I;종이 인형;4760;icon_item_paperdoll
 I;크리오라이트;1;39_icon_item_Cry8rite
-I;파이라이트;299;32_item_ore_pyrite
+I;파이라이트;296;32_item_ore_pyrite
 I;주석;4;1_item_ore_copper
 I;호박;17;22_item_ore_amber
-I;피데슘;1;5_item_ore_fluorite
-I;프락토늄;2;icon_item_crystal_High
 I;토파즈;4;24_item_ore_topaz
-I;오팔;2;25_item_ore_opal
+I;압시듐 광석;2;8_item_ore_platinum
 I;LV2 보물상자 열쇠;3;icon_item_key1
 I;갈록 가죽;3;icon_item_Misc_00007
 I;갈색 라프세이프 잎;10;icon_item_leaves_lapasape_brown
@@ -167,7 +176,7 @@ I;라플리 줄기;1;icon_item_stem_gray
 I;레무리아의 꼬리;1;icon_item_Quest_00017
 I;레푸스버니 털;1;icon_item_fur_05Gray
 I;록타눈 깃털;3;icon_item_feather_00Basic
-I;루나엔젤의 나팔;16;icon_item_misc_0511
+I;루나엔젤의 나팔;19;icon_item_misc_0511
 I;니코폴리스 은하 방울;5;icon_item_misc_0526
 I;리자드맨 송곳니;1;icon_item_canine
 I;리프넛의 뿔;3;icon_item_shorthorn
@@ -196,7 +205,7 @@ I;붉은 슬라임의 핵;4;38_item_ore_mercury
 I;비테록시아 잎;8;icon_item_leaves_blue
 I;사막 츄파카브라 고기;3;icon_item_meat_01
 I;사우가의 핵;1;icon_item_core_yellow
-I;소나무;9;icon_item_wood_3
+I;소나무;10;icon_item_wood_3
 I;소켓의 껍질;5;icon_item_shell_blue
 I;송진;3;37_item_ore_sulfur
 I;수은;8;38_item_ore_mercury
@@ -214,7 +223,7 @@ I;엘마 머리카락;1;icon_item_hair_elma
 I;요노움의 핵;28;icon_item_core_purple
 I;웬디고 송곳니;1;icon_item_tooth_white
 I;웬디고 이빨;3;icon_item_tooth_white
-I;위버 더듬이;18;icon_item_feeler_black
+I;위버 더듬이;19;icon_item_feeler_black
 I;유코푸스 잎;6;icon_item_leaves_blue
 I;유황;1;37_item_ore_sulfur
 I;이노움의 파편;1;icon_item_Misc_00004
@@ -229,7 +238,7 @@ I;지누테의 껍질;2;icon_item_shell_blue
 I;집게발;1;icon_item_Quest_00017
 I;찢어진 종이조각;1;icon_item_flag_hohen
 I;초록 미노스의 털;17;icon_item_fur_02Green
-I;츄파카브라 이빨;6;icon_item_tooth_white
+I;츄파카브라 이빨;8;icon_item_tooth_white
 I;치넨시 잎;3;icon_item_bokchoyleaf
 I;케파 줄기;10;icon_item_stem_green
 I;케포 껍질;9;icon_item_onionpiece
@@ -259,13 +268,21 @@ I;하나밍 꽃잎;107;icon_item_HanamingPetal
 I;하밍 잎;1;icon_item_leaves_green
 I;허밍버드의 날개;3;icon_item_bugwing
 I;이레디안 브로치;6;icon_item_iredian_misc01
-I;로열 블레이드 파편;14;icon_item_misc_0529
+I;버드니의 잎;3;icon_item_leaf
 I;레이드 포탈 스톤;144;icon_item_dungeon_portalstone
+I;노란 리프넛의 온전한 날개;1;icon_item_misc04_65
+I;주황 그루머 날개;1;icon_item_batwing
+I;플로래비 솜털;9;icon_item_fur_spion_white
+I;블롬의 잎;2;icon_item_leaves_green
+I;플로론의 잎;2;icon_item_leaf
+I;[이벤트]반짝이는 별의 조각;1;icon_item_orb3
+I;노란 이노움의 핵;1;icon_item_core_yellow
+I;로열 블레이드 파편;5;icon_item_misc_0529
 I;차원 탐색 스크롤;1;GolemMagicItem1
 I;귀환석;1;MercenaryBadge
+I;특성 포인트 100;1;icon_item_abilitypoint3
 G;Quest
 I;공간의 문장;1;icon_item_void_01
-I;네 번째 비석 조각;1;icon_item_stonepiece_01Yellow_01
 I;독특한 산호 조각;1;icon_item_coral
 I;로그 마스터의 주머니;1;icon_item_farm47_sack_01
 I;루클리스 시대의 기록;4;icon_item_stonepaper_01
@@ -289,11 +306,6 @@ I;탁본 도구;1;icon_item_sidebag
 I;테넷 성당의 계시;1;icon_item_stonetablet
 I;펜듈럼;1;icon_item_pendulum
 I;화살 묶음;1;item_icon_barbedhead_arrow
-G;Armor
-I;제메이 네클리스;1;item_necklace_16
-I;계란초밥;1;icon_item_sushi2
-I;사이코키노 코스튬;1;icon_item_psychokinesist_f
-I;음양사의 가운 코스튬;1;icon_item_wizard_onmyoji01_f
-I;음양사의 왕국의상 코스튬;1;icon_item_wizard_onmyoji02_f
-I;음양사의 왕실예복 코스튬;1;icon_item_wizard_onmyoji04_f
-I;파이로맨서 코스튬;1;icon_item_pyromancer_f
+I;수상한 수정 주머니;1;icon_item_farm47_sack_01
+G;Weapon
+I;크루드 폴쳔;1;icon_item_Sword_23
