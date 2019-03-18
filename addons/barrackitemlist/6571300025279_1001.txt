@@ -33,9 +33,6 @@ I;HP 회복 소형 엘릭서 ;20;icon_item_HPelixir_Small
 I;LV3 경험치 카드;2;icon_item_expcard
 I;LV4 경험치 카드;2;icon_item_expcard
 I;보급용 워프 주문서;19;GolemMagicItem1
-G;Event
-I;특성 포인트 10,000;5;icon_item_abilitypoint4
-I;클래스 변경권 Lv.1 (14일);10;icon_item_rankreset_paper_3
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black
 G;Recipe
@@ -98,7 +95,7 @@ I;긴급 수리 키트;10;icon_item_repairkit
 I;몬스터 젬 선택 상자: 위저드;1;icon_item_luckybox_green
 I;소울 크리스탈;10;icon_item_soulCrystal
 I;워프 주문서;9;icon_item_warpPremium
-I;인스턴스 던전 배수 토큰;32;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰;42;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -163,9 +160,15 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;축제용 심플 코스튬(남);1;icon_item_simple_festival_m
 G;Armor
 I;바르그아르 플레이트 건틀릿;1;icon_item_vargu_gloves

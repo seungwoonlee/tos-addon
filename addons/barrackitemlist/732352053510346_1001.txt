@@ -21,7 +21,7 @@ I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
-I;인스턴스 던전 배수 토큰;3;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰;13;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -78,10 +78,15 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
 I;전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
 I;확성기;10;icon_item_Mike
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;x8 경험의 서;1;icon_item_expbookx8
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 G;Cube
 I;[PC방] TP 아이템 랜덤 상자;1;icon_item_random_cashbox
 I;[PC방] 성장 지원 상자;4;icon_item_box_pc_month
@@ -93,8 +98,14 @@ I;보급용 작은 스태미나 알약;23;item_STA_pill_1
 I;정착 지원 포션 Lv2;10;item_speed_requid_3
 I;보급용 워프 주문서;10;GolemMagicItem1
 G;Armor
+I;타이타나스 그리브;1;icon_item_boots_titanas
+I;베르타스 이렐리스 부츠;1;icon_item_cloth_boots_1
+I;베르타스 이렐리스 글로브;1;icon_item_cloth_glove_1
 I;라이트 팬츠;1;icon_item_pants_bube
+I;칼리니스 팬츠;1;icon_item_pants_kailinis
+I;베르타스 이렐리스 팬츠;1;icon_item_cloth_pants_1
 I;라이트 아머;1;icon_item_shirts_bube
+I;베르타스 이렐리스 로브;1;icon_item_cloth_shirt_1
 I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
 I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
 I;노비스 뱅글;1;item_bracelet_15

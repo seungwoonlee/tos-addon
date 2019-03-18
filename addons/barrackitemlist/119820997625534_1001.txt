@@ -42,6 +42,7 @@ G;Cube
 I;[PC방] TP 아이템 랜덤 상자;1;icon_item_random_cashbox
 I;[PC방] 성장 지원 상자;4;icon_item_box_pc_month
 G;Premium
+I;[이벤트]전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
 I;긴급 수리 키트;29;icon_item_repairkit
 I;소울 크리스탈;65;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
@@ -55,6 +56,8 @@ I;워프 주문서;28;icon_item_warpPremium
 I;워프 주문서 10개 상자;7;icon_item_warpPremium_bundle
 I;윈터펭 알;1;icon_item_egg_winterpeng
 I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -64,12 +67,11 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;클래스 변경권 Lv.4;1;icon_item_rankreset_paper
+I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
+I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
 I;펭마린 알;1;icon_item_egg_penguin_blue
 I;확성기;81;icon_item_Mike
 I;확성기 50개 상자;3;icon_item_Mike_bundle
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
-I;[이벤트]전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
 I;[이벤트]신비한 돋보기;2;icon_item_magnifier_blue
 I;프리미엄 각성석;1;icon_item_awakeningstone
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
@@ -78,7 +80,8 @@ I;모루;17;icon_item_anvil
 I;5성 젬 연마제:14일;1;icon_item_powderp
 I;5성 젬 연마제:14일;1;icon_item_powderp
 I;5성 젬 연마제:14일;1;icon_item_powderp
-I;강화용 카드 : 500 (14일);1;monster_card
+I;5성 젬 연마제:14일;1;icon_item_powderp
+I;5성 젬 연마제:14일;1;icon_item_powderp
 I;크리오라이트;3;39_icon_item_Cry8rite
 I;파이라이트;6;32_item_ore_pyrite
 I;포지;4;icon_item_Forge
@@ -202,6 +205,8 @@ I;하나밍 꽃잎;8;icon_item_HanamingPetal
 I;할로우벤터의 손뼈;4;icon_item_bone
 I;호그마 엄니;3;icon_item_tooth_white
 I;호글란 부리;1;icon_item_small_bag
+I;노란 카로의 가죽;1;icon_item_Misc_00009
+I;노란 리프넛 날개;1;icon_item_batwing
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;검 연습대 제작 도구;1;icon_item_Quest_00017
@@ -227,11 +232,11 @@ I;카포테;1;icon_capote
 I;클레릭 마스터의 신앙의 표식;1;icon_item_Gem_Elemental17
 I;파손된 비문 조각;2;icon_item_Misc_00005
 G;Unused
-I;실버;7115788;icon_item_silver
+I;실버;7248581;icon_item_silver
 G;PasteBait
-I;작은 은빛 물고기;14;icon_item_fish4
+I;[이벤트]요하가 기른 미꾸라지;561;icon_item_event1902_bait
+I;작은 은빛 물고기;16;icon_item_fish4
 I;지렁이;541;icon_item_Paste_Bait_basic
-I;[이벤트]요하가 기른 미꾸라지;532;icon_item_event1902_bait
 G;Drug
 I;리사이클 메달;32;icon_item_recyclemedal
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
@@ -241,8 +246,8 @@ I;[PC방] SP 회복 소형 엘릭서 ;10;icon_item_random_spellixerbox
 I;고농축 HP포션;289;item_HP_oil_3
 I;고농축 SP포션;123;item_SP_requid_3
 I;고농축 이동속도 증가 포션;23;item_speed_requid_1
-I;농축 HP포션 LV15;7;icon_item_HP_Alche
-I;농축 SP포션 LV15;30;icon_item_SP_Alche
+I;농축 HP포션 LV15;6;icon_item_HP_Alche
+I;농축 SP포션 LV15;28;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;60;item_speed_requid_1
 I;딜겔레;1;icon_item_Dilgele
 I;라무넬레;1;icon_item_Ramunele
@@ -269,35 +274,23 @@ I;포포리온 고기;9;icon_item_meat_02
 I;폭죽;34;icon_item_firework
 I;LV13 경험치 카드;7;icon_item_expcard
 I;LV5 경험치 카드;4;icon_item_expcard
+I;[이벤트]낚시 모닥불(1일);1;icon_item_Fishing_Fire_basic
+I;[이벤트]보급형 떡밥(1일);1;icon_item_Spread_Bait_basic
 I;보급용 워프 주문서;16;GolemMagicItem1
 I;블루 오브:벨레그;1;icon_item_Dreamshade
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
-I;은빛 물고기;96;icon_item_fish2
-I;[이벤트]낚시 모닥불(1일);1;icon_item_Fishing_Fire_basic
-I;[이벤트]보급형 떡밥(1일);1;icon_item_Spread_Bait_basic
-I;[이벤트]낚시 모닥불(1일);1;icon_item_Fishing_Fire_basic
-I;[이벤트]보급형 떡밥(1일);1;icon_item_Spread_Bait_basic
+I;은빛 물고기;98;icon_item_fish2
+I;LV15 경험치 카드;9;icon_item_expcard
 I;TOS 플래카드;1;icon_item_artefact_Ticket_TOS
 I;푸드 커버;1;icon_item_artefact_Dome_Cover
 I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
 I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
 I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
 G;Event
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 10,000;10;icon_item_abilitypoint4
-I;특성 포인트 1000 (14일);1;icon_item_abilitypoint
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 1000;1;icon_item_abilitypoint
+I;특성 포인트 1000;1;icon_item_abilitypoint
+I;특성 포인트 1000;1;icon_item_abilitypoint
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone
@@ -310,14 +303,17 @@ I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 G;Gem
 I;레드 젬;Lv6;item_icon_circle150
 I;레드 젬;Lv6;item_icon_circle150
+I;레드 젬;Lv6;item_icon_circle150
 I;그린 젬;Lv5;item_icon_Dia150
-I;그린 젬;Lv3;item_icon_Dia150
 I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv3;item_icon_Dia150
 I;그린 젬;Lv2;item_icon_Dia150
-I;옐로우 젬;Lv3;item_icon_Star150
+I;블루 젬;Lv2;item_icon_Square150
 I;옐로우 젬;Lv4;item_icon_Star150
+I;옐로우 젬;Lv3;item_icon_Star150
 G;Card
-I;켄타우로스 카드;Lv8;icon_item_card_atk
+I;파야우타 카드;Lv3;icon_item_card_stat
+I;켄타우로스 카드;Lv9;icon_item_card_atk
 G;Collection
 I;컬렉션: 마법사의 탑 2층;1;icon_item_box
 I;컬렉션: 비에타 계곡;1;icon_item_box
@@ -330,13 +326,11 @@ G;Armor
 I;갈라티카 그리브;1;icon_item_boots_frost
 I;베르타스 갈라티카 건틀릿;1;icon_item_gloves_frost
 I;갈라티카 플레이트 팬츠;1;icon_item_pants_frost
+I;갈라티카 플레이트 팬츠;1;icon_item_pants_frost
 I;갈라티카 플레이트 아머;1;icon_item_shirts_frost
 I;파이라이트 팬던트;1;item_necklace_01
-I;화이트데이 목걸이 (마법)(14일);1;item_NECK99_110
-I;화이트데이 팔찌 (물리)(14일);1;item_BRC99_115
-I;화이트데이 팔찌 (마법)(14일);1;item_BRC99_114
-I;화이트데이 팔찌 (물리)(14일);1;item_BRC99_115
-I;화이트데이 팔찌 (마법)(14일);1;item_BRC99_114
+I;베아카라스 브레이슬릿;1;item_bracelet_01
+I;크리스탈 뱅글;1;item_bracelet_15
 I;토스터;1;icon_item_Toaster
 I;하트 사탕;1;icon_item_heartNut
 I;마타도르 벨비스트 코스튬;1;icon_item_warrior_matador02_f

@@ -6,8 +6,8 @@ I;작은 은빛 물고기;6;icon_item_fish4
 I;보급용 미끼;608;icon_item_Paste_Bait_basic
 I;[PC방] 화려한 지렁이;800;icon_item_Paste_Bait2_pc
 G;Drug
-I;HP 회복 소형 엘릭서 ;56;icon_item_HPelixir_Small
-I;SP 회복 소형 엘릭서 ;70;icon_item_SPelixir_Small
+I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
+I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;[PC방] SP 회복 소형 엘릭서 ;3;icon_item_random_spellixerbox
 I;농축 HP포션 LV15;15;icon_item_HP_Alche
 I;농축 SP포션 LV15;22;icon_item_SP_Alche
@@ -155,5 +155,8 @@ I;음양사 본향 지원 명단;1;Siaul_Act3_Confirmation
 I;의식용 밧줄;1;icon_item_tentaclel
 I;테넷 성당의 계시;1;icon_item_stonetablet
 G;Armor
+I;스트랭스 팬던트;1;item_necklace_08
+I;베아카라스 브레이슬릿;1;item_bracelet_01
+I;베아카라스 브레이슬릿;1;item_bracelet_01
 I;펠타스타 코스튬;1;icon_item_Peltasta_f
 I;하카펠 코스튬;1;icon_item_hakapalle_f

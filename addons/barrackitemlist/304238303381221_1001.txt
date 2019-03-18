@@ -56,17 +56,21 @@ I;스탯 초기화 포션;3;icon_item_statReset
 I;워프 주문서;297;icon_item_warpPremium
 I;워프 주문서 10개 상자;10;icon_item_warpPremium_bundle
 I;윈터펭 알;1;icon_item_egg_winterpeng
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
 I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;특성 포인트 상자 A급;1;icon_item_Ability_coupon_box_A
 I;특성 포인트 상자 A급;1;icon_item_Ability_coupon_box_A
 I;특성 포인트 상자 B급;1;icon_item_Ability_coupon_box_B
@@ -75,14 +79,9 @@ I;특성 포인트 상자 S급;1;icon_item_Ability_coupon_box_S
 I;확성기;238;icon_item_Mike
 I;확성기 10개 상자;1;icon_item_Mike_bundle
 I;확성기 50개 상자;3;icon_item_Mike_bundle
-I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
 I;[이벤트]신비한 돋보기;2;icon_item_magnifier_blue
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
-I;황금 모루(14일);1;icon_item_anvil_gold
 I;마력 흡수침;1;icon_item_spellneedle
 I;매직 애로우;176;icon_item_magicarrow
 I;바브드 애로우;18;item_icon_arrow_barbedhead
@@ -104,6 +103,7 @@ I;글리자돈의 뼈;2;icon_item_bone
 I;글리프링 파편;1;icon_item_Misc_00006
 I;나무 말뚝;12;icon_item_wood_3
 I;낚시대;3;icon_item_fishingrod
+I;노란 리프넛 날개;2;icon_item_batwing
 I;노란 이노움의 핵;2;icon_item_core_yellow
 I;노란 파이란 날개;1;icon_item_batwing
 I;단델의 날개;4;icon_item_batwing
@@ -169,6 +169,7 @@ I;장작;28;icon_item_woodpiece
 I;제페토의 줄기;6;icon_item_stem_brown
 I;족쇄;1;icon_item_legiron
 I;주술인형의 핵;3;icon_item_core_red
+I;주황 그루머 날개;1;icon_item_batwing
 I;지그너츠 줄기;2;icon_item_zignuts
 I;지누테의 껍질;1;icon_item_shell_blue
 I;체이퍼러의 날개;1;icon_item_bugwing
@@ -212,8 +213,6 @@ I;호그마 엄니;4;icon_item_tooth_white
 I;호그마 전투대장 송곳니;1;icon_item_tooth_00Basic
 I;호헨 가죽;2;icon_item_Misc_00011
 I;화약;5;icon_item_powderbl
-I;주황 그루머 날개;1;icon_item_batwing
-I;노란 리프넛 날개;2;icon_item_batwing
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;고원 사탕무;1;icon_item_beet
@@ -235,14 +234,14 @@ I;파괴된 결계의 조각;1;icon_item_pieceofglass
 I;파괴용 주술인형 소환서;1;GolemMagicItem1
 I;흩어진 기록지;15;GolemMagicItem1
 G;Unused
-I;실버;289130;icon_item_silver
+I;실버;289110;icon_item_silver
 G;PasteBait
-I;작은 은빛 물고기;8;icon_item_fish4
-I;[이벤트]요하가 기른 미꾸라지;479;icon_item_event1902_bait
+I;[이벤트]요하가 기른 미꾸라지;481;icon_item_event1902_bait
+I;작은 은빛 물고기;11;icon_item_fish4
 G;Drug
 I;리사이클 메달;122;icon_item_recyclemedal
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
-I;SP 회복 소형 엘릭서 ;1;icon_item_SPelixir_Small
+I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;[PC방] HP 회복 소형 엘릭서 ;13;icon_item_random_hpellixerbox
 I;고농축 HP포션;169;item_HP_oil_3
 I;고농축 SP포션;142;item_SP_requid_3
@@ -272,13 +271,11 @@ I;포포리온 고기;8;icon_item_meat_02
 I;폭죽;35;icon_item_firework
 I;할로윈 폭죽;1;icon_item_firework
 I;해독제;7;icon_item_Quest_00020
-I;은빛 물고기;10;icon_item_fish2
-I;[이벤트]보급형 떡밥(1일);1;icon_item_Spread_Bait_basic
 I;[이벤트]낚시 모닥불(1일);1;icon_item_Fishing_Fire_basic
+I;[이벤트]보급형 떡밥(1일);1;icon_item_Spread_Bait_basic
 I;보급용 워프 주문서;16;GolemMagicItem1
 I;블루 오브:뇌옥투사;1;icon_item_Dreamshade
-I;[이벤트]보급형 떡밥(1일);1;icon_item_Spread_Bait_basic
-I;LV15 경험치 카드;9;icon_item_expcard
+I;은빛 물고기;12;icon_item_fish2
 I;다과 세트;1;icon_item_artefact_Tea_Set
 I;예식용 칼;1;icon_item_artefact_Decorative_knife
 I;푸드 커버;1;icon_item_artefact_Dome_Cover
@@ -286,18 +283,28 @@ I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
 I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
 I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
 G;Event
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 I;특성 포인트 10,000;10;icon_item_abilitypoint4
 I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 I;특성 포인트 1000 (14일);1;icon_item_abilitypoint
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone
@@ -310,15 +317,18 @@ I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 G;Gem
-I;레드 젬;Lv6;item_icon_circle150
-I;레드 젬;Lv6;item_icon_circle150
-I;레드 젬;Lv2;item_icon_circle150
 I;레드 젬;Lv5;item_icon_circle150
+I;레드 젬;Lv6;item_icon_circle150
+I;레드 젬;Lv6;item_icon_circle150
 I;레드 젬;Lv2;item_icon_circle150
+I;레드 젬;Lv6;item_icon_circle150
 G;Card
 I;파야우타 카드;Lv7;icon_item_card_stat
 I;페릿머로더 카드;Lv1;icon_item_card_util
 I;페릿머로더 카드;Lv1;icon_item_card_util
+G;SubWeapon
+I;눈꽃 스프레이;1;icon_item_snowflower
+I;핫팩;1;icon_item_hotpack
 G;Collection
 I;컬렉션: 기원의 숲;1;icon_item_box
 I;컬렉션: 지마 수코트;1;icon_item_box
@@ -330,25 +340,19 @@ I;베르타스 제베넬리스 레더 팬츠;1;icon_item_leather_pants_1
 I;베르타스 제베넬리스 레더 아머;1;icon_item_leather_shirt_1
 I;알프라 로브;1;icon_item_alframerchant_armor
 I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
-I;화이트데이 목걸이 (마법)(14일);1;item_NECK99_110
 I;스트랭스 팬던트;1;item_necklace_08
 I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
 I;크란토 브레이슬릿;1;item_bracelet_17
-I;화이트데이 팔찌 (마법)(14일);1;item_BRC99_114
 I;크리스탈 뱅글;1;item_bracelet_15
-I;화이트데이 팔찌 (마법)(14일);1;item_BRC99_114
 I;크리스탈 뱅글;1;item_bracelet_15
 I;밥그릇;1;icon_item_ricebowl
-I;붉은빛 플라워 헤어밴드;1;icon_item_redflowerband
+I;태양;1;icon_item_sun_acc
 I;아보카도 롤;1;icon_item_sushi10
 I;케파 인형;1;hairacc_48_cepadoll
-I;태양;1;icon_item_sun_acc
-I;하트 사탕;1;icon_item_heartNut
+I;붉은빛 플라워 헤어밴드;1;icon_item_redflowerband
 I;탐험가용 큰 붉은꽃 머리장식;1;hairacc_hat072
+I;하트 사탕;1;icon_item_heartNut
 I;레인저 코스튬;1;icon_item_ranger_f
 I;응사 코스튬;1;icon_item_falconer_f
-G;SubWeapon
-I;눈꽃 스프레이;1;icon_item_snowflower
-I;핫팩;1;icon_item_hotpack
 G;Weapon
 I;[결속] 베르타스 라파이 보우;1;icon_item_bow_lapai

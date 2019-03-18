@@ -7,7 +7,7 @@ G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;농축 HP포션 LV15;34;icon_item_HP_Alche
-I;농축 SP포션 LV15;17;icon_item_SP_Alche
+I;농축 SP포션 LV15;15;icon_item_SP_Alche
 I;라프세이프 버섯;9;icon_item_Pinemushroom
 I;레드옥스;4;icon_item_Red_Ox
 I;마법 공격력 포션;3;item_speed_requid_1
@@ -231,6 +231,7 @@ I;허니빈 침;28;icon_item_tooth_01Yellow
 I;호그마 엄니;3;icon_item_tooth_white
 I;회색 스타울리트 힘줄;7;icon_item_Leash
 I;우르바스 증표;1;icon_item_borutakey
+I;[이벤트]반짝이는 별의 조각;3;icon_item_orb3
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;고원 감자;4;icon_item_maladufat

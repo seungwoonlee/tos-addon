@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;2;icon_item_silver
+I;실버;200000;icon_item_silver
 G;Drug
 I;100일 기념 포션;1;item_speed_requid_3
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
@@ -32,6 +32,7 @@ I;포포리온 고기;12;icon_item_meat_02
 I;폭죽;25;icon_item_firework
 I;긴급 수리 키트;8;icon_item_repairkit
 I;보급용 워프 주문서;8;GolemMagicItem1
+I;길드 타워;1;icon_item_guildtower
 I;기슬로티스 씨앗;2;icon_item_seed_green
 I;라벤더 씨앗;2;icon_item_seed_red
 I;라오도넬리스 씨앗;2;icon_item_seed_green

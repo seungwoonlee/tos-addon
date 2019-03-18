@@ -2,7 +2,7 @@ S;1001
 G;Unused
 I;실버;68969;icon_item_silver
 G;PasteBait
-I;[이벤트]요하가 기른 미꾸라지;423;icon_item_event1902_bait
+I;[이벤트]요하가 기른 미꾸라지;459;icon_item_event1902_bait
 I;작은 은빛 물고기;7;icon_item_fish4
 G;Drug
 I;HP 회복의 엘릭서 [이벤트];8;icon_item_HPelixir
@@ -35,11 +35,9 @@ I;LV4 경험치 카드;2;icon_item_expcard
 I;LV5 경험치 카드;5;icon_item_expcard
 I;[이벤트]낚시 모닥불(1일);1;icon_item_Fishing_Fire_basic
 I;[이벤트]보급형 떡밥(1일);1;icon_item_Spread_Bait_basic
-I;[이벤트]낚시 모닥불(1일);1;icon_item_Fishing_Fire_basic
-I;[이벤트]보급형 떡밥(1일);1;icon_item_Spread_Bait_basic
 I;레드 오브:위버;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;14;GolemMagicItem1
-I;은빛 물고기;12;icon_item_fish2
+I;은빛 물고기;15;icon_item_fish2
 G;Event
 I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
@@ -59,9 +57,14 @@ I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
@@ -140,8 +143,6 @@ I;질럿 코스튬;1;icon_item_zealot1_f
 G;Material
 I;모루;4;icon_item_anvil
 I;5성 젬 연마제:14일;1;icon_item_powderp
-I;강화용 카드 : 500 (14일);1;monster_card
-I;강화용 카드 : 500 (14일);1;monster_card
 I;고문도구;118;icon_item_torturing_tool
 I;괴황지;532;icon_item_guehwangji
 I;기슬로티스;269;icon_item_Gyslotis

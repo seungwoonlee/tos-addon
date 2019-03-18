@@ -145,7 +145,6 @@ I;제작서-자카리엘 뱅글;1;icon_item_bracelet_misc4
 I;제작서-x8 경험의 서;1;icon_item_recipe_misc1
 G;Armor
 I;브리간딘 부츠;1;icon_item_boots_brigan
-I;우카스 레더 팬츠;1;icon_item_baldish_pants
 I;페더풋 코스튬;1;icon_item_mage_featherfoot_f
 I;섀도우맨서 루너하이더 코스튬;1;icon_item_mage_shadowmancer04_f
 I;섀도우맨서 선하이더 코스튬;1;icon_item_mage_shadowmancer02_f
@@ -881,6 +880,14 @@ I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
 I;브람블 카드;Lv1;icon_item_card_def
 I;브람블 카드;Lv1;icon_item_card_def
 I;브람블 카드;Lv1;icon_item_card_def
@@ -962,6 +969,11 @@ I;플람미두스 카드;Lv1;icon_item_card_def
 I;플람미두스 카드;Lv1;icon_item_card_def
 I;플람미두스 카드;Lv1;icon_item_card_def
 I;회색 골렘 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
 I;가이갈라스 카드;Lv1;icon_item_card_util
 I;게이징 골렘 카드;Lv10;icon_item_card_util
 I;게이징 골렘 카드;Lv10;icon_item_card_util
@@ -1253,4 +1265,3 @@ I;하얀 스피온의 정수;5;icon_item_core_02Yellow
 G;Weapon
 I;이그니션;1;icon_item_ignition
 I;판토 로드;1;Panto_wand
-I;즈바이더 로드;1;icon_item_rod_nicopolis1
