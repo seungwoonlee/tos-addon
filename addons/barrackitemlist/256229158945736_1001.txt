@@ -30,6 +30,8 @@ I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;챌린지 모드 1회 입장권;5;icon_item_indunFreeEnter
 I;오마모리;40;icon_item_omarmori
+G;Event
+I;[Episode11] 레벨업 상자 (380레벨);1;icon_item_giftBox_2
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black
 G;Recipe
@@ -152,6 +154,7 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 배수 토큰;10;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;15레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -187,6 +190,7 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;40레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -259,6 +263,12 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;확성기;193;icon_item_Mike
+I;75레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;120레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;170레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;220레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;270레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;315레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 G;Material
 I;연습용 모루;1;icon_item_anvil
@@ -316,8 +326,7 @@ I;하나밍 꽃잎;2;icon_item_HanamingPetal
 I;하루갈 가죽;2;icon_item_Misc_00009
 I;하루갈 뼈;18;icon_item_bone
 I;호그마 전투대장 송곳니;2;icon_item_tooth_00Basic
-I;탈트;27;30_item_ore_talt
-I;[이벤트]반짝이는 별의 조각;3;icon_item_orb3
+I;[Episode11] 성장의 보석;4500;icon_item_crimson2
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공구박스;1;icon_item_Quest_00017

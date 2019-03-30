@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;99999;icon_item_silver
+I;실버;100000;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
@@ -78,7 +78,6 @@ G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;17;icon_item_Mike
-I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
 I;가벼운 모루;1;icon_item_anvil
 I;모루;13;icon_item_anvil
@@ -165,7 +164,6 @@ I;얼타눈의 뼈;2;icon_item_bone
 I;엘마 머리카락;1;icon_item_hair_elma
 I;오페러의 껍질;10;icon_item_shell_yellow
 I;요노움의 핵;17;icon_item_core_purple
-I;우르바스 증표;1;icon_item_borutakey
 I;웬디고 이빨;3;icon_item_tooth_white
 I;위버 더듬이;11;icon_item_feeler_black
 I;유리 조각;11;icon_item_pieceofglass

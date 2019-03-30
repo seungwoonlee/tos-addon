@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;99999;icon_item_silver
+I;실버;100001;icon_item_silver
 G;PasteBait
 I;보급용 미끼;771;icon_item_Paste_Bait_basic
 I;작은 은빛 물고기;7;icon_item_fish4
@@ -31,13 +31,13 @@ I;정착 지원 포션 Lv2;83;item_speed_requid_3
 I;클라페다 워프 주문서;15;GolemMagicItem1
 I;포포리온 고기;11;icon_item_meat_02
 I;해독제;19;icon_item_Quest_00020
+I;LV12 경험치 카드;2;icon_item_expcard
 I;LV13 경험치 카드;7;icon_item_expcard
+I;LV2 경험치 카드;6;icon_item_expcard
 I;LV4 경험치 카드;2;icon_item_expcard
 I;LV5 경험치 카드;5;icon_item_expcard
 I;보급용 워프 주문서;20;GolemMagicItem1
 I;은빛 물고기;44;icon_item_fish2
-I;LV2 경험치 카드;6;icon_item_expcard
-I;LV12 경험치 카드;2;icon_item_expcard
 I;TOS 플래카드;1;icon_item_artefact_Ticket_TOS
 I;다과 세트;1;icon_item_artefact_Tea_Set
 I;다과 세트;1;icon_item_artefact_Tea_Set
@@ -85,10 +85,10 @@ I;제작서-에멘가드 실드;1;icon_item_shirts_misc5
 I;제작서-인섹트 스커트;1;icon_item_pants_misc3
 I;제작서-추종자의 레더 아머;1;icon_item_shirts_misc3
 I;제작서-카펜터 글로브;2;icon_item_gloves_misc3
+I;제작서-테넷 체인 팬츠;1;icon_item_pants_misc3
 I;제작서-페디미안 그리브;1;icon_item_boots_misc1
 I;제작서-페디미안 레깅스;1;icon_item_pants_misc1
 I;제작서-페디미안 실드;2;icon_item_shirts_misc1
-I;제작서-테넷 체인 팬츠;1;icon_item_pants_misc3
 I;제작서-컨트롤 뱅글;1;icon_item_bracelet_misc3
 I;제작서-테라리온;1;icon_item_necklace_misc4
 I;제작서-여신의 축복석;10;icon_item_recipe_misc1
@@ -109,14 +109,19 @@ I;컬렉션: 수정광산 2층;1;icon_item_box
 I;컬렉션: 수정광산 3층;1;icon_item_box
 I;컬렉션: 스라우타스 협곡;1;icon_item_box
 G;Armor
+I;갈라티카 그리브;1;icon_item_boots_frost
 I;카프리선 부츠;1;icon_item_boots_brigan
+I;바스티클 건틀릿;1;icon_item_iorn_glove_1
 I;카프리선 글로브;1;icon_item_gloves_brigan
+I;갈라티카 플레이트 팬츠;1;icon_item_pants_frost
 I;이브레 팬츠;1;icon_item_pants_animalLeather
+I;갈라티카 플레이트 아머;1;icon_item_shirts_frost
+I;갈라티카 플레이트 아머;1;icon_item_shirts_frost
 I;틸라 로브;1;icon_item_shirts_sage_white
 I;사이클롭스 아이;1;item_necklace_16
 I;츄파카브라 네클리스;1;item_necklace_11
-I;머스킷티어 코스튬;1;icon_item_archer_musketeer_f
-I;응사 코스튬;1;icon_item_falconer_f
+I;머스킷티어 코스튬;1;icon_item_archer_musketeer_m
+I;응사 코스튬;1;icon_item_falconer_m
 G;Premium
 I;소울 크리스탈;33;icon_item_soulCrystal
 I;워프 주문서;223;icon_item_warpPremium
@@ -174,7 +179,6 @@ I;돌 탄환;3;icon_item_Misc_00001
 I;파이라이트;2;32_item_ore_pyrite
 I;주석;1;1_item_ore_copper
 I;LV2 보물상자 열쇠;3;icon_item_key1
-I;우르바스 증표;1;icon_item_borutakey
 I;거대한 갈고리;2;icon_item_claw_01
 I;그루머 잎;7;icon_item_leaves_green
 I;그리바루 방울;2;icon_item_crystal_yellow
@@ -182,6 +186,7 @@ I;나무 말뚝;4;icon_item_wood_3
 I;노란 파이란 날개;3;icon_item_batwing
 I;러블렘 파편;1;icon_item_Misc_00006
 I;레비 털;42;icon_item_fur_01Yellow
+I;로데나콩 솜털;1;icon_item_fur_00White
 I;론도 껍질;3;icon_item_shell_blue
 I;루바보스 가죽;1;icon_item_Misc_00010
 I;리플라이 날개;2;icon_item_bugwing
@@ -195,6 +200,7 @@ I;부베 활대;1;icon_item_bubebow
 I;부베족의 증표;18;icon_item_bubetoken
 I;붉은 슬라임의 핵;1;38_item_ore_mercury
 I;붉은 위저드 주술 인형의 핵;1;38_item_ore_mercury
+I;사디피 결정 Lv1;5;KQ_recipe_hethran_material_1_1
 I;소나무;2;icon_item_wood_3
 I;소켓의 껍질;5;icon_item_shell_blue
 I;송진;2;37_item_ore_sulfur
@@ -205,6 +211,7 @@ I;식칼;3;icon_item_knife01
 I;아모리 판금;1;icon_item_ironbar03_s
 I;에큐바이트 더듬이;9;icon_item_feeler_purple
 I;에큐바이트 이빨;5;icon_item_tooth_blue
+I;오넨 정수 Lv1;4;KQ_recipe_hethran_material_1_2
 I;오염된 물;1;icon_item_Drug_51021
 I;요노움의 핵;15;icon_item_core_purple
 I;웬디고 이빨;1;icon_item_tooth_white
@@ -227,8 +234,8 @@ I;코카트리스 깃털;2;icon_item_feather_02Yellow
 I;콜리플라이 수술;1;icon_item_small_bag
 I;톤투리아의 가시;1;icon_item_thorn_Yellow
 I;트리펠리의 결정;1;icon_item_crystal_yellow
-I;로데나콩 솜털;1;icon_item_fur_00White
 I;판토족의 뿔;4;icon_item_pantohorn
+I;팔라팜 조각 Lv1;2;KQ_recipe_hethran_material_1_3
 I;포쿠부 가죽;1;icon_item_Misc_00011
 I;플로르;1;icon_item_crystal_green
 I;피라콘 잎;1;icon_item_leaves_red
@@ -236,15 +243,13 @@ I;하나밍 꽃잎;7;icon_item_HanamingPetal
 I;할로우벤터의 손뼈;2;icon_item_bone
 I;허니빈 침;14;icon_item_tooth_01Yellow
 I;회색 스타울리트 힘줄;4;icon_item_Leash
-I;사디피 결정 Lv1;5;KQ_recipe_hethran_material_1_1
-I;오넨 정수 Lv1;4;KQ_recipe_hethran_material_1_2
-I;팔라팜 조각 Lv1;2;KQ_recipe_hethran_material_1_3
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;경전 낱장;3;icon_item_paper
 I;공간의 문장;1;icon_item_void_01
 I;과거의 기억을 기록하는 보주;1;icon_item_Dreamshade
 I;물고기 채집망;1;icon_item_3cm_landing_net
+I;부베 독 견본;15;icon_item_Drug_exDEF1
 I;수정광산의 계시;1;icon_item_stonetablet
 I;쐐기침;1;icon_item_thorn_brown
 I;영험한 가루;1;icon_item_sesami
@@ -255,7 +260,6 @@ I;침묵 스크롤;1;icon_item_Spellbook_2
 I;클레릭 마스터의 신앙의 표식;1;icon_item_Gem_Elemental17
 I;템파스 버섯;2;icon_item_Pinemushroom
 I;호수 물고기;4;icon_item_sardine
-I;부베 독 견본;15;icon_item_Drug_exDEF1
 G;Weapon
 I;라이트 크랙드 슈터;1;icon_item_sealbow
 I;머스킷;1;Musket_it_w_oldpistol_1

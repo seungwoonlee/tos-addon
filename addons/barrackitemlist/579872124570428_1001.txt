@@ -1,6 +1,31 @@
 S;1001
 G;Unused
 I;실버;4325591;icon_item_silver
+G;Armor
+I;엘고스 부츠;1;icon_item_boots_scholar
+I;카울라스 레더 부츠;1;icon_item_boots_kaulas
+I;카프리선 부츠;1;icon_item_boots_brigan
+I;(바랜)칼리니스 글로브;1;icon_item_gloves_kailinis
+I;베르타스 카울라스 레더 글로브;1;icon_item_gloves_kaulas
+I;카프리선 글로브;1;icon_item_gloves_brigan
+I;크라이지어스 건틀릿;1;icon_item_gloves_kryzius
+I;(바랜)칼리니스 팬츠;1;icon_item_pants_kailinis
+I;카프리선 팬츠;1;icon_item_pants_brigan
+I;크라이지어스 플레이트 팬츠;1;icon_item_pants_kryzius
+I;(바랜)미간티스 실드;1;icon_item_miegantis_shield
+I;페버디마스 실드;1;icon_item_pabudimas_shield
+I;(바랜)칼리니스 로브;1;icon_item_shirts_kailinis
+I;베르타스 카울라스 레더 아머;1;icon_item_shirts_kaulas
+I;카프리선 아머;1;icon_item_shirts_brigan
+I;크라이지어스 플레이트 아머;1;icon_item_shirts_kryzius
+I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
+I;플랜츠 브레이슬릿;1;item_bracelet_18
+I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
+I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
+I;오라클 코스튬;1;icon_item_oracle_f
+I;질럿 컨트리션 코스튬;1;icon_item_zealot2_f
+I;질럿 퍼티션 코스튬;1;icon_item_zealot4_f
+I;프리스트 코스튬;1;icon_item_prist_f
 G;Drug
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;농축 HP포션 LV15;12;icon_item_HP_Alche
@@ -88,30 +113,8 @@ I;제작서-x4 경험의 서;2;icon_item_recipe_misc1
 I;제작서-x8 경험의 서;1;icon_item_recipe_misc1
 G;FishingRod
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
-G;Armor
-I;엘고스 부츠;1;icon_item_boots_scholar
-I;카울라스 레더 부츠;1;icon_item_boots_kaulas
-I;카프리선 부츠;1;icon_item_boots_brigan
-I;(바랜)칼리니스 글로브;1;icon_item_gloves_kailinis
-I;베르타스 카울라스 레더 글로브;1;icon_item_gloves_kaulas
-I;카프리선 글로브;1;icon_item_gloves_brigan
-I;크라이지어스 건틀릿;1;icon_item_gloves_kryzius
-I;(바랜)칼리니스 팬츠;1;icon_item_pants_kailinis
-I;카프리선 팬츠;1;icon_item_pants_brigan
-I;크라이지어스 플레이트 팬츠;1;icon_item_pants_kryzius
-I;(바랜)미간티스 실드;1;icon_item_miegantis_shield
-I;페버디마스 실드;1;icon_item_pabudimas_shield
-I;(바랜)칼리니스 로브;1;icon_item_shirts_kailinis
-I;베르타스 카울라스 레더 아머;1;icon_item_shirts_kaulas
-I;카프리선 아머;1;icon_item_shirts_brigan
-I;크라이지어스 플레이트 아머;1;icon_item_shirts_kryzius
-I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
-I;플랜츠 브레이슬릿;1;item_bracelet_18
-I;탐험가용 큰 붉은꽃 머리장식;1;hairacc_hat072
-I;오라클 코스튬;1;icon_item_oracle_f
-I;질럿 컨트리션 코스튬;1;icon_item_zealot2_f
-I;질럿 퍼티션 코스튬;1;icon_item_zealot4_f
-I;프리스트 코스튬;1;icon_item_prist_f
+G;Event
+I;[Episode11] 레벨업 상자 (380레벨);1;icon_item_giftBox_2
 G;Card
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
@@ -235,6 +238,14 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;확성기;202;icon_item_Mike
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;15레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;40레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;75레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;120레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;170레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;220레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;270레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;315레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 G;Material
 I;기슬로티스;80;icon_item_Gyslotis
 I;성수;280;icon_item_holywater
@@ -267,12 +278,11 @@ I;치넨시 잎;4;icon_item_bokchoyleaf
 I;케파 날개;1;icon_item_batwing
 I;케파 줄기;10;icon_item_stem_green
 I;코릴러스의 뿔;1;icon_item_pantohorn
-I;탈트;16;30_item_ore_talt
+I;[Episode11] 성장의 보석;4500;icon_item_crimson2
 I;포쿠부 가죽;3;icon_item_Misc_00011
 I;플로르;1;icon_item_crystal_green
 I;허밍버드의 날개;1;icon_item_bugwing
 I;호그마 전투대장 송곳니;1;icon_item_tooth_00Basic
-I;우르바스 증표;1;icon_item_borutakey
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;고원 사탕무;1;icon_item_beet

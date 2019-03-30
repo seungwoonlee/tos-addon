@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;99999;icon_item_silver
+I;실버;100000;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
@@ -85,15 +85,6 @@ I;확성기;20;icon_item_Mike
 I;딥디르비 스페셜 코스튬(여);1;icon_item_Cleric_dievdirbys01_3_f
 I;성직자용 심플 컬러 코스튬(여);1;cleric_simplecolor_f
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
-G;Armor
-I;바스티클 그리브;1;icon_item_iorn_boots_1
-I;바스티클 그리브;1;icon_item_iorn_boots_1
-I;아그니 네클리스;1;item_necklace_21
-I;나뭇잎 장식 투구;1;accessory_leafhelm
-I;딥디르비 코스튬;1;icon_item_dievdirbys_f
-I;플레이그닥터 코스튬;1;icon_item_cleric_plague_doctor_f
-I;질럿 컨트리션 코스튬;1;icon_item_zealot2_f
-I;질럿 퍼티션 코스튬;1;icon_item_zealot4_f
 G;Material
 I;모루;9;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
@@ -260,12 +251,10 @@ I;허밍버드의 날개;1;icon_item_bugwing
 I;호그마 엄니;1;icon_item_tooth_white
 I;호글란 부리;1;icon_item_small_bag
 I;호헨 가죽;1;icon_item_Misc_00011
-I;우르바스 증표;4;icon_item_borutakey
 I;소나무;2;icon_item_wood_3
 I;붉은 슬라임의 핵;1;38_item_ore_mercury
 I;붉은 위저드 주술 인형의 핵;1;38_item_ore_mercury
 I;귀환석;1;MercenaryBadge
-I;특성 포인트 100;2;icon_item_abilitypoint3
 G;Quest
 I;가시숲의 계시;1;icon_item_stonetablet
 I;공간의 문장;1;icon_item_void_01
@@ -296,6 +285,10 @@ I;잃어버린 연구 자료;11;icon_item_paper
 I;테넷 성당의 계시;1;icon_item_stonetablet
 I;하우벅 봉인조각;1;icon_item_Bezoari
 I;분홍 츄파루카의 심장;9;item_icon_heart_yellow
-G;Weapon
-I;베르타스 즈바이더 로드;1;icon_item_rod_nicopolis1
-I;라파이 파이크;1;icon_item_spear_twohand_lapai
+G;Armor
+I;아그니 네클리스;1;item_necklace_21
+I;나뭇잎 장식 투구;1;accessory_leafhelm
+I;딥디르비 코스튬;1;icon_item_dievdirbys_f
+I;플레이그닥터 코스튬;1;icon_item_cleric_plague_doctor_f
+I;질럿 컨트리션 코스튬;1;icon_item_zealot2_f
+I;질럿 퍼티션 코스튬;1;icon_item_zealot4_f

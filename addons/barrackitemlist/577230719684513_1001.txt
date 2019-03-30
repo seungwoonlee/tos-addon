@@ -91,7 +91,6 @@ I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;실드 차저;3;icon_item_ShieldCharge
 I;주석;4;1_item_ore_copper
 I;LV2 보물상자 열쇠;1;icon_item_key1
-I;우르바스 증표;1;icon_item_borutakey
 I;거대한 갈고리;9;icon_item_claw_01
 I;그루머 잎;6;icon_item_leaves_green
 I;글리자돈의 뼈;5;icon_item_bone

@@ -1,14 +1,14 @@
 S;1001
 G;Unused
-I;실버;99999;icon_item_silver
+I;실버;99207;icon_item_silver
 G;Drug
 I;100일 기념 포션;1;item_speed_requid_3
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;고농축 이동속도 증가 포션;10;item_speed_requid_1
-I;농축 HP포션 LV10;33;icon_item_HP_Alche
-I;농축 HP포션 LV15;26;icon_item_HP_Alche
-I;농축 SP포션 LV15;42;icon_item_SP_Alche
+I;농축 HP포션 LV10;32;icon_item_HP_Alche
+I;농축 HP포션 LV15;25;icon_item_HP_Alche
+I;농축 SP포션 LV15;40;icon_item_SP_Alche
 I;딸기;44;icon_item_Strawberry
 I;라프세이프 버섯;1;icon_item_Pinemushroom
 I;마법 공격력 포션;3;item_speed_requid_1
@@ -38,7 +38,7 @@ I;폭죽;35;icon_item_firework
 I;붉은 케파 조각;1;OnionPiece_Red
 I;LV10 경험치 카드;3;icon_item_expcard
 I;LV13 경험치 카드;7;icon_item_expcard
-I;LV14 경험치 카드;57;icon_item_expcard
+I;LV14 경험치 카드;104;icon_item_expcard
 I;레드 오브:트리암불로;1;icon_item_Dreamshade_red
 I;LV15 경험치 카드;9;icon_item_expcard
 G;Book
@@ -125,12 +125,10 @@ I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
 I;궁수의 앨리스 코스튬(여);1;icon_item_archer_alice_f
 I;쿼렐슈터 스페셜 코스튬(여);1;icon_item_archer_quarreelshooter01_3_f
 G;Armor
-I;제베넬리스 레더 팬츠;1;icon_item_leather_pants_1
 I;마크 팬츠;1;icon_item_pants_brigan
-I;바스티클 플레이트 아머;1;icon_item_iorn_shirt_1
 I;부베 뱅글;1;item_bracelet_16
 I;감정사 코스튬;1;icon_item_appraiser_f
-I;쿼렐슈터 코스튬;1;icon_item_quarrelshooter_f
+I;캐노니어 코스튬;1;icon_item_archer_cannoneer_f
 G;Material
 I;모루;17;icon_item_anvil
 I;황금 모루;3;icon_item_anvil_gold
@@ -303,9 +301,6 @@ I;호그마 엄니;6;icon_item_tooth_white
 I;호그마 전투대장 송곳니;1;icon_item_tooth_00Basic
 I;회색 스타울리트 힘줄;6;icon_item_Leash
 I;희미한 별빛의 결정;2;24_item_ore_topaz
-I;샤펜의 검은 꽃;1;icon_item_misc_0521
-I;우르바스 증표;1;icon_item_borutakey
-I;특성 포인트 100;8;icon_item_abilitypoint3
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;가시숲의 계시;1;icon_item_stonetablet
@@ -339,8 +334,10 @@ I;테넷 성당의 계시;1;icon_item_stonetablet
 I;펜듈럼;1;icon_item_pendulum
 I;푸른 원혼;1;icon_item_core_04Blue
 G;Weapon
+I;즈바이더 크로스보우;1;icon_item_crossbow_nicopolis1
 I;숏 보우;1;bow_shortbow
 I;셀프 보우;1;icon_item_selfbow
 I;쥬 스태프;1;icon_item_yew_staff
 I;캐논;1;cannon_canon
 I;마시니오스 캐논;1;icon_item_cannon_masinos
+I;캐논;1;cannon_canon

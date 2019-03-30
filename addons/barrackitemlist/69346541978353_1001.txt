@@ -1,6 +1,8 @@
 S;1001
 G;Unused
-I;실버;100038;icon_item_silver
+I;실버;100000;icon_item_silver
+G;PasteBait
+I;작은 은빛 물고기;15;icon_item_fish4
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
@@ -29,41 +31,8 @@ I;레드 오브:붉은 슬라임;1;icon_item_Dreamshade_red
 I;레드 오브:붉은 케파;1;icon_item_Dreamshade_red
 I;블루 오브:붉은 케파;1;icon_item_Dreamshade
 I;블루 오브:푸른 티니 궁수;1;icon_item_Dreamshade
+I;은빛 물고기;21;icon_item_fish2
 I;종이상자;1;icon_item_paperbox
-G;SubWeapon
-I;좌절 깃발;1;OTL_flag
-I;크리스마스 핸드벨;1;icon_item_artefact_bell
-G;Book
-I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
-I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
-I;그을린 실마리;1;icon_item_PILGRIM_PIECE
-I;낡은 일기;1;icon_item_collection_04Black
-I;남작 사병 차고스의 일지;1;icon_item_diary
-I;대해적과 하이레번 하권;1;icon_item_collection_00Basic
-I;록소나 내전 제 1장;1;icon_item_collection_01Red
-I;리디아 샤펜과 럼펠스틸스킨;1;icon_item_collection_02green
-I;리디아 샤펜과 플레쳐;1;icon_item_collection_00Basic
-I;리디아 샤펜의 교차선;1;icon_item_collection_04Black
-I;리디아 샤펜의 오늬;1;icon_item_collection_01Red
-I;버려진 일기장;1;icon_item_collection_00Basic
-I;베이키얼의 답장;1;icon_item_indulgence
-I;순례자의 쪽지;1;icon_item_Paper1
-I;아트만의 확장;1;icon_item_collection_03Blue
-I;완성된 바키스의 연구 자료;1;icon_item_Spellbook_1
-I;유언장;1;icon_item_Paper1
-I;이름 모를 모험가의 일지;1;icon_item_diary
-I;장교 일지 상편;1;icon_item_collection_02green
-I;장교 일지 하편;1;icon_item_collection_03Blue
-I;찢어진 일기;1;icon_item_magicpaper
-I;찢어진 일기의 일부 1;1;icon_item_paperpiece
-I;찢어진 일기의 일부 3;1;icon_item_paperpiece
-I;카듀멜 시대의 갑주;1;icon_item_collection_04Black
-I;카롤리스 이야기 1권;1;icon_item_collection_04Black
-I;카롤리스 이야기 2권;1;icon_item_collection_02green
-I;타다 만 일지를 적은 메모;1;icon_item_paperpiece
-I;현대 마스터 총람 2권;1;icon_item_collection_01Red
-G;Recipe
-I;제작서-샤인 브레이슬릿;1;icon_item_bracelet_misc3
 G;Collection
 I;컬렉션: 그리나스 구릉지;1;icon_item_box
 I;컬렉션: 그리나스 숲길;1;icon_item_box
@@ -103,6 +72,103 @@ I;컬렉션: 파마르 숲;1;icon_item_box
 I;컬렉션: 파수꾼의 묘역;1;icon_item_box
 I;컬렉션: 페레토리 구릉;1;icon_item_box
 I;컬렉션: 피스티스 숲;1;icon_item_box
+G;Event
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 500 (14일);1;icon_item_abilitypoint2
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+G;Book
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
+I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
+I;그을린 실마리;1;icon_item_PILGRIM_PIECE
+I;낡은 일기;1;icon_item_collection_04Black
+I;남작 사병 차고스의 일지;1;icon_item_diary
+I;대해적과 하이레번 하권;1;icon_item_collection_00Basic
+I;록소나 내전 제 1장;1;icon_item_collection_01Red
+I;리디아 샤펜과 럼펠스틸스킨;1;icon_item_collection_02green
+I;리디아 샤펜과 플레쳐;1;icon_item_collection_00Basic
+I;리디아 샤펜의 교차선;1;icon_item_collection_04Black
+I;리디아 샤펜의 오늬;1;icon_item_collection_01Red
+I;버려진 일기장;1;icon_item_collection_00Basic
+I;베이키얼의 답장;1;icon_item_indulgence
+I;순례자의 쪽지;1;icon_item_Paper1
+I;아트만의 확장;1;icon_item_collection_03Blue
+I;완성된 바키스의 연구 자료;1;icon_item_Spellbook_1
+I;유언장;1;icon_item_Paper1
+I;이름 모를 모험가의 일지;1;icon_item_diary
+I;장교 일지 상편;1;icon_item_collection_02green
+I;장교 일지 하편;1;icon_item_collection_03Blue
+I;찢어진 일기;1;icon_item_magicpaper
+I;찢어진 일기의 일부 1;1;icon_item_paperpiece
+I;찢어진 일기의 일부 3;1;icon_item_paperpiece
+I;카듀멜 시대의 갑주;1;icon_item_collection_04Black
+I;카롤리스 이야기 1권;1;icon_item_collection_04Black
+I;카롤리스 이야기 2권;1;icon_item_collection_02green
+I;타다 만 일지를 적은 메모;1;icon_item_paperpiece
+I;현대 마스터 총람 2권;1;icon_item_collection_01Red
+G;Recipe
+I;제작서-샤인 브레이슬릿;1;icon_item_bracelet_misc3
+G;FishingRod
+I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
+G;SubWeapon
+I;좌절 깃발;1;OTL_flag
+I;크리스마스 핸드벨;1;icon_item_artefact_bell
 G;Premium
 I;몬스터 젬 선택 상자: 직업;2;icon_item_jewelrybox_close
 I;소울 크리스탈;20;icon_item_soulCrystal
@@ -127,6 +193,14 @@ I;마타도르 벨라니멀 코스튬;1;icon_item_warrior_matador03_f
 I;펜서 코스튬;1;icon_item_fencer_f
 G;Material
 I;황금 모루;2;icon_item_anvil_gold
+I;5성 젬 연마제:14일;1;icon_item_powderp
+I;5성 젬 연마제:14일;1;icon_item_powderp
+I;강화용 카드 : 500 (14일);1;monster_card
+I;강화용 카드 : 500 (14일);1;monster_card
+I;강화용 카드 : 500 (14일);1;monster_card
+I;강화용 카드 : 500 (14일);1;monster_card
+I;강화용 카드 : 500 (14일);1;monster_card
+I;강화용 카드 : 500 (14일);1;monster_card
 I;크리오라이트;7;39_icon_item_Cry8rite
 I;파이라이트;10;32_item_ore_pyrite
 I;강철 광석;14;3_item_ore_steel
@@ -325,7 +399,6 @@ I;호그마 엄니;7;icon_item_tooth_white
 I;호그마 전투대장 송곳니;2;icon_item_tooth_00Basic
 I;호글란 부리;4;icon_item_small_bag
 I;호헨 가죽;2;icon_item_Misc_00011
-I;우르바스 증표;1;icon_item_borutakey
 I;차원의 정수;1;icon_item_Gem_Stone_INT
 I;귀환석;1;MercenaryBadge
 G;Quest

@@ -38,7 +38,7 @@ I;화이트 젬;Lv7;item_icon_twentyside150
 I;레드 젬;Lv7;item_icon_circle150
 I;레드 젬;Lv7;item_icon_circle150
 I;레드 젬;Lv7;item_icon_circle150
-I;레드 젬;Lv6;item_icon_circle150
+I;레드 젬;Lv7;item_icon_circle150
 I;레드 젬;Lv6;item_icon_circle150
 I;레드 젬;Lv6;item_icon_circle150
 I;레드 젬;Lv6;item_icon_circle150
@@ -130,74 +130,22 @@ I;붉은 슬라임의 젬;Lv1;gem_mon_Slime_red
 I;붉은 슬라임의 젬;Lv1;gem_mon_Slime_red
 I;붉은 슬라임의 젬;Lv1;gem_mon_Slime_red
 I;LV14 경험치 카드;29;icon_item_expcard
-C;223467148413019
-I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
-I;노비스 네클리스;1;item_necklace_10
-I;매직 우든 스태프;1;Mage_f_staff_woodenstick
-I;발타스 모닝스타;1;Hogma_club
-I;보급용 SP포션;351;item_SP_requid_2
-I;보급용 작은 HP포션;241;item_HP_oil_1
-I;보급용 작은 SP포션;635;item_SP_requid_1
-I;선쿠스 마울;1;mace_maul
-I;오페러의 젬;Lv1;gem_mon_operor
-I;케파 인형;1;hairacc_48_cepadoll
-I;보급용 큰 HP포션;205;item_HP_oil_3
-I;보급용 큰 SP포션;200;item_SP_requid_3
-I;보급용 HP포션;215;item_HP_oil_2
-I;LV14 경험치 카드;5;icon_item_expcard
-I;LV6 경험치 카드;5;icon_item_expcard
-C;755772510175514
-I;(바랜)워메이지 로브;1;icon_item_warmage_robe
-I;(바랜)이글스타 레더 글로브;1;icon_item_eaglestar_gloves
-I;(바랜)이글스타 레더 아머;1;icon_item_eaglestar_armor
-I;(바랜)이글스타 레더 팬츠;1;icon_item_eaglestar_pants
-I;(바랜)이스턴 레더 부츠;1;icon_item_eastengarden_boots
-I;(바랜)이스턴 레더 아머;1;icon_item_eastengarden_armor
-I;아틸로늄;150;18_item_plantite
-I;뉴클 가루;5238;icon_item_breakpowder_1
-I;시에라 가루;649;icon_item_breakpowder_2
-I;(바랜)이스턴 레더 팬츠;1;icon_item_eastengarden_pants
-I;카프리선 팬츠;1;icon_item_pants_brigan
-I;카프리선 아머;1;icon_item_shirts_brigan
-I;오팔;44;25_item_ore_opal
-I;혈석;33;34_item_ore_blood_stone
-I;옵시디안;35;27_item_ore_obsidian
-I;프락토늄;32;icon_item_crystal_High
-I;축복받은 조각;254;icon_item_Gem_Elemental1
-I;여신의 축복석;43;icon_item_transcendence_Stone
-I;노비스 뱅글;1;item_bracelet_15
-I;펄 브레이슬릿;1;item_bracelet_05
-I;펄 브레이슬릿;1;item_bracelet_05
-I;울스터마이트;294;item_icon_teraingot
-I;펠트레민;259;item_icon_pideingot
-I;페리도트;18;28_item_ore_peridot
-I;토파즈;32;24_item_ore_topaz
-I;불길한 영혼 파편;6;icon_item_misc_dust
-I;불길한 영혼 조각;3;icon_item_misc_rubble
-I;파이크;1;warrior_f_spear_pike
-I;페리니움;3;7_item_ore_magnesite
-I;가넷;53;26_item_ore_garnet
-I;루비;83;26_item_ore_garnet
-I;지르콘;27;29_item_ore_zircon
-I;피데슘;733;5_item_ore_fluorite
-I;이실딘 광석;265;9_item_ore_orichalcon
-I;테라늄;721;36_item_ore_lapis_philosophorum
-I;리디아의 붉은 꽃;71;icon_item_misc_0519
-I;샤펜의 검은 꽃;11;icon_item_misc_0521
-I;별빛이 깃든 이슬;14;icon_item_misc_0520
-I;다이아몬드;23;icon_item_dia2
-I;플로르;43;icon_item_crystal_green
-I;이오니움;888;icon_item_crystal_yellow
-I;안데슘;866;icon_item_crystal_red
-I;별의 인도자 램프;7;icon_item_misc_0522
-I;로열 블레이드 파편;55;icon_item_misc_0529
-I;영광의 촛대;15;icon_item_misc_0525
-I;보늬 교훈의 화살;10;icon_item_misc_0524
-I;리디아 샤펜의 확장된 렌즈;6;icon_item_misc_0523
-I;사파이어;8;39_icon_item_Cry8rite
-I;레지네이트;31;16_item_treenite
-I;미스릴 광석;87;13_item_mythril
-I;포르튬;4;20_item_ore_tachyum
+C;256229158945736
+I;(바랜)파마네 로드;1;icon_item_rod_pumpkinwitch
+I;(바랜)페버디마스 로드;1;icon_item_pabudimas_rod
+I;베르타스 라파이 스태프;1;icon_item_staff_lapai
+I;페버디마스 스태프;1;icon_item_pabudimas_staff
+I;갈라티카 플레이트 아머;1;icon_item_shirts_frost
+I;이렐리스 글로브;1;icon_item_cloth_glove_1
+I;제베넬리스 레더 글로브;1;icon_item_leather_glove_1
+I;케이스타스 회복포션Lv1;98;item_HPSP_potion_1
+I;케이스타스 회복포션Lv4;20;item_HPSP_potion_3
+I;보급용 큰 HP포션;100;item_HP_oil_3
+I;보급용 큰 SP포션;100;item_SP_requid_3
+C;546457279006159
+I;보급용 작은 SP포션;300;item_SP_requid_1
+I;초록 플라마그의 젬;Lv1;gem_mon_flamag_green
+I;LV14 경험치 카드;1;icon_item_expcard
 C;852379209564238
 C;223471443381435
 I;(바랜)옥시니스 글로브;1;icon_item_gloves_Auksinis
@@ -206,9 +154,8 @@ I;(바랜)옥시니스 부츠;1;icon_item_boots_Auksinis
 I;(바랜)옥시니스 팬츠;1;icon_item_pants_Auksinis
 I;예티 카드;Lv1;icon_item_card_util
 I;스펙터 군주 카드;Lv1;icon_item_card_util
-I;프락토늄;1;icon_item_crystal_High
-I;축복받은 조각;4;icon_item_Gem_Elemental1
-I;탈트;90;30_item_ore_talt
+I;폴쳔;1;icon_item_Sword_23
+I;아틸로늄;2;18_item_plantite
 I;마크 부츠;1;icon_item_boots_brigan
 I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
 I;노블 브레이슬릿;1;item_bracelet_03
@@ -223,7 +170,6 @@ I;보급용 작은 SP포션;232;item_SP_requid_1
 I;보급용 작은 스태미나 알약;28;item_STA_pill_1
 I;보급용 작은 회복포션;2;item_HPSP_potion_1
 I;블루 오브:체이퍼러;1;icon_item_Dreamshade
-I;폴쳔;1;icon_item_Sword_23
 I;숏 보우;1;bow_shortbow
 I;슈페리어 뱅글;1;item_bracelet_15
 I;스태미나 알약;5;item_STA_pill_2
@@ -231,109 +177,15 @@ I;스틸 체인 글로브;1;icon_item_gloves_chain
 I;스틸 체인 메일;1;icon_item_shirts_chain
 I;아이보리 팬던트;1;item_necklace_08
 I;아이보리 팬던트;1;item_necklace_08
+I;우르바스 증표;2;icon_item_borutakey
 I;카스카라;1;icon_item_Sword_24
 I;케이스타스 HP포션 Lv2;15;item_HP_oil_2
 I;케이스타스 SP포션 Lv2;15;item_SP_requid_2
 I;케이스타스 회복포션Lv4;174;item_HPSP_potion_3
-C;156186485724229
-I;보급용 HP포션;7;item_HP_oil_2
-I;보급용 SP포션;240;item_SP_requid_2
-I;보급용 SP포션 LV10;50;item_SP_requid_3
-I;보급용 작은 SP포션;690;item_SP_requid_1
-I;보급용 작은 스태미나 알약;28;item_STA_pill_1
-I;스태미나 알약;5;item_STA_pill_2
-I;(바랜)옥시니스 부츠;1;icon_item_boots_Auksinis
-I;실버 폴쳔;1;icon_item_Falchion_up_silver
-I;로얄 메이지 글로브;1;icon_item_gloves_royalMage
-I;말레딕;1;icon_item_yew_staff
-I;츄파카브라 네클리스;1;item_necklace_11
-I;케이스타스 HP포션 Lv2;10;item_HP_oil_2
-I;케이스타스 SP포션 Lv2;10;item_SP_requid_2
-I;케이스타스 회복포션Lv1;7;item_HPSP_potion_1
-I;케이스타스 회복포션Lv2;14;item_HPSP_potion_2
-I;큰 스태미나 알약;5;item_STA_pill_3
-I;탈리스만;1;item_necklace_19
-I;알터 로드;1;Mage_f_staff_altar_staff
-I;허밍버드의 젬;Lv1;gem_mon_Humming_bud
-I;초록 어패리션의 젬;Lv1;gem_mon_Spector_Gh
-I;콜리타일의 젬;Lv1;gem_mon_colitile
-I;엘렛의 젬;Lv1;gem_mon_Elet
-I;여신의 축복석;1;icon_item_transcendence_Stone
-I;LV14 경험치 카드;5;icon_item_expcard
-C;766608712663119
-I;보급용 작은 HP포션;17;item_HP_oil_1
-I;보급용 작은 SP포션;10;item_SP_requid_1
-I;갈라티카 플레이트 아머;1;icon_item_shirts_frost
-I;갈라티카 플레이트 팬츠;1;icon_item_pants_frost
-I;베르타스 갈라티카 그리브;1;icon_item_boots_frost
-I;베르타스 제베넬리스 레더 부츠;1;icon_item_leather_boots_1
-I;즈바이더 보우;1;icon_item_bow_nicopolis1
-I;즈바이더 파이크;1;icon_item_thspear_nicopolis1
-I;그루머의 젬;Lv1;gem_mon_grummer
-I;그루머의 젬;Lv1;gem_mon_grummer
-I;그루머의 젬;Lv1;gem_mon_grummer
-I;대지의 스펙트라의 젬;Lv1;gem_mon_spector_F_purple
-I;LV2 경험치 카드;6;icon_item_expcard
-I;LV5 경험치 카드;4;icon_item_expcard
-I;LV13 경험치 카드;7;icon_item_expcard
-I;LV14 경험치 카드;77;icon_item_expcard
-C;60168196861625
-I;지혜의 열매;1;icon_item_wisdomberry
-I;부베 투사 건틀릿;1;icon_item_gloves_bubewarrior
-I;사우시스 글로브;1;icon_item_gloves_skull
-I;프리머스 제베넬리스 레더 팬츠;1;icon_item_leather_pants_1
-I;스컬 스매셔;1;icon_item_mace_regardhorn
-I;에멘가드 실드;1;icon_item_shield_regardhorn
-I;막스 페타미온;1;item_necklace_12
-I;보급용 SP포션 LV10;473;item_SP_requid_3
-I;보급용 SP포션;351;item_SP_requid_2
-I;보급용 작은 SP포션;687;item_SP_requid_1
-I;보급용 작은 HP포션;40;item_HP_oil_1
-I;케이스타스 회복포션Lv4;41;item_HPSP_potion_3
-I;클라로의 젬;Lv1;gem_mon_claro
-I;클라로의 젬;Lv1;gem_mon_claro
-I;하나밍의 젬;Lv1;gem_mon_hanaming
-I;LV13 경험치 카드;12;icon_item_expcard
-I;LV14 경험치 카드;110;icon_item_expcard
-C;335643104248975
-I;(바랜)키아크 레더 글로브;1;icon_item_kiarc_gloves
-I;링 브레이슬릿;1;item_bracelet_19
-I;분노의 목걸이;1;item_NECK_PILGRIM_03_SPR
-I;도요르의 젬;Lv1;gem_mon_Doyor
-I;엘마의 젬;Lv1;gem_mon_Elma
-I;로델린의 젬;Lv1;gem_mon_zombiegirl2
-I;푸른 프라가라스의 젬;Lv1;gem_mon_flower_blue
-I;레비의 젬;Lv1;gem_mon_rabbee
-I;홀리 파우더;20863;icon_item_powderw
-I;농축 SP포션 LV15;4;icon_item_SP_Alche
-I;복숭아;14;icon_item_Peach
-I;포포리온 고기;1;icon_item_meat_02
-I;고농축 HP포션;94;item_HP_oil_3
-I;매두스;12;icon_item_Medus
-I;보급용 SP포션;380;item_SP_requid_2
-I;기슬로티스;22438;icon_item_Gyslotis
-I;딸기;18;icon_item_Strawberry
-I;양피지;500;icon_item_Misc_00020
-I;보급용 작은 스태미나 알약;28;item_STA_pill_1
-I;성수;13219;icon_item_holywater
-I;해독제;22;icon_item_Quest_00020
-I;농축 HP포션 LV10;10;icon_item_HP_Alche
-I;보급용 이동속도 증가 포션;3;item_speed_requid_1
-I;고농축 SP포션;99;item_SP_requid_3
-I;보급용 작은 SP포션;719;item_SP_requid_1
-I;보급용 작은 회복포션;3;item_HPSP_potion_1
-I;프리머스 바스티클 건틀릿;1;icon_item_iorn_glove_1
-I;(바랜)워메이지 부츠;1;icon_item_warmage_boots
-I;(바랜)스우리트 플레이트 팬츠;1;icon_item_swoolite_leg
-I;(바랜)이글스타 레더 아머;1;icon_item_eaglestar_armor
-I;라파이 대거;1;icon_item_dagger_lapai
-I;윈디아 로드;1;icon_item_staff_holeofglory
-I;자카리엘 뱅글;1;item_bracelet_10
-I;자카리엘 뱅글;1;item_bracelet_10
-I;분노의 목걸이;1;item_NECK_PILGRIM_03_SPR
-I;애니무스;1;item_necklace_07
-I;크리스탈 뱅글;1;item_bracelet_15
-I;LV14 경험치 카드;1;icon_item_expcard
+I;미스릴 광석;20;13_item_mythril
+I;축복받은 조각;4;icon_item_Gem_Elemental1
+I;프락토늄;1;icon_item_crystal_High
+I;탈트;117;30_item_ore_talt
 C;525751241671427
 I;클라로의 젬;Lv1;gem_mon_claro
 I;(바랜)이글스타 레더 부츠;1;icon_item_eaglestar_boots
@@ -382,7 +234,7 @@ I;포레스트 레더 글로브;1;icon_item_gloves_forest
 I;스틸 네클리스;1;item_necklace_10
 I;로네사 클라페다 체인;1;item_necklace_09
 I;룬 팬던트;1;item_necklace_10
-I;일렉트라 네클리스;1;item_necklace_21_yellow
+I;일렉투스;1;item_necklace_19
 I;츄파카브라 네클리스;1;item_necklace_11
 I;(바랜)워메이지 부츠;1;icon_item_warmage_boots
 I;포레스트 레더 글로브;1;icon_item_gloves_forest
@@ -394,154 +246,79 @@ I;클라페다 체인;1;item_necklace_09
 I;케파 팬던트;1;item_necklace_10
 I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
 I;식탐의 목걸이;1;item_NECK_PILGRIM_01_PWR
-I;일렉투스;1;item_necklace_19
-C;69346541978353
-I;고덴닥;1;mace_goedendag
-I;농축 SP포션 LV10;27;icon_item_SP_Alche
-I;베르타스 플라네타 로브;1;icon_item_baronwear_armor
-I;부베 투사 건틀릿;1;icon_item_gloves_bubewarrior
-I;사우시스 레더 부츠;1;icon_item_boots_skull
-I;윈드 러너;1;icon_item_boots_knight
-I;프리머스 제베넬리스 레더 부츠;1;icon_item_leather_boots_1
-I;프리머스 제베넬리스 레더 아머;1;icon_item_leather_shirt_1
-I;(바랜)스몰 크리스타라스;1;icon_item_dagger_cristal
-I;피에타스 레더 부츠;1;icon_item_9rank_leather_02_boots
-I;LV11 경험치 카드;6;icon_item_expcard
-I;LV14 경험치 카드;22;icon_item_expcard
-I;블랙 혼;1;icon_item_warrior_f_rapier_ebonian
-I;LV10 경험치 카드;1;icon_item_expcard
-I;보급용 SP포션;179;item_SP_requid_2
-I;보급용 SP포션 LV10;656;item_SP_requid_3
-I;보급용 이동속도 증가 포션;6;item_speed_requid_1
-I;아이언 보우;1;selfbow_up
-I;오크 크로스보우;1;icon_item_oak_crossbow
-I;케이스타스 HP포션 Lv2;8;item_HP_oil_2
-I;케이스타스 HP포션 Lv3;4;item_HP_oil_2
-I;케이스타스 SP포션 Lv2;14;item_SP_requid_2
-I;케이스타스 수호의 포션;28;icon_item_Drug_exDEF1
-I;케이스타스 용맹의 포션;29;icon_item_Drug_exATK1
-I;케이스타스 회복포션Lv2;11;item_HPSP_potion_2
-I;케이스타스 회복포션Lv3;4;item_HPSP_potion_3
-I;케이스타스 회복포션Lv4;35;item_HPSP_potion_3
-I;포레스트 레더 아머;1;icon_item_shirts_forest
-I;포레스트 레더 팬츠;1;icon_item_pants_forest
-I;폴쳔;1;icon_item_Sword_23
-I;폴쳔;1;icon_item_Sword_23
-I;폴쳔;1;icon_item_Sword_23
-I;호크 보우;1;bow_sniper_bow
-C;837166435403782
-I;기사단장 우스카의 뱅글;1;icon_item_eventbracelet02
-I;아르데 대거;1;icon_item_main-gauche
-I;아르데 대거;1;icon_item_main-gauche
-I;케도란 크리스 대거;1;icon_item_f_dagger_kreive
-I;보급용 작은 SP포션;235;item_SP_requid_1
-I;마나마나;1;icon_item_leveractionpistol
-I;머슈카리아 모자;1;hairacc_23_mushcariahat
-I;(바랜)스몰 크리스타라스;1;icon_item_dagger_cristal
-I;카프리선 글로브;1;icon_item_gloves_brigan
-I;카프리선 부츠;1;icon_item_boots_brigan
-I;카프리선 아머;1;icon_item_shirts_brigan
-I;카프리선 팬츠;1;icon_item_pants_brigan
-C;1
-C;779485024616731
-I;바브드 애로우;10450;item_icon_arrow_barbedhead
-I;헤일매리 애로우;7918;item_icon_hail_mary_arrow
-I;매직 애로우;2351;icon_item_magicarrow
-I;보드킨 포인트 애로우;9209;item_icon_bodkinpoint_arrow
-I;브로드 헤드 애로우;5832;item_icon_arrow_barbedhead
-I;시커;1;bow_recurve_bow
-I;스트롱 보우;1;bow_wooden_compound_bow
-I;새비지 보우;1;bow_rokas_bow
-I;오크 크로스보우;1;icon_item_oak_crossbow
-I;스트롱 보우;1;bow_wooden_compound_bow
-I;[결속] 베르타스 라파이 보우;1;icon_item_bow_lapai
-I;머슈카리아 모자;1;hairacc_23_mushcariahat
-I;신기전;1318;icon_item_singijon
-I;파이라이트 팬던트;1;item_necklace_01
-I;시즈 보우;1;bow_siege_bow
-I;베르타스 미간티스 보우;1;icon_item_miegantis_bow
-I;스트롱 보우;1;bow_wooden_compound_bow
-I;베르타스 이븐 아이;1;icon_item_emerald_TH
-I;보급용 농축 HP포션 LV15;200;item_HP_oil_3
-I;보급용 농축 SP포션 LV15;200;item_SP_requid_3
-I;보급용 작은 HP포션;44;item_HP_oil_1
-I;보급용 작은 SP포션;359;item_SP_requid_1
-I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
-I;탈리스만;1;item_necklace_19
-I;케파 인형;1;hairacc_48_cepadoll
-I;카너버 네클리스;1;item_necklace_17
-I;[결속] 베르타스 라파이 크로스보우;1;icon_item_crossbow_lapai
-I;[결속] 베르타스 라파이 피스톨;1;icon_item_pistol_lapai
-I;[결속] 베르타스 라파이 대거;1;icon_item_dagger_lapai
-I;호그마 궁수의 젬;Lv1;gem_mon_hogma_archer
-I;주황 단델의 젬;Lv1;gem_mon_dandel_orange
-I;플로론의 젬;Lv1;gem_mon_floron
-C;853775073935435
-C;546457279006159
-I;보급용 작은 SP포션;300;item_SP_requid_1
-I;초록 플라마그의 젬;Lv1;gem_mon_flamag_green
-I;LV14 경험치 카드;1;icon_item_expcard
-C;256229158945736
-I;(바랜)파마네 로드;1;icon_item_rod_pumpkinwitch
-I;(바랜)페버디마스 로드;1;icon_item_pabudimas_rod
-I;베르타스 라파이 스태프;1;icon_item_staff_lapai
-I;페버디마스 스태프;1;icon_item_pabudimas_staff
+I;전환의 수정조각;3;icon_item_BlokenMirror
+C;766608712663119
+I;보급용 작은 HP포션;17;item_HP_oil_1
+I;보급용 작은 SP포션;10;item_SP_requid_1
 I;갈라티카 플레이트 아머;1;icon_item_shirts_frost
-I;이렐리스 글로브;1;icon_item_cloth_glove_1
-I;제베넬리스 레더 글로브;1;icon_item_leather_glove_1
-I;케이스타스 회복포션Lv1;98;item_HPSP_potion_1
-I;케이스타스 회복포션Lv4;20;item_HPSP_potion_3
-I;보급용 큰 HP포션;100;item_HP_oil_3
-I;보급용 큰 SP포션;100;item_SP_requid_3
-C;649957400904830
-I;(바랜)스파이크 킨들;1;icon_item_shield_thorns
-I;(바랜)칼리니스 글로브;1;icon_item_gloves_kailinis
-I;(바랜)칼리니스 로브;1;icon_item_shirts_kailinis
-I;(바랜)칼리니스 부츠;1;icon_item_boots_kailinis
-I;(바랜)칼리니스 팬츠;1;icon_item_pants_kailinis
-I;(바랜)칼리니스 팬츠;1;icon_item_pants_kailinis
-I;(바랜)페버디마스 실드;1;icon_item_pabudimas_shield
-I;고덴닥;1;mace_goedendag
-I;다크 부라와;1;mace_bulawa_red
-I;듀로 데미온소드;1;warrior_f_sword_demyon_dagger_yellow
-I;롱 보우;1;bow_longbow
-I;마크 글로브;1;icon_item_gloves_brigan
-I;마크 부츠;1;icon_item_boots_brigan
-I;바스티클 그리브;1;icon_item_iorn_boots_1
-I;바스티클 플레이트 아머;1;icon_item_iorn_shirt_1
-I;베르타스 라파이 로드;1;icon_item_rod_lapai
-I;비트 코로나 로드;1;icon_item_rune_staff
-I;사브르;1;icon_item_Sword_26
-I;사브르;1;icon_item_Sword_26
-I;서번트 로드;1;icon_item_rune_staff
-I;선쿠스 마울;1;mace_maul
-I;셀프 보우;1;icon_item_selfbow
-I;아스턴 로드;1;icon_item_ring2
-I;아스턴 스태프;1;Mage_f_staff_geometrystick
-I;아스턴 스피어;1;winged_spear
-I;아이스 로드;1;staff_cane_lowver_up
-I;아이스 로드;1;staff_cane_lowver_up
-I;에스폰툰;1;esponton
-I;에스폰툰;1;esponton
-I;에키 슬레지 해머;1;mace_sledgehammer_purple
-I;우든 카이트 실드;1;icon_item_Shield_8
-I;카스카라;1;icon_item_Sword_24
-I;카이트 실드;1;icon_item_Shield_9
-I;크라이지어스 건틀릿;1;icon_item_gloves_kryzius
-I;크라이지어스 그리브;1;icon_item_boots_kryzius
-I;크라이지어스 플레이트 아머;1;icon_item_shirts_kryzius
-I;크라이지어스 플레이트 팬츠;1;icon_item_pants_kryzius
-I;크로스보우;1;icon_item_crossbow
-I;크룩;1;icon_item_crook
-I;클라이다 그리브;1;icon_item_boots_insect
-I;클라이다 그리브;1;icon_item_boots_insect
-I;클라이다 스커트;1;icon_item_pants_insect
-I;파이브 해머;1;mace_blacksmith
-I;페버디마스 소드;1;icon_item_pabudimas_sword
-I;페버디마스 투 핸드 메이스;1;icon_item_pabudimas_mace_twohand
-I;폴쳔;1;icon_item_Sword_23
-I;헌팅 리치 보우;1;icon_item_coritos
-I;헌팅 리치 보우;1;icon_item_coritos
+I;갈라티카 플레이트 팬츠;1;icon_item_pants_frost
+I;베르타스 갈라티카 그리브;1;icon_item_boots_frost
+I;베르타스 제베넬리스 레더 부츠;1;icon_item_leather_boots_1
+I;즈바이더 보우;1;icon_item_bow_nicopolis1
+I;즈바이더 파이크;1;icon_item_thspear_nicopolis1
+I;그루머의 젬;Lv1;gem_mon_grummer
+I;그루머의 젬;Lv1;gem_mon_grummer
+I;그루머의 젬;Lv1;gem_mon_grummer
+I;대지의 스펙트라의 젬;Lv1;gem_mon_spector_F_purple
+I;LV2 경험치 카드;6;icon_item_expcard
+I;LV5 경험치 카드;4;icon_item_expcard
+I;LV13 경험치 카드;7;icon_item_expcard
+I;LV14 경험치 카드;77;icon_item_expcard
+C;790377061681688
+I;누카의 젬;Lv1;gem_mon_Nuka
+I;채퍼리션 소드;1;icon_item_snickersnee_up
+I;카타콤 클럽;1;mace_typhon_hammer_purple
+I;(바랜)카울라스 레더 아머;1;icon_item_shirts_kaulas
+I;(바랜)카울라스 레더 팬츠;1;icon_item_pants_kaulas
+I;(바랜)카울라스 레더 부츠;1;icon_item_boots_kaulas
+I;기사단장 우스카의 뱅글;1;icon_item_eventbracelet02
+I;기사단장 우스카의 뱅글;1;icon_item_eventbracelet02
+I;워리어 팬던트;1;item_necklace_05
+I;식탐의 목걸이;1;item_NECK_PILGRIM_01_PWR
+I;비엔나라지스 투 핸드 메이스;1;icon_item_mace_whiteholse_twohand
+I;디델 타워 실드;1;icon_item_shield_fedimiantower
+I;스파타;1;icon_item_Sword_27
+I;오트라바 실드;1;kalkan_green
+I;피레네 소드;1;icon_item_sword_rebal
+C;335643104248975
+I;(바랜)키아크 레더 글로브;1;icon_item_kiarc_gloves
+I;링 브레이슬릿;1;item_bracelet_19
+I;분노의 목걸이;1;item_NECK_PILGRIM_03_SPR
+I;도요르의 젬;Lv1;gem_mon_Doyor
+I;엘마의 젬;Lv1;gem_mon_Elma
+I;로델린의 젬;Lv1;gem_mon_zombiegirl2
+I;푸른 프라가라스의 젬;Lv1;gem_mon_flower_blue
+I;레비의 젬;Lv1;gem_mon_rabbee
+I;홀리 파우더;20863;icon_item_powderw
+I;농축 SP포션 LV15;4;icon_item_SP_Alche
+I;복숭아;14;icon_item_Peach
+I;포포리온 고기;1;icon_item_meat_02
+I;고농축 HP포션;94;item_HP_oil_3
+I;매두스;12;icon_item_Medus
+I;보급용 SP포션;380;item_SP_requid_2
+I;기슬로티스;22438;icon_item_Gyslotis
+I;딸기;18;icon_item_Strawberry
+I;양피지;500;icon_item_Misc_00020
+I;보급용 작은 스태미나 알약;28;item_STA_pill_1
+I;성수;13219;icon_item_holywater
+I;해독제;22;icon_item_Quest_00020
+I;농축 HP포션 LV10;10;icon_item_HP_Alche
+I;보급용 이동속도 증가 포션;3;item_speed_requid_1
+I;고농축 SP포션;99;item_SP_requid_3
+I;보급용 작은 SP포션;719;item_SP_requid_1
+I;보급용 작은 회복포션;3;item_HPSP_potion_1
+I;프리머스 바스티클 건틀릿;1;icon_item_iorn_glove_1
+I;(바랜)워메이지 부츠;1;icon_item_warmage_boots
+I;(바랜)스우리트 플레이트 팬츠;1;icon_item_swoolite_leg
+I;(바랜)이글스타 레더 아머;1;icon_item_eaglestar_armor
+I;라파이 대거;1;icon_item_dagger_lapai
+I;윈디아 로드;1;icon_item_staff_holeofglory
+I;자카리엘 뱅글;1;item_bracelet_10
+I;자카리엘 뱅글;1;item_bracelet_10
+I;분노의 목걸이;1;item_NECK_PILGRIM_03_SPR
+I;애니무스;1;item_necklace_07
+I;크리스탈 뱅글;1;item_bracelet_15
+I;LV14 경험치 카드;1;icon_item_expcard
 C;590845766020927
 I;[PC방] 화려한 지렁이;1200;icon_item_Paste_Bait2_pc
 I;노블 브레이슬릿;1;item_bracelet_03
@@ -580,6 +357,236 @@ I;이렐리스 팬츠;1;icon_item_cloth_pants_1
 I;이렐리스 팬츠;1;icon_item_cloth_pants_1
 I;이브레 부츠;1;icon_item_boots_animalLeather
 I;이브레 팬츠;1;icon_item_pants_animalLeather
+C;69346541978353
+I;고덴닥;1;mace_goedendag
+I;농축 SP포션 LV10;27;icon_item_SP_Alche
+I;베르타스 플라네타 로브;1;icon_item_baronwear_armor
+I;부베 투사 건틀릿;1;icon_item_gloves_bubewarrior
+I;사우시스 레더 부츠;1;icon_item_boots_skull
+I;윈드 러너;1;icon_item_boots_knight
+I;프리머스 제베넬리스 레더 부츠;1;icon_item_leather_boots_1
+I;프리머스 제베넬리스 레더 아머;1;icon_item_leather_shirt_1
+I;(바랜)스몰 크리스타라스;1;icon_item_dagger_cristal
+I;피에타스 레더 부츠;1;icon_item_9rank_leather_02_boots
+I;LV11 경험치 카드;6;icon_item_expcard
+I;LV14 경험치 카드;22;icon_item_expcard
+I;블랙 혼;1;icon_item_warrior_f_rapier_ebonian
+I;LV10 경험치 카드;1;icon_item_expcard
+I;보급용 SP포션;179;item_SP_requid_2
+I;보급용 SP포션 LV10;656;item_SP_requid_3
+I;보급용 이동속도 증가 포션;6;item_speed_requid_1
+I;아이언 보우;1;selfbow_up
+I;오크 크로스보우;1;icon_item_oak_crossbow
+I;케이스타스 HP포션 Lv2;8;item_HP_oil_2
+I;케이스타스 HP포션 Lv3;4;item_HP_oil_2
+I;케이스타스 SP포션 Lv2;14;item_SP_requid_2
+I;케이스타스 수호의 포션;28;icon_item_Drug_exDEF1
+I;케이스타스 용맹의 포션;29;icon_item_Drug_exATK1
+I;케이스타스 회복포션Lv2;11;item_HPSP_potion_2
+I;케이스타스 회복포션Lv3;4;item_HPSP_potion_3
+I;케이스타스 회복포션Lv4;35;item_HPSP_potion_3
+I;포레스트 레더 아머;1;icon_item_shirts_forest
+I;포레스트 레더 팬츠;1;icon_item_pants_forest
+I;폴쳔;1;icon_item_Sword_23
+I;폴쳔;1;icon_item_Sword_23
+I;폴쳔;1;icon_item_Sword_23
+I;호크 보우;1;bow_sniper_bow
+C;505474701068687
+I;막스 페타미온;1;item_necklace_12
+I;부베 투사 건틀릿;1;icon_item_gloves_bubewarrior
+I;아스트라 보우;1;icon_item_bow_pollyhorn_TH
+I;미르티 브레이슬릿;1;item_bracelet05_2
+I;미르티 브레이슬릿;1;item_bracelet05_2
+I;프리머스 라파이 로드;1;icon_item_rod_lapai
+I;하트 오브 글로리;1;icon_item_staff_regardhorn
+I;프리머스 미간티스 스태프;1;icon_item_miegantis_staff
+I;와이드 크로스보우;1;crossbow_oak_crossbow
+I;케이스타스 회복포션Lv4;134;item_HPSP_potion_3
+I;보급용 작은 SP포션;167;item_SP_requid_1
+I;제작서-호크 보우;1;icon_item_weapon_misc3
+I;아바레스트;1;icon_item_arbalest
+I;오크 크로스보우;1;icon_item_oak_crossbow
+I;크리스탈 로드;1;icon_item_crystal_staff
+I;폴쳔;1;icon_item_Sword_23
+I;포레스트 레더 아머;1;icon_item_shirts_forest
+I;파이크;1;warrior_f_spear_pike
+C;304238303381221
+I;노비스 뱅글;1;item_bracelet_15
+I;라이트 로네사 뱅글;1;item_bracelet_15
+I;베르타스 라파이 보우;1;icon_item_bow_lapai
+I;롱 보우;1;bow_longbow
+I;베르타스 라파이 보우;1;icon_item_bow_lapai
+I;라파이 투 핸드 메이스;1;icon_item_mace_twohand_lapai
+I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
+I;부베 네클리스;1;item_necklace_18
+I;부베 뱅글;1;item_bracelet_16
+I;아이스 로드;1;staff_cane_lowver_up
+I;사브르;1;icon_item_Sword_26
+I;숏 보우;1;bow_shortbow
+I;카스카라;1;icon_item_Sword_24
+I;케이스타스 수호의 포션;30;icon_item_Drug_exDEF1
+I;케이스타스 용맹의 포션;30;icon_item_Drug_exATK1
+I;케이스타스 회복포션Lv1;100;item_HPSP_potion_1
+I;케파 팬던트;1;item_necklace_10
+I;크룩;1;icon_item_crook
+I;LV5 경험치 카드;8;icon_item_expcard
+I;LV6 경험치 카드;5;icon_item_expcard
+I;LV12 경험치 카드;4;icon_item_expcard
+I;LV13 경험치 카드;7;icon_item_expcard
+I;LV15 경험치 카드;9;icon_item_expcard
+C;119820997625534
+I;(바랜)닉스 나이트 그리브;1;icon_item_arkishknight_boots
+I;(바랜)닉스 나이트 글로브;1;icon_item_arkishknight_gloves
+I;(바랜)닉스 나이트 아머;1;icon_item_arkishknight_armor
+I;(바랜)닉스 나이트 팬츠;1;icon_item_arkishknight_pants
+I;HP 회복의 엘릭서 [이벤트];10;icon_item_HPelixir
+I;SP 회복의 엘릭서 [이벤트];10;icon_item_SPelixir
+I;[PC방] 화려한 지렁이;600;icon_item_Paste_Bait2_pc
+I;레더 아머;1;icon_item_shirts_bube_blue
+I;마크 글로브;1;icon_item_gloves_brigan
+I;말레딕;1;icon_item_yew_staff
+I;매직 우든 스태프;1;Mage_f_staff_woodenstick
+I;보급용 HP포션 LV10;180;item_HP_oil_3
+I;보급용 SP포션 LV10;1500;item_SP_requid_3
+I;보급용 이동속도 증가 포션;3;item_speed_requid_1
+I;셀프 보우;1;icon_item_selfbow
+I;숏 보우;1;bow_shortbow
+I;슈페리어 뱅글;1;item_bracelet_15
+I;스틸 체인 글로브;1;icon_item_gloves_chain
+I;시커;1;bow_recurve_bow
+I;아이언 네클리스;1;item_necklace_10
+I;연습용 레이피어;1;icon_item_rap2_1
+I;유코푸스 네클리스;1;item_necklace_11
+I;쥬 스태프;1;icon_item_yew_staff
+I;카스카라;1;icon_item_Sword_24
+I;케이스타스 HP포션 Lv3;5;item_HP_oil_2
+I;케이스타스 SP포션 Lv3;5;item_SP_requid_2
+I;케이스타스 수호의 포션;90;icon_item_Drug_exDEF1
+I;케이스타스 용맹의 포션;90;icon_item_Drug_exATK1
+I;케이스타스 회복포션Lv1;100;item_HPSP_potion_1
+I;케이스타스 회복포션Lv3;5;item_HPSP_potion_3
+I;크룩;1;icon_item_crook
+I;템서스 플랑베르쥬;1;Flamberge_up
+I;폴쳔;1;icon_item_Sword_23
+I;SP 회복 소형 엘릭서 ;30;icon_item_SPelixir_Small
+I;HP 회복 소형 엘릭서 ;15;icon_item_HPelixir_Small
+I;케이스타스 회복포션Lv4;101;item_HPSP_potion_3
+C;853775073935435
+C;755772510175514
+I;(바랜)워메이지 로브;1;icon_item_warmage_robe
+I;(바랜)이글스타 레더 글로브;1;icon_item_eaglestar_gloves
+I;(바랜)이글스타 레더 아머;1;icon_item_eaglestar_armor
+I;(바랜)이글스타 레더 팬츠;1;icon_item_eaglestar_pants
+I;(바랜)이스턴 레더 부츠;1;icon_item_eastengarden_boots
+I;(바랜)이스턴 레더 아머;1;icon_item_eastengarden_armor
+I;아틸로늄;150;18_item_plantite
+I;레이드 포탈 스톤;144;icon_item_dungeon_portalstone
+I;뉴클 가루;5238;icon_item_breakpowder_1
+I;시에라 가루;649;icon_item_breakpowder_2
+I;펄 브레이슬릿;1;item_bracelet_05
+I;(바랜)이스턴 레더 팬츠;1;icon_item_eastengarden_pants
+I;카프리선 팬츠;1;icon_item_pants_brigan
+I;카프리선 아머;1;icon_item_shirts_brigan
+I;오팔;47;25_item_ore_opal
+I;혈석;33;34_item_ore_blood_stone
+I;옵시디안;35;27_item_ore_obsidian
+I;프락토늄;36;icon_item_crystal_High
+I;축복받은 조각;264;icon_item_Gem_Elemental1
+I;여신의 축복석;43;icon_item_transcendence_Stone
+I;펄 브레이슬릿;1;item_bracelet_05
+I;노비스 뱅글;1;item_bracelet_15
+I;페리도트;18;28_item_ore_peridot
+I;토파즈;41;24_item_ore_topaz
+I;울스터마이트;294;item_icon_teraingot
+I;펠트레민;259;item_icon_pideingot
+I;금괴;3;icon_item_goldbar_s
+I;은괴;2;icon_item_ironbar_s
+I;불길한 영혼 파편;6;icon_item_misc_dust
+I;불길한 영혼 조각;3;icon_item_misc_rubble
+I;파이크;1;warrior_f_spear_pike
+I;페리니움;3;7_item_ore_magnesite
+I;가넷;53;26_item_ore_garnet
+I;루비;87;26_item_ore_garnet
+I;지르콘;27;29_item_ore_zircon
+I;피데슘;733;5_item_ore_fluorite
+I;이실딘 광석;265;9_item_ore_orichalcon
+I;테라늄;722;36_item_ore_lapis_philosophorum
+I;리디아의 붉은 꽃;73;icon_item_misc_0519
+I;샤펜의 검은 꽃;13;icon_item_misc_0521
+I;별빛이 깃든 이슬;16;icon_item_misc_0520
+I;니코폴리스 은하 방울;5;icon_item_misc_0526
+I;다이아몬드;23;icon_item_dia2
+I;플로르;43;icon_item_crystal_green
+I;이오니움;888;icon_item_crystal_yellow
+I;안데슘;866;icon_item_crystal_red
+I;별의 인도자 램프;7;icon_item_misc_0522
+I;로열 블레이드 파편;67;icon_item_misc_0529
+I;영광의 촛대;26;icon_item_misc_0525
+I;보늬 교훈의 화살;10;icon_item_misc_0524
+I;리디아 샤펜의 확장된 렌즈;6;icon_item_misc_0523
+I;레지네이트;31;16_item_treenite
+I;사파이어;13;39_icon_item_Cry8rite
+I;포르튬;4;20_item_ore_tachyum
+I;미스릴 광석;88;13_item_mythril
+I;탈트;2223;30_item_ore_talt
+C;223467148413019
+I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
+I;노비스 네클리스;1;item_necklace_10
+I;매직 우든 스태프;1;Mage_f_staff_woodenstick
+I;발타스 모닝스타;1;Hogma_club
+I;보급용 SP포션;351;item_SP_requid_2
+I;보급용 작은 HP포션;241;item_HP_oil_1
+I;보급용 작은 SP포션;635;item_SP_requid_1
+I;선쿠스 마울;1;mace_maul
+I;오페러의 젬;Lv1;gem_mon_operor
+I;케파 인형;1;hairacc_48_cepadoll
+I;보급용 큰 HP포션;205;item_HP_oil_3
+I;보급용 큰 SP포션;200;item_SP_requid_3
+I;보급용 HP포션;215;item_HP_oil_2
+I;LV14 경험치 카드;5;icon_item_expcard
+I;LV6 경험치 카드;5;icon_item_expcard
+C;779485024616731
+I;바브드 애로우;10450;item_icon_arrow_barbedhead
+I;헤일매리 애로우;7918;item_icon_hail_mary_arrow
+I;매직 애로우;2351;icon_item_magicarrow
+I;보드킨 포인트 애로우;9209;item_icon_bodkinpoint_arrow
+I;브로드 헤드 애로우;5832;item_icon_arrow_barbedhead
+I;시커;1;bow_recurve_bow
+I;스트롱 보우;1;bow_wooden_compound_bow
+I;새비지 보우;1;bow_rokas_bow
+I;오크 크로스보우;1;icon_item_oak_crossbow
+I;스트롱 보우;1;bow_wooden_compound_bow
+I;[결속] 베르타스 라파이 보우;1;icon_item_bow_lapai
+I;머슈카리아 모자;1;hairacc_23_mushcariahat
+I;신기전;1318;icon_item_singijon
+I;파이라이트 팬던트;1;item_necklace_01
+I;시즈 보우;1;bow_siege_bow
+I;베르타스 미간티스 보우;1;icon_item_miegantis_bow
+I;스트롱 보우;1;bow_wooden_compound_bow
+I;베르타스 이븐 아이;1;icon_item_emerald_TH
+I;보급용 농축 HP포션 LV15;200;item_HP_oil_3
+I;보급용 농축 SP포션 LV15;200;item_SP_requid_3
+I;보급용 작은 HP포션;44;item_HP_oil_1
+I;보급용 작은 SP포션;359;item_SP_requid_1
+I;거짓의 목걸이;1;item_NECK_PILGRIM_04_INT
+I;탈리스만;1;item_necklace_19
+I;케파 인형;1;hairacc_48_cepadoll
+I;카너버 네클리스;1;item_necklace_17
+I;[결속] 베르타스 라파이 크로스보우;1;icon_item_crossbow_lapai
+I;[결속] 베르타스 라파이 피스톨;1;icon_item_pistol_lapai
+I;[결속] 베르타스 라파이 대거;1;icon_item_dagger_lapai
+I;호그마 궁수의 젬;Lv1;gem_mon_hogma_archer
+I;주황 단델의 젬;Lv1;gem_mon_dandel_orange
+I;플로론의 젬;Lv1;gem_mon_floron
+C;756781827491781
+I;폰델의 젬;Lv1;gem_mon_Pawndel
+I;노비스 뱅글;1;item_bracelet_15
+I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
+I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
+I;파이크;1;warrior_f_spear_pike
+I;보급용 농축 HP포션 LV15;100;item_HP_oil_3
+I;보급용 농축 SP포션 LV15;100;item_SP_requid_3
+I;보급용 작은 스태미나 알약;22;item_STA_pill_1
 C;766608712663146
 I;(바랜)데비니 보우;1;icon_item_sapphire_TH
 I;마가 보우;1;icon_item_coritos
@@ -589,7 +596,48 @@ I;제작서-슈페리어 크로스보우;2;icon_item_weapon_misc3
 I;스타울리트 궁수의 젬;Lv1;gem_mon_Stoulet_bow
 I;스타울리트 궁수의 젬;Lv1;gem_mon_Stoulet_bow
 I;레푸스버니의 젬;Lv1;gem_mon_Repusbunny
-C;732352053510346
+C;561408060163154
+I;보급용 큰 SP포션;100;item_SP_requid_3
+I;독 속성 저항력 포션;2;icon_item_Seed_HP1
+I;땅 속성 저항력 포션;1;icon_item_Seed_HR1
+I;마이너 해머;1;mace_mallet
+I;마이트 포션;3;item_speed_requid_1
+I;물리+마법 방어력 포션;5;item_speed_requid_1
+I;보급용 HP포션;40;item_HP_oil_2
+I;보급용 SP포션;88;item_SP_requid_2
+I;보급용 레드옥스;15;icon_item_Red_Ox
+I;보급용 이동속도 증가 포션;4;item_speed_requid_1
+I;보급용 작은 HP포션;30;item_HP_oil_1
+I;보급용 작은 SP포션;405;item_SP_requid_1
+I;보급용 작은 스태미나 알약;23;item_STA_pill_1
+I;보급용 작은 회복포션;3;item_HPSP_potion_1
+I;보급용 큰 HP포션;114;item_HP_oil_3
+I;케이스타스 회복포션Lv2;42;item_HPSP_potion_2
+I;불 속성 저항력 포션;1;icon_item_Seed_MATK1
+I;큰 스태미나 알약;30;item_STA_pill_3
+I;스태미나 알약;30;item_STA_pill_2
+I;케이스타스 회복포션Lv1;6;item_HPSP_potion_1
+I;이동속도 향상의 포션;4;item_speed_requid_1
+I;케이스타스 용맹의 포션;2;icon_item_Drug_exATK1
+I;탈리스만;1;item_necklace_19
+I;전기 속성 저항력 포션;1;icon_item_Seed_SKLPower1
+I;포텐티아;1;icon_item_Sword_18
+I;폴쳔;1;icon_item_Sword_23
+I;케이스타스 수호의 포션;14;icon_item_Drug_exDEF1
+I;데모나스 건틀릿;1;icon_item_gloves_SRchain
+I;(바랜)스몰 크리스타라스;1;icon_item_dagger_cristal
+I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
+I;(바랜)하베스터;1;icon_item_sword_bigstar
+I;사크미스;1;icon_item_sword_noroi_TH
+I;부베 투사의 젬;Lv1;gem_mon_Goblin_Warrior
+I;피노의 젬;Lv1;gem_mon_Pino
+I;날개 개구리의 젬;Lv1;gem_mon_flying_flog
+I;프리머스 바스티클 건틀릿;1;icon_item_iorn_glove_1
+I;프리머스 바스티클 그리브;1;icon_item_iorn_boots_1
+I;프리머스 바스티클 플레이트 아머;1;icon_item_iorn_shirt_1
+I;프리머스 바스티클 플레이트 팬츠;1;icon_item_iorn_pants_1
+I;시셀 브레이슬릿;1;item_bracelet_12
+I;시셀 브레이슬릿;1;item_bracelet_12
 C;577235014651718
 I;(바랜)스케티스 크로스보우;1;icon_item_crossbow_hark
 I;그린 젬;Lv1;item_icon_Dia150
@@ -692,91 +740,129 @@ I;프리머스 닉스 나이트 아머;1;icon_item_arkishknight_armor
 I;제메이 네클리스;1;item_necklace_16
 I;쿠게리 리오니의 젬;Lv1;gem_mon_kucarry_lioni
 I;LV14 경험치 카드;61;icon_item_expcard
-C;756781827491781
-I;폰델의 젬;Lv1;gem_mon_Pawndel
-I;노비스 뱅글;1;item_bracelet_15
-I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
-I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
-I;파이크;1;warrior_f_spear_pike
-I;보급용 농축 HP포션 LV15;100;item_HP_oil_3
-I;보급용 농축 SP포션 LV15;100;item_SP_requid_3
-I;보급용 작은 스태미나 알약;22;item_STA_pill_1
-C;5793910987994
-I;바스타드 소드;1;icon_item_Sword_18
-I;우든 버클러;1;icon_item_Shield_11
-I;우든 버클러;1;icon_item_Shield_11
-I;우든 버클러;1;icon_item_Shield_11
-I;옐로우 젬;Lv1;item_icon_Star150
-I;하드 레더 글로브;1;icon_item_gloves_bube_blue
-I;하드 레더 글로브;1;icon_item_gloves_bube_blue
-I;보급용 SP포션 LV10;1100;item_SP_requid_3
-I;보급용 HP포션 LV10;200;item_HP_oil_3
-I;그린 젬;Lv1;item_icon_Dia150
-I;레드 젬;Lv1;item_icon_circle150
-I;옐로우 젬;Lv1;item_icon_Star150
-I;고농축 SP포션;170;item_SP_requid_3
-I;고농축 HP포션;170;item_HP_oil_3
-I;오팔;1;25_item_ore_opal
-I;그린 젬;Lv1;item_icon_Dia150
-I;옐로우 젬;Lv1;item_icon_Star150
-I;그린 젬;Lv1;item_icon_Dia150
-I;그린 젬;Lv1;item_icon_Dia150
-C;577230719684513
-I;(바랜)알비노사스 레더 글로브;1;icon_item_gloves_albinosas
-I;(바랜)알비노사스 레더 부츠;1;icon_item_boots_albinosas
-I;(바랜)알비노사스 레더 아머;1;icon_item_shirts_albinosas
-I;(바랜)알비노사스 레더 팬츠;1;icon_item_pants_albinosas
-I;(바랜)이글스타 레더 글로브;1;icon_item_eaglestar_gloves
-I;(바랜)이글스타 레더 부츠;1;icon_item_eaglestar_boots
-I;(바랜)이글스타 레더 아머;1;icon_item_eaglestar_armor
-I;(바랜)이글스타 레더 팬츠;1;icon_item_eaglestar_pants
-I;(바랜)타이타나스 플레이트 아머;1;icon_item_shirts_titanas
+C;60168196861625
+I;지혜의 열매;1;icon_item_wisdomberry
+I;부베 투사 건틀릿;1;icon_item_gloves_bubewarrior
+I;사우시스 글로브;1;icon_item_gloves_skull
+I;프리머스 제베넬리스 레더 팬츠;1;icon_item_leather_pants_1
+I;스컬 스매셔;1;icon_item_mace_regardhorn
+I;에멘가드 실드;1;icon_item_shield_regardhorn
+I;막스 페타미온;1;item_necklace_12
+I;보급용 SP포션 LV10;473;item_SP_requid_3
+I;보급용 SP포션;351;item_SP_requid_2
+I;보급용 작은 SP포션;687;item_SP_requid_1
+I;보급용 작은 HP포션;40;item_HP_oil_1
+I;케이스타스 회복포션Lv4;41;item_HPSP_potion_3
+I;클라로의 젬;Lv1;gem_mon_claro
+I;클라로의 젬;Lv1;gem_mon_claro
+I;하나밍의 젬;Lv1;gem_mon_hanaming
+I;LV13 경험치 카드;12;icon_item_expcard
+I;LV14 경험치 카드;110;icon_item_expcard
+C;5793910883996
 I;HP 회복의 엘릭서 [이벤트];10;icon_item_HPelixir
+I;SP 회복의 엘릭서;3;icon_item_SPelixir
 I;SP 회복의 엘릭서 [이벤트];10;icon_item_SPelixir
-I;그린 젬;Lv1;item_icon_Dia150
-I;그린 젬;Lv1;item_icon_Dia150
-I;그린 젬;Lv1;item_icon_Dia150
-I;그린 젬;Lv1;item_icon_Dia150
-I;그린 젬;Lv1;item_icon_Dia150
-I;그린 젬;Lv1;item_icon_Dia150
-I;그린 젬;Lv1;item_icon_Dia150
-I;그린 젬;Lv1;item_icon_Dia150
-I;디델 타워 실드;1;icon_item_shield_fedimiantower
+I;금괴;95;icon_item_goldbar_s
+I;기슬로티스;35;icon_item_Gyslotis
+I;나무 말뚝;103;icon_item_wood_3
+I;농축 HP포션 LV10;73;icon_item_HP_Alche
+I;농축 이동속도 향상의 포션;32;item_speed_requid_1
+I;단델의 날개;183;icon_item_batwing
+I;대형 HP포션;7;item_HP_oil_3
+I;대형 SP포션;5;item_SP_requid_3
+I;드레이크 고기;111;icon_item_meat_02
+I;피라콘 잎;304;icon_item_leaves_red
+I;딜겔레;2970;icon_item_Dilgele
+I;땅 속성 저항력 포션;1;icon_item_Seed_HR1
+I;라벤더 씨앗;2;icon_item_seed_red
+I;라오도넬리스;207;icon_item_Raudonelis
+I;라프세이프 버섯;24;icon_item_Pinemushroom
+I;물리+마법 방어력 포션;3;item_speed_requid_1
+I;바루날레샤;1185;icon_item_Varnalesa
+I;발래리요나스;421;icon_item_Valerijonas
+I;보급용 농축 HP포션 LV15;120;item_HP_oil_3
+I;보급용 농축 SP포션 LV15;118;item_SP_requid_3
+I;보급용 레드옥스;14;icon_item_Red_Ox
+I;보급용 이동속도 증가 포션;10;item_speed_requid_1
+I;부베족의 증표;51;icon_item_bubetoken
+I;비엔나라지스 스태프;1;icon_item_staff_whiteholse_TH
+I;살라위야스;2;icon_item_Salavijas
+I;샌드위치;5;icon_item_sandwich
+I;샐러드;4;icon_item_salad
+I;송로버섯;12;icon_item_Truffle
+I;송이버섯;3;icon_item_Pinemushroom
+I;스타울리트 심장;86;item_icon_heart_red
+I;스태미나 알약;8;item_STA_pill_2
+I;스트랭스 포션;8;item_speed_requid_1
+I;아비에테;45;icon_item_Aviete
+I;알레멧 HP포션;20;item_HP_oil_3
+I;알레멧 SP포션;18;item_SP_requid_3
+I;워시스;996;icon_item_Uosis
+I;은괴;168;icon_item_ironbar_s
+I;은빛 물고기;485;icon_item_fish2
+I;이단자의 팔찌;1;item_bracelet_05_2
+I;이단자의 팔찌;1;item_bracelet_05_2
+I;이동속도 향상의 포션;8;item_speed_requid_1
+I;장군의 선물;1;item_necklace_03_1
+I;전환의 수정조각;20;icon_item_BlokenMirror
+I;졸업자의 선물;1;item_necklace_19_1
+I;종말의 선물;1;item_necklace_03_4
+I;지혜의 열매;5;icon_item_wisdomberry
+I;초브랠리스;43;icon_item_Ciobrelis
+I;케이스타스 HP포션 Lv2;3;item_HP_oil_2
+I;케이스타스 SP포션 Lv2;5;item_SP_requid_2
+I;케이스타스 수호의 포션;6;icon_item_Drug_exDEF1
+I;케이스타스 용맹의 포션;7;icon_item_Drug_exATK1
+I;케이스타스 회복포션Lv1;15;item_HPSP_potion_1
+I;케이스타스 회복포션Lv2;31;item_HPSP_potion_2
+I;케이스타스 회복포션Lv3;9;item_HPSP_potion_3
+I;케이스타스 회복포션Lv4;39;item_HPSP_potion_3
+I;케파리 껍질;59;icon_item_piece_pappusKepa_purple
+I;큰 HP포션;8;item_HP_oil_3
+I;큰 SP포션;8;item_SP_requid_3
+I;큰 스태미나 알약;6;item_STA_pill_3
+I;특대형 HP포션;5;item_HP_oil_3
+I;특대형 SP포션;7;item_SP_requid_3
+I;티켄의 뼈;94;icon_item_bone
+I;판토족의 뿔;67;icon_item_pantohorn
+I;포포리온 고기;55;icon_item_meat_02
+I;폭죽;40;icon_item_firework
+I;플라스크;202;icon_item_Vial
+I;포포리온의 젬;Lv1;gem_mon_popolion3
+I;히밀의 유산;1;item_bracelet_10_1
+I;히밀의 유산;1;item_bracelet_10_1
+I;샤펜의 팔찌 조각;1;item_bracelet_02_3
+I;샤펜의 팔찌 조각;1;item_bracelet_02_3
+I;할로우벤터의 손뼈;112;icon_item_bone
+I;LV10 경험치 카드;1;icon_item_expcard
+I;LV14 경험치 카드;112;icon_item_expcard
+C;223480033314738
+I;농축 HP포션 LV10;19;icon_item_HP_Alche
+I;보급용 작은 HP포션;26;item_HP_oil_1
+I;보급용 작은 SP포션;332;item_SP_requid_1
+I;사우로터;1;langdebeve
+I;숏 로드;1;icon_item_short_staff
+I;숏 스피어;1;short_spear
+I;스니커스니;1;icon_item_snickersnee
+I;스트롱 보우;1;bow_wooden_compound_bow
+I;스폰툰;1;spontoon
 I;레다스 실드;1;beadshield_blue
-I;레드 젬;Lv1;item_icon_circle150
-I;레드 젬;Lv1;item_icon_circle150
-I;레드 젬;Lv1;item_icon_circle150
-I;레드 젬;Lv1;item_icon_circle150
-I;레드 젬;Lv1;item_icon_circle150
-I;레드 젬;Lv1;item_icon_circle150
-I;레드 젬;Lv1;item_icon_circle150
-I;베르타스 라파이 파이크;1;icon_item_spear_twohand_lapai
-I;블루 젬;Lv1;item_icon_Square150
-I;블루 젬;Lv1;item_icon_Square150
-I;블루 젬;Lv1;item_icon_Square150
-I;블루 젬;Lv1;item_icon_Square150
-I;블루 젬;Lv1;item_icon_Square150
-I;블루 젬;Lv1;item_icon_Square150
-I;블루 젬;Lv1;item_icon_Square150
-I;블루 젬;Lv1;item_icon_Square150
-I;블루 젬;Lv1;item_icon_Square150
-I;실버 폴쳔;1;icon_item_Falchion_up_silver
-I;옐로우 젬;Lv1;item_icon_Star150
-I;옐로우 젬;Lv1;item_icon_Star150
-I;옐로우 젬;Lv1;item_icon_Star150
-I;옐로우 젬;Lv1;item_icon_Star150
-I;옐로우 젬;Lv1;item_icon_Star150
-I;오크 크로스보우;1;icon_item_oak_crossbow
-I;오크 크로스보우;1;icon_item_oak_crossbow
-I;우든 버클러;1;icon_item_Shield_11
-I;카프리선 팬츠;1;icon_item_pants_brigan
+I;아세가이;1;esponton
+I;카타콤 파이크;1;thspear_lightning_purple
+I;아스타;1;hasta
+I;아스타;1;hasta
+I;아스타;1;hasta
+I;와이드 크로스보우;1;crossbow_oak_crossbow
+I;케이스타스 회복포션Lv4;100;item_HPSP_potion_3
+I;테브린 스피어;1;winged_spear
 I;파이크;1;warrior_f_spear_pike
-I;보급용 농축 HP포션 LV15;165;item_HP_oil_3
-I;보급용 농축 SP포션 LV15;179;item_SP_requid_3
-I;보급용 큰 SP포션;100;item_SP_requid_3
-I;보급용 큰 HP포션;100;item_HP_oil_3
-I;보급용 작은 HP포션;126;item_HP_oil_1
-I;보급용 작은 SP포션;349;item_SP_requid_1
+I;파이크;1;warrior_f_spear_pike
+I;프리 파르티잔;1;warrior_f_spear_partisan
+I;파이크;1;warrior_f_spear_pike
+I;폰델의 젬;Lv1;gem_mon_Pawndel
+I;폰델의 젬;Lv1;gem_mon_Pawndel
+I;빅 샤울렘의 젬;Lv1;gem_mon_Big_Siaulamb
+I;노란 요노움의 젬;Lv1;gem_mon_Yognome
 C;852319080022028
 C;515490564800654
 I;베르타스 갈라티카 건틀릿;1;icon_item_gloves_frost
@@ -795,111 +881,89 @@ I;시커;1;bow_recurve_bow
 I;호크 보우;1;bow_sniper_bow
 I;사막 츄파카브라의 젬;Lv1;gem_mon_chupacabra_desert
 I;LV14 경험치 카드;38;icon_item_expcard
-C;6571300025279
-I;라이트 부츠;1;icon_item_boots_bube
-I;라이트 아이언 뱅글;1;item_bracelet_08
-I;레더 글로브;1;icon_item_gloves_bube_blue
-I;병사의 롱 로드;1;icon_item_Staff_1
-I;보급용 HP포션 LV10;100;item_HP_oil_3
-I;보급용 SP포션 LV10;300;item_SP_requid_3
-I;보급용 작은 스태미나 알약;26;item_STA_pill_1
-I;부베 뱅글;1;item_bracelet_16
-I;슈페리어 퀼트 아머;1;icon_item_shirts_bube
-I;와일드 레더 글로브;1;icon_item_gloves_bube_blue
-I;우든 뱅글;1;item_bracelet_20
-I;워커;1;icon_item_boots_brigan
-I;케이스타스 회복포션Lv1;100;item_HPSP_potion_1
-I;폴쳔;1;icon_item_Sword_23
-C;512196324886368
-I;[PC방] HP 회복 소형 엘릭서 ;30;icon_item_random_hpellixerbox
-I;[PC방] SP 회복 소형 엘릭서 ;30;icon_item_random_spellixerbox
-I;SP 회복 소형 엘릭서 ;3;icon_item_SPelixir_Small
-I;기슬로티스;2240;icon_item_Gyslotis
-I;디오 소드;1;icon_item_Sword_26
-I;롱 보우;1;bow_longbow
-I;리에나 플레이트 레깅스;1;icon_item_pants_CEscale
-I;맬릿;1;mace_mallet_up
-I;머레지나 뱅글;1;item_bracelet_05
-I;머슈카리아 모자;1;hairacc_23_mushcariahat
-I;부베 네클리스;1;item_necklace_18
-I;부베 뱅글;1;item_bracelet_16
-I;부베 뱅글;1;item_bracelet_16
-I;사이클롭스 아이;1;item_necklace_16
-I;성수;2439;icon_item_holywater
-I;쉬나임 그리브;1;icon_item_boots_golem
-I;슈페리어 뱅글;1;item_bracelet_15
-I;스트링 네클리스;1;item_necklace_17
-I;스틸 체인 글로브;1;icon_item_gloves_chain
-I;스파타;1;icon_item_Sword_27
-I;시커;1;bow_recurve_bow
-I;아라스의 폴쳔;1;icon_item_Sword_23
+C;129166846477981
+I;(바랜)페버디마스 대거;1;icon_item_pabudimas_dagger
+I;SP포션;8;item_SP_requid_2
+I;농축 HP포션 LV10;37;icon_item_HP_Alche
+I;메이스;1;mace
+I;배틀 해머;1;mace_rokas_hammer
+I;베르타스 갈라티카 플레이트 아머;1;icon_item_shirts_frost
+I;베르타스 우카스 레더 글로브;1;icon_item_baldish_gloves
+I;베르타스 우카스 레더 부츠;1;icon_item_baldish_boots
+I;베르타스 우카스 레더 아머;1;icon_item_baldish_armor
+I;베르타스 우카스 레더 팬츠;1;icon_item_baldish_pants
+I;베르타스 우카스 레더 팬츠;1;icon_item_baldish_pants
+I;베르타스 플라네타 팬츠;1;icon_item_baronwear_pants
+I;보급용 SP포션;360;item_SP_requid_2
+I;보급용 SP포션 LV10;100;item_SP_requid_3
+I;보급용 이동속도 증가 포션;6;item_speed_requid_1
+I;보급용 작은 SP포션;716;item_SP_requid_1
+I;보급용 작은 스태미나 알약;28;item_STA_pill_1
+I;복숭아;22;icon_item_Peach
+I;선쿠스 마울;1;mace_maul
+I;스니커스니;1;icon_item_snickersnee
+I;스태미나 알약;2;item_STA_pill_2
+I;알레멧 HP포션;20;item_HP_oil_3
+I;알레멧 SP포션;20;item_SP_requid_3
+I;케이스타스 회복포션Lv4;239;item_HPSP_potion_3
+I;큰 SP포션;2;item_SP_requid_3
+I;프리머스 갈라티카 그리브;1;icon_item_boots_frost
+I;프리머스 우카스 레더 팬츠;1;icon_item_baldish_pants
+I;LV14 경험치 카드;5;icon_item_expcard
+I;록소나 플레이트 건틀릿;1;icon_item_gloves_SRchain
+I;프리머스 바스티클 건틀릿;1;icon_item_iorn_glove_1
+I;프리머스 바스티클 플레이트 아머;1;icon_item_iorn_shirt_1
+I;프리머스 제베넬리스 레더 부츠;1;icon_item_leather_boots_1
+I;프리머스 제베넬리스 레더 아머;1;icon_item_leather_shirt_1
+I;프리머스 제베넬리스 레더 팬츠;1;icon_item_leather_pants_1
+I;하나밍의 젬;Lv1;gem_mon_hanaming
+I;보급용 농축 HP포션 LV15;100;item_HP_oil_3
+I;보급용 농축 SP포션 LV15;100;item_SP_requid_3
+I;보급용 큰 HP포션;100;item_HP_oil_3
+I;보급용 큰 SP포션;100;item_SP_requid_3
+I;(바랜)프라케 글로브;1;icon_item_prake_gloves
+I;프리머스 바스티클 그리브;1;icon_item_iorn_boots_1
+C;450821242226889
+I;매직 우든 스태프;1;Mage_f_staff_woodenstick
+I;서클 가드;1;icon_item_Shield_12
 I;아이스 로드;1;staff_cane_lowver_up
-I;아이언 보우;1;selfbow_up
-I;와이드 크로스보우;1;crossbow_oak_crossbow
-I;워커;1;icon_item_boots_brigan
-I;워픽;1;mace_Warpick
-I;유코푸스 네클리스;1;item_necklace_11
-I;잘리아 카이트 실드;1;icon_item_it_w_wooden_kite_shiled_b_green
-I;체인 메일;1;icon_item_shirts_chain
-I;카너버 네클리스;1;item_necklace_17
-I;카브라 부츠;1;icon_item_boots_bube
-I;케파 인형;1;hairacc_48_cepadoll
-I;케파 인형;1;hairacc_48_cepadoll
-I;케파 팬던트;1;item_necklace_10
-I;크로스보우;1;icon_item_crossbow
-I;크룩;1;icon_item_crook
-I;툼 건틀릿;1;icon_item_gloves_earth
-I;플라티나 메달;1;item_necklace_19
-I;플라티나 메달;1;item_necklace_19
-I;하드 레더 아머;1;icon_item_shirts_bube_blue
-I;홀리 파우더;10058;icon_item_powderw
-C;551061483946822
+I;포탈 스톤;124;icon_item_portalstone
+I;LV14 경험치 카드;1;icon_item_expcard
+I;폴쳔;1;icon_item_Sword_23
+I;아이스 로드;1;staff_cane_lowver_up
+C;129166846477192
+I;(바랜)닉스 나이트 그리브;1;icon_item_arkishknight_boots
 I;(바랜)닉스 나이트 아머;1;icon_item_arkishknight_armor
 I;(바랜)닉스 나이트 팬츠;1;icon_item_arkishknight_pants
-I;(바랜)베네스다;1;icon_item_spear_crown_TH
-I;(바랜)보울 스피아;1;icon_item_rod_watercristal
-I;(바랜)스몰 크리스타라스;1;icon_item_dagger_cristal
-I;(바랜)스케티스 로드;1;icon_item_rod_celenial
-I;(바랜)스케티스 로드;1;icon_item_rod_celenial
-I;(바랜)스케티스 소드;1;icon_item_sword_shamshil
-I;(바랜)스타 슈터;1;icon_item_crossbow_tristar
-I;HP 회복 소형 엘릭서 ;2;icon_item_HPelixir_Small
-I;SP 회복 소형 엘릭서 ;1;icon_item_SPelixir_Small
-I;이노움의 젬;Lv1;gem_mon_Egnome
-I;(바랜)파저리타스 크로스보우;1;icon_item_crossbow_eagleeye
-I;(바랜)페버디마스 크로스보우;1;icon_item_pabudimas_crossbow
-I;감정용 돋보기;5293;icon_item_misc_0507
-I;노블 브레이슬릿;1;item_bracelet_03
-I;노블 브레이슬릿;1;item_bracelet_03
-I;아프가울레 보우;1;icon_item_bow_pierotbow_TH
-I;레다스 실드;1;beadshield_blue
-I;보급용 작은 HP포션;225;item_HP_oil_1
-I;레드 베리스 글로브;1;icon_item_gloves_bube
-I;보급용 작은 SP포션;200;item_SP_requid_1
-I;루다스 스태프;1;Mage_f_staff_stick
-I;스태프;1;Mage_f_staff_stick
-I;이스발리티;1;icon_item_cracked_shooter
-I;독액;45;icon_item_posion
-I;보급용 HP포션;200;item_HP_oil_2
-I;벨니웁;1;icon_item_snickersnee_up
-I;보급용 SP포션;232;item_SP_requid_2
-I;서클 가드;1;icon_item_Shield_12
-I;스우리트 플레이트 부츠;1;icon_item_swoolite_boots
-I;보급용 큰 HP포션;203;item_HP_oil_3
-I;발리아;1;mace_rokas_hammer_up
-I;아르데 대거;1;icon_item_main-gauche
-I;보급용 큰 SP포션;200;item_SP_requid_3
-I;에멘가드 캐논;1;icon_item_cannon_regardhorn
-I;엘리멘츠;1;warrior_f_spear_fedimianpike
-I;이그니션;1;icon_item_ignition
-I;제가 스피어;1;esponton
-I;케이스타스 회복포션Lv4;40;item_HPSP_potion_3
-I;말레딕;1;icon_item_yew_staff
-I;클라페다 브레이슬릿;1;item_bracelet_02
-I;LV13 경험치 카드;7;icon_item_expcard
-I;플레이트 아머;1;icon_item_shirts_CE
-I;LV14 경험치 카드;83;icon_item_expcard
-I;LV2 경험치 카드;6;icon_item_expcard
+I;그레이트 소드;1;sword_greate_sword
+I;농축 HP포션 LV10;73;icon_item_HP_Alche
+I;농축 SP포션 LV10;53;icon_item_SP_Alche
+I;보급용 HP포션 LV5;81;item_HP_oil_3
+I;보급용 SP포션;334;item_SP_requid_2
+I;보급용 SP포션 LV10;196;item_SP_requid_3
+I;보급용 작은 HP포션;129;item_HP_oil_1
+I;보급용 작은 SP포션;783;item_SP_requid_1
+I;샌드위치;5;icon_item_sandwich
+I;샐러드;5;icon_item_salad
+I;알레멧 SP포션;12;item_SP_requid_3
+I;케이스타스 HP포션 Lv2;2;item_HP_oil_2
+I;케이스타스 HP포션 Lv3;4;item_HP_oil_2
+I;케이스타스 SP포션 Lv2;15;item_SP_requid_2
+I;케이스타스 SP포션 Lv3;5;item_SP_requid_2
+I;케이스타스 회복포션Lv2;15;item_HPSP_potion_2
+I;케이스타스 회복포션Lv3;5;item_HPSP_potion_3
+I;케이스타스 회복포션Lv4;24;item_HPSP_potion_3
+I;케파 인형;1;hairacc_48_cepadoll
+I;케파 인형;1;hairacc_48_cepadoll
+I;콜렉투르;1;new_claymore_up
+I;확성기;2;icon_item_Mike
+I;보급용 큰 HP포션;100;item_HP_oil_3
+I;보급용 큰 SP포션;100;item_SP_requid_3
+I;부베 투사 건틀릿;1;icon_item_gloves_bubewarrior
+I;마가 투 핸드 소드;1;icon_item_colossus
+I;사크미스;1;icon_item_sword_noroi_TH
+I;로프틀렘의 젬;Lv1;gem_mon_Loftlem
+I;LV14 경험치 카드;7;icon_item_expcard
 C;852220295776374
 C;852396389433395
 C;71502615566681
@@ -1001,258 +1065,223 @@ I;샌드위치;5;icon_item_sandwich
 I;샐러드;5;icon_item_salad
 I;산적용 고기;85;icon_item_meat_02
 I;LV14 경험치 카드;50;icon_item_expcard
-C;129166846477192
-I;(바랜)닉스 나이트 그리브;1;icon_item_arkishknight_boots
+C;551061483946822
 I;(바랜)닉스 나이트 아머;1;icon_item_arkishknight_armor
 I;(바랜)닉스 나이트 팬츠;1;icon_item_arkishknight_pants
-I;그레이트 소드;1;sword_greate_sword
-I;농축 HP포션 LV10;73;icon_item_HP_Alche
-I;농축 SP포션 LV10;53;icon_item_SP_Alche
-I;보급용 HP포션 LV5;81;item_HP_oil_3
-I;보급용 SP포션;334;item_SP_requid_2
-I;보급용 SP포션 LV10;196;item_SP_requid_3
-I;보급용 작은 HP포션;129;item_HP_oil_1
-I;보급용 작은 SP포션;783;item_SP_requid_1
-I;샌드위치;5;icon_item_sandwich
-I;샐러드;5;icon_item_salad
-I;알레멧 SP포션;12;item_SP_requid_3
-I;케이스타스 HP포션 Lv2;2;item_HP_oil_2
-I;케이스타스 HP포션 Lv3;4;item_HP_oil_2
-I;케이스타스 SP포션 Lv2;15;item_SP_requid_2
-I;케이스타스 SP포션 Lv3;5;item_SP_requid_2
-I;케이스타스 회복포션Lv2;15;item_HPSP_potion_2
-I;케이스타스 회복포션Lv3;5;item_HPSP_potion_3
-I;케이스타스 회복포션Lv4;24;item_HPSP_potion_3
-I;케파 인형;1;hairacc_48_cepadoll
-I;케파 인형;1;hairacc_48_cepadoll
-I;콜렉투르;1;new_claymore_up
-I;로프틀렘의 젬;Lv1;gem_mon_Loftlem
-I;마가 투 핸드 소드;1;icon_item_colossus
-I;사크미스;1;icon_item_sword_noroi_TH
-I;보급용 큰 HP포션;100;item_HP_oil_3
-I;보급용 큰 SP포션;100;item_SP_requid_3
-I;부베 투사 건틀릿;1;icon_item_gloves_bubewarrior
-I;LV14 경험치 카드;7;icon_item_expcard
-I;확성기;2;icon_item_Mike
-I;탈트;2103;30_item_ore_talt
-C;450821242226889
-I;매직 우든 스태프;1;Mage_f_staff_woodenstick
+I;(바랜)베네스다;1;icon_item_spear_crown_TH
+I;(바랜)보울 스피아;1;icon_item_rod_watercristal
+I;(바랜)스몰 크리스타라스;1;icon_item_dagger_cristal
+I;(바랜)스케티스 로드;1;icon_item_rod_celenial
+I;(바랜)스케티스 로드;1;icon_item_rod_celenial
+I;(바랜)스케티스 소드;1;icon_item_sword_shamshil
+I;(바랜)스타 슈터;1;icon_item_crossbow_tristar
+I;HP 회복 소형 엘릭서 ;2;icon_item_HPelixir_Small
+I;SP 회복 소형 엘릭서 ;1;icon_item_SPelixir_Small
+I;이노움의 젬;Lv1;gem_mon_Egnome
+I;(바랜)파저리타스 크로스보우;1;icon_item_crossbow_eagleeye
+I;(바랜)페버디마스 크로스보우;1;icon_item_pabudimas_crossbow
+I;감정용 돋보기;5293;icon_item_misc_0507
+I;노블 브레이슬릿;1;item_bracelet_03
+I;노블 브레이슬릿;1;item_bracelet_03
+I;아프가울레 보우;1;icon_item_bow_pierotbow_TH
+I;레다스 실드;1;beadshield_blue
+I;보급용 작은 HP포션;225;item_HP_oil_1
+I;레드 베리스 글로브;1;icon_item_gloves_bube
+I;보급용 작은 SP포션;200;item_SP_requid_1
+I;루다스 스태프;1;Mage_f_staff_stick
+I;스태프;1;Mage_f_staff_stick
+I;이스발리티;1;icon_item_cracked_shooter
+I;독액;45;icon_item_posion
+I;보급용 HP포션;200;item_HP_oil_2
+I;벨니웁;1;icon_item_snickersnee_up
+I;보급용 SP포션;232;item_SP_requid_2
 I;서클 가드;1;icon_item_Shield_12
+I;스우리트 플레이트 부츠;1;icon_item_swoolite_boots
+I;보급용 큰 HP포션;203;item_HP_oil_3
+I;발리아;1;mace_rokas_hammer_up
+I;아르데 대거;1;icon_item_main-gauche
+I;보급용 큰 SP포션;200;item_SP_requid_3
+I;에멘가드 캐논;1;icon_item_cannon_regardhorn
+I;엘리멘츠;1;warrior_f_spear_fedimianpike
+I;이그니션;1;icon_item_ignition
+I;제가 스피어;1;esponton
+I;케이스타스 회복포션Lv4;40;item_HPSP_potion_3
+I;말레딕;1;icon_item_yew_staff
+I;클라페다 브레이슬릿;1;item_bracelet_02
+I;LV13 경험치 카드;7;icon_item_expcard
+I;플레이트 아머;1;icon_item_shirts_CE
+I;LV14 경험치 카드;83;icon_item_expcard
+I;LV2 경험치 카드;6;icon_item_expcard
+C;512196324886368
+I;[PC방] HP 회복 소형 엘릭서 ;30;icon_item_random_hpellixerbox
+I;[PC방] SP 회복 소형 엘릭서 ;30;icon_item_random_spellixerbox
+I;SP 회복 소형 엘릭서 ;3;icon_item_SPelixir_Small
+I;기슬로티스;2240;icon_item_Gyslotis
+I;디오 소드;1;icon_item_Sword_26
+I;롱 보우;1;bow_longbow
+I;리에나 플레이트 레깅스;1;icon_item_pants_CEscale
+I;맬릿;1;mace_mallet_up
+I;머레지나 뱅글;1;item_bracelet_05
+I;머슈카리아 모자;1;hairacc_23_mushcariahat
+I;부베 네클리스;1;item_necklace_18
+I;부베 뱅글;1;item_bracelet_16
+I;부베 뱅글;1;item_bracelet_16
+I;사이클롭스 아이;1;item_necklace_16
+I;성수;2439;icon_item_holywater
+I;쉬나임 그리브;1;icon_item_boots_golem
+I;슈페리어 뱅글;1;item_bracelet_15
+I;스트링 네클리스;1;item_necklace_17
+I;스틸 체인 글로브;1;icon_item_gloves_chain
+I;스파타;1;icon_item_Sword_27
+I;시커;1;bow_recurve_bow
+I;아라스의 폴쳔;1;icon_item_Sword_23
 I;아이스 로드;1;staff_cane_lowver_up
-I;포탈 스톤;124;icon_item_portalstone
-I;LV14 경험치 카드;1;icon_item_expcard
+I;아이언 보우;1;selfbow_up
+I;와이드 크로스보우;1;crossbow_oak_crossbow
+I;워커;1;icon_item_boots_brigan
+I;워픽;1;mace_Warpick
+I;유코푸스 네클리스;1;item_necklace_11
+I;잘리아 카이트 실드;1;icon_item_it_w_wooden_kite_shiled_b_green
+I;체인 메일;1;icon_item_shirts_chain
+I;카너버 네클리스;1;item_necklace_17
+I;카브라 부츠;1;icon_item_boots_bube
+I;케파 인형;1;hairacc_48_cepadoll
+I;케파 인형;1;hairacc_48_cepadoll
+I;케파 팬던트;1;item_necklace_10
+I;크로스보우;1;icon_item_crossbow
+I;크룩;1;icon_item_crook
+I;툼 건틀릿;1;icon_item_gloves_earth
+I;플라티나 메달;1;item_necklace_19
+I;플라티나 메달;1;item_necklace_19
+I;하드 레더 아머;1;icon_item_shirts_bube_blue
+I;홀리 파우더;10058;icon_item_powderw
+C;6571300025279
+I;라이트 부츠;1;icon_item_boots_bube
+I;라이트 아이언 뱅글;1;item_bracelet_08
+I;레더 글로브;1;icon_item_gloves_bube_blue
+I;병사의 롱 로드;1;icon_item_Staff_1
+I;보급용 HP포션 LV10;100;item_HP_oil_3
+I;보급용 SP포션 LV10;300;item_SP_requid_3
+I;보급용 작은 스태미나 알약;26;item_STA_pill_1
+I;부베 뱅글;1;item_bracelet_16
+I;슈페리어 퀼트 아머;1;icon_item_shirts_bube
+I;보급용 작은 SP포션;255;item_SP_requid_1
+I;와일드 레더 글로브;1;icon_item_gloves_bube_blue
+I;우든 뱅글;1;item_bracelet_20
+I;워커;1;icon_item_boots_brigan
+I;케이스타스 회복포션Lv1;100;item_HPSP_potion_1
 I;폴쳔;1;icon_item_Sword_23
-I;아이스 로드;1;staff_cane_lowver_up
-C;129166846477981
-I;(바랜)페버디마스 대거;1;icon_item_pabudimas_dagger
-I;SP포션;8;item_SP_requid_2
-I;농축 HP포션 LV10;37;icon_item_HP_Alche
-I;메이스;1;mace
-I;배틀 해머;1;mace_rokas_hammer
-I;베르타스 갈라티카 플레이트 아머;1;icon_item_shirts_frost
-I;베르타스 우카스 레더 글로브;1;icon_item_baldish_gloves
-I;베르타스 우카스 레더 부츠;1;icon_item_baldish_boots
-I;베르타스 우카스 레더 아머;1;icon_item_baldish_armor
-I;베르타스 우카스 레더 팬츠;1;icon_item_baldish_pants
-I;베르타스 우카스 레더 팬츠;1;icon_item_baldish_pants
-I;베르타스 플라네타 팬츠;1;icon_item_baronwear_pants
-I;보급용 SP포션;360;item_SP_requid_2
-I;보급용 SP포션 LV10;100;item_SP_requid_3
-I;보급용 이동속도 증가 포션;6;item_speed_requid_1
-I;보급용 작은 SP포션;716;item_SP_requid_1
-I;보급용 작은 스태미나 알약;28;item_STA_pill_1
-I;복숭아;22;icon_item_Peach
-I;선쿠스 마울;1;mace_maul
-I;스니커스니;1;icon_item_snickersnee
-I;스태미나 알약;2;item_STA_pill_2
-I;알레멧 HP포션;20;item_HP_oil_3
-I;알레멧 SP포션;20;item_SP_requid_3
-I;케이스타스 회복포션Lv4;239;item_HPSP_potion_3
-I;큰 SP포션;2;item_SP_requid_3
-I;프리머스 갈라티카 그리브;1;icon_item_boots_frost
-I;프리머스 우카스 레더 팬츠;1;icon_item_baldish_pants
-I;LV14 경험치 카드;5;icon_item_expcard
-I;록소나 플레이트 건틀릿;1;icon_item_gloves_SRchain
-I;프리머스 바스티클 건틀릿;1;icon_item_iorn_glove_1
-I;프리머스 바스티클 플레이트 아머;1;icon_item_iorn_shirt_1
-I;프리머스 제베넬리스 레더 부츠;1;icon_item_leather_boots_1
-I;프리머스 제베넬리스 레더 아머;1;icon_item_leather_shirt_1
-I;프리머스 제베넬리스 레더 팬츠;1;icon_item_leather_pants_1
-I;하나밍의 젬;Lv1;gem_mon_hanaming
-I;보급용 농축 HP포션 LV15;100;item_HP_oil_3
-I;보급용 농축 SP포션 LV15;100;item_SP_requid_3
-I;보급용 큰 HP포션;100;item_HP_oil_3
-I;보급용 큰 SP포션;100;item_SP_requid_3
-I;(바랜)프라케 글로브;1;icon_item_prake_gloves
-I;프리머스 바스티클 그리브;1;icon_item_iorn_boots_1
+I;보급용 SP포션;100;item_SP_requid_2
+I;보급용 농축 SP포션 LV15;200;item_SP_requid_3
+I;보급용 농축 HP포션 LV15;200;item_HP_oil_3
 C;350821518674189
 I;보급용 큰 SP포션;200;item_SP_requid_3
 I;보급용 큰 HP포션;200;item_HP_oil_3
 I;샤인 브레이슬릿;1;item_bracelet_09
 I;슈페리어 부츠;1;icon_item_boots_bube
 I;LV14 경험치 카드;17;icon_item_expcard
-C;223480033314738
-I;농축 HP포션 LV10;19;icon_item_HP_Alche
-I;보급용 작은 HP포션;26;item_HP_oil_1
-I;보급용 작은 SP포션;332;item_SP_requid_1
-I;사우로터;1;langdebeve
-I;숏 로드;1;icon_item_short_staff
-I;숏 스피어;1;short_spear
-I;스니커스니;1;icon_item_snickersnee
-I;스트롱 보우;1;bow_wooden_compound_bow
-I;스폰툰;1;spontoon
-I;레다스 실드;1;beadshield_blue
-I;아세가이;1;esponton
-I;카타콤 파이크;1;thspear_lightning_purple
-I;아스타;1;hasta
-I;아스타;1;hasta
-I;아스타;1;hasta
-I;와이드 크로스보우;1;crossbow_oak_crossbow
-I;폰델의 젬;Lv1;gem_mon_Pawndel
-I;테브린 스피어;1;winged_spear
-I;파이크;1;warrior_f_spear_pike
-I;파이크;1;warrior_f_spear_pike
-I;파이크;1;warrior_f_spear_pike
-I;노란 요노움의 젬;Lv1;gem_mon_Yognome
-I;폰델의 젬;Lv1;gem_mon_Pawndel
-I;빅 샤울렘의 젬;Lv1;gem_mon_Big_Siaulamb
-I;프리 파르티잔;1;warrior_f_spear_partisan
-C;5793910883996
+C;577230719684513
+I;(바랜)알비노사스 레더 글로브;1;icon_item_gloves_albinosas
+I;(바랜)알비노사스 레더 부츠;1;icon_item_boots_albinosas
+I;(바랜)알비노사스 레더 아머;1;icon_item_shirts_albinosas
+I;(바랜)알비노사스 레더 팬츠;1;icon_item_pants_albinosas
+I;(바랜)이글스타 레더 글로브;1;icon_item_eaglestar_gloves
+I;(바랜)이글스타 레더 부츠;1;icon_item_eaglestar_boots
+I;(바랜)이글스타 레더 아머;1;icon_item_eaglestar_armor
+I;(바랜)이글스타 레더 팬츠;1;icon_item_eaglestar_pants
+I;(바랜)타이타나스 플레이트 아머;1;icon_item_shirts_titanas
 I;HP 회복의 엘릭서 [이벤트];10;icon_item_HPelixir
-I;SP 회복의 엘릭서;3;icon_item_SPelixir
 I;SP 회복의 엘릭서 [이벤트];10;icon_item_SPelixir
-I;금괴;95;icon_item_goldbar_s
-I;기슬로티스;35;icon_item_Gyslotis
-I;나무 말뚝;103;icon_item_wood_3
-I;농축 HP포션 LV10;73;icon_item_HP_Alche
-I;농축 이동속도 향상의 포션;32;item_speed_requid_1
-I;단델의 날개;183;icon_item_batwing
-I;대형 HP포션;7;item_HP_oil_3
-I;대형 SP포션;5;item_SP_requid_3
-I;드레이크 고기;111;icon_item_meat_02
-I;피라콘 잎;304;icon_item_leaves_red
-I;딜겔레;2970;icon_item_Dilgele
-I;땅 속성 저항력 포션;1;icon_item_Seed_HR1
-I;라벤더 씨앗;2;icon_item_seed_red
-I;라오도넬리스;207;icon_item_Raudonelis
-I;라프세이프 버섯;24;icon_item_Pinemushroom
-I;물리+마법 방어력 포션;3;item_speed_requid_1
-I;바루날레샤;1185;icon_item_Varnalesa
-I;발래리요나스;421;icon_item_Valerijonas
-I;보급용 농축 HP포션 LV15;120;item_HP_oil_3
-I;보급용 농축 SP포션 LV15;118;item_SP_requid_3
-I;보급용 레드옥스;14;icon_item_Red_Ox
-I;보급용 이동속도 증가 포션;10;item_speed_requid_1
-I;부베족의 증표;51;icon_item_bubetoken
-I;비엔나라지스 스태프;1;icon_item_staff_whiteholse_TH
-I;살라위야스;2;icon_item_Salavijas
-I;샌드위치;5;icon_item_sandwich
-I;샐러드;4;icon_item_salad
-I;송로버섯;12;icon_item_Truffle
-I;송이버섯;3;icon_item_Pinemushroom
-I;스타울리트 심장;86;item_icon_heart_red
-I;스태미나 알약;8;item_STA_pill_2
-I;스트랭스 포션;8;item_speed_requid_1
-I;아비에테;45;icon_item_Aviete
-I;알레멧 HP포션;20;item_HP_oil_3
-I;알레멧 SP포션;18;item_SP_requid_3
-I;워시스;996;icon_item_Uosis
-I;은괴;168;icon_item_ironbar_s
-I;은빛 물고기;485;icon_item_fish2
-I;이단자의 팔찌;1;item_bracelet_05_2
-I;이단자의 팔찌;1;item_bracelet_05_2
-I;이동속도 향상의 포션;8;item_speed_requid_1
-I;장군의 선물;1;item_necklace_03_1
-I;전환의 수정조각;20;icon_item_BlokenMirror
-I;졸업자의 선물;1;item_necklace_19_1
-I;종말의 선물;1;item_necklace_03_4
-I;지혜의 열매;5;icon_item_wisdomberry
-I;초브랠리스;43;icon_item_Ciobrelis
-I;케이스타스 HP포션 Lv2;3;item_HP_oil_2
-I;케이스타스 SP포션 Lv2;5;item_SP_requid_2
-I;케이스타스 수호의 포션;6;icon_item_Drug_exDEF1
-I;케이스타스 용맹의 포션;7;icon_item_Drug_exATK1
-I;케이스타스 회복포션Lv1;15;item_HPSP_potion_1
-I;케이스타스 회복포션Lv2;31;item_HPSP_potion_2
-I;케이스타스 회복포션Lv3;9;item_HPSP_potion_3
-I;케이스타스 회복포션Lv4;39;item_HPSP_potion_3
-I;케파리 껍질;59;icon_item_piece_pappusKepa_purple
-I;큰 HP포션;8;item_HP_oil_3
-I;큰 SP포션;8;item_SP_requid_3
-I;큰 스태미나 알약;6;item_STA_pill_3
-I;특대형 HP포션;5;item_HP_oil_3
-I;특대형 SP포션;7;item_SP_requid_3
-I;티켄의 뼈;94;icon_item_bone
-I;판토족의 뿔;67;icon_item_pantohorn
-I;포포리온 고기;55;icon_item_meat_02
-I;폭죽;40;icon_item_firework
-I;플라스크;202;icon_item_Vial
-I;포포리온의 젬;Lv1;gem_mon_popolion3
-I;히밀의 유산;1;item_bracelet_10_1
-I;히밀의 유산;1;item_bracelet_10_1
-I;샤펜의 팔찌 조각;1;item_bracelet_02_3
-I;샤펜의 팔찌 조각;1;item_bracelet_02_3
-I;할로우벤터의 손뼈;112;icon_item_bone
-I;LV10 경험치 카드;1;icon_item_expcard
-I;LV14 경험치 카드;112;icon_item_expcard
-C;790377061681688
-I;누카의 젬;Lv1;gem_mon_Nuka
-I;채퍼리션 소드;1;icon_item_snickersnee_up
-I;카타콤 클럽;1;mace_typhon_hammer_purple
-I;(바랜)카울라스 레더 아머;1;icon_item_shirts_kaulas
-I;(바랜)카울라스 레더 팬츠;1;icon_item_pants_kaulas
-I;(바랜)카울라스 레더 부츠;1;icon_item_boots_kaulas
-I;기사단장 우스카의 뱅글;1;icon_item_eventbracelet02
-I;기사단장 우스카의 뱅글;1;icon_item_eventbracelet02
-I;워리어 팬던트;1;item_necklace_05
-I;식탐의 목걸이;1;item_NECK_PILGRIM_01_PWR
-I;비엔나라지스 투 핸드 메이스;1;icon_item_mace_whiteholse_twohand
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
 I;디델 타워 실드;1;icon_item_shield_fedimiantower
-I;스파타;1;icon_item_Sword_27
-I;오트라바 실드;1;kalkan_green
-I;피레네 소드;1;icon_item_sword_rebal
-C;561408060163154
+I;레다스 실드;1;beadshield_blue
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;레드 젬;Lv1;item_icon_circle150
+I;베르타스 라파이 파이크;1;icon_item_spear_twohand_lapai
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;블루 젬;Lv1;item_icon_Square150
+I;실버 폴쳔;1;icon_item_Falchion_up_silver
+I;옐로우 젬;Lv1;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;오크 크로스보우;1;icon_item_oak_crossbow
+I;오크 크로스보우;1;icon_item_oak_crossbow
+I;우든 버클러;1;icon_item_Shield_11
+I;카프리선 팬츠;1;icon_item_pants_brigan
+I;파이크;1;warrior_f_spear_pike
+I;보급용 농축 HP포션 LV15;165;item_HP_oil_3
+I;보급용 농축 SP포션 LV15;179;item_SP_requid_3
 I;보급용 큰 SP포션;100;item_SP_requid_3
-I;독 속성 저항력 포션;2;icon_item_Seed_HP1
-I;땅 속성 저항력 포션;1;icon_item_Seed_HR1
-I;마이너 해머;1;mace_mallet
-I;마이트 포션;3;item_speed_requid_1
-I;물리+마법 방어력 포션;5;item_speed_requid_1
-I;보급용 HP포션;40;item_HP_oil_2
-I;보급용 SP포션;88;item_SP_requid_2
-I;보급용 레드옥스;15;icon_item_Red_Ox
-I;보급용 이동속도 증가 포션;4;item_speed_requid_1
-I;보급용 작은 HP포션;30;item_HP_oil_1
-I;보급용 작은 SP포션;405;item_SP_requid_1
-I;보급용 작은 스태미나 알약;23;item_STA_pill_1
-I;보급용 작은 회복포션;3;item_HPSP_potion_1
-I;보급용 큰 HP포션;114;item_HP_oil_3
-I;케이스타스 회복포션Lv2;42;item_HPSP_potion_2
-I;불 속성 저항력 포션;1;icon_item_Seed_MATK1
-I;큰 스태미나 알약;30;item_STA_pill_3
-I;스태미나 알약;30;item_STA_pill_2
-I;케이스타스 회복포션Lv1;6;item_HPSP_potion_1
-I;이동속도 향상의 포션;4;item_speed_requid_1
-I;케이스타스 용맹의 포션;2;icon_item_Drug_exATK1
+I;보급용 큰 HP포션;100;item_HP_oil_3
+I;보급용 작은 HP포션;126;item_HP_oil_1
+I;보급용 작은 SP포션;349;item_SP_requid_1
+C;5793910987994
+I;바스타드 소드;1;icon_item_Sword_18
+I;우든 버클러;1;icon_item_Shield_11
+I;우든 버클러;1;icon_item_Shield_11
+I;우든 버클러;1;icon_item_Shield_11
+I;옐로우 젬;Lv1;item_icon_Star150
+I;하드 레더 글로브;1;icon_item_gloves_bube_blue
+I;하드 레더 글로브;1;icon_item_gloves_bube_blue
+I;보급용 SP포션 LV10;1100;item_SP_requid_3
+I;보급용 HP포션 LV10;200;item_HP_oil_3
+I;그린 젬;Lv1;item_icon_Dia150
+I;레드 젬;Lv1;item_icon_circle150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;고농축 SP포션;170;item_SP_requid_3
+I;고농축 HP포션;170;item_HP_oil_3
+I;오팔;1;25_item_ore_opal
+I;그린 젬;Lv1;item_icon_Dia150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+C;156186485724229
+I;보급용 HP포션;7;item_HP_oil_2
+I;보급용 SP포션;240;item_SP_requid_2
+I;보급용 SP포션 LV10;50;item_SP_requid_3
+I;보급용 작은 SP포션;690;item_SP_requid_1
+I;보급용 작은 스태미나 알약;28;item_STA_pill_1
+I;스태미나 알약;5;item_STA_pill_2
+I;(바랜)옥시니스 부츠;1;icon_item_boots_Auksinis
+I;실버 폴쳔;1;icon_item_Falchion_up_silver
+I;로얄 메이지 글로브;1;icon_item_gloves_royalMage
+I;말레딕;1;icon_item_yew_staff
+I;츄파카브라 네클리스;1;item_necklace_11
+I;케이스타스 HP포션 Lv2;10;item_HP_oil_2
+I;케이스타스 SP포션 Lv2;10;item_SP_requid_2
+I;케이스타스 회복포션Lv1;7;item_HPSP_potion_1
+I;케이스타스 회복포션Lv2;14;item_HPSP_potion_2
+I;큰 스태미나 알약;5;item_STA_pill_3
 I;탈리스만;1;item_necklace_19
-I;전기 속성 저항력 포션;1;icon_item_Seed_SKLPower1
-I;포텐티아;1;icon_item_Sword_18
-I;폴쳔;1;icon_item_Sword_23
-I;케이스타스 수호의 포션;14;icon_item_Drug_exDEF1
-I;데모나스 건틀릿;1;icon_item_gloves_SRchain
-I;(바랜)스몰 크리스타라스;1;icon_item_dagger_cristal
-I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
-I;(바랜)하베스터;1;icon_item_sword_bigstar
-I;사크미스;1;icon_item_sword_noroi_TH
-I;부베 투사의 젬;Lv1;gem_mon_Goblin_Warrior
-I;피노의 젬;Lv1;gem_mon_Pino
-I;날개 개구리의 젬;Lv1;gem_mon_flying_flog
-I;프리머스 바스티클 건틀릿;1;icon_item_iorn_glove_1
-I;프리머스 바스티클 그리브;1;icon_item_iorn_boots_1
-I;프리머스 바스티클 플레이트 아머;1;icon_item_iorn_shirt_1
-I;프리머스 바스티클 플레이트 팬츠;1;icon_item_iorn_pants_1
-I;시셀 브레이슬릿;1;item_bracelet_12
-I;시셀 브레이슬릿;1;item_bracelet_12
+I;알터 로드;1;Mage_f_staff_altar_staff
+I;허밍버드의 젬;Lv1;gem_mon_Humming_bud
+I;초록 어패리션의 젬;Lv1;gem_mon_Spector_Gh
+I;콜리타일의 젬;Lv1;gem_mon_colitile
+I;엘렛의 젬;Lv1;gem_mon_Elet
+I;여신의 축복석;1;icon_item_transcendence_Stone
+I;LV14 경험치 카드;5;icon_item_expcard
+C;732352053510346
 C;232447925037209
 I;사우시스 글로브;1;icon_item_gloves_skull
 I;(바랜)워메이지 글로브;1;icon_item_warmage_gloves
@@ -1310,86 +1339,70 @@ I;아그니 네클리스;1;item_necklace_21
 I;LV14 경험치 카드;7;icon_item_expcard
 C;853680584655367
 C;689050193235315
-C;119820997625534
-I;(바랜)닉스 나이트 그리브;1;icon_item_arkishknight_boots
-I;(바랜)닉스 나이트 글로브;1;icon_item_arkishknight_gloves
-I;(바랜)닉스 나이트 아머;1;icon_item_arkishknight_armor
-I;(바랜)닉스 나이트 팬츠;1;icon_item_arkishknight_pants
-I;HP 회복의 엘릭서 [이벤트];10;icon_item_HPelixir
-I;SP 회복의 엘릭서 [이벤트];10;icon_item_SPelixir
-I;[PC방] 화려한 지렁이;600;icon_item_Paste_Bait2_pc
-I;레더 아머;1;icon_item_shirts_bube_blue
-I;마크 글로브;1;icon_item_gloves_brigan
-I;말레딕;1;icon_item_yew_staff
-I;매직 우든 스태프;1;Mage_f_staff_woodenstick
-I;보급용 HP포션 LV10;180;item_HP_oil_3
-I;보급용 SP포션 LV10;1500;item_SP_requid_3
-I;보급용 이동속도 증가 포션;3;item_speed_requid_1
-I;셀프 보우;1;icon_item_selfbow
-I;숏 보우;1;bow_shortbow
-I;슈페리어 뱅글;1;item_bracelet_15
-I;스틸 체인 글로브;1;icon_item_gloves_chain
-I;시커;1;bow_recurve_bow
-I;아이언 네클리스;1;item_necklace_10
-I;연습용 레이피어;1;icon_item_rap2_1
-I;유코푸스 네클리스;1;item_necklace_11
-I;쥬 스태프;1;icon_item_yew_staff
-I;카스카라;1;icon_item_Sword_24
-I;케이스타스 HP포션 Lv3;5;item_HP_oil_2
-I;케이스타스 SP포션 Lv3;5;item_SP_requid_2
-I;케이스타스 수호의 포션;90;icon_item_Drug_exDEF1
-I;케이스타스 용맹의 포션;90;icon_item_Drug_exATK1
-I;케이스타스 회복포션Lv1;100;item_HPSP_potion_1
-I;케이스타스 회복포션Lv3;5;item_HPSP_potion_3
-I;크룩;1;icon_item_crook
-I;템서스 플랑베르쥬;1;Flamberge_up
-I;폴쳔;1;icon_item_Sword_23
-I;SP 회복 소형 엘릭서 ;30;icon_item_SPelixir_Small
-I;HP 회복 소형 엘릭서 ;15;icon_item_HPelixir_Small
-I;케이스타스 회복포션Lv4;101;item_HPSP_potion_3
-C;304238303381221
-I;노비스 뱅글;1;item_bracelet_15
-I;라이트 로네사 뱅글;1;item_bracelet_15
-I;베르타스 라파이 보우;1;icon_item_bow_lapai
+C;649957400904830
+I;(바랜)스파이크 킨들;1;icon_item_shield_thorns
+I;(바랜)칼리니스 글로브;1;icon_item_gloves_kailinis
+I;(바랜)칼리니스 로브;1;icon_item_shirts_kailinis
+I;(바랜)칼리니스 부츠;1;icon_item_boots_kailinis
+I;(바랜)칼리니스 팬츠;1;icon_item_pants_kailinis
+I;(바랜)칼리니스 팬츠;1;icon_item_pants_kailinis
+I;(바랜)페버디마스 실드;1;icon_item_pabudimas_shield
+I;고덴닥;1;mace_goedendag
+I;다크 부라와;1;mace_bulawa_red
+I;듀로 데미온소드;1;warrior_f_sword_demyon_dagger_yellow
 I;롱 보우;1;bow_longbow
-I;베르타스 라파이 보우;1;icon_item_bow_lapai
-I;라파이 투 핸드 메이스;1;icon_item_mace_twohand_lapai
-I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
-I;부베 네클리스;1;item_necklace_18
-I;부베 뱅글;1;item_bracelet_16
-I;아이스 로드;1;staff_cane_lowver_up
+I;마크 글로브;1;icon_item_gloves_brigan
+I;마크 부츠;1;icon_item_boots_brigan
+I;바스티클 그리브;1;icon_item_iorn_boots_1
+I;바스티클 플레이트 아머;1;icon_item_iorn_shirt_1
+I;베르타스 라파이 로드;1;icon_item_rod_lapai
+I;비트 코로나 로드;1;icon_item_rune_staff
 I;사브르;1;icon_item_Sword_26
-I;숏 보우;1;bow_shortbow
+I;사브르;1;icon_item_Sword_26
+I;서번트 로드;1;icon_item_rune_staff
+I;선쿠스 마울;1;mace_maul
+I;셀프 보우;1;icon_item_selfbow
+I;아스턴 로드;1;icon_item_ring2
+I;아스턴 스태프;1;Mage_f_staff_geometrystick
+I;아스턴 스피어;1;winged_spear
+I;아이스 로드;1;staff_cane_lowver_up
+I;아이스 로드;1;staff_cane_lowver_up
+I;에스폰툰;1;esponton
+I;에스폰툰;1;esponton
+I;에키 슬레지 해머;1;mace_sledgehammer_purple
+I;우든 카이트 실드;1;icon_item_Shield_8
 I;카스카라;1;icon_item_Sword_24
-I;케이스타스 수호의 포션;30;icon_item_Drug_exDEF1
-I;케이스타스 용맹의 포션;30;icon_item_Drug_exATK1
-I;케이스타스 회복포션Lv1;100;item_HPSP_potion_1
-I;케파 팬던트;1;item_necklace_10
+I;카이트 실드;1;icon_item_Shield_9
+I;크라이지어스 건틀릿;1;icon_item_gloves_kryzius
+I;크라이지어스 그리브;1;icon_item_boots_kryzius
+I;크라이지어스 플레이트 아머;1;icon_item_shirts_kryzius
+I;크라이지어스 플레이트 팬츠;1;icon_item_pants_kryzius
+I;크로스보우;1;icon_item_crossbow
 I;크룩;1;icon_item_crook
-I;LV5 경험치 카드;8;icon_item_expcard
-I;LV6 경험치 카드;5;icon_item_expcard
-I;LV12 경험치 카드;4;icon_item_expcard
-I;LV13 경험치 카드;7;icon_item_expcard
-I;LV15 경험치 카드;9;icon_item_expcard
-C;505474701068687
-I;막스 페타미온;1;item_necklace_12
-I;부베 투사 건틀릿;1;icon_item_gloves_bubewarrior
-I;아스트라 보우;1;icon_item_bow_pollyhorn_TH
-I;미르티 브레이슬릿;1;item_bracelet05_2
-I;미르티 브레이슬릿;1;item_bracelet05_2
-I;프리머스 라파이 로드;1;icon_item_rod_lapai
-I;하트 오브 글로리;1;icon_item_staff_regardhorn
-I;프리머스 미간티스 스태프;1;icon_item_miegantis_staff
-I;와이드 크로스보우;1;crossbow_oak_crossbow
-I;케이스타스 회복포션Lv4;134;item_HPSP_potion_3
-I;보급용 작은 SP포션;167;item_SP_requid_1
-I;제작서-호크 보우;1;icon_item_weapon_misc3
-I;아바레스트;1;icon_item_arbalest
-I;오크 크로스보우;1;icon_item_oak_crossbow
-I;크리스탈 로드;1;icon_item_crystal_staff
+I;클라이다 그리브;1;icon_item_boots_insect
+I;클라이다 그리브;1;icon_item_boots_insect
+I;클라이다 스커트;1;icon_item_pants_insect
+I;파이브 해머;1;mace_blacksmith
+I;페버디마스 소드;1;icon_item_pabudimas_sword
+I;페버디마스 투 핸드 메이스;1;icon_item_pabudimas_mace_twohand
 I;폴쳔;1;icon_item_Sword_23
-I;포레스트 레더 아머;1;icon_item_shirts_forest
-I;파이크;1;warrior_f_spear_pike
+I;헌팅 리치 보우;1;icon_item_coritos
+I;헌팅 리치 보우;1;icon_item_coritos
+C;1
+C;837166435403782
+I;기사단장 우스카의 뱅글;1;icon_item_eventbracelet02
+I;아르데 대거;1;icon_item_main-gauche
+I;아르데 대거;1;icon_item_main-gauche
+I;케도란 크리스 대거;1;icon_item_f_dagger_kreive
+I;보급용 작은 SP포션;235;item_SP_requid_1
+I;마나마나;1;icon_item_leveractionpistol
+I;머슈카리아 모자;1;hairacc_23_mushcariahat
+I;(바랜)스몰 크리스타라스;1;icon_item_dagger_cristal
+I;카프리선 글로브;1;icon_item_gloves_brigan
+I;카프리선 부츠;1;icon_item_boots_brigan
+I;카프리선 아머;1;icon_item_shirts_brigan
+I;카프리선 팬츠;1;icon_item_pants_brigan
+I;코릴러스의 젬;Lv1;gem_mon_Corylus
 C;334766930919810
 I;물리+마법 방어력 포션;2;item_speed_requid_1
 I;보급용 작은 HP포션;25;item_HP_oil_1

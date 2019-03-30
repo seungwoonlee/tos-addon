@@ -1,13 +1,13 @@
 S;1001
 G;Unused
-I;실버;99999;icon_item_silver
+I;실버;100000;icon_item_silver
 G;PasteBait
 I;작은 은빛 물고기;2;icon_item_fish4
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;농축 HP포션 LV15;34;icon_item_HP_Alche
-I;농축 SP포션 LV15;15;icon_item_SP_Alche
+I;농축 SP포션 LV15;12;icon_item_SP_Alche
 I;라프세이프 버섯;9;icon_item_Pinemushroom
 I;레드옥스;4;icon_item_Red_Ox
 I;마법 공격력 포션;3;item_speed_requid_1
@@ -36,7 +36,7 @@ I;LV14 경험치 카드;84;icon_item_expcard
 I;레드 오브:폰드;1;icon_item_Dreamshade_red
 I;레드 오브:판토 궁수;1;icon_item_Dreamshade_red
 I;레드 오브:누카;2;icon_item_Dreamshade_red
-I;보급용 워프 주문서;22;GolemMagicItem1
+I;보급용 워프 주문서;21;GolemMagicItem1
 I;블루 오브:러바인러바;1;icon_item_Dreamshade
 I;블루 오브:쿠게리 발저;1;icon_item_Dreamshade
 I;블루 오브:하루갈;1;icon_item_Dreamshade
@@ -230,13 +230,11 @@ I;할로우벤터의 손뼈;32;icon_item_bone
 I;허니빈 침;28;icon_item_tooth_01Yellow
 I;호그마 엄니;3;icon_item_tooth_white
 I;회색 스타울리트 힘줄;7;icon_item_Leash
-I;우르바스 증표;1;icon_item_borutakey
-I;[이벤트]반짝이는 별의 조각;3;icon_item_orb3
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;고원 감자;4;icon_item_maladufat
 I;공간의 문장;1;icon_item_void_01
-I;글리자돈의 질긴 가죽;2;icon_item_Misc_00007
+I;리디아 샤펜의 교차선;1;icon_item_collection_04Black
 I;낡은 편지;1;icon_item_loveletter
 I;대지의 요새의 계시;1;icon_item_stonetablet
 I;독특한 산호 조각;1;icon_item_coral

@@ -7,14 +7,6 @@ G;Premium
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 G;Drug
 I;보급용 작은 HP포션;128;item_HP_oil_1
 I;보급용 작은 SP포션;126;item_SP_requid_1
@@ -22,6 +14,13 @@ I;보급용 작은 스태미나 알약;23;item_STA_pill_1
 I;보급용 이동속도 증가 포션;3;item_speed_requid_1
 I;보급용 워프 주문서;10;GolemMagicItem1
 G;Armor
+I;크라이지어스 그리브;1;icon_item_boots_kryzius
+I;제베넬리스 레더 부츠;1;icon_item_leather_boots_1
+I;이브레 부츠;1;icon_item_boots_animalLeather
+I;크라이지어스 플레이트 팬츠;1;icon_item_pants_kryzius
+I;크라이지어스 플레이트 아머;1;icon_item_shirts_kryzius
+I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
+I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
 I;아웃로 더크더즈;1;icon_item_scoutCos_outlaw01_f
 G;Material
 I;케파 줄기;5;icon_item_stem_green

@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;195199;icon_item_silver
+I;실버;128000;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
@@ -291,7 +291,7 @@ I;데스모두스 이빨;15;icon_item_tooth_yellow
 I;덴덴 꽃잎;1;icon_item_leaves_blue
 I;도요르 잎다발;2;icon_item_doyorleaf
 I;드레이크 고기;30;icon_item_meat_02
-I;포탈 스톤;64;icon_item_portalstone
+I;포탈 스톤;38;icon_item_portalstone
 I;디머의 구슬;1;icon_item_bead
 I;떡갈나무;2;icon_item_wood_1
 I;라우지누테의 껍질;23;icon_item_shell_red
@@ -488,7 +488,6 @@ I;호글란 부리;3;icon_item_small_bag
 I;호박;4;icon_item_small_bag
 I;호헨 가죽;3;icon_item_Misc_00011
 I;회색 스타울리트 힘줄;12;icon_item_Leash
-I;우르바스 증표;1;icon_item_borutakey
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;가시숲의 계시;1;icon_item_stonetablet

@@ -1,12 +1,12 @@
 S;1001
 G;Unused
-I;실버;189999;icon_item_silver
+I;실버;190124;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;30;icon_item_HPelixir_Small
 I;보급용 SP포션;30;item_SP_requid_2
 I;SP 회복 소형 엘릭서 ;34;icon_item_SPelixir_Small
 I;[PC방] SP 회복 소형 엘릭서 ;8;icon_item_random_spellixerbox
-I;농축 HP포션 LV15;31;icon_item_HP_Alche
+I;농축 HP포션 LV15;28;icon_item_HP_Alche
 I;농축 이동속도 향상의 포션;60;item_speed_requid_1
 I;라프세이프 버섯;2;icon_item_Pinemushroom
 I;바루날레샤;3;icon_item_Varnalesa
@@ -18,7 +18,7 @@ I;정착 지원 포션 Lv2;87;item_speed_requid_3
 I;클라페다 워프 주문서;2;GolemMagicItem1
 I;포포리온 고기;7;icon_item_meat_02
 I;해독제;3;icon_item_Quest_00020
-I;농축 SP포션 LV15;15;icon_item_SP_Alche
+I;농축 SP포션 LV15;14;icon_item_SP_Alche
 I;아말라스;5;icon_item_Amalas
 I;딜겔레;2;icon_item_Dilgele
 I;LV14 경험치 카드;4;icon_item_expcard
@@ -32,7 +32,7 @@ I;LV7 경험치 카드;2;icon_item_expcard
 I;LV6 경험치 카드;2;icon_item_expcard
 I;LV11 경험치 카드;1;icon_item_expcard
 I;오르샤 라이온스 응원 슬로건;1;icon_item_aretfact_victory_red
-I;인챈트탄;666;icon_item_panto_core
+I;인챈트탄;661;icon_item_panto_core
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;대해적과 하이레번 하권;1;icon_item_collection_00Basic
@@ -157,7 +157,6 @@ I;물푸레나무;10;icon_item_wood_2
 I;노란 아르마의 꼬리;1;icon_item_Quest_00017
 I;노란 파이란 날개;3;icon_item_batwing
 I;붉은 슬라임의 핵;1;38_item_ore_mercury
-I;우르바스 증표;1;icon_item_borutakey
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01

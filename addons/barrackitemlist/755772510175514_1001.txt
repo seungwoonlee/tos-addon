@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;99999;icon_item_silver
+I;실버;99920;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
@@ -136,7 +136,6 @@ I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_even
 I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
 I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
 G;Armor
-I;플라네타 부츠;1;icon_item_baronwear_boots
 I;브리간딘 부츠;1;icon_item_boots_brigan
 I;제메이 네클리스;1;item_necklace_16
 I;사이코키노 코스튬;1;icon_item_psychokinesist_f
@@ -151,7 +150,6 @@ I;크리오라이트;1;39_icon_item_Cry8rite
 I;파이라이트;296;32_item_ore_pyrite
 I;주석;4;1_item_ore_copper
 I;호박;17;22_item_ore_amber
-I;토파즈;4;24_item_ore_topaz
 I;압시듐 광석;2;8_item_ore_platinum
 I;LV2 보물상자 열쇠;3;icon_item_key1
 I;갈록 가죽;3;icon_item_Misc_00007
@@ -177,7 +175,6 @@ I;레무리아의 꼬리;1;icon_item_Quest_00017
 I;레푸스버니 털;1;icon_item_fur_05Gray
 I;록타눈 깃털;3;icon_item_feather_00Basic
 I;루나엔젤의 나팔;19;icon_item_misc_0511
-I;니코폴리스 은하 방울;5;icon_item_misc_0526
 I;리자드맨 송곳니;1;icon_item_canine
 I;리프넛의 뿔;3;icon_item_shorthorn
 I;리플라이 날개;7;icon_item_bugwing
@@ -250,7 +247,6 @@ I;쿠게리의 천조각;2;icon_item_clothpiece_white
 I;크레토의 깃털;11;icon_item_misc_0518
 I;타마 잎;7;icon_item_leaves_red
 I;타마의 껍질;1;icon_item_tamashell
-I;우르바스 증표;1;icon_item_borutakey
 I;트리피드 가시;1;icon_item_thorn_green
 I;티켄의 뼈;1;icon_item_bone
 I;티피오의 꽃술;11;icon_item_tipiostamen
@@ -269,18 +265,14 @@ I;하밍 잎;1;icon_item_leaves_green
 I;허밍버드의 날개;3;icon_item_bugwing
 I;이레디안 브로치;6;icon_item_iredian_misc01
 I;버드니의 잎;3;icon_item_leaf
-I;레이드 포탈 스톤;144;icon_item_dungeon_portalstone
 I;노란 리프넛의 온전한 날개;1;icon_item_misc04_65
 I;주황 그루머 날개;1;icon_item_batwing
 I;플로래비 솜털;9;icon_item_fur_spion_white
 I;블롬의 잎;2;icon_item_leaves_green
 I;플로론의 잎;2;icon_item_leaf
-I;[이벤트]반짝이는 별의 조각;1;icon_item_orb3
 I;노란 이노움의 핵;1;icon_item_core_yellow
-I;로열 블레이드 파편;5;icon_item_misc_0529
 I;차원 탐색 스크롤;1;GolemMagicItem1
 I;귀환석;1;MercenaryBadge
-I;특성 포인트 100;1;icon_item_abilitypoint3
 G;Quest
 I;공간의 문장;1;icon_item_void_01
 I;독특한 산호 조각;1;icon_item_coral

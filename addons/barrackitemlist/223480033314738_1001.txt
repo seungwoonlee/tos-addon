@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;99999;icon_item_silver
+I;실버;100000;icon_item_silver
 G;Drug
 I;보급용 레드옥스;11;icon_item_Red_Ox
 I;바루날레샤;1;icon_item_Varnalesa
@@ -22,18 +22,21 @@ I;폭죽;20;icon_item_firework
 I;정착 지원 포션;8;item_speed_requid_3
 I;라프세이프 버섯;2;icon_item_Pinemushroom
 I;해독제;5;icon_item_Quest_00020
-I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
-I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;농축 HP포션 LV15;30;icon_item_HP_Alche
-I;케이스타스 회복포션Lv4;111;item_HPSP_potion_3
-I;농축 SP포션 LV15;36;icon_item_SP_Alche
+I;농축 HP포션 LV15;29;icon_item_HP_Alche
+I;농축 SP포션 LV15;18;icon_item_SP_Alche
+I;[이벤트] SP 회복 소형 엘릭서 ;18;icon_item_SPelixir_Small
+I;[이벤트] HP 회복 소형 엘릭서 ;20;icon_item_HPelixir_Small
+I;케이스타스 회복포션Lv4;9;item_HPSP_potion_3
 I;보급용 작은 HP포션;3;item_HP_oil_1
 I;레드 오브:말라두;1;icon_item_Dreamshade_red
-I;LV14 경험치 카드;35;icon_item_expcard
+I;LV14 경험치 카드;47;icon_item_expcard
 I;LV1 경험치 카드;23;icon_item_expcard
 I;보급용 워프 주문서;10;GolemMagicItem1
+I;LV15 경험치 카드;9;icon_item_expcard
+I;LV13 경험치 카드;7;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
 G;SubWeapon
+I;페버디마스 대거;1;icon_item_pabudimas_dagger
 I;디오니스 암밴드;1;icon_item_armband_dinios
 G;Book
 I;찢어진 일기의 일부 3;1;icon_item_paperpiece
@@ -48,6 +51,7 @@ I;낡은 일기;1;icon_item_collection_04Black
 I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-뚫어뻥;26;icon_item_weapon_misc5
+I;제작서-일룬;1;icon_item_weapon_misc1
 G;Collection
 I;컬렉션: 이브레 고원;1;icon_item_box
 I;컬렉션: 스벤티마스 유형지;1;icon_item_box
@@ -60,18 +64,23 @@ I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
 I;컬렉션: 이국 사랑;1;icon_item_box
 I;컬렉션: 덧댄다리 숲;1;icon_item_box
 I;컬렉션: 초보자의 무기;1;icon_item_box
+I;컬렉션: 지마 수코트;1;icon_item_box
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
+I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
 I;확성기;20;icon_item_Mike
+I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Armor
+I;브리간딘 부츠;1;icon_item_boots_brigan
 I;레더 글로브;1;icon_item_gloves_bube_blue
 I;우든 뱅글;1;item_bracelet_20
 I;캐터프랙트 코스튬;1;icon_item_cataphract_f
 I;랜서 코스튬;1;icon_item_warrior_lancer_f
 G;Material
 I;모루;3;icon_item_anvil
+I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;파이라이트;4;32_item_ore_pyrite
 I;주석;2;1_item_ore_copper
 I;호박;3;22_item_ore_amber
@@ -149,7 +158,7 @@ I;리디메드 줄기;10;icon_item_stem_gray
 I;바퀴;7;icon_item_wheel
 I;베누켈로스의 핵;5;icon_item_core_yellow
 I;물푸레나무;26;icon_item_wood_2
-I;소나무;8;icon_item_wood_3
+I;소나무;9;icon_item_wood_3
 I;리자드맨 송곳니;2;icon_item_canine
 I;인프로 버크의 껍질;3;icon_item_shell_red
 I;코카트리스 깃털;11;icon_item_feather_02Yellow
@@ -212,8 +221,11 @@ I;사디피 결정 Lv1;16;KQ_recipe_hethran_material_1_1
 I;오넨 정수 Lv1;11;KQ_recipe_hethran_material_1_2
 I;팔라팜 조각 Lv1;5;KQ_recipe_hethran_material_1_3
 I;쿠게리의 천조각;1;icon_item_clothpiece_white
-I;우르바스 증표;1;icon_item_borutakey
+I;노란 리프넛 날개;1;icon_item_batwing
 I;포쿠부 가죽;1;icon_item_Misc_00011
+I;노란 파이란 날개;2;icon_item_batwing
+I;붉은 위저드 주술 인형의 핵;1;38_item_ore_mercury
+I;붉은 슬라임의 핵;2;38_item_ore_mercury
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01
@@ -235,9 +247,8 @@ I;검 연습대 파편;1;icon_item_Quest_00017
 I;검 연습대 제작 도구;1;icon_item_Quest_00017
 G;Weapon
 I;병사의 라이트 보우;1;bow_bow01
-I;베르타스 라파이 보우;1;icon_item_bow_lapai
+I;즈바이더 보우;1;icon_item_bow_nicopolis1
 I;리가드 혼 파이크;1;icon_item_spear_regardhorn_TH
 I;프리머스 라파이 파이크;1;icon_item_spear_twohand_lapai
 I;프리머스 라파이 파이크;1;icon_item_spear_twohand_lapai
-I;라파이 파이크;1;icon_item_spear_twohand_lapai
 I;일기당천 언월도;1;icon_item_BlueDragon_thspear

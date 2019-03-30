@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;450000;icon_item_silver
+I;실버;100000;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;9;icon_item_SPelixir_Small
@@ -169,10 +169,10 @@ I;레드 젬;Lv5;item_icon_circle150
 I;레드 젬;Lv4;item_icon_circle150
 I;레드 젬;Lv5;item_icon_circle150
 I;레드 젬;Lv4;item_icon_circle150
-I;레드 젬;Lv7;item_icon_circle150
-I;레드 젬;Lv4;item_icon_circle150
-I;레드 젬;Lv4;item_icon_circle150
 I;레드 젬;Lv6;item_icon_circle150
+I;레드 젬;Lv4;item_icon_circle150
+I;레드 젬;Lv4;item_icon_circle150
+I;레드 젬;Lv7;item_icon_circle150
 I;그린 젬;Lv6;item_icon_Dia150
 I;그린 젬;Lv6;item_icon_Dia150
 I;그린 젬;Lv6;item_icon_Dia150
@@ -383,6 +383,9 @@ I;파이로에고 카드;Lv1;icon_item_card_stat
 I;파이로에고 카드;Lv1;icon_item_card_stat
 I;파야우타 카드;Lv10;icon_item_card_stat
 I;파야우타 카드;Lv1;icon_item_card_stat
+I;파야우타 카드;Lv3;icon_item_card_stat
+I;파야우타 카드;Lv10;icon_item_card_stat
+I;파야우타 카드;Lv1;icon_item_card_stat
 I;그라이넨더 카드;Lv1;icon_item_card_atk
 I;그라이넨더 카드;Lv1;icon_item_card_atk
 I;그라이넨더 카드;Lv1;icon_item_card_atk
@@ -538,6 +541,7 @@ I;플록스케 카드;Lv1;icon_item_card_atk
 I;플록스케 카드;Lv1;icon_item_card_atk
 I;플록스케 카드;Lv1;icon_item_card_atk
 I;히드라 카드;Lv10;icon_item_card_atk
+I;아이언바움 카드;Lv1;icon_item_card_atk
 I;고르곤 카드;Lv1;icon_item_card_def
 I;고르곤 카드;Lv1;icon_item_card_def
 I;고르곤 카드;Lv1;icon_item_card_def
@@ -974,6 +978,31 @@ I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
 I;가이갈라스 카드;Lv1;icon_item_card_util
 I;게이징 골렘 카드;Lv10;icon_item_card_util
 I;게이징 골렘 카드;Lv10;icon_item_card_util
@@ -1074,8 +1103,6 @@ I;몬스터 젬 선택 상자: 직업;3;icon_item_jewelrybox_close
 I;소울 크리스탈;20;icon_item_soulCrystal
 I;워프 주문서;20;icon_item_warpPremium
 I;확성기;20;icon_item_Mike
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
 I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
 G;Material
@@ -1084,21 +1111,14 @@ I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;빛나는 2성 젬 연마제;10;icon_item_powderp
-I;빛나는 3성 젬 연마제;33;icon_item_powderp
-I;강화용 카드 : 100;54;monster_card
-I;축복받은 조각;2;icon_item_Gem_Elemental1
+I;빛나는 3성 젬 연마제;29;icon_item_powderp
+I;빛나는 2성 젬 연마제;12;icon_item_powderp
+I;강화용 카드 : 100;56;monster_card
 I;마법 가루;281;icon_item_MagicPowder
 I;빈 스펠북;8;icon_item_emptySpellBook
 I;크리오라이트;9;39_icon_item_Cry8rite
 I;파이라이트;8;32_item_ore_pyrite
-I;루비;4;26_item_ore_garnet
-I;사파이어;5;39_icon_item_Cry8rite
-I;오팔;3;25_item_ore_opal
 I;주석;1;1_item_ore_copper
-I;토파즈;5;24_item_ore_topaz
-I;프락토늄;2;icon_item_crystal_High
-I;미스릴 광석;1;13_item_mythril
 I;LV2 보물상자 열쇠;4;icon_item_key1
 I;갈록 가죽;1;icon_item_Misc_00007
 I;갈색 라프세이프 잎;3;icon_item_leaves_lapasape_brown
@@ -1176,7 +1196,6 @@ I;아클라스의 갑옷조각;2;icon_item_FORMINE_ARMOR_SCAPULAR
 I;얼타눈 깃털;4;icon_item_feather_03Green
 I;에큐바이트 더듬이;4;icon_item_feeler_purple
 I;에큐바이트 이빨;1;icon_item_tooth_blue
-I;우르바스 증표;1;icon_item_borutakey
 I;웬디고 송곳니;1;icon_item_tooth_white
 I;웬디고 이빨;6;icon_item_tooth_white
 I;유리 조각;2;icon_item_pieceofglass
@@ -1223,7 +1242,6 @@ I;호그마 전투대장 송곳니;2;icon_item_tooth_00Basic
 I;호헨 깃발 조각;5;icon_item_flag_hohen
 I;회색 스타울리트 힘줄;5;icon_item_Leash
 I;이레디안 수정 조각;4;icon_item_iredian_misc02
-I;테라늄;1;36_item_ore_lapis_philosophorum
 I;이레디안 브로치;2;icon_item_iredian_misc01
 I;귀환석;1;MercenaryBadge
 G;Quest

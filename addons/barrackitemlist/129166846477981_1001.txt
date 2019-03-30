@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;99999;icon_item_silver
+I;실버;100000;icon_item_silver
 G;Drug
 I;100일 기념 포션;6;item_speed_requid_3
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
@@ -10,7 +10,7 @@ I;고농축 SP포션;50;item_SP_requid_3
 I;고농축 이동속도 증가 포션;10;item_speed_requid_1
 I;긴급 수리 키트;11;icon_item_repairkit
 I;농축 HP포션 LV15;18;icon_item_HP_Alche
-I;농축 SP포션 LV15;46;icon_item_SP_Alche
+I;농축 SP포션 LV15;45;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;20;item_speed_requid_1
 I;딸기;24;icon_item_Strawberry
 I;라프세이프 버섯;1;icon_item_Pinemushroom
@@ -145,13 +145,13 @@ I;확성기;20;icon_item_Mike
 G;Material
 I;모루;9;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;고문도구;228;icon_item_torturing_tool
-I;기슬로티스;300;icon_item_Gyslotis
-I;망토;91;icon_item_cape
-I;성수;305;icon_item_holywater
+I;고문도구;218;icon_item_torturing_tool
+I;기슬로티스;297;icon_item_Gyslotis
+I;망토;89;icon_item_cape
+I;성수;303;icon_item_holywater
 I;크리오라이트;28;39_icon_item_Cry8rite
 I;파이라이트;19;32_item_ore_pyrite
-I;홀리 파우더;305;icon_item_powderw
+I;홀리 파우더;304;icon_item_powderw
 I;압시듐 광석;32;8_item_ore_platinum
 I;주석;6;1_item_ore_copper
 I;LV2 보물상자 열쇠;4;icon_item_key1
@@ -202,7 +202,6 @@ I;도요르 잎다발;3;icon_item_doyorleaf
 I;돌;4;icon_item_Misc_00004
 I;두더지 발톱;3;icon_item_canine
 I;드레이크 고기;78;icon_item_meat_02
-I;우르바스 증표;1;icon_item_borutakey
 I;디머의 구슬;1;icon_item_bead
 I;라우지누테의 껍질;2;icon_item_shell_red
 I;락코프의 핵;6;38_item_ore_mercury
@@ -221,7 +220,7 @@ I;론도 껍질;4;icon_item_shell_blue
 I;롬펠누카의 가죽;5;icon_item_Misc_00008
 I;루바보스 가죽;2;icon_item_Misc_00010
 I;룩소돈 고기;5;icon_item_meat_02
-I;리디메드 줄기;23;icon_item_stem_gray
+I;리디메드 줄기;24;icon_item_stem_gray
 I;리자드맨 뼈;4;icon_item_bone
 I;리자드맨 송곳니;8;icon_item_canine
 I;리플라이 날개;16;icon_item_bugwing
@@ -417,7 +416,6 @@ I;호헨 가죽;1;icon_item_Misc_00011
 I;호헨 깃발 조각;4;icon_item_flag_hohen
 I;회색 날개 개구리의 뼈;2;icon_item_bone
 I;희미한 별빛의 결정;1;24_item_ore_topaz
-I;별빛이 깃든 이슬;2;icon_item_misc_0520
 I;초록 페이그 널스의 천조각;3;icon_item_clothpiece_green
 I;차원 탐색 스크롤;1;GolemMagicItem1
 I;귀환석;1;MercenaryBadge
@@ -453,6 +451,7 @@ I;펜듈럼;1;icon_item_pendulum
 I;폭탄;5;icon_item_bomb
 I;힘이 복구된 사울레의 성구;1;icon_item_crimson3
 G;Armor
+I;마로네 로브;1;icon_item_malone_amor
 I;인퀴지터 코스튬;1;icon_item_inquisitor_f
 I;채플린 코스튬;1;icon_item_chaplain_f
 I;프리스트 코스튬;1;icon_item_prist_f

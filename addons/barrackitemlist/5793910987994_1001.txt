@@ -41,7 +41,7 @@ I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;은빛 물고기;4;icon_item_fish2
 G;Event
-I;클래스 변경권 Lv.1 (14일);10;icon_item_rankreset_paper_3
+I;[Episode11] 레벨업 상자 (220레벨);1;icon_item_giftBox_2
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black
 G;Recipe
@@ -111,14 +111,19 @@ I;x8 경험의 서;1;icon_item_expbookx8
 I;긴급 수리 키트;10;icon_item_repairkit
 I;소울 크리스탈;19;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;15레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;워프 주문서;19;icon_item_warpPremium
 I;워프 주문서 10개 상자;1;icon_item_warpPremium_bundle
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;인스턴스 던전 배수 토큰;17;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;40레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;75레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -189,24 +194,25 @@ I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
 I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
 I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
 I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
+I;120레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;170레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;파스텔 그린 염색약;1;haircolor_green
 I;확성기;48;icon_item_Mike
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 G;Armor
 I;베르타스 크라이지어스 그리브;1;icon_item_boots_kryzius
+I;케도란 페디미안 부츠;1;icon_item_boots_sage_white
 I;크라이지어스 건틀릿;1;icon_item_gloves_kryzius
 I;팽글 플레이트 글로브;1;icon_item_gladiuspangle_gloves
+I;케도란 페디미안 글로브;1;icon_item_gloves_sage_white
 I;라즈나 레더 팬츠;1;icon_item_razna_leg
 I;크라이지어스 플레이트 팬츠;1;icon_item_pants_kryzius
+I;케도란 페디미안 팬츠;1;icon_item_pants_sage_white
 I;베르타스 즈바이더 실드;1;icon_item_shield_nicopolis1
 I;베르타스 마로네 로브;1;icon_item_malone_amor
 I;알프라 로브;1;icon_item_alframerchant_armor
 I;크라이지어스 플레이트 아머;1;icon_item_shirts_kryzius
+I;케도란 페디미안 로브;1;icon_item_shirts_sage_white
 I;노비스 네클리스;1;item_necklace_10
 I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
 I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
@@ -215,6 +221,7 @@ I;아우르 메달;1;item_necklace_19
 I;아우르 메달;1;item_necklace_19
 I;플라티나 메달;1;item_necklace_19
 I;플라티나 메달;1;item_necklace_19
+I;케파 팬던트;1;item_necklace_10
 I;노블 브레이슬릿;1;item_bracelet_03
 I;라이트 아이언 뱅글;1;item_bracelet_08
 I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
@@ -226,7 +233,12 @@ I;우든 뱅글;1;item_bracelet_20
 I;우든 뱅글;1;item_bracelet_20
 I;자카리엘 뱅글;1;item_bracelet_10
 I;자카리엘 뱅글;1;item_bracelet_10
+I;슈페리어 뱅글;1;item_bracelet_15
+I;슈페리어 뱅글;1;item_bracelet_15
+I;케파 인형;1;hairacc_48_cepadoll
+I;단풍잎;1;hairacc_13_maple
 I;페더풋 코스튬;1;icon_item_mage_featherfoot_f
+I;네크로맨서 코스튬;1;icon_item_necromancer_f
 G;Material
 I;연습용 모루;1;icon_item_anvil
 I;은빛 모루;1;icon_item_anvil_silver
@@ -256,6 +268,7 @@ I;포쿠부 가죽;3;icon_item_Misc_00011
 I;푸른 듀마로의 발톱;4;icon_item_claw_00Basic
 I;하나밍 꽃잎;7;icon_item_HanamingPetal
 I;할로우벤터의 손뼈;15;icon_item_bone
+I;[Episode11] 성장의 보석;1500;icon_item_crimson2
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;고원 사탕무;1;icon_item_beet
@@ -273,3 +286,4 @@ I;만드라픽;1;sword_sabre_up
 I;만드라픽;1;sword_sabre_up
 I;케도란 벨니웁;1;icon_item_snickersnee_up
 I;아이언 보우;1;selfbow_up
+I;케도란 선플라워;1;Mage_f_staff_sunflowerstick

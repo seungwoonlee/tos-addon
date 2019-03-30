@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;99999;icon_item_silver
+I;실버;99919;icon_item_silver
 G;Drug
 I;100일 기념 포션;25;item_speed_requid_3
 I;HP 회복의 엘릭서 [이벤트];10;icon_item_HPelixir
@@ -11,13 +11,9 @@ I;고농축 이동속도 증가 포션;5;item_speed_requid_1
 I;농축 이동속도 향상의 포션;40;item_speed_requid_1
 I;딜겔레;1;icon_item_Dilgele
 I;보급용 HP포션;100;item_HP_oil_2
-I;보급용 SP포션;100;item_SP_requid_2
-I;보급용 농축 HP포션 LV15;200;item_HP_oil_3
-I;보급용 농축 SP포션 LV15;200;item_SP_requid_3
 I;보급용 레드옥스;14;icon_item_Red_Ox
 I;보급용 이동속도 증가 포션;10;item_speed_requid_1
 I;보급용 작은 HP포션;139;item_HP_oil_1
-I;보급용 작은 SP포션;255;item_SP_requid_1
 I;보급용 작은 회복포션;3;item_HPSP_potion_1
 I;오르샤 워프 주문서;10;GolemMagicItem1
 I;정착 지원 포션;6;item_speed_requid_3
@@ -33,6 +29,8 @@ I;HP 회복 소형 엘릭서 ;20;icon_item_HPelixir_Small
 I;LV3 경험치 카드;2;icon_item_expcard
 I;LV4 경험치 카드;2;icon_item_expcard
 I;보급용 워프 주문서;19;GolemMagicItem1
+G;Event
+I;[Episode11] 레벨업 상자 (220레벨);1;icon_item_giftBox_2
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black
 G;Recipe
@@ -165,10 +163,13 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;15레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;40레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;75레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;120레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;170레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;축제용 심플 코스튬(남);1;icon_item_simple_festival_m
 G;Armor
 I;바르그아르 플레이트 건틀릿;1;icon_item_vargu_gloves
@@ -186,7 +187,7 @@ I;턴 로브;1;icon_item_shirts_sage_white
 I;노비스 네클리스;1;item_necklace_10
 I;노블 브레이슬릿;1;item_bracelet_03
 I;부베 뱅글;1;item_bracelet_16
-I;엘리멘탈리스트 코스튬;1;icon_item_warrock_f
+I;엘리멘탈리스트 코스튬;1;icon_item_warrock_m
 G;Material
 I;모루;4;icon_item_anvil
 I;LV2 보물상자 열쇠;2;icon_item_key1
@@ -219,6 +220,7 @@ I;퓨어 크리스탈;1;icon_item_Gem_Aquamarine
 I;하나밍 꽃잎;20;icon_item_HanamingPetal
 I;할로우벤터의 사념체;2;icon_item_spirit_purple
 I;할로우벤터의 손뼈;46;icon_item_bone
+I;[Episode11] 성장의 보석;1500;icon_item_crimson2
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;광산 나침반;1;icon_item_compass

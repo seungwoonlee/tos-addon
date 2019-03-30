@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;99999;icon_item_silver
+I;실버;100000;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
@@ -29,6 +29,7 @@ I;디스펠러;10;icon_item_grimoire_blue
 G;SubWeapon
 I;(바랜)스몰 크리스타라스;1;icon_item_dagger_cristal
 I;카라챠 대거;1;icon_item_choora
+I;긴 암밴드;1;icon_item_armband_clothlong
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
@@ -44,6 +45,8 @@ I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-비르토브 글로브;1;icon_item_gloves_misc4
 I;제작서-실버 플레이트 건틀릿;1;icon_item_gloves_misc3
+G;Seal
+I;카제 인장 - 위저드;1;icon_item_Seal_QuestRune
 G;Collection
 I;컬렉션: 라다르 숲;1;icon_item_box
 I;컬렉션: 기원의 숲;1;icon_item_box
@@ -80,6 +83,10 @@ I;컬렉션: 해진깃발숲;1;icon_item_box
 G;Card
 I;바를킹 카드;Lv1;icon_item_card_def
 G;Armor
+I;플라네타 부츠;1;icon_item_baronwear_boots
+I;푸른 레이스 햇;1;icon_item_bluelacehat
+I;플레어스톤 뿔;1;icon_item_firehorn
+I;계란 후라이;1;hairacc_62_friedegg
 I;네크로맨서 코스튬;1;icon_item_necromancer_f
 I;룬캐스터 코스튬;1;icon_item_mage_runecaster_f
 I;알케미스트 코스튬;1;icon_item_Alchemist_f
@@ -179,7 +186,6 @@ I;에큐바이트 더듬이;6;icon_item_feeler_purple
 I;에하드의 핵;1;icon_item_core_yellow
 I;엘로마고 잎;1;icon_item_leaves_blue
 I;요노움의 핵;38;icon_item_core_purple
-I;우르바스 증표;1;icon_item_borutakey
 I;우펜트의 껍질;2;icon_item_Misc_00015
 I;웬디고 이빨;8;icon_item_tooth_white
 I;위버 더듬이;12;icon_item_feeler_black
@@ -277,8 +283,7 @@ G;Premium
 I;소울 크리스탈;20;icon_item_soulCrystal
 I;워프 주문서;20;icon_item_warpPremium
 I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;확성기;20;icon_item_Mike
 I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
+I;푸른 겨울밤 코스튬(여);1;icon_item_blueNightCostume_f

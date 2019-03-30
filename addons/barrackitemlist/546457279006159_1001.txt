@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;99999;icon_item_silver
+I;실버;100000;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
@@ -256,7 +256,6 @@ I;호글란 부리;1;icon_item_small_bag
 I;호헨 가죽;4;icon_item_Misc_00011
 I;회색 날개 개구리의 뼈;2;icon_item_bone
 I;회색 스타울리트 힘줄;1;icon_item_Leash
-I;우르바스 증표;2;icon_item_borutakey
 I;물푸레나무;6;icon_item_wood_2
 I;소나무;4;icon_item_wood_3
 I;노란 파이란 날개;1;icon_item_batwing

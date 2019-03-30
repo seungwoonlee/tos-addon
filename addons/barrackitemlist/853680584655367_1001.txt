@@ -1,11 +1,18 @@
 S;1001
 G;Unused
-I;실버;99999;icon_item_silver
+I;실버;100001;icon_item_silver
 G;Collection
 I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
 G;Armor
+I;카프리선 부츠;1;icon_item_boots_brigan
+I;카프리선 글로브;1;icon_item_gloves_brigan
+I;라이트 팬츠;1;icon_item_pants_bube
 I;라이트 아머;1;icon_item_shirts_bube
+I;카프리선 아머;1;icon_item_shirts_brigan
+I;노비스 네클리스;1;item_necklace_10
+I;노비스 뱅글;1;item_bracelet_15
 I;아웃로 더크더즈;1;icon_item_scoutCos_outlaw01_f
+I;아웃로 데스페라도 어타이어;1;icon_item_scoutCos_outlaw03_f
 G;Drug
 I;보급용 작은 HP포션;124;item_HP_oil_1
 I;보급용 작은 SP포션;126;item_SP_requid_1
@@ -20,6 +27,8 @@ I;케파 줄기;2;icon_item_stem_green
 I;치넨시 잎;1;icon_item_bokchoyleaf
 I;귀환석;1;MercenaryBadge
 G;SubWeapon
+I;연습용 크리스 대거;1;icon_item_f_dagger_kreive
 I;연습용 피스톨;1;icon_item_chassepot_1
 G;Weapon
 I;오래된 글라디우스;1;icon_item_Sword_22
+I;병사의 글라디우스;1;icon_item_Sword_27
