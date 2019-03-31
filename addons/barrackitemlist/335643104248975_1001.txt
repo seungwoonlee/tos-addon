@@ -48,8 +48,8 @@ I;파드너 코스튬;1;icon_item_pardoner_f
 I;버텍스 비콘;1;icon_item_SpecialCostume_exorcist_both
 I;예언의 날개;1;icon_item_SpecialCostume_zealot
 G;Premium
-I;워프 주문서;15;icon_item_warpPremium
-I;확성기;15;icon_item_Mike
+I;워프 주문서;20;icon_item_warpPremium
+I;확성기;20;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
 I;모루;26;icon_item_anvil
@@ -277,6 +277,7 @@ I;케이스타스 회복포션Lv4;15;item_HPSP_potion_3
 I;클라페다 워프 주문서;12;GolemMagicItem1
 I;페디미안 워프 주문서;7;GolemMagicItem1
 I;폭죽;15;icon_item_firework
+I;LV14 경험치 카드;1;icon_item_expcard
 I;레드 오브:하나밍;1;icon_item_Dreamshade_red
 I;블루 오브:긴팔 나무;1;icon_item_Dreamshade
 I;블루 오브:뇌옥투사;1;icon_item_Dreamshade

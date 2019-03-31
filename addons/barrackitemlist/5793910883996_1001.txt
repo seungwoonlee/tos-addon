@@ -63,6 +63,7 @@ I;포포리온 고기;3;icon_item_meat_02
 I;해독제;5;icon_item_Quest_00020
 I;LV15 경험치 카드;9;icon_item_expcard
 I;LV6 경험치 카드;1;icon_item_expcard
+I;LV14 경험치 카드;112;icon_item_expcard
 I;동전 투호;1;icon_1710_thanksgiving_target
 I;레드 오브:메다키아;1;icon_item_Dreamshade_red
 I;레드 오브:베스퍼;1;icon_item_Dreamshade_red
@@ -91,6 +92,7 @@ I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;은빛 물고기;153;icon_item_fish2
 I;챌린지 모드 1회 입장권;25;icon_item_indunFreeEnter
+I;LV10 경험치 카드;1;icon_item_expcard
 I;크리스마스 산타 팝업북;1;icon_item_christmastree02_popupbook
 I;할로윈 팝업북;1;icon_item_halloween_popupbook
 I;신랑 비둘기 오르골;1;icon_item_MusicBox_Wedding01
@@ -244,7 +246,6 @@ I;문어초밥;1;icon_item_sushi11
 I;물빛 장미뿔;1;icon_item_bluerosehorn
 I;물빛 조개장식;1;icon_item_skyblue_shell
 I;물빛 조개장식;1;icon_item_skyblue_shell
-I;미스틱 세이비어 - 하트의 리본;1;icon_item_magicalRib01
 I;민트초코컵케이크;1;hairacc_86_cupcake1
 I;민트초코컵케이크;1;hairacc_86_cupcake1
 I;민트초코컵케이크;1;hairacc_86_cupcake1
@@ -438,8 +439,6 @@ I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 I;특성 포인트 500 (14일);1;icon_item_abilitypoint2
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;연하장;1;icon_item_event_invitation2
 G;Book
@@ -1077,6 +1076,7 @@ I;니코폴리스 경비병 코스튬(여);1;icon_item_nicoGuard_Unifom_f
 I;동물 인형 코스튬;1;icon_item_poporion_body_f
 I;래쉬가드 코스튬(여);1;icon_item_swimsuit03_f
 I;레드 메이드 코스튬(여);1;icon_item_maiduniform_red_f
+I;길티네 추종자 의복(여);1;icon_item_guilty_uniform1_f
 I;마린 비치웨어 돌핀 코스튬(여);1;icon_item_marin02_sp_f
 I;마법사용 고스로리 코스튬(여);1;icon_item_Mage_gothloli_f
 I;마법사용 매니시룩 코스튬(여);1;icon_item_mage_manish_f

@@ -36,7 +36,6 @@ I;LV15 경험치 카드;9;icon_item_expcard
 I;LV13 경험치 카드;7;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
 G;SubWeapon
-I;페버디마스 대거;1;icon_item_pabudimas_dagger
 I;디오니스 암밴드;1;icon_item_armband_dinios
 G;Book
 I;찢어진 일기의 일부 3;1;icon_item_paperpiece
@@ -247,7 +246,6 @@ I;검 연습대 파편;1;icon_item_Quest_00017
 I;검 연습대 제작 도구;1;icon_item_Quest_00017
 G;Weapon
 I;병사의 라이트 보우;1;bow_bow01
-I;즈바이더 보우;1;icon_item_bow_nicopolis1
 I;리가드 혼 파이크;1;icon_item_spear_regardhorn_TH
 I;프리머스 라파이 파이크;1;icon_item_spear_twohand_lapai
 I;프리머스 라파이 파이크;1;icon_item_spear_twohand_lapai

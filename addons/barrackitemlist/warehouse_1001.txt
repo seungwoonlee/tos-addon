@@ -186,7 +186,7 @@ I;축복받은 조각;4;icon_item_Gem_Elemental1
 I;프락토늄;1;icon_item_crystal_High
 I;탈트;117;30_item_ore_talt
 C;525751241671427
-I;클라로의 젬;Lv1;gem_mon_claro
+I;식탐의 목걸이;1;item_NECK_PILGRIM_01_PWR
 I;(바랜)이글스타 레더 부츠;1;icon_item_eaglestar_boots
 I;(바랜)이스턴 레더 글로브;1;icon_item_eastengarden_gloves
 I;턴 레더 글로브;1;icon_item_gloves_gairas_gray
@@ -244,8 +244,7 @@ I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
 I;클라페다 체인;1;item_necklace_09
 I;케파 팬던트;1;item_necklace_10
 I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
-I;식탐의 목걸이;1;item_NECK_PILGRIM_01_PWR
-I;전환의 수정조각;3;icon_item_BlokenMirror
+I;전환의 수정조각;23;icon_item_BlokenMirror
 C;766608712663119
 I;보급용 작은 HP포션;17;item_HP_oil_1
 I;보급용 작은 SP포션;10;item_SP_requid_1
@@ -319,7 +318,6 @@ I;자카리엘 뱅글;1;item_bracelet_10
 I;분노의 목걸이;1;item_NECK_PILGRIM_03_SPR
 I;애니무스;1;item_necklace_07
 I;크리스탈 뱅글;1;item_bracelet_15
-I;LV14 경험치 카드;1;icon_item_expcard
 C;590845766020927
 I;[PC방] 화려한 지렁이;1200;icon_item_Paste_Bait2_pc
 I;노블 브레이슬릿;1;item_bracelet_03
@@ -801,7 +799,6 @@ I;이단자의 팔찌;1;item_bracelet_05_2
 I;이단자의 팔찌;1;item_bracelet_05_2
 I;이동속도 향상의 포션;8;item_speed_requid_1
 I;장군의 선물;1;item_necklace_03_1
-I;전환의 수정조각;20;icon_item_BlokenMirror
 I;졸업자의 선물;1;item_necklace_19_1
 I;종말의 선물;1;item_necklace_03_4
 I;지혜의 열매;5;icon_item_wisdomberry
@@ -825,14 +822,12 @@ I;판토족의 뿔;67;icon_item_pantohorn
 I;포포리온 고기;55;icon_item_meat_02
 I;폭죽;40;icon_item_firework
 I;플라스크;202;icon_item_Vial
-I;포포리온의 젬;Lv1;gem_mon_popolion3
 I;히밀의 유산;1;item_bracelet_10_1
 I;히밀의 유산;1;item_bracelet_10_1
 I;샤펜의 팔찌 조각;1;item_bracelet_02_3
 I;샤펜의 팔찌 조각;1;item_bracelet_02_3
 I;할로우벤터의 손뼈;112;icon_item_bone
-I;LV10 경험치 카드;1;icon_item_expcard
-I;LV14 경험치 카드;112;icon_item_expcard
+I;포포리온의 젬;Lv1;gem_mon_popolion3
 C;223480033314738
 I;농축 HP포션 LV10;19;icon_item_HP_Alche
 I;보급용 작은 HP포션;26;item_HP_oil_1
@@ -1331,7 +1326,6 @@ I;드라트 실드;1;icon_item_Shield_8
 I;부베 투사 건틀릿;1;icon_item_gloves_bubewarrior
 I;스틸 네클리스;1;item_necklace_10
 I;아그니 네클리스;1;item_necklace_21
-I;LV14 경험치 카드;7;icon_item_expcard
 C;853680584655367
 C;689050193235315
 C;649957400904830

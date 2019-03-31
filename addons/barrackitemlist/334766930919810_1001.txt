@@ -1,12 +1,12 @@
 S;1001
 G;Unused
-I;실버;261693;icon_item_silver
+I;실버;100000;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;농축 HP포션 LV10;28;icon_item_HP_Alche
 I;농축 HP포션 LV15;20;icon_item_HP_Alche
-I;농축 SP포션 LV15;4;icon_item_SP_Alche
+I;농축 SP포션 LV15;3;icon_item_SP_Alche
 I;농축 이동속도 증가 포션 LV15;4;item_speed_requid_1
 I;딸기;32;icon_item_Strawberry
 I;마이트 포션;1;item_speed_requid_1
@@ -37,10 +37,6 @@ I;보급용 워프 주문서;2;GolemMagicItem1
 I;LV14 경험치 카드;52;icon_item_expcard
 I;LV15 경험치 카드;9;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
-G;Event
-I;특성 포인트 1000;1;icon_item_abilitypoint
-I;특성 포인트 1000;1;icon_item_abilitypoint
-I;특성 포인트 1000;1;icon_item_abilitypoint
 G;Book
 I;완성된 바키스의 연구 자료;1;icon_item_Spellbook_1
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
@@ -73,18 +69,11 @@ I;컬렉션: 스팔빈가스 숲;1;icon_item_box
 I;컬렉션: 실라 숲;1;icon_item_box
 I;컬렉션: 왕릉 건축자 예배당;1;icon_item_box
 I;컬렉션: 마족수감소 1구역;1;icon_item_box
-G;Card
-I;파야우타 카드;Lv1;icon_item_card_stat
-G;Armor
-I;플라네타 팬츠;1;icon_item_baronwear_pants
-I;바르파스 브레이슬릿;1;item_bracelet_28
-I;바르파스 브레이슬릿;1;item_bracelet_28
-I;황야의 무법자;1;hairacc_76_cowbowhat
-I;단풍잎;1;hairacc_13_maple
-I;불릿 마커 코스튬;1;icon_item_bulletmarker_f
-I;불릿 마커 휠러 코스튬;1;icon_item_bulletmarker03_f
-I;링커 코스튬;1;icon_item_linker_f
-I;불릿 마커 매처 코스튬;1;icon_item_bulletmarker02_f
+G;Premium
+I;워프 주문서;15;icon_item_warpPremium
+I;확성기;16;icon_item_Mike
+I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
+I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
 G;Material
 I;모루;18;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
@@ -233,7 +222,6 @@ I;츄파카브라 이빨;4;icon_item_tooth_white
 I;치넨시 잎;12;icon_item_bokchoyleaf
 I;카라스 파편;9;icon_item_Misc_00006
 I;카로 잎사귀;17;icon_item_leaves_green
-I;[Episode11] 탐험의 새싹;6;item_icon_sprout
 I;케파 줄기;19;icon_item_stem_green
 I;케포 껍질;28;icon_item_onionpiece
 I;케포 솜털;12;icon_item_cotton
@@ -307,8 +295,10 @@ I;테넷 성당의 계시;1;icon_item_stonetablet
 I;펜듈럼;1;icon_item_pendulum
 I;헝겊인형 조각;8;icon_item_strawdoll2
 I;충격식 폭탄;1;icon_item_bomb
-G;Premium
-I;워프 주문서;15;icon_item_warpPremium
-I;확성기;16;icon_item_Mike
-I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
-I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
+G;Armor
+I;플라네타 팬츠;1;icon_item_baronwear_pants
+I;황야의 무법자;1;hairacc_76_cowbowhat
+I;불릿 마커 코스튬;1;icon_item_bulletmarker_f
+I;불릿 마커 휠러 코스튬;1;icon_item_bulletmarker03_f
+I;링커 코스튬;1;icon_item_linker_f
+I;불릿 마커 매처 코스튬;1;icon_item_bulletmarker02_f
