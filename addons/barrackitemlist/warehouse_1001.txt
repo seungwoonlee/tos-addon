@@ -8,7 +8,6 @@ I;아이언 피스트;1;icon_item_fist
 I;보급용 이동속도 증가 포션;3;item_speed_requid_1
 I;보급용 작은 회복포션;2;item_HPSP_potion_1
 I;100일 기념 포션;6;item_speed_requid_3
-I;LV14 경험치 카드;2;icon_item_expcard
 I;케이스타스 HP포션 Lv1;4;item_HP_oil_2
 I;케이스타스 HP포션 Lv2;20;item_HP_oil_2
 I;케이스타스 HP포션 Lv3;5;item_HP_oil_2
@@ -264,22 +263,24 @@ I;LV2 경험치 카드;6;icon_item_expcard
 I;LV5 경험치 카드;4;icon_item_expcard
 I;LV13 경험치 카드;7;icon_item_expcard
 I;LV14 경험치 카드;77;icon_item_expcard
-C;790377061681688
-I;누카의 젬;Lv1;gem_mon_Nuka
-I;채퍼리션 소드;1;icon_item_snickersnee_up
-I;카타콤 클럽;1;mace_typhon_hammer_purple
-I;(바랜)카울라스 레더 아머;1;icon_item_shirts_kaulas
-I;(바랜)카울라스 레더 팬츠;1;icon_item_pants_kaulas
-I;(바랜)카울라스 레더 부츠;1;icon_item_boots_kaulas
-I;기사단장 우스카의 뱅글;1;icon_item_eventbracelet02
-I;기사단장 우스카의 뱅글;1;icon_item_eventbracelet02
-I;워리어 팬던트;1;item_necklace_05
-I;식탐의 목걸이;1;item_NECK_PILGRIM_01_PWR
-I;비엔나라지스 투 핸드 메이스;1;icon_item_mace_whiteholse_twohand
-I;디델 타워 실드;1;icon_item_shield_fedimiantower
-I;스파타;1;icon_item_Sword_27
-I;오트라바 실드;1;kalkan_green
-I;피레네 소드;1;icon_item_sword_rebal
+C;60168196861625
+I;지혜의 열매;1;icon_item_wisdomberry
+I;부베 투사 건틀릿;1;icon_item_gloves_bubewarrior
+I;사우시스 글로브;1;icon_item_gloves_skull
+I;프리머스 제베넬리스 레더 팬츠;1;icon_item_leather_pants_1
+I;스컬 스매셔;1;icon_item_mace_regardhorn
+I;에멘가드 실드;1;icon_item_shield_regardhorn
+I;막스 페타미온;1;item_necklace_12
+I;보급용 SP포션 LV10;473;item_SP_requid_3
+I;보급용 SP포션;351;item_SP_requid_2
+I;보급용 작은 SP포션;687;item_SP_requid_1
+I;보급용 작은 HP포션;40;item_HP_oil_1
+I;케이스타스 회복포션Lv4;41;item_HPSP_potion_3
+I;클라로의 젬;Lv1;gem_mon_claro
+I;클라로의 젬;Lv1;gem_mon_claro
+I;하나밍의 젬;Lv1;gem_mon_hanaming
+I;LV13 경험치 카드;12;icon_item_expcard
+I;LV14 경험치 카드;110;icon_item_expcard
 C;335643104248975
 I;(바랜)키아크 레더 글로브;1;icon_item_kiarc_gloves
 I;링 브레이슬릿;1;item_bracelet_19
@@ -538,13 +539,11 @@ I;보급용 SP포션;351;item_SP_requid_2
 I;보급용 작은 HP포션;241;item_HP_oil_1
 I;보급용 작은 SP포션;635;item_SP_requid_1
 I;선쿠스 마울;1;mace_maul
-I;오페러의 젬;Lv1;gem_mon_operor
 I;케파 인형;1;hairacc_48_cepadoll
 I;보급용 큰 HP포션;205;item_HP_oil_3
 I;보급용 큰 SP포션;200;item_SP_requid_3
 I;보급용 HP포션;215;item_HP_oil_2
-I;LV14 경험치 카드;5;icon_item_expcard
-I;LV6 경험치 카드;5;icon_item_expcard
+I;오페러의 젬;Lv1;gem_mon_operor
 C;779485024616731
 I;바브드 애로우;10450;item_icon_arrow_barbedhead
 I;헤일매리 애로우;7918;item_icon_hail_mary_arrow
@@ -740,24 +739,22 @@ I;프리머스 닉스 나이트 아머;1;icon_item_arkishknight_armor
 I;제메이 네클리스;1;item_necklace_16
 I;쿠게리 리오니의 젬;Lv1;gem_mon_kucarry_lioni
 I;LV14 경험치 카드;61;icon_item_expcard
-C;60168196861625
-I;지혜의 열매;1;icon_item_wisdomberry
-I;부베 투사 건틀릿;1;icon_item_gloves_bubewarrior
-I;사우시스 글로브;1;icon_item_gloves_skull
-I;프리머스 제베넬리스 레더 팬츠;1;icon_item_leather_pants_1
-I;스컬 스매셔;1;icon_item_mace_regardhorn
-I;에멘가드 실드;1;icon_item_shield_regardhorn
-I;막스 페타미온;1;item_necklace_12
-I;보급용 SP포션 LV10;473;item_SP_requid_3
-I;보급용 SP포션;351;item_SP_requid_2
-I;보급용 작은 SP포션;687;item_SP_requid_1
-I;보급용 작은 HP포션;40;item_HP_oil_1
-I;케이스타스 회복포션Lv4;41;item_HPSP_potion_3
-I;클라로의 젬;Lv1;gem_mon_claro
-I;클라로의 젬;Lv1;gem_mon_claro
-I;하나밍의 젬;Lv1;gem_mon_hanaming
-I;LV13 경험치 카드;12;icon_item_expcard
-I;LV14 경험치 카드;110;icon_item_expcard
+C;790377061681688
+I;누카의 젬;Lv1;gem_mon_Nuka
+I;채퍼리션 소드;1;icon_item_snickersnee_up
+I;카타콤 클럽;1;mace_typhon_hammer_purple
+I;(바랜)카울라스 레더 아머;1;icon_item_shirts_kaulas
+I;(바랜)카울라스 레더 팬츠;1;icon_item_pants_kaulas
+I;(바랜)카울라스 레더 부츠;1;icon_item_boots_kaulas
+I;기사단장 우스카의 뱅글;1;icon_item_eventbracelet02
+I;기사단장 우스카의 뱅글;1;icon_item_eventbracelet02
+I;워리어 팬던트;1;item_necklace_05
+I;식탐의 목걸이;1;item_NECK_PILGRIM_01_PWR
+I;비엔나라지스 투 핸드 메이스;1;icon_item_mace_whiteholse_twohand
+I;디델 타워 실드;1;icon_item_shield_fedimiantower
+I;스파타;1;icon_item_Sword_27
+I;오트라바 실드;1;kalkan_green
+I;피레네 소드;1;icon_item_sword_rebal
 C;5793910883996
 I;HP 회복의 엘릭서 [이벤트];10;icon_item_HPelixir
 I;SP 회복의 엘릭서;3;icon_item_SPelixir
@@ -909,20 +906,19 @@ I;케이스타스 회복포션Lv4;239;item_HPSP_potion_3
 I;큰 SP포션;2;item_SP_requid_3
 I;프리머스 갈라티카 그리브;1;icon_item_boots_frost
 I;프리머스 우카스 레더 팬츠;1;icon_item_baldish_pants
-I;LV14 경험치 카드;5;icon_item_expcard
 I;록소나 플레이트 건틀릿;1;icon_item_gloves_SRchain
 I;프리머스 바스티클 건틀릿;1;icon_item_iorn_glove_1
 I;프리머스 바스티클 플레이트 아머;1;icon_item_iorn_shirt_1
 I;프리머스 제베넬리스 레더 부츠;1;icon_item_leather_boots_1
 I;프리머스 제베넬리스 레더 아머;1;icon_item_leather_shirt_1
 I;프리머스 제베넬리스 레더 팬츠;1;icon_item_leather_pants_1
-I;하나밍의 젬;Lv1;gem_mon_hanaming
 I;보급용 농축 HP포션 LV15;100;item_HP_oil_3
 I;보급용 농축 SP포션 LV15;100;item_SP_requid_3
 I;보급용 큰 HP포션;100;item_HP_oil_3
 I;보급용 큰 SP포션;100;item_SP_requid_3
 I;(바랜)프라케 글로브;1;icon_item_prake_gloves
 I;프리머스 바스티클 그리브;1;icon_item_iorn_boots_1
+I;하나밍의 젬;Lv1;gem_mon_hanaming
 C;450821242226889
 I;매직 우든 스태프;1;Mage_f_staff_woodenstick
 I;서클 가드;1;icon_item_Shield_12
@@ -1280,7 +1276,6 @@ I;초록 어패리션의 젬;Lv1;gem_mon_Spector_Gh
 I;콜리타일의 젬;Lv1;gem_mon_colitile
 I;엘렛의 젬;Lv1;gem_mon_Elet
 I;여신의 축복석;1;icon_item_transcendence_Stone
-I;LV14 경험치 카드;5;icon_item_expcard
 C;732352053510346
 C;232447925037209
 I;사우시스 글로브;1;icon_item_gloves_skull

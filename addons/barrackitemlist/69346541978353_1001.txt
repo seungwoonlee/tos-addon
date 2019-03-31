@@ -87,52 +87,12 @@ I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 500 (14일);1;icon_item_abilitypoint2
 I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 G;Book
 I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
@@ -193,14 +153,6 @@ I;마타도르 벨라니멀 코스튬;1;icon_item_warrior_matador03_f
 I;펜서 코스튬;1;icon_item_fencer_f
 G;Material
 I;황금 모루;2;icon_item_anvil_gold
-I;5성 젬 연마제:14일;1;icon_item_powderp
-I;5성 젬 연마제:14일;1;icon_item_powderp
-I;강화용 카드 : 500 (14일);1;monster_card
-I;강화용 카드 : 500 (14일);1;monster_card
-I;강화용 카드 : 500 (14일);1;monster_card
-I;강화용 카드 : 500 (14일);1;monster_card
-I;강화용 카드 : 500 (14일);1;monster_card
-I;강화용 카드 : 500 (14일);1;monster_card
 I;크리오라이트;7;39_icon_item_Cry8rite
 I;파이라이트;10;32_item_ore_pyrite
 I;강철 광석;14;3_item_ore_steel

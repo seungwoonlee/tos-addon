@@ -238,9 +238,15 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;확성기;202;icon_item_Mike
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;15레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;40레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;75레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;120레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;170레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;220레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1

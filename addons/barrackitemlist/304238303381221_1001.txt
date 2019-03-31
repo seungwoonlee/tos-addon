@@ -68,6 +68,12 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
 I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;특성 포인트 상자 A급;1;icon_item_Ability_coupon_box_A
 I;특성 포인트 상자 A급;1;icon_item_Ability_coupon_box_A
 I;특성 포인트 상자 B급;1;icon_item_Ability_coupon_box_B
@@ -79,7 +85,6 @@ I;확성기 50개 상자;3;icon_item_Mike_bundle
 I;[이벤트]신비한 돋보기;2;icon_item_magnifier_blue
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
-I;5성 젬 연마제:14일;1;icon_item_powderp
 I;마력 흡수침;1;icon_item_spellneedle
 I;매직 애로우;176;icon_item_magicarrow
 I;바브드 애로우;18;item_icon_arrow_barbedhead
@@ -275,19 +280,7 @@ I;다과 세트;1;icon_item_artefact_Tea_Set
 I;예식용 칼;1;icon_item_artefact_Decorative_knife
 I;푸드 커버;1;icon_item_artefact_Dome_Cover
 G;Event
-I;특성 포인트 500 (14일);1;icon_item_abilitypoint2
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 I;특성 포인트 10,000;10;icon_item_abilitypoint4
-I;특성 포인트 500 (14일);1;icon_item_abilitypoint2
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;강화 실버 할인 쿠폰 : 10만 실버;10;icon_item_reinforce_100000coupon
 I;연하장;1;icon_item_event_invitation2
@@ -309,6 +302,12 @@ G;Card
 I;파야우타 카드;Lv8;icon_item_card_stat
 I;페릿머로더 카드;Lv1;icon_item_card_util
 I;페릿머로더 카드;Lv1;icon_item_card_util
+G;SubWeapon
+I;눈꽃 스프레이;1;icon_item_snowflower
+I;핫팩;1;icon_item_hotpack
+G;Collection
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 지마 수코트;1;icon_item_box
 G;Armor
 I;베르타스 갈라티카 그리브;1;icon_item_boots_frost
 I;베르타스 제베넬리스 레더 부츠;1;icon_item_leather_boots_1
@@ -335,11 +334,5 @@ I;탐험가용 큰 붉은꽃 머리장식;1;hairacc_hat072
 I;하트 사탕;1;icon_item_heartNut
 I;레인저 코스튬;1;icon_item_ranger_f
 I;응사 코스튬;1;icon_item_falconer_f
-G;Collection
-I;컬렉션: 기원의 숲;1;icon_item_box
-I;컬렉션: 지마 수코트;1;icon_item_box
-G;SubWeapon
-I;눈꽃 스프레이;1;icon_item_snowflower
-I;핫팩;1;icon_item_hotpack
 G;Weapon
 I;[결속] 베르타스 라파이 보우;1;icon_item_bow_lapai

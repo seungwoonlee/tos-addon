@@ -45,6 +45,8 @@ I;할로윈 폭죽;1;icon_item_firework
 I;레드 오브:인프로홀더 궁수;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;15;GolemMagicItem1
 I;블루 오브:코왁;2;icon_item_Dreamshade
+I;LV6 경험치 카드;5;icon_item_expcard
+I;LV14 경험치 카드;5;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
 I;신랑 비둘기 오르골;1;icon_item_MusicBox_Wedding01
 G;Book

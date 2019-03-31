@@ -120,8 +120,8 @@ I;갈라티카 플레이트 아머;1;icon_item_shirts_frost
 I;틸라 로브;1;icon_item_shirts_sage_white
 I;사이클롭스 아이;1;item_necklace_16
 I;츄파카브라 네클리스;1;item_necklace_11
-I;머스킷티어 코스튬;1;icon_item_archer_musketeer_m
-I;응사 코스튬;1;icon_item_falconer_m
+I;머스킷티어 코스튬;1;icon_item_archer_musketeer_f
+I;응사 코스튬;1;icon_item_falconer_f
 G;Premium
 I;소울 크리스탈;33;icon_item_soulCrystal
 I;워프 주문서;223;icon_item_warpPremium

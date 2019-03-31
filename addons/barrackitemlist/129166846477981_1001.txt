@@ -35,6 +35,7 @@ I;해독제;2;icon_item_Quest_00020
 I;할로윈 폭죽;1;icon_item_firework
 I;레드 오브:폰드;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;11;GolemMagicItem1
+I;LV14 경험치 카드;5;icon_item_expcard
 I;신부 비둘기 오르골;1;icon_item_MusicBox_Wedding02
 I;종이상자;1;icon_item_paperbox
 G;SubWeapon
