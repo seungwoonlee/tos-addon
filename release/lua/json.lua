@@ -1,28 +1,13 @@
 --
 -- json.lua
 --
--- Copyright (c) 2018 rxi
+-- Copyright (c) 2015 rxi
 --
--- Permission is hereby granted, free of charge, to any person obtaining a copy of
--- this software and associated documentation files (the "Software"), to deal in
--- the Software without restriction, including without limitation the rights to
--- use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
--- of the Software, and to permit persons to whom the Software is furnished to do
--- so, subject to the following conditions:
---
--- The above copyright notice and this permission notice shall be included in all
--- copies or substantial portions of the Software.
---
--- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
--- IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
--- FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
--- AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
--- LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
--- OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
--- SOFTWARE.
+-- This library is free software; you can redistribute it and/or modify it
+-- under the terms of the MIT license. See LICENSE for details.
 --
 
-local json = { _version = "0.1.1" }
+local json = { _version = "0.1.0" }
 
 -------------------------------------------------------------------------------
 -- Encode
@@ -40,20 +25,6 @@ local escape_char_map = {
   [ "\t" ] = "\\t",
 }
 
--- Custom sub string function since ToS' seems to have some weird limit
--- Fixes loading files with sizes > 2048
-local function strsub(str, start, _end)
-	start = start and start or 1;
-	_end = _end and _end or 1;
-	str = tostring(str);
-	
-	local len = _end-start+1;
-	local str_ = '';
-	str = str:gsub(".",'',start-1);
-	str:gsub(".",function(c) str_ = str_..c end,len);
-	return str_;
-end
-
 local escape_char_map_inv = { [ "\\/" ] = "/" }
 for k, v in pairs(escape_char_map) do
   escape_char_map_inv[v] = k
@@ -67,7 +38,7 @@ end
 
 local function encode_nil(val)
   return "null"
-end
+end 
 
 
 local function encode_table(val, stack)
@@ -156,7 +127,7 @@ end
 
 local parse
 
-local function create_set(...)
+local function create_set(...) 
   local res = {}
   for i = 1, select("#", ...) do
     res[ select(i, ...) ] = true
@@ -178,7 +149,7 @@ local literal_map = {
 
 local function next_char(str, idx, set, negate)
   for i = idx, #str do
-    if set[strsub(str, i, i)] ~= negate then
+    if set[str:sub(i, i)] ~= negate then
       return i
     end
   end
@@ -191,7 +162,7 @@ local function decode_error(str, idx, msg)
   local col_count = 1
   for i = 1, idx - 1 do
     col_count = col_count + 1
-    if strsub(str, i, i) == "\n" then
+    if str:sub(i, i) == "\n" then
       line_count = line_count + 1
       col_count = 1
     end
@@ -218,8 +189,8 @@ end
 
 
 local function parse_unicode_escape(s)
-  local n1 = tonumber( strsub(s, 3, 6),  16 )
-  local n2 = tonumber( strsub(s, 9, 12), 16 )
+  local n1 = tonumber( s:sub(3, 6),  16 )
+  local n2 = tonumber( s:sub(9, 12), 16 )
   -- Surrogate pair?
   if n2 then
     return codepoint_to_utf8((n1 - 0xd800) * 0x400 + (n2 - 0xdc00) + 0x10000)
@@ -243,7 +214,7 @@ local function parse_string(str, i)
 
     if last == 92 then -- "\\" (escape char)
       if x == 117 then -- "u" (unicode escape sequence)
-        local hex = strsub(str, j + 1, j + 5)
+        local hex = str:sub(j + 1, j + 5)
         if not hex:find("%x%x%x%x") then
           decode_error(str, j, "invalid unicode escape in string")
         end
@@ -262,18 +233,18 @@ local function parse_string(str, i)
       last = nil
 
     elseif x == 34 then -- '"' (end of string)
-      local s = strsub(str, i + 1, j - 1)
-      if has_surrogate_escape then
+      local s = str:sub(i + 1, j - 1)
+      if has_surrogate_escape then 
         s = s:gsub("\\u[dD][89aAbB]..\\u....", parse_unicode_escape)
       end
-      if has_unicode_escape then
+      if has_unicode_escape then 
         s = s:gsub("\\u....", parse_unicode_escape)
       end
       if has_escape then
         s = s:gsub("\\.", escape_char_map_inv)
       end
       return s, j + 1
-
+    
     else
       last = x
     end
@@ -284,7 +255,7 @@ end
 
 local function parse_number(str, i)
   local x = next_char(str, i, delim_chars)
-  local s = strsub(str, i, x - 1)
+  local s = str:sub(i, x - 1)
   local n = tonumber(s)
   if not n then
     decode_error(str, i, "invalid number '" .. s .. "'")
@@ -295,7 +266,7 @@ end
 
 local function parse_literal(str, i)
   local x = next_char(str, i, delim_chars)
-  local word = strsub(str, i, x - 1)
+  local word = str:sub(i, x - 1)
   if not literals[word] then
     decode_error(str, i, "invalid literal '" .. word .. "'")
   end
@@ -311,7 +282,7 @@ local function parse_array(str, i)
     local x
     i = next_char(str, i, space_chars, true)
     -- Empty / end of array?
-    if strsub(str, i, i) == "]" then
+    if str:sub(i, i) == "]" then 
       i = i + 1
       break
     end
@@ -319,9 +290,9 @@ local function parse_array(str, i)
     x, i = parse(str, i)
     res[n] = x
     n = n + 1
-    -- Next token
+    -- Next token 
     i = next_char(str, i, space_chars, true)
-    local chr = strsub(str, i, i)
+    local chr = str:sub(i, i)
     i = i + 1
     if chr == "]" then break end
     if chr ~= "," then decode_error(str, i, "expected ']' or ','") end
@@ -337,18 +308,18 @@ local function parse_object(str, i)
     local key, val
     i = next_char(str, i, space_chars, true)
     -- Empty / end of object?
-    if strsub(str, i, i) == "}" then
+    if str:sub(i, i) == "}" then 
       i = i + 1
       break
     end
     -- Read key
-    if strsub(str, i, i) ~= '"' then
+    if str:sub(i, i) ~= '"' then
       decode_error(str, i, "expected string for key")
     end
     key, i = parse(str, i)
     -- Read ':' delimiter
     i = next_char(str, i, space_chars, true)
-    if strsub(str, i, i) ~= ":" then
+    if str:sub(i, i) ~= ":" then
       decode_error(str, i, "expected ':' after key")
     end
     i = next_char(str, i + 1, space_chars, true)
@@ -358,7 +329,7 @@ local function parse_object(str, i)
     res[key] = val
     -- Next token
     i = next_char(str, i, space_chars, true)
-    local chr = strsub(str, i, i)
+    local chr = str:sub(i, i)
     i = i + 1
     if chr == "}" then break end
     if chr ~= "," then decode_error(str, i, "expected '}' or ','") end
@@ -389,7 +360,7 @@ local char_func_map = {
 
 
 parse = function(str, idx)
-  local chr = strsub(str, idx, idx)
+  local chr = str:sub(idx, idx)
   local f = char_func_map[chr]
   if f then
     return f(str, idx)
@@ -402,12 +373,8 @@ function json.decode(str)
   if type(str) ~= "string" then
     error("expected argument of type string, got " .. type(str))
   end
-  local res, idx = parse(str, next_char(str, 1, space_chars, true))
-  idx = next_char(str, idx, space_chars, true)
-  if idx <= #str then
-    decode_error(str, idx, "trailing garbage")
-  end
-  return res
+  return ( parse(str, next_char(str, 1, space_chars, true)) )
 end
+
 
 return json

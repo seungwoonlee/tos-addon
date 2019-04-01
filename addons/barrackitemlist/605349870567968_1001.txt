@@ -387,6 +387,7 @@ I;파야우타 카드;Lv10;icon_item_card_stat
 I;파야우타 카드;Lv10;icon_item_card_stat
 I;파야우타 카드;Lv1;icon_item_card_stat
 I;파야우타 카드;Lv1;icon_item_card_stat
+I;파야우타 카드;Lv1;icon_item_card_stat
 I;그라이넨더 카드;Lv1;icon_item_card_atk
 I;그라이넨더 카드;Lv1;icon_item_card_atk
 I;그라이넨더 카드;Lv1;icon_item_card_atk
@@ -557,6 +558,12 @@ I;누아엘레 카드;Lv10;icon_item_card_def
 I;누아엘레 카드;Lv10;icon_item_card_def
 I;덴옵틱 카드;Lv1;icon_item_card_def
 I;덴옵틱 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def

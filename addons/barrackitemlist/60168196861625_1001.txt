@@ -31,22 +31,6 @@ I;카롤리스 이야기 2권;1;icon_item_collection_02green
 I;카롤리스 이야기 3권;1;icon_item_collection_03Blue
 I;타다 만 일지를 적은 메모;1;icon_item_paperpiece
 I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
-G;Recipe
-I;제작서-아바레스트;1;icon_item_weapon_misc1
-I;제작서-로얄 파르티잔;3;icon_item_weapon_misc1
-I;제작서-바들레르;1;icon_item_weapon_misc1
-I;제작서-알터 로드;1;icon_item_weapon_misc1
-I;제작서-카츠발게르;1;icon_item_weapon_misc1
-I;제작서-코르세스카;1;icon_item_weapon_misc1
-I;제작서-트윈 블레이드;1;icon_item_weapon_misc1
-I;제작서-페디미안 클럽;1;icon_item_weapon_misc1
-I;제작서-턴 글로브;1;icon_item_gloves_misc3
-I;제작서-턴 로브;1;icon_item_shirts_misc3
-I;제작서-턴 부츠;1;icon_item_boots_misc3
-I;제작서-턴 팬츠;1;icon_item_pants_misc3
-I;제작서-페디미안 레더 글로브;3;icon_item_gloves_misc1
-I;제작서-페디미안 레더 부츠;1;icon_item_boots_misc1
-I;제작서-페디미안 레더 팬츠;2;icon_item_pants_misc1
 G;Collection
 I;컬렉션: 곤충 혐오;1;icon_item_box
 I;컬렉션: 기원의 숲;1;icon_item_box
@@ -94,7 +78,6 @@ I;딥디르비 코스튬;1;icon_item_dievdirbys_f
 I;엑소시스트 루브릭 코스튬;1;icon_item_Exorcist04_f
 I;엑소시스트 소울 바인더 코스튬;1;icon_item_Exorcist02_f
 I;엑소시스트 코스튬;1;icon_item_Exorcist01_f
-I;무녀 코스튬;1;icon_item_miko_f
 I;진저브레드 실드;1;icon_item_winter_shield
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
@@ -124,6 +107,9 @@ I;페디미안 워프 주문서;3;GolemMagicItem1
 I;포포리온 고기;13;icon_item_meat_02
 I;폭죽;25;icon_item_firework
 I;해독제;8;icon_item_Quest_00020
+I;LV13 경험치 카드;12;icon_item_expcard
+I;LV14 경험치 카드;110;icon_item_expcard
+I;LV15 경험치 카드;9;icon_item_expcard
 I;레드 오브:분홍 츄파루카;1;icon_item_Dreamshade_red
 I;블루 오브:부베 주술사;1;icon_item_Dreamshade
 I;디스펠러;10;icon_item_grimoire_blue
@@ -131,13 +117,16 @@ G;Premium
 I;소울 크리스탈;20;icon_item_soulCrystal
 I;워프 주문서;20;icon_item_warpPremium
 I;워프 주문서 10개 상자;1;icon_item_warpPremium_bundle
+I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
+I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
 I;확성기;20;icon_item_Mike
 I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f
 I;검은 츄리닝;1;icon_item_sweat_suit_black_f
-I;아늑다정 북극여우 코스튬;1;icon_item_winter_fox_f
+I;나는네선물 산타 코스튬(여);1;icon_item_winter_santa_f
 I;벚꽃 로맨스 세일러복 코스튬(여);1;icon_item_pink_Sailor01_f
 I;브라이드메이드 코스튬(여);1;icon_item_bridesmaid_f
 I;블루 메이드 코스튬(여);1;icon_item_maiduniform_blue_f
+I;빨간 츄리닝;1;icon_item_sweat_suit_red_f
 I;상어 해적단 코스튬(여);1;icon_item_cosair03_f
 I;성직자용 심플 컬러 코스튬(여);1;cleric_simplecolor_f
 I;성직자용 파티 드레스 코스튬(여);1;icon_item_Cleric_yellowPeacock_f
@@ -148,15 +137,15 @@ I;성직자의 스쿨룩 코스튬(여);1;icon_item_Cleric_school_f
 I;성직자의 앨리스 코스튬(여);1;icon_item_Cleric_alice_f
 I;성직자의 제복 코스튬(여);1;icon_item_Cleric_uniform_f
 I;성직자의 크리스마스 코스튬(여);1;icon_item_cleric_christmas_f
-I;나는네선물 산타 코스튬(여);1;icon_item_winter_santa_f
+I;아늑다정 북극여우 코스튬;1;icon_item_winter_fox_f
 I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
 I;초대에 응한 자 코스튬(여);1;icon_item_blacksuit01_f
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
 I;모루;8;icon_item_anvil
 I;괴황지;4336;icon_item_guehwangji
-I;성수;402;icon_item_holywater
-I;조각용 나무;1739;icon_item_wood_5
+I;성수;400;icon_item_holywater
+I;조각용 나무;1718;icon_item_wood_5
 I;크리오라이트;7;39_icon_item_Cry8rite
 I;파이라이트;17;32_item_ore_pyrite
 I;홀리 파우더;470;icon_item_powderw
@@ -282,6 +271,7 @@ I;장작;33;icon_item_woodpiece
 I;제페토의 줄기;31;icon_item_stem_brown
 I;족쇄;14;icon_item_legiron
 I;주술인형의 핵;9;icon_item_core_red
+I;주황 그루머 날개;2;icon_item_batwing
 I;지그너츠 줄기;4;icon_item_zignuts
 I;지누테의 껍질;13;icon_item_shell_blue
 I;지누테카스의 핵;11;icon_item_core_green
@@ -336,7 +326,6 @@ I;호그마 엄니;47;icon_item_tooth_white
 I;호그마 전투대장 송곳니;1;icon_item_tooth_00Basic
 I;호글란 부리;1;icon_item_small_bag
 I;회색 스타울리트 힘줄;6;icon_item_Leash
-I;주황 그루머 날개;1;icon_item_batwing
 I;작은 미스릴 광석 조각;1;13_item_mythril
 I;귀환석;1;MercenaryBadge
 G;Quest
@@ -373,6 +362,7 @@ I;펜듈럼;1;icon_item_pendulum
 I;푸른 리디메드의 잎사귀;8;icon_item_leaves_blue
 I;푸른 빛이 깃든 날개;1;icon_item_misc04_42
 I;하우벅 봉인조각;1;icon_item_Bezoari
+I;허밍 듀크의 고기;4;icon_item_meat_01
 I;흡수석;1;icon_item_gimmick_movecrystal
 G;Weapon
 I;뿅망치;1;icon_item_banghammer

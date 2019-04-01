@@ -22,14 +22,15 @@ I;폭죽;20;icon_item_firework
 I;정착 지원 포션;8;item_speed_requid_3
 I;라프세이프 버섯;2;icon_item_Pinemushroom
 I;해독제;5;icon_item_Quest_00020
-I;농축 HP포션 LV15;29;icon_item_HP_Alche
-I;농축 SP포션 LV15;18;icon_item_SP_Alche
-I;[이벤트] SP 회복 소형 엘릭서 ;18;icon_item_SPelixir_Small
+I;농축 HP포션 LV15;28;icon_item_HP_Alche
+I;[이벤트] SP 회복 소형 엘릭서 ;9;icon_item_SPelixir_Small
 I;[이벤트] HP 회복 소형 엘릭서 ;20;icon_item_HPelixir_Small
-I;케이스타스 회복포션Lv4;9;item_HPSP_potion_3
+I;케이스타스 회복포션Lv4;3;item_HPSP_potion_3
+I;농축 SP포션 LV15;40;icon_item_SP_Alche
 I;보급용 작은 HP포션;3;item_HP_oil_1
+I;[PC방] SP 회복 소형 엘릭서 ;20;icon_item_random_spellixerbox
 I;레드 오브:말라두;1;icon_item_Dreamshade_red
-I;LV14 경험치 카드;47;icon_item_expcard
+I;LV14 경험치 카드;86;icon_item_expcard
 I;LV1 경험치 카드;23;icon_item_expcard
 I;보급용 워프 주문서;10;GolemMagicItem1
 I;LV15 경험치 카드;9;icon_item_expcard
@@ -48,9 +49,16 @@ I;베이키얼의 답장;1;icon_item_indulgence
 I;부스러져가는 공문;1;icon_item_magicpaper
 I;낡은 일기;1;icon_item_collection_04Black
 I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
+I;카듀멜 시대의 갑주;1;icon_item_collection_04Black
+I;아트만의 확장;1;icon_item_collection_03Blue
+I;리디아 샤펜과 플레쳐;1;icon_item_collection_00Basic
+I;리디아 샤펜의 교차선;1;icon_item_collection_04Black
+I;리디아 샤펜의 오늬;1;icon_item_collection_01Red
+I;리디아 샤펜과 럼펠스틸스킨;1;icon_item_collection_02green
 G;Recipe
 I;제작서-뚫어뻥;26;icon_item_weapon_misc5
-I;제작서-일룬;1;icon_item_weapon_misc1
+I;제작서-일룬;3;icon_item_weapon_misc1
+I;제작서-테넷 체인 메일;1;icon_item_shirts_misc3
 G;Collection
 I;컬렉션: 이브레 고원;1;icon_item_box
 I;컬렉션: 스벤티마스 유형지;1;icon_item_box
@@ -64,42 +72,42 @@ I;컬렉션: 이국 사랑;1;icon_item_box
 I;컬렉션: 덧댄다리 숲;1;icon_item_box
 I;컬렉션: 초보자의 무기;1;icon_item_box
 I;컬렉션: 지마 수코트;1;icon_item_box
+I;컬렉션: 테넷 성당 지상 1층;1;icon_item_box
+G;Cube
+I;[PC방] TP 아이템 랜덤 상자;6;icon_item_random_cashbox
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
-I;워프 주문서;15;icon_item_warpPremium
+I;워프 주문서;20;icon_item_warpPremium
 I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
 I;확성기;20;icon_item_Mike
 I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
-I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Armor
-I;브리간딘 부츠;1;icon_item_boots_brigan
-I;레더 글로브;1;icon_item_gloves_bube_blue
-I;우든 뱅글;1;item_bracelet_20
 I;캐터프랙트 코스튬;1;icon_item_cataphract_f
 I;랜서 코스튬;1;icon_item_warrior_lancer_f
 G;Material
 I;모루;3;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
+I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;파이라이트;4;32_item_ore_pyrite
-I;주석;2;1_item_ore_copper
+I;주석;4;1_item_ore_copper
 I;호박;3;22_item_ore_amber
 I;케포 껍질;40;icon_item_onionpiece
-I;말라두의 고기;55;icon_item_meat_02
+I;말라두의 고기;56;icon_item_meat_02
 I;씨드미아 씨앗;11;icon_item_seed_brown
 I;지그너츠 줄기;5;icon_item_zignuts
 I;카로 잎사귀;11;icon_item_leaves_green
 I;장작;39;icon_item_woodpiece
-I;코릴러스의 뿔;19;icon_item_pantohorn
+I;코릴러스의 뿔;21;icon_item_pantohorn
 I;그루머 잎;6;icon_item_leaves_green
 I;판토족의 뿔;53;icon_item_pantohorn
 I;수정거미 더듬이;15;icon_item_feeler_blue
 I;이노움의 핵;12;icon_item_core_purple
-I;작은 마족의 뿔;14;icon_item_pantohorn
+I;작은 마족의 뿔;15;icon_item_pantohorn
 I;스톤오르카의 핵;37;icon_item_core_yellow
 I;박쥐 이빨;1;icon_item_tooth_white
-I;요노움의 핵;35;icon_item_core_purple
+I;요노움의 핵;41;icon_item_core_purple
 I;LV2 보물상자 열쇠;3;icon_item_key1
-I;글리자돈의 뼈;7;icon_item_bone
+I;글리자돈의 뼈;8;icon_item_bone
 I;유코푸스 잎;35;icon_item_leaves_blue
 I;리플라이 날개;14;icon_item_bugwing
 I;부러진 판토 소드;1;icon_item_bladepiece
@@ -117,9 +125,9 @@ I;허밍버드의 날개;1;icon_item_bugwing
 I;거대한 갈고리;24;icon_item_claw_01
 I;멘티우드의 껍질;2;icon_item_shell_purple
 I;츄파카브라 이빨;8;icon_item_tooth_white
-I;부베족의 증표;37;icon_item_bubetoken
+I;부베족의 증표;38;icon_item_bubetoken
 I;위버 더듬이;15;icon_item_feeler_black
-I;에큐바이트 더듬이;9;icon_item_feeler_purple
+I;에큐바이트 더듬이;10;icon_item_feeler_purple
 I;부베 활대;3;icon_item_bubebow
 I;케파 줄기;9;icon_item_stem_green
 I;하나밍 꽃잎;102;icon_item_HanamingPetal
@@ -157,7 +165,7 @@ I;리디메드 줄기;10;icon_item_stem_gray
 I;바퀴;7;icon_item_wheel
 I;베누켈로스의 핵;5;icon_item_core_yellow
 I;물푸레나무;26;icon_item_wood_2
-I;소나무;9;icon_item_wood_3
+I;소나무;12;icon_item_wood_3
 I;리자드맨 송곳니;2;icon_item_canine
 I;인프로 버크의 껍질;3;icon_item_shell_red
 I;코카트리스 깃털;11;icon_item_feather_02Yellow
@@ -225,6 +233,7 @@ I;포쿠부 가죽;1;icon_item_Misc_00011
 I;노란 파이란 날개;2;icon_item_batwing
 I;붉은 위저드 주술 인형의 핵;1;38_item_ore_mercury
 I;붉은 슬라임의 핵;2;38_item_ore_mercury
+I;에큐바이트 이빨;1;icon_item_tooth_blue
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01
@@ -243,9 +252,9 @@ I;영험한 가루;1;icon_item_sesami
 I;오래된 도구;8;icon_item_farm47_wood_hammer
 I;허밀가의 붉은 수정;1;icon_item_Gem_Stone_STR
 I;검 연습대 파편;1;icon_item_Quest_00017
+I;리디아 샤펜의 오늬;1;icon_item_collection_01Red
 I;검 연습대 제작 도구;1;icon_item_Quest_00017
 G;Weapon
-I;병사의 라이트 보우;1;bow_bow01
 I;리가드 혼 파이크;1;icon_item_spear_regardhorn_TH
 I;프리머스 라파이 파이크;1;icon_item_spear_twohand_lapai
 I;프리머스 라파이 파이크;1;icon_item_spear_twohand_lapai
