@@ -220,7 +220,7 @@ I;퓨어 크리스탈;1;icon_item_Gem_Aquamarine
 I;하나밍 꽃잎;20;icon_item_HanamingPetal
 I;할로우벤터의 사념체;2;icon_item_spirit_purple
 I;할로우벤터의 손뼈;46;icon_item_bone
-I;[Episode11] 성장의 보석;1500;icon_item_crimson2
+I;[Episode11] 성장의 보석;1700;icon_item_crimson2
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;광산 나침반;1;icon_item_compass

@@ -1,0 +1,245 @@
+S;1001
+G;Unused
+I;실버;424240;icon_item_silver
+G;Drug
+I;리사이클 메달;10;icon_item_recyclemedal
+I;고농축 이동속도 증가 포션;10;item_speed_requid_1
+I;농축 이동속도 향상의 포션;20;item_speed_requid_1
+I;딜겔레;3;icon_item_Dilgele
+I;레드옥스;1;icon_item_Red_Ox
+I;보급용 HP포션;99;item_HP_oil_2
+I;보급용 SP포션;100;item_SP_requid_2
+I;보급용 농축 HP포션 LV15;120;item_HP_oil_3
+I;보급용 농축 SP포션 LV15;120;item_SP_requid_3
+I;보급용 이동속도 증가 포션;3;item_speed_requid_1
+I;보급용 작은 HP포션;133;item_HP_oil_1
+I;보급용 작은 SP포션;369;item_SP_requid_1
+I;보급용 작은 스태미나 알약;29;item_STA_pill_1
+I;보급용 작은 회복포션;3;item_HPSP_potion_1
+I;붉은 케파 조각;2;OnionPiece_Red
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;오르샤 워프 주문서;2;GolemMagicItem1
+I;정착 지원 포션 Lv2;30;item_speed_requid_3
+I;케이스타스 수호의 포션;1;icon_item_Drug_exDEF1
+I;케이스타스 용맹의 포션;1;icon_item_Drug_exATK1
+I;클라페다 워프 주문서;2;GolemMagicItem1
+I;포포리온 고기;4;icon_item_meat_02
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
+I;보급용 워프 주문서;28;GolemMagicItem1
+I;은빛 물고기;7;icon_item_fish2
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
+G;PasteBait
+I;보급용 미끼;1000;icon_item_Paste_Bait_basic
+I;작은 은빛 물고기;3;icon_item_fish4
+I;지렁이;256;icon_item_Paste_Bait_basic
+G;Helmet
+I;송편 헬멧 코스튬;1;icon_item_helmet_songpyun
+G;Collection
+I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
+G;Event
+I;[이벤트]클래스 변경권 Lv.2(14일);1;icon_item_rankreset_paper_2
+I;특성 포인트 1,000;5;icon_item_abilitypoint
+I;[Episode11] 레벨업 상자 (220레벨);1;icon_item_giftBox_2
+I;넥슨 캐시 추첨권;2;icon_item_event_luckychance
+G;Armor
+I;(바랜)알프라 부츠;1;icon_item_alframerchant_boots
+I;(바랜)팽글 플레이트 그리브;1;icon_item_gladiuspangle_boots
+I;마크 부츠;1;icon_item_boots_brigan
+I;마크 부츠;1;icon_item_boots_brigan
+I;마크 부츠;1;icon_item_boots_brigan
+I;마크 부츠;1;icon_item_boots_brigan
+I;마크 부츠;1;icon_item_boots_brigan
+I;마크 부츠;1;icon_item_boots_brigan
+I;마크 부츠;1;icon_item_boots_brigan
+I;(바랜)알프라 글로브;1;icon_item_alframerchant_gloves
+I;마크 글로브;1;icon_item_gloves_brigan
+I;마크 글로브;1;icon_item_gloves_brigan
+I;마크 글로브;1;icon_item_gloves_brigan
+I;오그바 체인 글로브;1;icon_item_gloves_SRchain
+I;카프리선 글로브;1;icon_item_gloves_brigan
+I;(바랜)알프라 팬츠;1;icon_item_alframerchant_pants
+I;(바랜)팽글 플레이트 레깅스;1;icon_item_gladiuspangle_pants
+I;어콜라이트 팬츠;1;icon_item_pants_pilgrim
+I;드라트 실드;1;icon_item_Shield_8
+I;레다스 실드;1;beadshield_blue
+I;우든 카이트 실드;1;icon_item_Shield_8
+I;우든 카이트 실드;1;icon_item_Shield_8
+I;카이트 실드;1;icon_item_Shield_9
+I;(바랜)알프라 로브;1;icon_item_alframerchant_armor
+I;(바랜)팽글 플레이트 아머;1;icon_item_gladiuspangle_armor
+I;카프리선 아머;1;icon_item_shirts_brigan
+I;노비스 네클리스;1;item_necklace_10
+I;사이클롭스 아이;1;item_necklace_16
+I;아우르 메달;1;item_necklace_19
+I;츄파카브라 네클리스;1;item_necklace_11
+I;노비스 뱅글;1;item_bracelet_15
+I;노비스 뱅글;1;item_bracelet_15
+I;라이트 로네사 뱅글;1;item_bracelet_15
+I;슈페리어 뱅글;1;item_bracelet_15
+I;크리스탈 뱅글;1;item_bracelet_15
+I;크리스탈 뱅글;1;item_bracelet_15
+I;크리스탈 뱅글;1;item_bracelet_15
+I;플랜츠 브레이슬릿;1;item_bracelet_18
+I;고글;1;hairacc_6_goggles
+I;머슈카리아 모자;1;hairacc_23_mushcariahat
+I;새싹;1;hairacc_61_sprout
+I;케파 인형;1;hairacc_48_cepadoll
+I;종이 딱지;1;icon_item_message
+I;탐험가용 큰 붉은꽃 머리장식;1;hairacc_hat072
+I;크리비 코스튬;1;icon_item_kribi_f
+G;Recipe
+I;제작서-아라스의 폴쳔;1;icon_item_weapon_misc3
+I;제작서-포텐티아;1;icon_item_weapon_misc3
+I;제작서-네펜더스 글로브;1;icon_item_gloves_misc3
+I;제작서-비틀백;2;icon_item_shirts_misc4
+I;제작서-추종자의 레더 아머;1;icon_item_shirts_misc3
+I;제작서-카펜터 글로브;2;icon_item_gloves_misc3
+I;제작서-테넷 체인 팬츠;3;icon_item_pants_misc3
+I;제작서-샤인 브레이슬릿;1;icon_item_bracelet_misc3
+I;제작서-x4 경험의 서;2;icon_item_recipe_misc1
+G;FishingRod
+I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
+I;낡은 보급용 낚싯대;1;icon_item_Fishing_Rod_1
+G;Gem
+I;레드 젬;Lv5;item_icon_circle150
+I;레드 젬;Lv5;item_icon_circle150
+I;레드 젬;Lv5;item_icon_circle150
+I;레드 젬;Lv5;item_icon_circle150
+G;SubWeapon
+I;좌절 깃발;1;OTL_flag
+G;Premium
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;경험의 서;1;icon_item_boostertoken
+I;경험의 서;1;icon_item_boostertoken
+I;경험의 서;1;icon_item_boostertoken
+I;경험의 서;1;icon_item_boostertoken
+I;경험의 서;1;icon_item_boostertoken
+I;긴급 수리 키트;3;icon_item_repairkit
+I;마법 부여 스크롤 상자 (10장);1;icon_item_Premium_magicscroll_01_Box_A
+I;소울 크리스탈;45;icon_item_soulCrystal
+I;스킬 초기화 포션;1;icon_item_potion_resetSkill
+I;스탯 초기화 포션;1;icon_item_statReset
+I;워프 주문서;26;icon_item_warpPremium
+I;워프 주문서 10개 상자;2;icon_item_warpPremium_bundle
+I;인스턴스 던전 1회 입장권;2;icon_item_indunFreeEnter
+I;인스턴스 던전 배수 토큰;2;icon_item_indunexmode
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
+I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
+I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
+I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
+I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
+I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
+I;토큰:3일[증정용];1;icon_item_token
+I;토큰:7일[증정용];1;icon_item_token
+I;토큰:7일[증정용];1;icon_item_token
+I;확성기;36;icon_item_Mike
+I;확성기 50개 상자;1;icon_item_Mike_bundle
+I;[이벤트]클래스 변경권 Lv.4;1;icon_item_rankreset_paper
+I;15레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;40레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;[이벤트]전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
+I;75레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;120레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;170레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;[이벤트]신비한 돋보기;1;icon_item_magnifier_blue
+I;성직자용 심플 컬러 코스튬(여);1;cleric_simplecolor_f
+I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
+I;아이보리 폰 코스튬(여);1;icon_item_chessUniform03_f
+G;Material
+I;가벼운 모루;1;icon_item_anvil
+I;연습용 모루;1;icon_item_anvil
+I;황금 모루(14일);1;icon_item_anvil_gold
+I;마력 흡수침;1;icon_item_spellneedle
+I;기슬로티스;68;icon_item_Gyslotis
+I;성수;72;icon_item_holywater
+I;홀리 파우더;110;icon_item_powderw
+I;주석;1;1_item_ore_copper
+I;LV2 보물상자 열쇠;1;icon_item_key1
+I;갈고리;1;icon_item_claw_01
+I;거대한 갈고리;7;icon_item_claw_01
+I;그루머 잎;2;icon_item_leaves_green
+I;글리자돈의 뼈;2;icon_item_bone
+I;떡갈나무;2;icon_item_wood_1
+I;[Episode11] 성장의 보석;1900;icon_item_crimson2
+I;룩소돈 고기;1;icon_item_meat_02
+I;리디메드 줄기;1;icon_item_stem_gray
+I;리플라이 날개;1;icon_item_bugwing
+I;마우로스의 핵;1;icon_item_core_yellow
+I;말라두의 고기;73;icon_item_meat_02
+I;묘지 골렘의 핵;2;icon_item_core_blue
+I;미노스의 뼈;1;icon_item_bone
+I;박쥐 이빨;1;icon_item_tooth_white
+I;박쥐의 날개;4;icon_item_batwing
+I;부베족의 증표;8;icon_item_bubetoken
+I;수정거미 더듬이;1;icon_item_feeler_blue
+I;스톤오르카의 핵;3;icon_item_core_yellow
+I;식칼;4;icon_item_knife01
+I;씨드미아 씨앗;14;icon_item_seed_brown
+I;에큐바이트 더듬이;2;icon_item_feeler_purple
+I;에하드의 핵;1;icon_item_core_yellow
+I;요노움의 핵;4;icon_item_core_purple
+I;위버 더듬이;5;icon_item_feeler_black
+I;[Episode11] 탐험의 새싹;400;item_icon_sprout
+I;인프로 락터의 껍질;1;icon_item_shell
+I;잎방개의 껍질;9;icon_item_shell_green
+I;작은 마족의 뿔;1;icon_item_pantohorn
+I;제페토의 줄기;1;icon_item_stem_brown
+I;지그너츠 줄기;6;icon_item_zignuts
+I;츄파루카 털;3;icon_item_fur_05Gray
+I;츄파카브라 이빨;5;icon_item_tooth_white
+I;치넨시 잎;1;icon_item_bokchoyleaf
+I;케파 줄기;2;icon_item_stem_green
+I;코릴러스의 뿔;6;icon_item_pantohorn
+I;크로마독 뼈;1;icon_item_bone
+I;판토족의 뿔;22;icon_item_pantohorn
+I;포쿠본 가죽;4;icon_item_Misc_00009
+I;포쿠부 가죽;1;icon_item_Misc_00011
+I;하나밍 꽃잎;63;icon_item_HanamingPetal
+I;하이 부베족의 증표;2;icon_item_bubetoken
+I;허밍버드의 날개;1;icon_item_bugwing
+I;호글란 부리;1;icon_item_small_bag
+I;귀환석;1;MercenaryBadge
+G;Quest
+I;빛의 결정;1;icon_item_drop
+I;음양사 본향 지원 명단;1;Siaul_Act3_Confirmation
+G;Weapon
+I;마이너 해머;1;mace_mallet
+I;파이브 해머;1;mace_blacksmith
+I;크룩;1;icon_item_crook
+I;크룩;1;icon_item_crook
+I;만드라픽;1;sword_sabre_up

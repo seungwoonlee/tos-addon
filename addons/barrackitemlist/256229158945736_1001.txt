@@ -29,8 +29,14 @@ I;보급용 워프 주문서;18;GolemMagicItem1
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;챌린지 모드 1회 입장권;5;icon_item_indunFreeEnter
+I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
+I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
+I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
 I;오마모리;40;icon_item_omarmori
 G;Event
+I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
+I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
+I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
 I;[Episode11] 레벨업 상자 (380레벨);1;icon_item_giftBox_2
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black

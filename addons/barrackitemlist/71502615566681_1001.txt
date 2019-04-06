@@ -129,6 +129,7 @@ I;마크 팬츠;1;icon_item_pants_brigan
 I;부베 뱅글;1;item_bracelet_16
 I;감정사 코스튬;1;icon_item_appraiser_f
 I;캐노니어 코스튬;1;icon_item_archer_cannoneer_f
+I;매트로스 코스튬;1;icon_item_archerCos_matross01_f
 G;Material
 I;모루;17;icon_item_anvil
 I;황금 모루;3;icon_item_anvil_gold

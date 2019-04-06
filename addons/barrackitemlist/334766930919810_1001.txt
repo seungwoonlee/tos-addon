@@ -5,7 +5,7 @@ G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;농축 HP포션 LV10;28;icon_item_HP_Alche
-I;농축 HP포션 LV15;20;icon_item_HP_Alche
+I;농축 HP포션 LV15;19;icon_item_HP_Alche
 I;농축 SP포션 LV15;3;icon_item_SP_Alche
 I;농축 이동속도 증가 포션 LV15;4;item_speed_requid_1
 I;딸기;32;icon_item_Strawberry
@@ -30,7 +30,7 @@ I;포포리온 고기;29;icon_item_meat_02
 I;폭죽;15;icon_item_firework
 I;해독제;13;icon_item_Quest_00020
 I;HP 회복의 엘릭서 [이벤트];9;icon_item_HPelixir
-I;SP 회복의 엘릭서 [이벤트];8;icon_item_SPelixir
+I;SP 회복의 엘릭서 [이벤트];7;icon_item_SPelixir
 I;보급용 작은 HP포션;200;item_HP_oil_1
 I;보급용 작은 SP포션;200;item_SP_requid_1
 I;보급용 워프 주문서;2;GolemMagicItem1
@@ -298,6 +298,7 @@ I;충격식 폭탄;1;icon_item_bomb
 G;Armor
 I;플라네타 팬츠;1;icon_item_baronwear_pants
 I;황야의 무법자;1;hairacc_76_cowbowhat
+I;셰리프 코스튬;1;icon_item_scoutCos_sheriff01_f
 I;불릿 마커 코스튬;1;icon_item_bulletmarker_f
 I;불릿 마커 휠러 코스튬;1;icon_item_bulletmarker03_f
 I;링커 코스튬;1;icon_item_linker_f

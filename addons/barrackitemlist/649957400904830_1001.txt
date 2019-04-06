@@ -28,6 +28,7 @@ I;정착 지원 포션;9;item_speed_requid_3
 I;정착 지원 포션 Lv2;78;item_speed_requid_3
 I;포포리온 고기;7;icon_item_meat_02
 I;해독제;5;icon_item_Quest_00020
+I;[PC방] SP 회복 소형 엘릭서 ;60;icon_item_random_spellixerbox
 I;LV13 경험치 카드;9;icon_item_expcard
 I;LV14 경험치 카드;4;icon_item_expcard
 I;LV4 경험치 카드;2;icon_item_expcard
@@ -45,13 +46,6 @@ I;컬렉션: 수정광산 2층;1;icon_item_box
 I;컬렉션: 수정광산 3층;1;icon_item_box
 I;컬렉션: 자카리엘 교차로;1;icon_item_box
 I;컬렉션: 테넷 성당 지상 1층;1;icon_item_box
-G;Event
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
@@ -105,11 +99,6 @@ I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 G;Gem
 I;레드 젬;Lv5;item_icon_circle150
 I;블루 젬;Lv4;item_icon_Square150
-G;Premium
-I;소울 크리스탈;7;icon_item_soulCrystal
-I;워프 주문서;39;icon_item_warpPremium
-I;확성기;60;icon_item_Mike
-I;확성기 50개 상자;1;icon_item_Mike_bundle
 G;Armor
 I;옥시니스 팬츠;1;icon_item_pants_Auksinis
 I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue
@@ -120,10 +109,13 @@ I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
 I;크리스탈 뱅글;1;item_bracelet_15
 I;인퀴지터 코스튬;1;icon_item_inquisitor_f
 I;질럿 코스튬;1;icon_item_zealot1_f
+G;Premium
+I;소울 크리스탈;7;icon_item_soulCrystal
+I;워프 주문서;39;icon_item_warpPremium
+I;확성기;60;icon_item_Mike
+I;확성기 50개 상자;1;icon_item_Mike_bundle
 G;Material
 I;모루;4;icon_item_anvil
-I;5성 젬 연마제:14일;1;icon_item_powderp
-I;강화용 카드 : 500 (14일);1;monster_card
 I;고문도구;118;icon_item_torturing_tool
 I;괴황지;532;icon_item_guehwangji
 I;기슬로티스;269;icon_item_Gyslotis
@@ -165,7 +157,6 @@ I;악취나는 줄기;1;icon_item_stem_bassmell
 I;에큐바이트 더듬이;2;icon_item_feeler_purple
 I;에큐바이트 이빨;2;icon_item_tooth_blue
 I;요노움의 핵;22;icon_item_core_purple
-I;우르바스 증표;1;icon_item_borutakey
 I;위버 더듬이;7;icon_item_feeler_black
 I;유코푸스 잎;6;icon_item_leaves_blue
 I;이노움의 핵;14;icon_item_core_purple

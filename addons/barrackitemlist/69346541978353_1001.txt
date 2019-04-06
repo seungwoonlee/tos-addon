@@ -33,27 +33,9 @@ I;블루 오브:붉은 케파;1;icon_item_Dreamshade
 I;블루 오브:푸른 티니 궁수;1;icon_item_Dreamshade
 I;은빛 물고기;21;icon_item_fish2
 I;종이상자;1;icon_item_paperbox
-G;Event
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
-I;특성 포인트 100 (14일);1;icon_item_abilitypoint3
+G;SubWeapon
+I;좌절 깃발;1;OTL_flag
+I;크리스마스 핸드벨;1;icon_item_artefact_bell
 G;Book
 I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
@@ -124,9 +106,6 @@ I;컬렉션: 파마르 숲;1;icon_item_box
 I;컬렉션: 파수꾼의 묘역;1;icon_item_box
 I;컬렉션: 페레토리 구릉;1;icon_item_box
 I;컬렉션: 피스티스 숲;1;icon_item_box
-G;SubWeapon
-I;좌절 깃발;1;OTL_flag
-I;크리스마스 핸드벨;1;icon_item_artefact_bell
 G;Premium
 I;몬스터 젬 선택 상자: 직업;2;icon_item_jewelrybox_close
 I;소울 크리스탈;20;icon_item_soulCrystal
