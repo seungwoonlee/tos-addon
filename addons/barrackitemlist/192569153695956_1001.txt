@@ -88,6 +88,8 @@ I;컬렉션: 마족수감소 1구역;1;icon_item_box
 I;컬렉션: 기원의 숲;1;icon_item_box
 I;컬렉션: 왕릉 건축자 예배당;1;icon_item_box
 G;Premium
+I;긴급 수리 키트;3;icon_item_repairkit
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;소울 크리스탈;20;icon_item_soulCrystal
 I;워프 주문서;20;icon_item_warpPremium
 I;확성기;20;icon_item_Mike

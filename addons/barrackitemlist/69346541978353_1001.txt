@@ -111,6 +111,8 @@ I;몬스터 젬 선택 상자: 직업;2;icon_item_jewelrybox_close
 I;소울 크리스탈;20;icon_item_soulCrystal
 I;워프 주문서;20;icon_item_warpPremium
 I;확성기;20;icon_item_Mike
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;소드맨 스페셜 코스튬(여);1;icon_item_warrior_swordman01_3_f
 I;에보니 나이트 코스튬(여);1;icon_item_chessUniform02_f
 I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f

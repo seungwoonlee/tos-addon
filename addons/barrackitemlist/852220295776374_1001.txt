@@ -3,14 +3,8 @@ G;Recipe
 I;제작서-아라스의 폴쳔;2;icon_item_weapon_misc3
 G;Unused
 I;실버;99999;icon_item_silver
-G;Armor
-I;카울라스 레더 부츠;1;icon_item_boots_kaulas
-I;베르타스 카울라스 레더 부츠;1;icon_item_boots_kaulas
-I;카울라스 레더 글로브;1;icon_item_gloves_kaulas
-I;틸라 플레이트 레깅스;1;icon_item_pants_SRchain
-I;틸라 팬츠;1;icon_item_pants_sage_white
-I;틸라 레더 팬츠;1;icon_item_pants_gairas_gray
-I;알프라 로브;1;icon_item_alframerchant_armor
+G;Premium
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 G;Drug
 I;보급용 작은 HP포션;128;item_HP_oil_1
 I;보급용 작은 SP포션;126;item_SP_requid_1
@@ -21,6 +15,14 @@ I;농축 HP포션 LV15;10;icon_item_HP_Alche
 I;SP 회복 소형 엘릭서 ;11;icon_item_SPelixir_Small
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;보급용 워프 주문서;10;GolemMagicItem1
+G;Armor
+I;카울라스 레더 부츠;1;icon_item_boots_kaulas
+I;베르타스 카울라스 레더 부츠;1;icon_item_boots_kaulas
+I;카울라스 레더 글로브;1;icon_item_gloves_kaulas
+I;틸라 플레이트 레깅스;1;icon_item_pants_SRchain
+I;틸라 팬츠;1;icon_item_pants_sage_white
+I;틸라 레더 팬츠;1;icon_item_pants_gairas_gray
+I;알프라 로브;1;icon_item_alframerchant_armor
 G;Material
 I;잎방개의 껍질;6;icon_item_shell_green
 I;케파 줄기;10;icon_item_stem_green
@@ -32,6 +34,7 @@ I;귀환석;1;MercenaryBadge
 G;SubWeapon
 I;(바랜)미간티스 피스톨;1;icon_item_miegantis_pistol
 G;Weapon
+I;페버디마스 크로스보우;1;icon_item_pabudimas_crossbow
 I;슈페리어 숏 로드;1;icon_item_short_staff
 I;슈페리어 글라디우스;1;icon_item_Sword_22
 I;크루드 폴쳔;1;icon_item_Sword_23

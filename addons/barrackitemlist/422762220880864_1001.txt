@@ -69,6 +69,8 @@ G;Premium
 I;소울 크리스탈;20;icon_item_soulCrystal
 I;워프 주문서;20;icon_item_warpPremium
 I;컴패니언 이름 변경권;1;icon_item_CompanionReNameCoupon
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;확성기;20;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material

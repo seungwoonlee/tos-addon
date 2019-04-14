@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;99999;icon_item_silver
+I;실버;99238;icon_item_silver
 G;PasteBait
 I;작은 은빛 물고기;6;icon_item_fish4
 I;보급용 미끼;608;icon_item_Paste_Bait_basic
@@ -28,6 +28,8 @@ I;해독제;30;icon_item_Quest_00020
 I;보급용 워프 주문서;19;GolemMagicItem1
 I;은빛 물고기;30;icon_item_fish2
 I;클라페다 카프리콘즈 응원 슬로건;1;icon_item_aretfact_victory_purple
+G;Event
+I;넥슨 캐시 추첨권;1;icon_item_event_luckychance
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
@@ -65,8 +67,10 @@ I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
 I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
 I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
 G;Premium
+I;긴급 수리 키트;20;icon_item_repairkit
 I;소울 크리스탈;11;icon_item_soulCrystal
 I;워프 주문서;27;icon_item_warpPremium
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -91,6 +95,7 @@ I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;실드 차저;3;icon_item_ShieldCharge
 I;주석;4;1_item_ore_copper
 I;LV2 보물상자 열쇠;1;icon_item_key1
+I;[Episode11] 성장의 보석;300;icon_item_crimson2
 I;거대한 갈고리;9;icon_item_claw_01
 I;그루머 잎;6;icon_item_leaves_green
 I;글리자돈의 뼈;5;icon_item_bone

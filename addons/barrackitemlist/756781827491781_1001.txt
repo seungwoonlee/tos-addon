@@ -77,6 +77,8 @@ I;소울 크리스탈;20;icon_item_soulCrystal
 I;워프 주문서;20;icon_item_warpPremium
 I;확성기;20;icon_item_Mike
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 G;Material
 I;모루;22;icon_item_anvil
 I;파이라이트;11;32_item_ore_pyrite

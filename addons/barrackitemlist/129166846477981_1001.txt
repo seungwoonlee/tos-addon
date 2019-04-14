@@ -140,6 +140,8 @@ I;컬렉션: 패슬렙타스;1;icon_item_box
 I;컬렉션: 피스티스 숲;1;icon_item_box
 I;컬렉션: 해안 지역;1;icon_item_box
 G;Premium
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;소울 크리스탈;20;icon_item_soulCrystal
 I;워프 주문서;20;icon_item_warpPremium
 I;확성기;20;icon_item_Mike

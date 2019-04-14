@@ -120,6 +120,8 @@ I;워프 주문서 10개 상자;1;icon_item_warpPremium_bundle
 I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
 I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
 I;확성기;20;icon_item_Mike
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f
 I;검은 츄리닝;1;icon_item_sweat_suit_black_f
 I;나는네선물 산타 코스튬(여);1;icon_item_winter_santa_f

@@ -140,8 +140,10 @@ I;캐러페이스 카드;Lv1;icon_item_card_util
 I;캔서릴 카드;Lv1;icon_item_card_util
 I;허니핀 카드;Lv1;icon_item_card_util
 G;Premium
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 G;Material
 I;모루;6;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1

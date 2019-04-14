@@ -84,6 +84,8 @@ I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 G;Collection
 I;컬렉션: 지마 수코트;1;icon_item_box
 G;Premium
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
+I;긴급 수리 키트;7;icon_item_repairkit
 I;소울 크리스탈;23;icon_item_soulCrystal
 I;워프 주문서;17;icon_item_warpPremium
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter

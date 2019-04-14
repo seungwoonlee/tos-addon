@@ -26,54 +26,49 @@ I;제작서-종이로 된 큐브(리볼버);3;icon_item_recipe_misc1
 G;Cube
 I;[PC방] TP 아이템 랜덤 상자;2;icon_item_random_cashbox
 I;[PC방] 성장 지원 상자;1;icon_item_box_pc_month
-G;Premium
-I;긴급 수리 키트;29;icon_item_repairkit
-I;소울 크리스탈;70;icon_item_soulCrystal
-I;스탯 초기화 포션;1;icon_item_statReset
-I;워프 주문서;58;icon_item_warpPremium
-I;워프 주문서 10개 상자;4;icon_item_warpPremium_bundle
-I;[이벤트]전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 배수 토큰;2;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
-I;토큰;1;icon_item_token
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;펭마린 알;1;icon_item_egg_penguin_blue
-I;확성기;82;icon_item_Mike
-I;확성기 10개 상자;1;icon_item_Mike_bundle
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
-I;[이벤트]클래스 변경권 Lv.4;1;icon_item_rankreset_paper
-I;[이벤트]전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
-I;토큰[증정용];1;icon_item_token
-I;[이벤트]신비한 돋보기;3;icon_item_magnifier_blue
-I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
+I;란코 호수 던전 큐브;36;icon_item_cube2
+G;Armor
+I;마이너 팬츠;1;icon_item_pants_bube_blue
+I;마이너 아머;1;icon_item_shirts_bube_blue
+I;슈페리어 퀼트 아머;1;icon_item_shirts_bube
+I;유코푸스 네클리스;1;item_necklace_11
+I;포 마인 네클리스;1;item_necklace_21
+I;부베 뱅글;1;item_bracelet_16
+I;부베 뱅글;1;item_bracelet_16
+I;강아지 풍선;1;icon_item_dogballoon
+I;고글;1;hairacc_6_goggles
+I;머슈카리아 모자;1;hairacc_23_mushcariahat
+I;하트 사탕;1;icon_item_heartNut
+I;섀도우맨서 루너하이더 코스튬;1;icon_item_mage_shadowmancer04_f
+I;섀도우맨서 선하이더 코스튬;1;icon_item_mage_shadowmancer02_f
+I;소서러 코스튬;1;icon_item_sorcerer_f
+I;알케미스트 코스튬;1;icon_item_Alchemist_f
+I;파이로맨서 코스튬;1;icon_item_pyromancer_f
 G;Material
 I;모루;20;icon_item_anvil
 I;황금 모루(14일);1;icon_item_anvil_gold
+I;5성 젬 연마제:14일;1;icon_item_powderp
+I;5성 젬 연마제:14일;1;icon_item_powderp
+I;5성 젬 연마제:14일;1;icon_item_powderp
 I;강화용 카드 : 500 (14일);1;monster_card
 I;강화용 카드 : 500 (14일);1;monster_card
 I;강화용 카드 : 500 (14일);1;monster_card
 I;마법 가루;965;icon_item_MagicPowder
-I;빈 스펠북;2;icon_item_emptySpellBook
 I;시간의 결정;39;icon_item_timespace
 I;시간의 결정 파편;300;icon_item_spacepiece
 I;칼사이트;17;14_item_ithildin
-I;파이라이트;146;32_item_ore_pyrite
+I;파이라이트;144;32_item_ore_pyrite
 I;주석;2;1_item_ore_copper
 I;호박;8;22_item_ore_amber
 I;LV2 보물상자 열쇠;2;icon_item_key1
-I;[Episode11] 성장의 보석;200;icon_item_crimson2
+I;[Episode11] 성장의 보석;1200;icon_item_crimson2
+I;각성 가루;57;icon_item_wakepowder
 I;갈록 가죽;1;icon_item_Misc_00007
 I;갈색 라프세이프 잎;6;icon_item_leaves_lapasape_brown
 I;거대한 갈고리;11;icon_item_claw_01
 I;글리자돈의 뼈;9;icon_item_bone
 I;나무 말뚝;10;icon_item_wood_3
+I;노란 리프넛 날개;2;icon_item_batwing
 I;노란 뷰올리우이다스;1;icon_item_Geranium_farm_Yellow
 I;노란 파이란 날개;2;icon_item_batwing
 I;누덕고치의 껍질;1;icon_item_shell_blue
@@ -84,7 +79,7 @@ I;레지네이트;1;16_item_treenite
 I;리자드맨 송곳니;1;icon_item_canine
 I;메슘의 줄기;1;icon_item_stem_brown
 I;물푸레나무;4;icon_item_wood_2
-I;바이보라의 날개 주화;35;icon_item_wingcoin
+I;바이보라의 날개 주화;40;icon_item_wingcoin
 I;박쥐 이빨;1;icon_item_tooth_white
 I;박쥐의 날개;11;icon_item_batwing
 I;밴시의 사념체;4;icon_item_spirit_orange
@@ -114,8 +109,7 @@ I;에큐바이트 이빨;3;icon_item_tooth_blue
 I;엘마 머리카락;1;icon_item_hair_elma
 I;오넨 정수 Lv1;7;KQ_recipe_hethran_material_1_2
 I;오페러의 껍질;1;icon_item_shell_yellow
-I;요노움의 핵;5;icon_item_core_purple
-I;[Episode11] 탐험의 새싹;200;item_icon_sprout
+I;요노움의 핵;2;icon_item_core_purple
 I;위버 더듬이;4;icon_item_feeler_black
 I;유코푸스 잎;13;icon_item_leaves_blue
 I;이노움의 핵;6;icon_item_core_purple
@@ -149,11 +143,10 @@ I;하나밍 꽃잎;3;icon_item_HanamingPetal
 I;할로우벤터의 손뼈;3;icon_item_bone
 I;호그마 전투대장 송곳니;1;icon_item_tooth_00Basic
 I;회색 스타울리트 힘줄;4;icon_item_Leash
-I;노란 리프넛 날개;2;icon_item_batwing
-I;각성 가루;34;icon_item_wakepowder
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;과거의 기억을 기록하는 보주;1;icon_item_Dreamshade
+I;구호품;1;icon_item_small_bag
 I;꼬마 마족의 옷자락;11;icon_item_clothpiece_white
 I;반지;1;Act4_BishopRing
 I;보주 결정;7;icon_item_EvilEnergy_Powder
@@ -171,16 +164,16 @@ I;탁본 도구;1;icon_item_sidebag
 I;펜듈럼;1;icon_item_pendulum
 I;푸른 빛이 깃든 날개;1;icon_item_misc04_42
 I;화살 묶음;1;item_icon_barbedhead_arrow
-I;구호품;1;icon_item_small_bag
 G;Unused
-I;실버;10378099;icon_item_silver
+I;실버;11968885;icon_item_silver
 G;PasteBait
 I;작은 은빛 물고기;5;icon_item_fish4
 G;Drug
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
-I;농축 HP포션 LV15;30;icon_item_HP_Alche
-I;농축 SP포션 LV15;7;icon_item_SP_Alche
+I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
+I;농축 HP포션 LV15;29;icon_item_HP_Alche
+I;농축 SP포션 LV15;36;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;80;item_speed_requid_1
 I;딸기;2;icon_item_Strawberry
 I;레드옥스;1;icon_item_Red_Ox
@@ -197,6 +190,9 @@ I;아말라스;1;icon_item_Amalas
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;오르샤 워프 주문서;2;GolemMagicItem1
 I;워시스;46;icon_item_Uosis
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
 I;정착 지원 포션 Lv2;110;item_speed_requid_3
 I;축복이 깃든 씨앗;7;icon_item_event161215_01
 I;케이스타스 수호의 포션;2;icon_item_Drug_exDEF1
@@ -204,7 +200,10 @@ I;클라페다 워프 주문서;20;GolemMagicItem1
 I;포포리온 고기;16;icon_item_meat_02
 I;할로윈 폭죽;1;icon_item_firework
 I;해독제;10;icon_item_Quest_00020
+I;LV1 경험치 카드;5;icon_item_expcard
 I;LV13 경험치 카드;7;icon_item_expcard
+I;LV15 경험치 카드;9;icon_item_expcard
+I;LV2 경험치 카드;24;icon_item_expcard
 I;LV4 경험치 카드;2;icon_item_expcard
 I;LV5 경험치 카드;2;icon_item_expcard
 I;레드 오브:갈색 로델린;1;icon_item_Dreamshade_red
@@ -214,9 +213,6 @@ I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;은빛 물고기;36;icon_item_fish2
-I;LV2 경험치 카드;24;icon_item_expcard
-I;LV1 경험치 카드;5;icon_item_expcard
-I;LV15 경험치 카드;9;icon_item_expcard
 I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
 I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
 I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
@@ -225,56 +221,75 @@ I;다과 세트;1;icon_item_artefact_Tea_Set
 I;다과 세트;1;icon_item_artefact_Tea_Set
 I;클라페다 카프리콘즈 응원 슬로건;1;icon_item_aretfact_victory_purple
 I;푸드 커버;1;icon_item_artefact_Dome_Cover
+I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
+I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
+I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
 I;인챈트탄;87;icon_item_panto_core
 G;Event
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;특성 포인트 1,000;10;icon_item_abilitypoint
 I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
 I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
 I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
+I;넥슨 캐시 추첨권;3;icon_item_event_luckychance
 I;연하장;1;icon_item_event_invitation2
-I;넥슨 캐시 추첨권;1;icon_item_event_luckychance
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;아트만의 확장;1;icon_item_collection_03Blue
 I;어떤 연금술사의 기록(상);1;icon_item_collection_01Red
-I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 I;카듀멜 시대의 갑주;1;icon_item_collection_04Black
+I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 I;낡은 보급용 낚싯대;1;icon_item_Fishing_Rod_1
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 G;Gem
-I;블루 젬;Lv6;item_icon_Square150
 I;블루 젬;Lv5;item_icon_Square150
+I;블루 젬;Lv6;item_icon_Square150
 G;Card
 I;템플슈터 카드;Lv10;icon_item_card_stat
 I;파야우타 카드;Lv4;icon_item_card_stat
-I;프로스터 로드 카드;Lv10;icon_item_card_atk
 I;자이언트 레드 우드 카드;Lv1;icon_item_card_atk
+I;프로스터 로드 카드;Lv10;icon_item_card_atk
 I;샐러맨더 카드;Lv1;icon_item_card_util
 G;Collection
 I;컬렉션: 겔리 고원;1;icon_item_box
-G;Armor
-I;마이너 팬츠;1;icon_item_pants_bube_blue
-I;슈페리어 퀼트 아머;1;icon_item_shirts_bube
-I;마이너 아머;1;icon_item_shirts_bube_blue
-I;유코푸스 네클리스;1;item_necklace_11
-I;포 마인 네클리스;1;item_necklace_21
-I;부베 뱅글;1;item_bracelet_16
-I;부베 뱅글;1;item_bracelet_16
-I;머슈카리아 모자;1;hairacc_23_mushcariahat
-I;강아지 풍선;1;icon_item_dogballoon
-I;고글;1;hairacc_6_goggles
-I;하트 사탕;1;icon_item_heartNut
-I;섀도우맨서 루너하이더 코스튬;1;icon_item_mage_shadowmancer04_f
-I;섀도우맨서 선하이더 코스튬;1;icon_item_mage_shadowmancer02_f
-I;소서러 코스튬;1;icon_item_sorcerer_f
-I;알케미스트 코스튬;1;icon_item_Alchemist_f
-I;파이로맨서 코스튬;1;icon_item_pyromancer_f
 G;SubWeapon
 I;눈꽃 스프레이;1;icon_item_snowflower
+G;Premium
+I;[이벤트] 헤어 1회 90% 할인권;1;icon_item_HairCoupon_90
+I;[이벤트]전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
+I;[이벤트]전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
+I;[이벤트]전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
+I;[이벤트]클래스 변경권 Lv.4;2;icon_item_rankreset_paper
+I;긴급 수리 키트;29;icon_item_repairkit
+I;소울 크리스탈;70;icon_item_soulCrystal
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;스탯 초기화 포션;1;icon_item_statReset
+I;워프 주문서;58;icon_item_warpPremium
+I;워프 주문서 10개 상자;5;icon_item_warpPremium_bundle
+I;인스턴스 던전 배수 토큰;2;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
+I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
+I;토큰;1;icon_item_token
+I;토큰[증정용];1;icon_item_token
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
+I;펭마린 알;1;icon_item_egg_penguin_blue
+I;확성기;87;icon_item_Mike
+I;확성기 10개 상자;1;icon_item_Mike_bundle
+I;[이벤트]신비한 돋보기;3;icon_item_magnifier_blue
+I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Weapon
 I;(바랜)페버디마스 로드;1;icon_item_pabudimas_rod
 I;[결속] 베르타스 라파이 로드;1;icon_item_rod_lapai

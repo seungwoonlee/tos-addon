@@ -170,6 +170,8 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;120레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;170레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;축제용 심플 코스튬(남);1;icon_item_simple_festival_m
 G;Armor
 I;바르그아르 플레이트 건틀릿;1;icon_item_vargu_gloves
@@ -187,7 +189,7 @@ I;턴 로브;1;icon_item_shirts_sage_white
 I;노비스 네클리스;1;item_necklace_10
 I;노블 브레이슬릿;1;item_bracelet_03
 I;부베 뱅글;1;item_bracelet_16
-I;엘리멘탈리스트 코스튬;1;icon_item_warrock_m
+I;엘리멘탈리스트 코스튬;1;icon_item_warrock_f
 G;Material
 I;모루;4;icon_item_anvil
 I;LV2 보물상자 열쇠;2;icon_item_key1
@@ -220,7 +222,7 @@ I;퓨어 크리스탈;1;icon_item_Gem_Aquamarine
 I;하나밍 꽃잎;20;icon_item_HanamingPetal
 I;할로우벤터의 사념체;2;icon_item_spirit_purple
 I;할로우벤터의 손뼈;46;icon_item_bone
-I;[Episode11] 성장의 보석;1700;icon_item_crimson2
+I;[Episode11] 성장의 보석;2500;icon_item_crimson2
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;광산 나침반;1;icon_item_compass

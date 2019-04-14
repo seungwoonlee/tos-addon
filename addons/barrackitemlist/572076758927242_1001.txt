@@ -44,9 +44,21 @@ G;Collection
 I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
 G;Event
 I;[이벤트]클래스 변경권 Lv.2(14일);1;icon_item_rankreset_paper_2
-I;특성 포인트 1,000;5;icon_item_abilitypoint
+I;특성 포인트 1,000;10;icon_item_abilitypoint
+I;경험의 서:14일;1;icon_item_boostertoken
+I;경험의 서:14일;1;icon_item_boostertoken
+I;경험의 서:14일;1;icon_item_boostertoken
+I;경험의 서:14일;1;icon_item_boostertoken
+I;특성 포인트 1000 (14일);1;icon_item_abilitypoint
+I;특성 포인트 1000 (14일);1;icon_item_abilitypoint
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
 I;[Episode11] 레벨업 상자 (220레벨);1;icon_item_giftBox_2
-I;넥슨 캐시 추첨권;2;icon_item_event_luckychance
+I;넥슨 캐시 추첨권;3;icon_item_event_luckychance
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 G;Armor
 I;(바랜)알프라 부츠;1;icon_item_alframerchant_boots
 I;(바랜)팽글 플레이트 그리브;1;icon_item_gladiuspangle_boots
@@ -129,7 +141,7 @@ I;소울 크리스탈;45;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;스탯 초기화 포션;1;icon_item_statReset
 I;워프 주문서;26;icon_item_warpPremium
-I;워프 주문서 10개 상자;2;icon_item_warpPremium_bundle
+I;워프 주문서 10개 상자;3;icon_item_warpPremium_bundle
 I;인스턴스 던전 1회 입장권;2;icon_item_indunFreeEnter
 I;인스턴스 던전 배수 토큰;2;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -176,6 +188,9 @@ I;[이벤트]전투 지원 상자;1;icon_item_Premium_Elixer_Box_C
 I;75레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;120레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;170레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;토큰:7일[증정용];1;icon_item_token
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;[이벤트]신비한 돋보기;1;icon_item_magnifier_blue
 I;성직자용 심플 컬러 코스튬(여);1;cleric_simplecolor_f
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
@@ -184,6 +199,15 @@ G;Material
 I;가벼운 모루;1;icon_item_anvil
 I;연습용 모루;1;icon_item_anvil
 I;황금 모루(14일);1;icon_item_anvil_gold
+I;은빛 모루(14일);1;icon_item_anvil_silver
+I;은빛 모루(14일);1;icon_item_anvil_silver
+I;은빛 모루(14일);1;icon_item_anvil_silver
+I;5성 젬 연마제:14일;1;icon_item_powderp
+I;5성 젬 연마제:14일;1;icon_item_powderp
+I;5성 젬 연마제:14일;1;icon_item_powderp
+I;강화용 카드 : 500 (14일);1;monster_card
+I;강화용 카드 : 500 (14일);1;monster_card
+I;강화용 카드 : 500 (14일);1;monster_card
 I;마력 흡수침;1;icon_item_spellneedle
 I;기슬로티스;68;icon_item_Gyslotis
 I;성수;72;icon_item_holywater
@@ -195,7 +219,7 @@ I;거대한 갈고리;7;icon_item_claw_01
 I;그루머 잎;2;icon_item_leaves_green
 I;글리자돈의 뼈;2;icon_item_bone
 I;떡갈나무;2;icon_item_wood_1
-I;[Episode11] 성장의 보석;1900;icon_item_crimson2
+I;[Episode11] 성장의 보석;2500;icon_item_crimson2
 I;룩소돈 고기;1;icon_item_meat_02
 I;리디메드 줄기;1;icon_item_stem_gray
 I;리플라이 날개;1;icon_item_bugwing
@@ -214,7 +238,7 @@ I;에큐바이트 더듬이;2;icon_item_feeler_purple
 I;에하드의 핵;1;icon_item_core_yellow
 I;요노움의 핵;4;icon_item_core_purple
 I;위버 더듬이;5;icon_item_feeler_black
-I;[Episode11] 탐험의 새싹;400;item_icon_sprout
+I;[Episode11] 탐험의 새싹;1000;item_icon_sprout
 I;인프로 락터의 껍질;1;icon_item_shell
 I;잎방개의 껍질;9;icon_item_shell_green
 I;작은 마족의 뿔;1;icon_item_pantohorn
@@ -233,6 +257,7 @@ I;하나밍 꽃잎;63;icon_item_HanamingPetal
 I;하이 부베족의 증표;2;icon_item_bubetoken
 I;허밍버드의 날개;1;icon_item_bugwing
 I;호글란 부리;1;icon_item_small_bag
+I;바이보라의 날개 주화;10;icon_item_wingcoin
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;빛의 결정;1;icon_item_drop

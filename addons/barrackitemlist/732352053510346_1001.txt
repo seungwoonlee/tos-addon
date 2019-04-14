@@ -83,7 +83,10 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
 I;x8 경험의 서;1;icon_item_expbookx8
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
+I;15레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 G;Cube
 I;[PC방] TP 아이템 랜덤 상자;1;icon_item_random_cashbox
@@ -112,9 +115,11 @@ G;Material
 I;잎방개의 껍질;9;icon_item_shell_green
 I;케파 줄기;6;icon_item_stem_green
 I;하나밍 꽃잎;1;icon_item_HanamingPetal
+I;[Episode11] 성장의 보석;100;icon_item_crimson2
 I;귀환석;1;MercenaryBadge
 G;Event
 I;특성 포인트 10,000;5;icon_item_abilitypoint4
+I;[Episode11] 레벨업 상자 (40레벨);1;icon_item_giftBox_2
 G;Weapon
 I;슈페리어 글라디우스;1;icon_item_Sword_22
 I;오래된 글라디우스;1;icon_item_Sword_22

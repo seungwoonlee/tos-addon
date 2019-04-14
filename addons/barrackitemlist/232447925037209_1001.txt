@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;99980;icon_item_silver
+I;실버;100000;icon_item_silver
 G;PasteBait
 I;작은 은빛 물고기;22;icon_item_fish4
 G;Drug
@@ -9,8 +9,8 @@ I;SP 회복 소형 엘릭서 ;25;icon_item_SPelixir_Small
 I;고농축 HP포션;145;item_HP_oil_3
 I;고농축 SP포션;117;item_SP_requid_3
 I;긴급 수리 키트;11;icon_item_repairkit
-I;농축 HP포션 LV15;15;icon_item_HP_Alche
-I;농축 SP포션 LV15;33;icon_item_SP_Alche
+I;농축 HP포션 LV15;14;icon_item_HP_Alche
+I;농축 SP포션 LV15;29;icon_item_SP_Alche
 I;대형 HP포션;5;item_HP_oil_3
 I;대형 SP포션;3;item_SP_requid_3
 I;딸기;21;icon_item_Strawberry
@@ -19,13 +19,12 @@ I;루팅 찬스 증가 포션;2;icon_item_looting_potion_01
 I;루팅 찬스: 100;4;item_icon_luckypotion_100
 I;매두스;17;icon_item_Medus
 I;바루날레샤;95;icon_item_Varnalesa
-I;보급용 작은 SP포션;686;item_SP_requid_1
 I;보급용 작은 스태미나 알약;26;item_STA_pill_1
 I;복숭아;14;icon_item_Peach
 I;아비에테;22;icon_item_Aviete
 I;오르샤 워프 주문서;17;GolemMagicItem1
 I;이동속도 향상의 포션;4;item_speed_requid_1
-I;케이스타스 SP포션 Lv2;3;item_SP_requid_2
+I;케이스타스 SP포션 Lv2;1;item_SP_requid_2
 I;케이스타스 회복포션Lv1;10;item_HPSP_potion_1
 I;케이스타스 회복포션Lv2;10;item_HPSP_potion_2
 I;케이스타스 회복포션Lv3;6;item_HPSP_potion_3
@@ -33,9 +32,8 @@ I;케이트리스 용맹의 포션;1;icon_item_Drug_AGI2
 I;케이트리스 회복의 포션;1;icon_item_Drug_ATK2
 I;큰 HP포션;6;item_HP_oil_3
 I;큰 SP포션;4;item_SP_requid_3
-I;클라페다 워프 주문서;9;GolemMagicItem1
+I;클라페다 워프 주문서;8;GolemMagicItem1
 I;특대형 HP포션;8;item_HP_oil_3
-I;특대형 SP포션;3;item_SP_requid_3
 I;페디미안 워프 주문서;5;GolemMagicItem1
 I;포포리온 고기;23;icon_item_meat_02
 I;할로윈 폭죽;6;icon_item_firework
@@ -45,7 +43,9 @@ I;블루 오브:유코푸스;1;icon_item_Dreamshade
 I;블루 오브:초록 플라메;1;icon_item_Dreamshade
 I;블루 오브:푸른 호헨 메인;1;icon_item_Dreamshade
 I;은빛 물고기;16;icon_item_fish2
-I;LV14 경험치 카드;7;icon_item_expcard
+I;LV14 경험치 카드;31;icon_item_expcard
+I;LV15 경험치 카드;15;icon_item_expcard
+I;LV13 경험치 카드;19;icon_item_expcard
 I;디스펠러;17;icon_item_grimoire_blue
 I;예식용 칼;1;icon_item_artefact_Decorative_knife
 I;종이상자;1;icon_item_paperbox
@@ -197,18 +197,23 @@ I;컬렉션: 파마르 숲;1;icon_item_box
 I;컬렉션: 파수꾼의 묘역;1;icon_item_box
 I;컬렉션: 포슬린키스 숲;1;icon_item_box
 I;컬렉션: 피스티스 숲;1;icon_item_box
+I;컬렉션: 유데이안 숲;1;icon_item_box
 G;Premium
 I;긴급 수리 키트;2;icon_item_repairkit
 I;몬스터 젬 선택 상자: 직업;1;icon_item_jewelrybox_close
 I;소울 크리스탈;14;icon_item_soulCrystal
-I;워프 주문서;15;icon_item_warpPremium
-I;확성기;15;icon_item_Mike
+I;워프 주문서;19;icon_item_warpPremium
+I;확성기;20;icon_item_Mike
+I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
+I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
 G;Material
 I;모루;21;icon_item_anvil
-I;괴황지;1080;icon_item_guehwangji
+I;괴황지;2933;icon_item_guehwangji
 I;성수;2;icon_item_holywater
 I;크리오라이트;17;39_icon_item_Cry8rite
-I;사파이어;1;39_icon_item_Cry8rite
+I;파이라이트;93;32_item_ore_pyrite
 I;압시듐 광석;32;8_item_ore_platinum
 I;LV1 대지의 파편;2;icon_item_Gem_Stone_CON
 I;LV2 보물상자 열쇠;5;icon_item_key1
@@ -237,7 +242,7 @@ I;글리프링 파편;24;icon_item_Misc_00006
 I;나무 말뚝;9;icon_item_wood_3
 I;나부의 온전한 꼬리;62;icon_item_misc04_63
 I;노란 듀마로의 발톱;4;icon_item_tooth_00Basic
-I;노란 리프넛 날개;7;icon_item_batwing
+I;노란 리프넛 날개;8;icon_item_batwing
 I;노란 리프넛의 꼬리;80;icon_item_misc04_64
 I;노란 리프넛의 온전한 날개;2;icon_item_misc04_65
 I;노란 아르마의 꼬리;5;icon_item_Quest_00017
@@ -269,6 +274,7 @@ I;라우지누테의 껍질;13;icon_item_shell_red
 I;라콘 날개;10;icon_item_batwing
 I;레무리아 가죽;1;icon_item_fur_06Brown
 I;레비 털;8;icon_item_fur_01Yellow
+I;쿠게리의 천조각;3;icon_item_clothpiece_white
 I;레푸스버니 털;29;icon_item_fur_05Gray
 I;로데나콩 솜털;3;icon_item_fur_00White
 I;로모르 잎;18;icon_item_leaves_green
@@ -367,6 +373,7 @@ I;엘로마고 잎;8;icon_item_leaves_blue
 I;엘마 머리카락;14;icon_item_hair_elma
 I;오페러의 껍질;5;icon_item_shell_yellow
 I;요노움의 핵;27;icon_item_core_purple
+I;쿠게리 심바니의 모자장식;1;icon_item_misc04_104
 I;웬디고 이빨;17;icon_item_tooth_white
 I;위버 더듬이;19;icon_item_feeler_black
 I;유리 조각;33;icon_item_pieceofglass
@@ -426,7 +433,7 @@ I;코카트리스 깃털;15;icon_item_feather_02Yellow
 I;콜리플라워의 줄기;3;icon_item_stem_brown
 I;쿠게리 누마니의 방울;1;icon_item_misc04_97
 I;쿠게리 리오니의 뿔;69;icon_item_misc04_98
-I;쿠게리 발저의 꽃바구니;81;icon_item_misc04_99
+I;쿠게리 발저의 꽃바구니;90;icon_item_misc04_99
 I;쿠게리 솜털;10;icon_item_fur_00White
 I;쿠게리 심바니의 검;51;icon_item_misc04_103
 I;쿠게리 자비의 탈;57;icon_item_misc04_106
@@ -478,6 +485,9 @@ I;호헨 가죽;12;icon_item_Misc_00011
 I;호헨 깃발 조각;3;icon_item_flag_hohen
 I;회색 스타울리트 힘줄;2;icon_item_Leash
 I;희미한 별빛의 결정;3;24_item_ore_topaz
+I;보라색 라벤더;2;icon_item_misc_0532
+I;모닝버드 날개;4;icon_item_batwing
+I;모링가가 날개;4;icon_item_batwing
 I;누군가의 나무 망치;1;icon_item_farm47_wood_hammer
 I;뜯어진 잡초;1;icon_item_grassbladeg
 I;작은 미스릴 광석 조각;1;13_item_mythril
@@ -492,7 +502,7 @@ I;대지의 요새의 계시;1;icon_item_stonetablet
 I;데메트리우스의 연구 기록;1;icon_item_collection_04Black
 I;마법사의 탑의 계시;1;icon_item_stonetablet
 I;수정광산의 계시;1;icon_item_stonetablet
-I;순례자의 표식;31;neck_pilgrim_01
+I;예언의 서;1;icon_item_collection_02green
 I;쉬트리가일라의 오브;1;icon_item_core_red
 I;아이트바라스의 기록;1;icon_item_diary
 I;암살자 에보니폰의 증표;1;icon_item_Gem_Pendent9
@@ -507,6 +517,7 @@ I;테넷 성당의 계시;1;icon_item_stonetablet
 I;펜듈럼;1;icon_item_pendulum
 I;휠렌의 증표;1;icon_item_Gem_Elemental17
 I;힘이 복구된 사울레의 성구;1;icon_item_crimson3
+I;마족의 서약 증표;1;icon_item_vow_demon
 G;Armor
 I;아그니 네클리스;1;item_necklace_21
 I;도사 코스튬;1;icon_item_daoshi_f

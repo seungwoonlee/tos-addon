@@ -113,6 +113,8 @@ I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
 I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
 I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);1;icon_item_event_weaponbox1
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;궁수용 심플 컬러 코스튬(여);1;archer_simplecolor_f
 I;궁수용 파티 드레스 코스튬(여);1;icon_item_archer_bluepeacock_f
 I;궁수의 너구리 코스튬(여);1;icon_item_archer_racoon_f
@@ -341,4 +343,5 @@ I;셀프 보우;1;icon_item_selfbow
 I;쥬 스태프;1;icon_item_yew_staff
 I;캐논;1;cannon_canon
 I;마시니오스 캐논;1;icon_item_cannon_masinos
+I;레그바 캐논;1;cannon_bahcannon
 I;캐논;1;cannon_canon

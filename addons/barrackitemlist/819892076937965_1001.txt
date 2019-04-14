@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;84200;icon_item_silver
+I;실버;111200;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
@@ -233,6 +233,8 @@ I;자우라 카드;Lv10;icon_item_card_def
 I;마르녹스 카드;Lv10;icon_item_card_util
 G;Premium
 I;확성기;7;icon_item_Mike
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 G;Material
 I;모루;20;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
@@ -291,7 +293,7 @@ I;데스모두스 이빨;15;icon_item_tooth_yellow
 I;덴덴 꽃잎;1;icon_item_leaves_blue
 I;도요르 잎다발;2;icon_item_doyorleaf
 I;드레이크 고기;30;icon_item_meat_02
-I;포탈 스톤;50;icon_item_portalstone
+I;포탈 스톤;43;icon_item_portalstone
 I;디머의 구슬;1;icon_item_bead
 I;떡갈나무;2;icon_item_wood_1
 I;라우지누테의 껍질;23;icon_item_shell_red
@@ -389,7 +391,6 @@ I;인프로 홀더의 뼈;10;icon_item_bone
 I;잎방개의 껍질;6;icon_item_shell_green
 I;작은 마족의 뿔;13;icon_item_pantohorn
 I;장작;20;icon_item_woodpiece
-I;전환의 수정조각;4;icon_item_BlokenMirror
 I;제페토의 줄기;32;icon_item_stem_brown
 I;족쇄;16;icon_item_legiron
 I;주술인형의 핵;9;icon_item_core_red

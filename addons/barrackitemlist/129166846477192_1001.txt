@@ -3,13 +3,13 @@ G;Unused
 I;실버;100000;icon_item_silver
 G;Drug
 I;100일 기념 포션;1;item_speed_requid_3
-I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
-I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
+I;[이벤트] SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
+I;[이벤트] HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;고농축 HP포션;40;item_HP_oil_3
 I;고농축 SP포션;40;item_SP_requid_3
 I;고농축 이동속도 증가 포션;10;item_speed_requid_1
-I;농축 HP포션 LV15;46;icon_item_HP_Alche
-I;농축 SP포션 LV15;44;icon_item_SP_Alche
+I;농축 HP포션 LV15;39;icon_item_HP_Alche
+I;농축 SP포션 LV15;39;icon_item_SP_Alche
 I;딸기;28;icon_item_Strawberry
 I;라프세이프 버섯;4;icon_item_Pinemushroom
 I;매두스;10;icon_item_Medus
@@ -144,8 +144,14 @@ I;컬렉션: 파마르 숲;1;icon_item_box
 I;컬렉션: 피스티스 숲;1;icon_item_box
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
-I;워프 주문서;15;icon_item_warpPremium
-I;확성기;15;icon_item_Mike
+I;워프 주문서;16;icon_item_warpPremium
+I;확성기;20;icon_item_Mike
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
+G;Armor
+I;도펠죌트너 코스튬;1;icon_item_doppelsoldner_f
+I;템플러 코스튬;1;icon_item_warrior_templar02_f
+I;하이랜더 코스튬;1;icon_item_highlander_f
 G;Material
 I;모루;13;icon_item_anvil
 I;실드 차저;11;icon_item_ShieldCharge
@@ -253,7 +259,7 @@ I;사우가의 핵;1;icon_item_core_yellow
 I;사크몰리 줄기;1;icon_item_stem_gray
 I;삼나무;11;icon_item_wood_4
 I;샤울렘 털잎;1;icon_item_leaves_yellow
-I;소나무;14;icon_item_wood_3
+I;소나무;15;icon_item_wood_3
 I;소켓의 껍질;15;icon_item_shell_blue
 I;쉬타임 파편;1;icon_item_Misc_00004
 I;스톤오르카의 핵;9;icon_item_core_yellow
@@ -399,7 +405,5 @@ I;펜듈럼;1;icon_item_pendulum
 I;향초;1;icon_item_candle
 I;허밀가의 붉은 수정;1;icon_item_Gem_Stone_STR
 I;휠렌의 증표;1;icon_item_Gem_Elemental17
-G;Armor
-I;도펠죌트너 코스튬;1;icon_item_doppelsoldner_f
-I;템플러 코스튬;1;icon_item_warrior_templar02_f
-I;하이랜더 코스튬;1;icon_item_highlander_f
+G;Weapon
+I;프리머스 레그바 소드;1;warrior_f_sword_shotten_sword_green
