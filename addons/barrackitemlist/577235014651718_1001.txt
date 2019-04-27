@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;190124;icon_item_silver
+I;실버;191570;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;30;icon_item_HPelixir_Small
 I;보급용 SP포션;30;item_SP_requid_2
@@ -18,9 +18,9 @@ I;정착 지원 포션 Lv2;87;item_speed_requid_3
 I;클라페다 워프 주문서;2;GolemMagicItem1
 I;포포리온 고기;7;icon_item_meat_02
 I;해독제;3;icon_item_Quest_00020
-I;농축 SP포션 LV15;14;icon_item_SP_Alche
+I;농축 SP포션 LV15;12;icon_item_SP_Alche
 I;아말라스;5;icon_item_Amalas
-I;딜겔레;2;icon_item_Dilgele
+I;딜겔레;3;icon_item_Dilgele
 I;LV14 경험치 카드;4;icon_item_expcard
 I;LV3 경험치 카드;1;icon_item_expcard
 I;LV4 경험치 카드;12;icon_item_expcard
@@ -28,11 +28,11 @@ I;LV5 경험치 카드;3;icon_item_expcard
 I;보급용 워프 주문서;18;GolemMagicItem1
 I;은빛 물고기;12;icon_item_fish2
 I;LV13 경험치 카드;7;icon_item_expcard
-I;LV7 경험치 카드;2;icon_item_expcard
+I;LV7 경험치 카드;3;icon_item_expcard
 I;LV6 경험치 카드;2;icon_item_expcard
 I;LV11 경험치 카드;1;icon_item_expcard
 I;오르샤 라이온스 응원 슬로건;1;icon_item_aretfact_victory_red
-I;인챈트탄;661;icon_item_panto_core
+I;인챈트탄;653;icon_item_panto_core
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;대해적과 하이레번 하권;1;icon_item_collection_00Basic
@@ -87,8 +87,6 @@ I;컬렉션: 수정광산 2층;1;icon_item_box
 I;컬렉션: 테넷 화원;1;icon_item_box
 I;컬렉션: 지마 수코트;1;icon_item_box
 G;Premium
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
-I;긴급 수리 키트;10;icon_item_repairkit
 I;소울 크리스탈;14;icon_item_soulCrystal
 I;워프 주문서;13;icon_item_warpPremium
 I;워프 주문서 10개 상자;4;icon_item_warpPremium_bundle
@@ -159,6 +157,7 @@ I;물푸레나무;10;icon_item_wood_2
 I;노란 아르마의 꼬리;1;icon_item_Quest_00017
 I;노란 파이란 날개;3;icon_item_batwing
 I;붉은 슬라임의 핵;1;38_item_ore_mercury
+I;츄파루카 털;1;icon_item_fur_05Gray
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01
@@ -185,4 +184,5 @@ G;Armor
 I;불릿 마커 휠러 코스튬;1;icon_item_bulletmarker03_f
 I;불릿 마커 코스튬;1;icon_item_bulletmarker_f
 I;불릿 마커 매처 코스튬;1;icon_item_bulletmarker02_f
-I;링커 코스튬;1;icon_item_linker_f
+I;인챈터 코스튬;1;icon_item_mage_enchanter_f
+I;셰리프 코스튬;1;icon_item_scoutCos_sheriff01_f

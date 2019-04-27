@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;298597;icon_item_silver
+I;실버;500197;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
@@ -35,12 +35,12 @@ I;[Episode11] 레벨업 상자 (350레벨);1;icon_item_giftBox_2
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 G;Recipe
-I;제작서-드레이크 스태프;2;icon_item_weapon_misc1
 I;제작서-일룬;1;icon_item_weapon_misc1
+I;제작서-드레이크 스태프;2;icon_item_weapon_misc1
 I;제작서-포텐티아;4;icon_item_weapon_misc3
+I;제작서-비르토브 플레이트 부츠;1;icon_item_boots_misc4
 I;제작서-비르토브 레더 글로브;1;icon_item_gloves_misc4
 I;제작서-비르토브 로브;1;icon_item_shirts_misc4
-I;제작서-비르토브 플레이트 부츠;1;icon_item_boots_misc4
 I;제작서-카펜터 글로브;2;icon_item_gloves_misc3
 I;제작서-테넷 체인 팬츠;2;icon_item_pants_misc3
 I;제작서-매직 탈리스만;1;icon_item_necklace_misc3
@@ -74,7 +74,6 @@ I;75레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;경험의 서;1;icon_item_boostertoken
 I;긴급 수리 키트;1;icon_item_repairkit
 I;소울 크리스탈;10;icon_item_soulCrystal
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
 I;워프 주문서;7;icon_item_warpPremium
 I;인스턴스 던전 배수 토큰;12;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -82,7 +81,6 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;확성기;11;icon_item_Mike
 G;Armor
 I;(바랜)미간티스 실드;1;icon_item_miegantis_shield
@@ -98,7 +96,7 @@ I;시간의 결정 파편;277;icon_item_spacepiece
 I;크리오라이트;87;39_icon_item_Cry8rite
 I;호박;8;22_item_ore_amber
 I;LV2 보물상자 열쇠;2;icon_item_key1
-I;[Episode11] 성장의 보석;3600;icon_item_crimson2
+I;라플라워 뿌리;2;icon_item_onionroot
 I;거대한 갈고리;8;icon_item_claw_01
 I;검은 주술인형의 핵;1;icon_item_core_yellow
 I;그루머 잎;8;icon_item_leaves_green
@@ -108,7 +106,7 @@ I;노란 게이징 골렘의 핵;1;icon_item_core_yellow
 I;돌;3;icon_item_Misc_00004
 I;드레이크 고기;1;icon_item_meat_02
 I;떡갈나무;1;icon_item_wood_1
-I;라플라워 뿌리;2;icon_item_onionroot
+I;[Episode11] 성장의 보석;3600;icon_item_crimson2
 I;러블렘 파편;1;icon_item_Misc_00006
 I;리디메드 줄기;1;icon_item_stem_gray
 I;리자드맨 송곳니;2;icon_item_canine
@@ -149,7 +147,7 @@ I;코도모르 가시;2;icon_item_thorn_blue
 I;타마의 껍질;1;icon_item_tamashell
 I;판토족의 뿔;10;icon_item_pantohorn
 I;포쿠부 가죽;2;icon_item_Misc_00011
-I;포탈 스톤;82;icon_item_portalstone
+I;포탈 스톤;46;icon_item_portalstone
 I;플로르;1;icon_item_crystal_green
 I;피라콘 잎;3;icon_item_leaves_red
 I;하나밍 꽃잎;7;icon_item_HanamingPetal

@@ -67,10 +67,8 @@ I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
 I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
 I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
 G;Premium
-I;긴급 수리 키트;20;icon_item_repairkit
 I;소울 크리스탈;11;icon_item_soulCrystal
 I;워프 주문서;27;icon_item_warpPremium
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -159,8 +157,5 @@ I;음양사 본향 지원 명단;1;Siaul_Act3_Confirmation
 I;의식용 밧줄;1;icon_item_tentaclel
 I;테넷 성당의 계시;1;icon_item_stonetablet
 G;Armor
-I;스트랭스 팬던트;1;item_necklace_08
-I;베아카라스 브레이슬릿;1;item_bracelet_01
-I;베아카라스 브레이슬릿;1;item_bracelet_01
 I;펠타스타 코스튬;1;icon_item_Peltasta_f
 I;하카펠 코스튬;1;icon_item_hakapalle_f

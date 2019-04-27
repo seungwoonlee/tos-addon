@@ -187,8 +187,6 @@ I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
 I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
 I;파스텔 그린 염색약;1;haircolor_green
 I;확성기;48;icon_item_Mike
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 G;Armor
 I;베르타스 크라이지어스 그리브;1;icon_item_boots_kryzius
 I;케도란 페디미안 부츠;1;icon_item_boots_sage_white

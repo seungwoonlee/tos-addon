@@ -31,6 +31,8 @@ I;보급용 워프 주문서;23;GolemMagicItem1
 I;TOS 플래카드;1;icon_item_artefact_Ticket_TOS
 I;오르샤 라이온스 응원 슬로건;1;icon_item_aretfact_victory_red
 I;푸드 커버;1;icon_item_artefact_Dome_Cover
+G;SubWeapon
+I;리본 암밴드;1;icon_item_armband_ribbon
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;낡은 일기;1;icon_item_collection_04Black
@@ -84,8 +86,6 @@ I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 G;Collection
 I;컬렉션: 지마 수코트;1;icon_item_box
 G;Premium
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
-I;긴급 수리 키트;7;icon_item_repairkit
 I;소울 크리스탈;23;icon_item_soulCrystal
 I;워프 주문서;17;icon_item_warpPremium
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter

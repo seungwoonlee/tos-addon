@@ -1,14 +1,14 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;594363;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;고농축 HP포션;40;item_HP_oil_3
 I;고농축 SP포션;40;item_SP_requid_3
 I;고농축 이동속도 증가 포션;10;item_speed_requid_1
-I;농축 HP포션 LV15;11;icon_item_HP_Alche
-I;농축 SP포션 LV15;20;icon_item_SP_Alche
+I;농축 HP포션 LV15;9;icon_item_HP_Alche
+I;농축 SP포션 LV15;16;icon_item_SP_Alche
 I;라무넬레;4;icon_item_Ramunele
 I;라프세이프 버섯;6;icon_item_Pinemushroom
 I;매두스;31;icon_item_Medus
@@ -35,7 +35,7 @@ I;보급용 HP포션;100;item_HP_oil_2
 I;보급용 큰 HP포션;100;item_HP_oil_3
 I;보급용 큰 SP포션;100;item_SP_requid_3
 I;LV12 경험치 카드;3;icon_item_expcard
-I;LV14 경험치 카드;79;icon_item_expcard
+I;LV14 경험치 카드;93;icon_item_expcard
 I;LV2 경험치 카드;4;icon_item_expcard
 I;LV3 경험치 카드;2;icon_item_expcard
 I;레드 오브:레비;1;icon_item_Dreamshade_red
@@ -51,6 +51,7 @@ I;블루 오브:밴시;1;icon_item_Dreamshade
 I;블루 오브:샤울렘 라군;1;icon_item_Dreamshade
 I;블루 오브:초록 그리바;1;icon_item_Dreamshade
 I;블루 오브:푸른 스피온;1;icon_item_Dreamshade
+I;LV15 경험치 카드;15;icon_item_expcard
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;낡은 일기;1;icon_item_collection_04Black
@@ -128,11 +129,17 @@ I;컬렉션: 패슬렙타스;1;icon_item_box
 I;컬렉션: 페디미안 외곽;1;icon_item_box
 I;컬렉션: 필그림 들길;1;icon_item_box
 G;Card
+I;파야우타 카드;Lv1;icon_item_card_stat
 I;리버피드 카드;Lv1;icon_item_card_atk
 I;머지 카드;Lv1;icon_item_card_atk
 I;모스템 카드;Lv1;icon_item_card_atk
 I;체이퍼 카드;Lv1;icon_item_card_atk
 I;플록스케 카드;Lv1;icon_item_card_atk
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
 I;네옵 카드;Lv1;icon_item_card_util
 I;맨티켄 카드;Lv1;icon_item_card_util
 I;벨뉴트 카드;Lv1;icon_item_card_util
@@ -140,17 +147,23 @@ I;캐러페이스 카드;Lv1;icon_item_card_util
 I;캔서릴 카드;Lv1;icon_item_card_util
 I;허니핀 카드;Lv1;icon_item_card_util
 G;Premium
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
+I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
 G;Material
 I;모루;6;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;독액;81;icon_item_posion
+I;독액;70;icon_item_posion
 I;성수;5;icon_item_holywater
 I;조각용 나무;14;icon_item_wood_5
 I;크리오라이트;14;39_icon_item_Cry8rite
+I;매직 애로우;477;icon_item_magicarrow
+I;신기전;269;icon_item_singijon
+I;바브드 애로우;404;item_icon_arrow_barbedhead
+I;헤일매리 애로우;899;item_icon_hail_mary_arrow
+I;보드킨 포인트 애로우;498;item_icon_bodkinpoint_arrow
+I;브로드 헤드 애로우;994;item_icon_arrow_barbedhead
 I;주석;5;1_item_ore_copper
 I;호박;8;22_item_ore_amber
 I;LV2 보물상자 열쇠;4;icon_item_key1
@@ -199,7 +212,7 @@ I;멜리치 껍질;5;icon_item_shell_yellow
 I;모아 깃털;1;icon_item_feather_02Yellow
 I;모야 파편;2;icon_item_shell_blue
 I;묘지 골렘의 핵;5;icon_item_core_blue
-I;물푸레나무;1;icon_item_wood_2
+I;물푸레나무;301;icon_item_wood_2
 I;미끈한 수액;5;icon_item_Drug_51021
 I;바본 깃털;3;icon_item_feather_cockatries_red
 I;박쥐 이빨;1;icon_item_tooth_white
@@ -218,7 +231,7 @@ I;빅 그리바 갓;4;icon_item_mushroomcap
 I;빅 샤울렘 힘줄;1;icon_item_Leash
 I;샤울렘 가면;5;icon_item_mask_siaulago
 I;샤울렘 털잎;6;icon_item_leaves_yellow
-I;소나무;1;icon_item_wood_3
+I;소나무;301;icon_item_wood_3
 I;소켓의 껍질;23;icon_item_shell_blue
 I;송진;1;37_item_ore_sulfur
 I;스타울리트 심장;13;item_icon_heart_red
@@ -249,7 +262,7 @@ I;지누테카스의 핵;9;icon_item_core_green
 I;집게발;3;icon_item_Quest_00017
 I;찢어진 종이조각;2;icon_item_flag_hohen
 I;체이퍼러의 껍질;3;icon_item_shell_purple
-I;체이퍼러의 날개;13;icon_item_bugwing
+I;체이퍼러의 날개;8;icon_item_bugwing
 I;초록 페이그 널스의 천조각;11;icon_item_clothpiece_green
 I;츄파루카 털;12;icon_item_fur_05Gray
 I;츄파카브라 가죽;1;icon_item_Misc_00007
@@ -301,6 +314,15 @@ I;허밍버드의 날개;1;icon_item_bugwing
 I;호그마 엄니;14;icon_item_tooth_white
 I;호헨 가죽;7;icon_item_Misc_00011
 I;회색 스타울리트 힘줄;4;icon_item_Leash
+I;떡갈나무;240;icon_item_wood_1
+I;삼나무;400;icon_item_wood_4
+I;화약;19;icon_item_powderbl
+I;플로지스톤;50;35_item_ore_phlogiston
+I;[Episode11] 탐험의 새싹;66;item_icon_sprout
+I;탈트;13;30_item_ore_talt
+I;우르바스 증표;1;icon_item_borutakey
+I;아클라스의 찢어진 천 조각;1;icon_item_clothpiece_white
+I;노란 리프넛의 온전한 날개;1;icon_item_misc04_65
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;가시숲의 계시;1;icon_item_stonetablet
@@ -341,6 +363,9 @@ I;행상인의 셔츠;1;icon_item_clothpiece_white
 I;행상인의 손수건;1;icon_item_bandana
 I;화살 묶음;1;item_icon_barbedhead_arrow
 G;Armor
+I;카울라스 레더 부츠;1;icon_item_boots_kaulas
+I;바르파스 브레이슬릿;1;item_bracelet_28
+I;바르파스 브레이슬릿;1;item_bracelet_28
 I;묘족두식;1;hairacc_wuguBand
 I;플레쳐 코스튬;1;icon_item_fletcher_f
 I;무고사 코스튬;1;icon_item_wugu_f

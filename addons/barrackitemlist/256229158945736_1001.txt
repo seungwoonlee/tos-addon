@@ -1,16 +1,16 @@
 S;1001
 G;Unused
-I;실버;8960694;icon_item_silver
+I;실버;9183934;icon_item_silver
 G;Drug
 I;고농축 HP포션;198;item_HP_oil_3
 I;고농축 SP포션;200;item_SP_requid_3
 I;농축 HP포션 LV15;21;icon_item_HP_Alche
-I;농축 SP포션 LV15;29;icon_item_SP_Alche
+I;농축 SP포션 LV15;26;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;20;item_speed_requid_1
 I;루팅 찬스 증가 포션;2;icon_item_looting_potion_01
 I;발래리요나스;2;icon_item_Valerijonas
 I;보급용 농축 HP포션 LV15;94;item_HP_oil_3
-I;보급용 농축 SP포션 LV15;87;item_SP_requid_3
+I;보급용 농축 SP포션 LV15;86;item_SP_requid_3
 I;보급용 레드옥스;5;icon_item_Red_Ox
 I;보급용 이동속도 증가 포션;9;item_speed_requid_1
 I;보급용 작은 스태미나 알약;22;item_STA_pill_1
@@ -30,15 +30,9 @@ I;보급용 워프 주문서;18;GolemMagicItem1
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;챌린지 모드 1회 입장권;5;icon_item_indunFreeEnter
-I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
-I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
-I;챌린지 모드 1회 입장권 (14일);1;icon_item_indunFreeEnter
 I;LV6 경험치 카드;2;icon_item_expcard
 I;오마모리;40;icon_item_omarmori
 G;Event
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
-I;챌린지 포탈 생성 스크롤(14일);1;icon_item_challengemode_scroll
 I;[Episode11] 레벨업 상자 (380레벨);1;icon_item_giftBox_2
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black
@@ -127,6 +121,22 @@ I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
 G;Premium
 I;15레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;170레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
@@ -165,13 +175,7 @@ I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;소울 크리스탈;5;icon_item_soulCrystal
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
 I;워프 주문서;251;icon_item_warpPremium
-I;인스턴스 던전 배수 토큰;10;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -286,19 +290,18 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;확성기;193;icon_item_Mike
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 G;Material
 I;연습용 모루;1;icon_item_anvil
 I;마력 흡수침;1;icon_item_spellneedle
-I;기슬로티스;91;icon_item_Gyslotis
-I;성수;91;icon_item_holywater
+I;기슬로티스;88;icon_item_Gyslotis
+I;성수;88;icon_item_holywater
 I;조각용 나무;1954;icon_item_wood_5
-I;홀리 파우더;91;icon_item_powderw
+I;홀리 파우더;88;icon_item_powderw
 I;LV2 보물상자 열쇠;2;icon_item_key1
 I;[Episode11] 성장의 보석;5200;icon_item_crimson2
+I;[Episode11] 탐험의 새싹;180;item_icon_sprout
 I;거대한 갈고리;8;icon_item_claw_01
 I;그루머 잎;7;icon_item_leaves_green
 I;글리자돈의 뼈;2;icon_item_bone
@@ -347,6 +350,7 @@ I;하나밍 꽃잎;2;icon_item_HanamingPetal
 I;하루갈 가죽;2;icon_item_Misc_00009
 I;하루갈 뼈;18;icon_item_bone
 I;호그마 전투대장 송곳니;2;icon_item_tooth_00Basic
+I;탈트;38;30_item_ore_talt
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공구박스;1;icon_item_Quest_00017

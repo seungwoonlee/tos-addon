@@ -123,6 +123,7 @@ I;전사용 심플 컬러 코스튬(여);1;warrior_simplecolor_f
 I;전사용 제복 코스튬(여);1;icon_item_warrior_uniform_f
 I;전사용 파티 드레스 코스튬(여);1;icon_item_Warrior_BluePeacock_f
 I;하급 용병 코스튬(여);1;icon_item_lowtactic01_f
+I;전사용 수영복 코스튬(여);1;icon_item_warrior_mizuki_f
 G;Armor
 I;프리머스 우카스 레더 아머;1;icon_item_baldish_armor
 I;하플라이트 코스튬;1;icon_item_hoplites_f

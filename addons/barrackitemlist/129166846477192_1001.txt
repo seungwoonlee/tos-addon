@@ -146,8 +146,6 @@ G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;16;icon_item_warpPremium
 I;확성기;20;icon_item_Mike
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 G;Armor
 I;도펠죌트너 코스튬;1;icon_item_doppelsoldner_f
 I;템플러 코스튬;1;icon_item_warrior_templar02_f

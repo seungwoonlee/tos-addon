@@ -78,9 +78,9 @@ I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;20;icon_item_warpPremium
 I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
 I;확성기;20;icon_item_Mike
+I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
 I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
 I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
-I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
 G;Armor
 I;캐터프랙트 코스튬;1;icon_item_cataphract_f
 I;랜서 코스튬;1;icon_item_warrior_lancer_f

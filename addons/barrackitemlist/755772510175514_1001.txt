@@ -43,7 +43,8 @@ I;포포리온 고기;12;icon_item_meat_02
 I;해독제;10;icon_item_Quest_00020
 I;케이스타스 회복포션Lv4;20;item_HPSP_potion_3
 I;보급용 SP포션;30;item_SP_requid_2
-I;LV14 경험치 카드;5;icon_item_expcard
+I;LV14 경험치 카드;24;icon_item_expcard
+I;LV15 경험치 카드;6;icon_item_expcard
 I;레드 오브:붉은 소켓 궁수;1;icon_item_Dreamshade_red
 I;레드 오브:쿠게리 발저;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;16;GolemMagicItem1
@@ -88,7 +89,7 @@ I;제작서-피크오 펄 브레이슬릿;5;icon_item_bracelet_misc4
 I;제작서-아그니 네클리스;1;icon_item_necklace_misc3
 I;제작서-일렉트라 네클리스;2;icon_item_necklace_misc3
 I;제작서-x8 경험의 서;5;icon_item_recipe_misc1
-I;제작서-레이드 포탈 스톤;91;icon_item_recipe_misc1
+I;제작서-레이드 포탈 스톤;92;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 G;Collection
@@ -147,7 +148,7 @@ I;음양사의 왕실예복 코스튬;1;icon_item_wizard_onmyoji04_f
 I;파이로맨서 코스튬;1;icon_item_pyromancer_f
 G;Material
 I;모루;13;icon_item_anvil
-I;종이 인형;4760;icon_item_paperdoll
+I;종이 인형;4718;icon_item_paperdoll
 I;크리오라이트;1;39_icon_item_Cry8rite
 I;파이라이트;296;32_item_ore_pyrite
 I;주석;4;1_item_ore_copper
@@ -177,6 +178,7 @@ I;레무리아의 꼬리;1;icon_item_Quest_00017
 I;레푸스버니 털;1;icon_item_fur_05Gray
 I;록타눈 깃털;3;icon_item_feather_00Basic
 I;루나엔젤의 나팔;19;icon_item_misc_0511
+I;[Episode11] 탐험의 새싹;60;item_icon_sprout
 I;리자드맨 송곳니;1;icon_item_canine
 I;리프넛의 뿔;3;icon_item_shorthorn
 I;리플라이 날개;7;icon_item_bugwing
@@ -249,6 +251,7 @@ I;쿠게리의 천조각;2;icon_item_clothpiece_white
 I;크레토의 깃털;11;icon_item_misc_0518
 I;타마 잎;7;icon_item_leaves_red
 I;타마의 껍질;1;icon_item_tamashell
+I;우르바스 증표;1;icon_item_borutakey
 I;트리피드 가시;1;icon_item_thorn_green
 I;티켄의 뼈;1;icon_item_bone
 I;티피오의 꽃술;11;icon_item_tipiostamen
@@ -267,16 +270,19 @@ I;하밍 잎;1;icon_item_leaves_green
 I;허밍버드의 날개;3;icon_item_bugwing
 I;이레디안 브로치;6;icon_item_iredian_misc01
 I;버드니의 잎;3;icon_item_leaf
+I;탈트;6;30_item_ore_talt
 I;노란 리프넛의 온전한 날개;1;icon_item_misc04_65
 I;주황 그루머 날개;1;icon_item_batwing
 I;플로래비 솜털;9;icon_item_fur_spion_white
 I;블롬의 잎;2;icon_item_leaves_green
 I;플로론의 잎;2;icon_item_leaf
+I;별빛이 깃든 이슬;1;icon_item_misc_0520
 I;노란 이노움의 핵;1;icon_item_core_yellow
 I;차원 탐색 스크롤;1;GolemMagicItem1
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01
+I;고대 원판의 첫번째 파편;1;icon_item_3cm_Ancient_disc1
 I;독특한 산호 조각;1;icon_item_coral
 I;로그 마스터의 주머니;1;icon_item_farm47_sack_01
 I;루클리스 시대의 기록;4;icon_item_stonepaper_01
@@ -300,6 +306,7 @@ I;탁본 도구;1;icon_item_sidebag
 I;테넷 성당의 계시;1;icon_item_stonetablet
 I;펜듈럼;1;icon_item_pendulum
 I;화살 묶음;1;item_icon_barbedhead_arrow
+I;고대 원판의 두번째 파편;1;icon_item_3cm_Ancient_disc2
 I;수상한 수정 주머니;1;icon_item_farm47_sack_01
 G;Weapon
 I;크루드 폴쳔;1;icon_item_Sword_23

@@ -5,6 +5,7 @@ G;Helmet
 I;송편 헬멧 코스튬;1;icon_item_helmet_songpyun
 G;SubWeapon
 I;잠자리 암밴드;1;icon_item_armband_dragonfly1
+I;리본 암밴드;1;icon_item_armband_ribbon
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;낡은 일기;1;icon_item_collection_04Black
@@ -31,6 +32,8 @@ I;카롤리스 이야기 2권;1;icon_item_collection_02green
 I;카롤리스 이야기 3권;1;icon_item_collection_03Blue
 I;타다 만 일지를 적은 메모;1;icon_item_paperpiece
 I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
+G;Seal
+I;카제 인장 - 클레릭;1;icon_item_Seal_QuestRune
 G;Collection
 I;컬렉션: 곤충 혐오;1;icon_item_box
 I;컬렉션: 기원의 숲;1;icon_item_box
@@ -73,11 +76,22 @@ I;컬렉션: 포슬린키스 숲;1;icon_item_box
 I;컬렉션: 피스티스 숲;1;icon_item_box
 I;컬렉션: 필그림 들길;1;icon_item_box
 G;Armor
+I;프리머스 플라네타 글로브;1;icon_item_baronwear_gloves
+I;프리머스 갈라티카 건틀릿;1;icon_item_gloves_frost
+I;플라네타 팬츠;1;icon_item_baronwear_pants
+I;프리머스 갈라티카 플레이트 팬츠;1;icon_item_pants_frost
+I;갈라티카 플레이트 팬츠;1;icon_item_pants_frost
+I;갈라티카 플레이트 팬츠;1;icon_item_pants_frost
 I;잠자는 표범;1;icon_item_sleeping_leopard
+I;레드 헤어 보우;1;icon_item_accessory_RedRibbon
+I;붉은 악마날개;1;hairacc_49_reddevilwing
+I;탐험가용 해당화;1;hairacc_10_sweetbrier
 I;딥디르비 코스튬;1;icon_item_dievdirbys_f
 I;엑소시스트 루브릭 코스튬;1;icon_item_Exorcist04_f
 I;엑소시스트 소울 바인더 코스튬;1;icon_item_Exorcist02_f
 I;엑소시스트 코스튬;1;icon_item_Exorcist01_f
+I;무녀 코스튬;1;icon_item_miko_f
+I;버텍스 비콘;1;icon_item_SpecialCostume_exorcist_both
 I;진저브레드 실드;1;icon_item_winter_shield
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
