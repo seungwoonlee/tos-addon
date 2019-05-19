@@ -5,7 +5,6 @@ G;Helmet
 I;송편 헬멧 코스튬;1;icon_item_helmet_songpyun
 G;SubWeapon
 I;잠자리 암밴드;1;icon_item_armband_dragonfly1
-I;리본 암밴드;1;icon_item_armband_ribbon
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;낡은 일기;1;icon_item_collection_04Black
@@ -32,8 +31,6 @@ I;카롤리스 이야기 2권;1;icon_item_collection_02green
 I;카롤리스 이야기 3권;1;icon_item_collection_03Blue
 I;타다 만 일지를 적은 메모;1;icon_item_paperpiece
 I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
-G;Seal
-I;카제 인장 - 클레릭;1;icon_item_Seal_QuestRune
 G;Collection
 I;컬렉션: 곤충 혐오;1;icon_item_box
 I;컬렉션: 기원의 숲;1;icon_item_box
@@ -76,57 +73,17 @@ I;컬렉션: 포슬린키스 숲;1;icon_item_box
 I;컬렉션: 피스티스 숲;1;icon_item_box
 I;컬렉션: 필그림 들길;1;icon_item_box
 G;Armor
-I;프리머스 플라네타 글로브;1;icon_item_baronwear_gloves
-I;프리머스 갈라티카 건틀릿;1;icon_item_gloves_frost
-I;플라네타 팬츠;1;icon_item_baronwear_pants
-I;프리머스 갈라티카 플레이트 팬츠;1;icon_item_pants_frost
-I;갈라티카 플레이트 팬츠;1;icon_item_pants_frost
-I;갈라티카 플레이트 팬츠;1;icon_item_pants_frost
+I;프리머스 우카스 레더 글로브;1;icon_item_baldish_gloves
+I;장군의 선물;1;item_necklace_03_1
+I;종말의 선물;1;item_necklace_03_4
+I;졸업자의 선물;1;item_necklace_19_1
 I;잠자는 표범;1;icon_item_sleeping_leopard
-I;레드 헤어 보우;1;icon_item_accessory_RedRibbon
-I;붉은 악마날개;1;hairacc_49_reddevilwing
-I;탐험가용 해당화;1;hairacc_10_sweetbrier
 I;딥디르비 코스튬;1;icon_item_dievdirbys_f
 I;엑소시스트 루브릭 코스튬;1;icon_item_Exorcist04_f
 I;엑소시스트 소울 바인더 코스튬;1;icon_item_Exorcist02_f
 I;엑소시스트 코스튬;1;icon_item_Exorcist01_f
 I;무녀 코스튬;1;icon_item_miko_f
-I;버텍스 비콘;1;icon_item_SpecialCostume_exorcist_both
 I;진저브레드 실드;1;icon_item_winter_shield
-G;Drug
-I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
-I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;고농축 HP포션;120;item_HP_oil_3
-I;고농축 SP포션;94;item_SP_requid_3
-I;농축 HP포션 LV15;23;icon_item_HP_Alche
-I;농축 SP포션 LV15;36;icon_item_SP_Alche
-I;딸기;15;icon_item_Strawberry
-I;매두스;12;icon_item_Medus
-I;바루날레샤;12;icon_item_Varnalesa
-I;발래리요나스;1;icon_item_Valerijonas
-I;보급용 레드옥스;5;icon_item_Red_Ox
-I;보급용 이동속도 증가 포션;3;item_speed_requid_1
-I;보급용 작은 스태미나 알약;25;item_STA_pill_1
-I;보급용 작은 회복포션;1;item_HPSP_potion_1
-I;복숭아;21;icon_item_Peach
-I;붉은 케파 조각;1;OnionPiece_Red
-I;송이버섯;1;icon_item_Pinemushroom
-I;스태미나 알약;1;item_STA_pill_2
-I;아비에테;12;icon_item_Aviete
-I;오르샤 워프 주문서;11;GolemMagicItem1
-I;케이스타스 수호의 포션;3;icon_item_Drug_exDEF1
-I;케이스타스 용맹의 포션;4;icon_item_Drug_exATK1
-I;클라페다 워프 주문서;12;GolemMagicItem1
-I;페디미안 워프 주문서;3;GolemMagicItem1
-I;포포리온 고기;13;icon_item_meat_02
-I;폭죽;25;icon_item_firework
-I;해독제;8;icon_item_Quest_00020
-I;LV13 경험치 카드;12;icon_item_expcard
-I;LV14 경험치 카드;110;icon_item_expcard
-I;LV15 경험치 카드;9;icon_item_expcard
-I;레드 오브:분홍 츄파루카;1;icon_item_Dreamshade_red
-I;블루 오브:부베 주술사;1;icon_item_Dreamshade
-I;디스펠러;10;icon_item_grimoire_blue
 G;Premium
 I;소울 크리스탈;20;icon_item_soulCrystal
 I;워프 주문서;20;icon_item_warpPremium
@@ -137,22 +94,21 @@ I;확성기;20;icon_item_Mike
 I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
 I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f
-I;검은 츄리닝;1;icon_item_sweat_suit_black_f
-I;나는네선물 산타 코스튬(여);1;icon_item_winter_santa_f
+I;성직자의 매니시룩 코스튬(여);1;icon_item_cleric_manish_f
+I;성직자용 심플 컬러 코스튬(여);1;cleric_simplecolor_f
 I;벚꽃 로맨스 세일러복 코스튬(여);1;icon_item_pink_Sailor01_f
 I;브라이드메이드 코스튬(여);1;icon_item_bridesmaid_f
 I;블루 메이드 코스튬(여);1;icon_item_maiduniform_blue_f
-I;빨간 츄리닝;1;icon_item_sweat_suit_red_f
+I;검은 츄리닝;1;icon_item_sweat_suit_black_f
 I;상어 해적단 코스튬(여);1;icon_item_cosair03_f
-I;성직자용 심플 컬러 코스튬(여);1;cleric_simplecolor_f
 I;성직자용 파티 드레스 코스튬(여);1;icon_item_Cleric_yellowPeacock_f
-I;성직자의 매니시룩 코스튬(여);1;icon_item_cleric_manish_f
-I;성직자의 서번트 코스튬(여);1;icon_item_Cleric_maid_f
 I;성직자의 수영복 코스튬(여);1;icon_item_Cleric_mizuki_f
+I;나는네선물 산타 코스튬(여);1;icon_item_winter_santa_f
+I;성직자의 서번트 코스튬(여);1;icon_item_Cleric_maid_f
+I;빨간 츄리닝;1;icon_item_sweat_suit_red_f
 I;성직자의 스쿨룩 코스튬(여);1;icon_item_Cleric_school_f
 I;성직자의 앨리스 코스튬(여);1;icon_item_Cleric_alice_f
 I;성직자의 제복 코스튬(여);1;icon_item_Cleric_uniform_f
-I;성직자의 크리스마스 코스튬(여);1;icon_item_cleric_christmas_f
 I;아늑다정 북극여우 코스튬;1;icon_item_winter_fox_f
 I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
 I;초대에 응한 자 코스튬(여);1;icon_item_blacksuit01_f
@@ -160,8 +116,8 @@ I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
 I;모루;8;icon_item_anvil
 I;괴황지;4336;icon_item_guehwangji
-I;성수;400;icon_item_holywater
-I;조각용 나무;1718;icon_item_wood_5
+I;성수;388;icon_item_holywater
+I;조각용 나무;1612;icon_item_wood_5
 I;크리오라이트;7;39_icon_item_Cry8rite
 I;파이라이트;17;32_item_ore_pyrite
 I;홀리 파우더;470;icon_item_powderw
@@ -378,7 +334,37 @@ I;펜듈럼;1;icon_item_pendulum
 I;푸른 리디메드의 잎사귀;8;icon_item_leaves_blue
 I;푸른 빛이 깃든 날개;1;icon_item_misc04_42
 I;하우벅 봉인조각;1;icon_item_Bezoari
-I;허밍 듀크의 고기;4;icon_item_meat_01
-I;흡수석;1;icon_item_gimmick_movecrystal
-G;Weapon
-I;뿅망치;1;icon_item_banghammer
+G;Drug
+I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
+I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
+I;고농축 HP포션;120;item_HP_oil_3
+I;고농축 SP포션;94;item_SP_requid_3
+I;농축 HP포션 LV15;23;icon_item_HP_Alche
+I;농축 SP포션 LV15;36;icon_item_SP_Alche
+I;딸기;15;icon_item_Strawberry
+I;매두스;12;icon_item_Medus
+I;바루날레샤;12;icon_item_Varnalesa
+I;발래리요나스;1;icon_item_Valerijonas
+I;보급용 레드옥스;5;icon_item_Red_Ox
+I;보급용 이동속도 증가 포션;3;item_speed_requid_1
+I;보급용 작은 스태미나 알약;25;item_STA_pill_1
+I;보급용 작은 회복포션;1;item_HPSP_potion_1
+I;복숭아;21;icon_item_Peach
+I;붉은 케파 조각;1;OnionPiece_Red
+I;송이버섯;1;icon_item_Pinemushroom
+I;스태미나 알약;1;item_STA_pill_2
+I;아비에테;12;icon_item_Aviete
+I;오르샤 워프 주문서;11;GolemMagicItem1
+I;케이스타스 수호의 포션;3;icon_item_Drug_exDEF1
+I;케이스타스 용맹의 포션;4;icon_item_Drug_exATK1
+I;클라페다 워프 주문서;12;GolemMagicItem1
+I;페디미안 워프 주문서;3;GolemMagicItem1
+I;포포리온 고기;13;icon_item_meat_02
+I;폭죽;25;icon_item_firework
+I;해독제;8;icon_item_Quest_00020
+I;LV13 경험치 카드;12;icon_item_expcard
+I;LV14 경험치 카드;135;icon_item_expcard
+I;LV15 경험치 카드;15;icon_item_expcard
+I;레드 오브:분홍 츄파루카;1;icon_item_Dreamshade_red
+I;블루 오브:부베 주술사;1;icon_item_Dreamshade
+I;디스펠러;10;icon_item_grimoire_blue

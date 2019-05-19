@@ -83,6 +83,8 @@ I;컬렉션: 티메리스 사원;1;icon_item_box
 I;컬렉션: 파수꾼의 묘역;1;icon_item_box
 I;컬렉션: 페디미안 외곽;1;icon_item_box
 G;Premium
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;소울 크리스탈;3;icon_item_soulCrystal
 I;워프 주문서;20;icon_item_warpPremium
 I;케도라 상단의 지원 선택상자 (40레벨 방어구);4;icon_item_event_armorbox1
@@ -101,7 +103,7 @@ I;고농축 HP포션;20;item_HP_oil_3
 I;고농축 SP포션;20;item_SP_requid_3
 I;고농축 이동속도 증가 포션;5;item_speed_requid_1
 I;농축 HP포션 LV15;4;icon_item_HP_Alche
-I;농축 SP포션 LV15;22;icon_item_SP_Alche
+I;농축 SP포션 LV15;20;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;20;item_speed_requid_1
 I;딸기;1;icon_item_Strawberry
 I;라무넬레;8;icon_item_Ramunele
@@ -154,6 +156,7 @@ I;LV2 보물상자 열쇠;2;icon_item_key1
 I;거대한 갈고리;5;icon_item_claw_01
 I;그루머 잎;14;icon_item_leaves_green
 I;글리자돈의 뼈;5;icon_item_bone
+I;[이벤트] 포포리온 뱃지;20;icon_item_1905_popolion_badge
 I;노란 게이징 골렘의 핵;57;icon_item_core_yellow
 I;노란 요노움의 핵;62;icon_item_core_yellow
 I;노란 이노움의 핵;9;icon_item_core_yellow

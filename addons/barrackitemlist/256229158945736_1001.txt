@@ -1,11 +1,11 @@
 S;1001
 G;Unused
-I;실버;9183934;icon_item_silver
+I;실버;100000;icon_item_silver
 G;Drug
 I;고농축 HP포션;198;item_HP_oil_3
 I;고농축 SP포션;200;item_SP_requid_3
 I;농축 HP포션 LV15;21;icon_item_HP_Alche
-I;농축 SP포션 LV15;26;icon_item_SP_Alche
+I;농축 SP포션 LV15;20;icon_item_SP_Alche
 I;농축 이동속도 향상의 포션;20;item_speed_requid_1
 I;루팅 찬스 증가 포션;2;icon_item_looting_potion_01
 I;발래리요나스;2;icon_item_Valerijonas
@@ -17,11 +17,11 @@ I;보급용 작은 스태미나 알약;22;item_STA_pill_1
 I;아말라스;4;icon_item_Amalas
 I;정착 지원 포션;9;item_speed_requid_3
 I;정착 지원 포션 Lv2;30;item_speed_requid_3
-I;축복이 깃든 씨앗;1;icon_item_event161215_01
 I;케이스타스 수호의 포션;61;icon_item_Drug_exDEF1
 I;케이스타스 용맹의 포션;60;icon_item_Drug_exATK1
 I;포포리온 고기;2;icon_item_meat_02
 I;폭죽;5;icon_item_firework
+I;LV6 경험치 카드;2;icon_item_expcard
 I;레드 오브:노란 모야;1;icon_item_Dreamshade_red
 I;레드 오브:누카;1;icon_item_Dreamshade_red
 I;레드 오브:수호 거미;1;icon_item_Dreamshade_red
@@ -30,10 +30,13 @@ I;보급용 워프 주문서;18;GolemMagicItem1
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;챌린지 모드 1회 입장권;5;icon_item_indunFreeEnter
-I;LV6 경험치 카드;2;icon_item_expcard
 I;오마모리;40;icon_item_omarmori
 G;Event
-I;[Episode11] 레벨업 상자 (380레벨);1;icon_item_giftBox_2
+I;특성 포인트 1000;1;icon_item_abilitypoint
+I;특성 포인트 1000;1;icon_item_abilitypoint
+I;특성 포인트 1000;1;icon_item_abilitypoint
+I;특성 포인트 1000;1;icon_item_abilitypoint
+I;특성 포인트 1000;1;icon_item_abilitypoint
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black
 G;Recipe
@@ -137,6 +140,89 @@ I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+G;Armor
+I;홈 파인 뱅글;1;item_bracelet_15
+I;오라클 코스튬;1;icon_item_oracle_f
+I;프리스트 코스튬;1;icon_item_prist_f
+G;Material
+I;연습용 모루;1;icon_item_anvil
+I;마력 흡수침;1;icon_item_spellneedle
+I;기슬로티스;76;icon_item_Gyslotis
+I;성수;76;icon_item_holywater
+I;조각용 나무;1954;icon_item_wood_5
+I;홀리 파우더;76;icon_item_powderw
+I;LV2 보물상자 열쇠;2;icon_item_key1
+I;거대한 갈고리;8;icon_item_claw_01
+I;그루머 잎;7;icon_item_leaves_green
+I;글리자돈의 뼈;2;icon_item_bone
+I;노란 게이징 골렘의 핵;4;icon_item_core_yellow
+I;노란 요노움의 핵;15;icon_item_core_yellow
+I;노란 이노움의 핵;4;icon_item_core_yellow
+I;떡갈나무;190;icon_item_wood_1
+I;라플라워 뿌리;1;icon_item_onionroot
+I;레지네이트;1;16_item_treenite
+I;마이즈 포자 주머니;1;icon_item_maizespore
+I;말라두의 고기;10;icon_item_meat_02
+I;모야 파편;3;icon_item_shell_blue
+I;물푸레나무;1;icon_item_wood_2
+I;박쥐의 날개;6;icon_item_batwing
+I;밴시의 사념체;9;icon_item_spirit_orange
+I;버드니의 잎;3;icon_item_leaf
+I;베스퍼의 무게추;1;icon_item_ballast
+I;부베족의 증표;11;icon_item_bubetoken
+I;붉은 슬라임의 핵;1;38_item_ore_mercury
+I;붉은 위저드 주술 인형의 핵;2;38_item_ore_mercury
+I;블롬의 잎;2;icon_item_leaves_green
+I;삼나무;194;icon_item_wood_4
+I;소나무;197;icon_item_wood_3
+I;스톤오르카의 핵;8;icon_item_core_yellow
+I;식칼;4;icon_item_knife01
+I;씨드미아 씨앗;9;icon_item_seed_brown
+I;얼타눈 깃털;1;icon_item_feather_03Green
+I;요노움의 핵;24;icon_item_core_purple
+I;위버 더듬이;2;icon_item_feeler_black
+I;유코푸스 잎;8;icon_item_leaves_blue
+I;지그너츠 줄기;3;icon_item_zignuts
+I;츄파카브라 이빨;2;icon_item_tooth_white
+I;치넨시 잎;1;icon_item_bokchoyleaf
+I;카로 잎사귀;1;icon_item_leaves_green
+I;톤투리아의 가시;2;icon_item_thorn_Yellow
+I;트리펠리의 결정;1;icon_item_crystal_yellow
+I;티피오의 꽃술;1;icon_item_tipiostamen
+I;판토족의 뿔;7;icon_item_pantohorn
+I;포쿠부 가죽;2;icon_item_Misc_00011
+I;플로래비 솜털;2;icon_item_fur_spion_white
+I;플로론의 잎;2;icon_item_leaf
+I;플로르;1;icon_item_crystal_green
+I;피라콘 잎;1;icon_item_leaves_red
+I;피렌트 꽃;3;icon_item_firentflower
+I;하나밍 꽃잎;2;icon_item_HanamingPetal
+I;하루갈 가죽;2;icon_item_Misc_00009
+I;하루갈 뼈;18;icon_item_bone
+I;호그마 전투대장 송곳니;2;icon_item_tooth_00Basic
+I;귀환석;1;MercenaryBadge
+G;Quest
+I;공구박스;1;icon_item_Quest_00017
+I;과거의 기억을 기록하는 보주;1;icon_item_Dreamshade
+I;광산 나침반;1;icon_item_compass
+I;광산 마을의 식량;8;icon_item_Gem_Elemental8
+I;마력 추적지도 : 살비야스 숲;1;GolemMagicItem1
+I;연습용 목인의 잔해;1;icon_item_small_bag
+I;차원 탐색 스크롤;1;GolemMagicItem1
+I;하우벅 봉인조각;1;icon_item_Bezoari
 G;Premium
 I;15레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;170레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
@@ -145,7 +231,6 @@ I;270레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;315레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;40레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;75레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;x4 경험의 서;1;icon_item_expbookx4
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
@@ -174,14 +259,13 @@ I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
-I;소울 크리스탈;5;icon_item_soulCrystal
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;소울 크리스탈;10;icon_item_soulCrystal
 I;워프 주문서;251;icon_item_warpPremium
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
+I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -291,77 +375,4 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;확성기;193;icon_item_Mike
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-G;Material
-I;연습용 모루;1;icon_item_anvil
-I;마력 흡수침;1;icon_item_spellneedle
-I;기슬로티스;88;icon_item_Gyslotis
-I;성수;88;icon_item_holywater
-I;조각용 나무;1954;icon_item_wood_5
-I;홀리 파우더;88;icon_item_powderw
-I;LV2 보물상자 열쇠;2;icon_item_key1
-I;[Episode11] 성장의 보석;5200;icon_item_crimson2
-I;[Episode11] 탐험의 새싹;180;item_icon_sprout
-I;거대한 갈고리;8;icon_item_claw_01
-I;그루머 잎;7;icon_item_leaves_green
-I;글리자돈의 뼈;2;icon_item_bone
-I;노란 게이징 골렘의 핵;4;icon_item_core_yellow
-I;노란 요노움의 핵;15;icon_item_core_yellow
-I;노란 이노움의 핵;4;icon_item_core_yellow
-I;떡갈나무;190;icon_item_wood_1
-I;라플라워 뿌리;1;icon_item_onionroot
-I;레지네이트;1;16_item_treenite
-I;마이즈 포자 주머니;1;icon_item_maizespore
-I;말라두의 고기;10;icon_item_meat_02
-I;모야 파편;3;icon_item_shell_blue
-I;물푸레나무;1;icon_item_wood_2
-I;박쥐의 날개;6;icon_item_batwing
-I;밴시의 사념체;9;icon_item_spirit_orange
-I;버드니의 잎;3;icon_item_leaf
-I;베스퍼의 무게추;1;icon_item_ballast
-I;부베족의 증표;11;icon_item_bubetoken
-I;붉은 슬라임의 핵;1;38_item_ore_mercury
-I;붉은 위저드 주술 인형의 핵;2;38_item_ore_mercury
-I;블롬의 잎;2;icon_item_leaves_green
-I;삼나무;194;icon_item_wood_4
-I;소나무;197;icon_item_wood_3
-I;스톤오르카의 핵;8;icon_item_core_yellow
-I;식칼;4;icon_item_knife01
-I;씨드미아 씨앗;9;icon_item_seed_brown
-I;얼타눈 깃털;1;icon_item_feather_03Green
-I;요노움의 핵;24;icon_item_core_purple
-I;위버 더듬이;2;icon_item_feeler_black
-I;유코푸스 잎;8;icon_item_leaves_blue
-I;지그너츠 줄기;3;icon_item_zignuts
-I;츄파카브라 이빨;2;icon_item_tooth_white
-I;치넨시 잎;1;icon_item_bokchoyleaf
-I;카로 잎사귀;1;icon_item_leaves_green
-I;톤투리아의 가시;2;icon_item_thorn_Yellow
-I;트리펠리의 결정;1;icon_item_crystal_yellow
-I;티피오의 꽃술;1;icon_item_tipiostamen
-I;판토족의 뿔;7;icon_item_pantohorn
-I;포쿠부 가죽;2;icon_item_Misc_00011
-I;플로래비 솜털;2;icon_item_fur_spion_white
-I;플로론의 잎;2;icon_item_leaf
-I;플로르;1;icon_item_crystal_green
-I;피라콘 잎;1;icon_item_leaves_red
-I;피렌트 꽃;3;icon_item_firentflower
-I;하나밍 꽃잎;2;icon_item_HanamingPetal
-I;하루갈 가죽;2;icon_item_Misc_00009
-I;하루갈 뼈;18;icon_item_bone
-I;호그마 전투대장 송곳니;2;icon_item_tooth_00Basic
-I;탈트;38;30_item_ore_talt
-I;귀환석;1;MercenaryBadge
-G;Quest
-I;공구박스;1;icon_item_Quest_00017
-I;과거의 기억을 기록하는 보주;1;icon_item_Dreamshade
-I;광산 나침반;1;icon_item_compass
-I;광산 마을의 식량;8;icon_item_Gem_Elemental8
-I;마력 추적지도 : 살비야스 숲;1;GolemMagicItem1
-I;연습용 목인의 잔해;1;icon_item_small_bag
-I;차원 탐색 스크롤;1;GolemMagicItem1
-I;하우벅 봉인조각;1;icon_item_Bezoari
-G;Armor
-I;홈 파인 뱅글;1;item_bracelet_15
-I;오라클 코스튬;1;icon_item_oracle_f
-I;프리스트 코스튬;1;icon_item_prist_f
+I;마법 부여 스크롤(거래불가);5;icon_item_enchantScroll

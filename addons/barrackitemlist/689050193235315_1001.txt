@@ -86,8 +86,6 @@ G;Premium
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Weapon
 I;크리지우스 슈터;1;icon_item_crossbow_diamond

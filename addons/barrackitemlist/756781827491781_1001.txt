@@ -32,6 +32,8 @@ I;블루 오브:하나밍;1;icon_item_Dreamshade
 I;LV14 경험치 카드;54;icon_item_expcard
 I;LV10 경험치 카드;2;icon_item_expcard
 I;LV13 경험치 카드;3;icon_item_expcard
+G;SubWeapon
+I;엄지척 암밴드;1;icon_item_armband_facebook
 G;Book
 I;카듀멜 시대의 갑주;1;icon_item_collection_04Black
 I;마족 처단 명령서;1;Siaul_Act3_Confirmation
@@ -42,6 +44,8 @@ I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-오트라바 실드;1;icon_item_shirts_misc4
 I;제작서-x8 경험의 서;1;icon_item_recipe_misc1
+G;Seal
+I;카제 인장 - 소드맨;1;icon_item_Seal_QuestRune
 G;Collection
 I;컬렉션: 마법사의 탑 4층;1;icon_item_box
 I;컬렉션: 수정광산 2층;1;icon_item_box
@@ -77,8 +81,17 @@ I;소울 크리스탈;20;icon_item_soulCrystal
 I;워프 주문서;20;icon_item_warpPremium
 I;확성기;20;icon_item_Mike
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
+G;Armor
+I;리본 장식 흰 보터;1;hairacc_hat002
+I;산양 뿔;1;hairacc_43_sheephorn
+I;공작 깃털;1;hairacc_73_peacockfeather
+I;레티아리이 프로보케이터 코스튬;1;icon_item_warrior_retiarii02_f
+I;레티아리이 프리머스 팔루스 코스튬;1;icon_item_warrior_retiarii03_f
+I;레티아리이 루디아리우스 코스튬;1;icon_item_warrior_retiarii04_f
+I;레티아리이 티로의 코스튬;1;icon_item_warrior_retiarii01_f
+I;하플라이트 코스튬;1;icon_item_hoplites_f
+I;드라군 코스튬;1;icon_item_warrior_dragoon_f
+I;미시오의 갈레루스;1;icon_item_SpecialCostume_retiarii
 G;Material
 I;모루;22;icon_item_anvil
 I;파이라이트;11;32_item_ore_pyrite
@@ -206,9 +219,5 @@ I;머리꽃;12;icon_item_raffletflfower
 I;마족의 마력원;15;icon_item_core_yellow
 I;차원의 정수;10;icon_item_Gem_Stone_INT
 I;구조된 큐폴의 소지품;5;icon_item_kupole_porket
-G;Armor
-I;레티아리이 프로보케이터 코스튬;1;icon_item_warrior_retiarii02_f
-I;레티아리이 프리머스 팔루스 코스튬;1;icon_item_warrior_retiarii03_f
-I;레티아리이 티로의 코스튬;1;icon_item_warrior_retiarii01_f
-I;하플라이트 코스튬;1;icon_item_hoplites_f
-I;드라군 코스튬;1;icon_item_warrior_dragoon_f
+G;Weapon
+I;윙샤드 스피어;1;icon_item_spear_regardhorn

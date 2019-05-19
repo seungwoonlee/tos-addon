@@ -49,8 +49,10 @@ I;버텍스 비콘;1;icon_item_SpecialCostume_exorcist_both
 I;예언의 날개;1;icon_item_SpecialCostume_zealot
 G;Premium
 I;워프 주문서;20;icon_item_warpPremium
-I;확성기;20;icon_item_Mike
 I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;확성기;20;icon_item_Mike
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material

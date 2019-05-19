@@ -41,6 +41,8 @@ I;LV13 경험치 카드;7;icon_item_expcard
 I;LV14 경험치 카드;104;icon_item_expcard
 I;레드 오브:트리암불로;1;icon_item_Dreamshade_red
 I;LV15 경험치 카드;9;icon_item_expcard
+G;SubWeapon
+I;긴 암밴드;1;icon_item_armband_clothlong
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;그을린 실마리;1;icon_item_PILGRIM_PIECE
@@ -74,6 +76,8 @@ I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-마가스 슈터;1;icon_item_weapon_misc4
 I;제작서-샤인 브레이슬릿;1;icon_item_bracelet_misc3
+G;Seal
+I;카제 인장 - 아처;1;icon_item_Seal_QuestRune
 G;Collection
 I;컬렉션: 기원의 숲;1;icon_item_box
 I;컬렉션: 긴다리 계곡;1;icon_item_box
@@ -113,8 +117,6 @@ I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
 I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
 I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);1;icon_item_event_weaponbox1
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;궁수용 심플 컬러 코스튬(여);1;archer_simplecolor_f
 I;궁수용 파티 드레스 코스튬(여);1;icon_item_archer_bluepeacock_f
 I;궁수의 너구리 코스튬(여);1;icon_item_archer_racoon_f
@@ -129,9 +131,13 @@ I;쿼렐슈터 스페셜 코스튬(여);1;icon_item_archer_quarreelshooter01_3_f
 G;Armor
 I;마크 팬츠;1;icon_item_pants_brigan
 I;부베 뱅글;1;item_bracelet_16
+I;클로버 깃털 모자;1;hairacc_hat_trump_arc
+I;고양이귀;1;icon_item_cap_3
+I;단풍잎;1;hairacc_13_maple
 I;감정사 코스튬;1;icon_item_appraiser_f
 I;캐노니어 코스튬;1;icon_item_archer_cannoneer_f
 I;매트로스 코스튬;1;icon_item_archerCos_matross01_f
+I;[이벤트] 매트로스 빅터 코스튬;1;icon_item_archerCos_matross02_f
 G;Material
 I;모루;17;icon_item_anvil
 I;황금 모루;3;icon_item_anvil_gold
@@ -345,3 +351,4 @@ I;캐논;1;cannon_canon
 I;마시니오스 캐논;1;icon_item_cannon_masinos
 I;레그바 캐논;1;cannon_bahcannon
 I;캐논;1;cannon_canon
+I;케도란 즈바이더 캐논;1;icon_item_cannon_nicopolis1

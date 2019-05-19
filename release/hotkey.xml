@@ -111,5 +111,5 @@
 	<HotKey ID="ChatFrameType" Name="채팅 탭 전환" DownScp="CHAT_TABSET_BTN_CLICK()" UpScp="None" Key="TAB" UseShift="YES" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="System"/>
 	<HotKey ID="FishingBag" Name="살림통" DownScp="FISHING_ITEM_BAG_TOGGLE_UI()" UpScp="None" Key="F" UseShift="NO" UseAlt="YES" UseCtrl="NO" OnEdit="NO" Category="System"/>
 	<HotKey ID="GuildRank" Name="길드 랭킹" DownScp="GUILD_RANK_INFO_TOGGLE()" UpScp="None" Key="R" UseShift="NO" UseAlt="YES" UseCtrl="NO" OnEdit="NO" Category="System"/>
-	<HotKey ID="PartyMemberInfo" Name="파티원 소환수 정보" DownScp="PARTYINFO_TOGGLE()" UpScp="None" Key="GRAVE" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
+	<HotKey ID="PartyMemberInfo" Name="파티원 소환수 정보" DownScp="PARTYINFO_TOGGLE()" UpScp="None" Key="GRAVE" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="YES" Category="Basic"/>
 </Category>

@@ -44,6 +44,8 @@ I;컬렉션: 테브린 종유동 1구역;1;icon_item_box
 I;컬렉션: 파수꾼의 묘역;1;icon_item_box
 I;컬렉션: 지마 수코트;1;icon_item_box
 G;Premium
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;20;icon_item_warpPremium

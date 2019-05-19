@@ -43,6 +43,8 @@ I;보급용 워프 주문서;13;GolemMagicItem1
 I;블루 오브:유코푸스;1;icon_item_Dreamshade
 I;레드 오브:붉은 위저드 주술 인형;1;icon_item_Dreamshade_red
 I;디스펠러;10;icon_item_grimoire_blue
+G;SubWeapon
+I;매듭진 암밴드;1;icon_item_armband_cloth
 G;Book
 I;순례자의 쪽지;1;icon_item_Paper1
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
@@ -63,6 +65,8 @@ I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-캐타펄트;1;icon_item_weapon_misc1
 I;제작서-x8 경험의 서;1;icon_item_recipe_misc1
+G;Seal
+I;카제 인장 - 클레릭;1;icon_item_Seal_QuestRune
 G;Collection
 I;컬렉션: 기원의 숲;1;icon_item_box
 I;컬렉션: 테브린 종유동 1구역;1;icon_item_box
@@ -83,6 +87,8 @@ I;소울 크리스탈;20;icon_item_soulCrystal
 I;워프 주문서;20;icon_item_warpPremium
 I;확성기;20;icon_item_Mike
 I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;딥디르비 스페셜 코스튬(여);1;icon_item_Cleric_dievdirbys01_3_f
 I;성직자용 심플 컬러 코스튬(여);1;cleric_simplecolor_f
@@ -288,9 +294,15 @@ I;테넷 성당의 계시;1;icon_item_stonetablet
 I;하우벅 봉인조각;1;icon_item_Bezoari
 I;분홍 츄파루카의 심장;9;item_icon_heart_yellow
 G;Armor
+I;업스타일 헤어;1;hair_ploana_f
 I;아그니 네클리스;1;item_necklace_21
 I;나뭇잎 장식 투구;1;accessory_leafhelm
+I;여우가면;1;hairacc_40_foxmask
+I;젖소 머리띠;1;hairacc_36_cow
+I;하늘색 리본;1;icon_item_Sky_ribbon
 I;딥디르비 코스튬;1;icon_item_dievdirbys_f
 I;플레이그닥터 코스튬;1;icon_item_cleric_plague_doctor_f
 I;질럿 컨트리션 코스튬;1;icon_item_zealot2_f
 I;질럿 퍼티션 코스튬;1;icon_item_zealot4_f
+I;무녀 코스튬;1;icon_item_miko_f
+I;예언의 날개;1;icon_item_SpecialCostume_zealot

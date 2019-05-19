@@ -38,6 +38,7 @@ I;LV13 경험치 카드;7;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
 G;SubWeapon
 I;디오니스 암밴드;1;icon_item_armband_dinios
+I;엄지척 암밴드;1;icon_item_armband_facebook
 G;Book
 I;찢어진 일기의 일부 3;1;icon_item_paperpiece
 I;찢어진 일기의 일부 2;1;icon_item_paperpiece
@@ -59,6 +60,8 @@ G;Recipe
 I;제작서-뚫어뻥;26;icon_item_weapon_misc5
 I;제작서-일룬;3;icon_item_weapon_misc1
 I;제작서-테넷 체인 메일;1;icon_item_shirts_misc3
+G;Seal
+I;카제 인장 - 소드맨;1;icon_item_Seal_QuestRune
 G;Collection
 I;컬렉션: 이브레 고원;1;icon_item_box
 I;컬렉션: 스벤티마스 유형지;1;icon_item_box
@@ -79,11 +82,13 @@ I;워프 주문서;20;icon_item_warpPremium
 I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
 I;확성기;20;icon_item_Mike
 I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 G;Armor
+I;미르티스 투구;1;hairacc_47_mirtishelm
+I;붉은 악마날개;1;hairacc_49_reddevilwing
+I;고급스런 머리핀;1;hairacc_58_metaltassel
 I;캐터프랙트 코스튬;1;icon_item_cataphract_f
 I;랜서 코스튬;1;icon_item_warrior_lancer_f
+I;드라군 코스튬;1;icon_item_warrior_dragoon_f
 G;Material
 I;모루;3;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
@@ -258,4 +263,5 @@ G;Weapon
 I;리가드 혼 파이크;1;icon_item_spear_regardhorn_TH
 I;프리머스 라파이 파이크;1;icon_item_spear_twohand_lapai
 I;프리머스 라파이 파이크;1;icon_item_spear_twohand_lapai
+I;마시니오스 파이크;1;icon_item_spear_twohand_masinos
 I;일기당천 언월도;1;icon_item_BlueDragon_thspear

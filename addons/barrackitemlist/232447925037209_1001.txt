@@ -47,6 +47,7 @@ I;디스펠러;17;icon_item_grimoire_blue
 I;예식용 칼;1;icon_item_artefact_Decorative_knife
 I;종이상자;1;icon_item_paperbox
 G;SubWeapon
+I;순백의 암밴드;1;icon_item_armband_nurse
 I;버블스틱;1;icon_item_artefact_bublestick
 I;좌절 깃발;1;OTL_flag
 G;Book
@@ -141,6 +142,8 @@ I;제작서-종이로 된 큐브(한손둔기);2;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(한손창);2;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
+G;Seal
+I;카제 인장 - 위저드;1;icon_item_Seal_QuestRune
 G;Collection
 I;컬렉션: 강철 고원;1;icon_item_box
 I;컬렉션: 그리나스 구릉지;1;icon_item_box
@@ -194,12 +197,13 @@ G;Premium
 I;긴급 수리 키트;2;icon_item_repairkit
 I;몬스터 젬 선택 상자: 직업;1;icon_item_jewelrybox_close
 I;소울 크리스탈;14;icon_item_soulCrystal
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
 I;워프 주문서;19;icon_item_warpPremium
 I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
 I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
-I;확성기;20;icon_item_Mike
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
 I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
+I;확성기;20;icon_item_Mike
+I;블랙 메이드 코스튬(여);1;icon_item_maiduniform_black_f
 G;Material
 I;모루;21;icon_item_anvil
 I;괴황지;4298;icon_item_guehwangji
@@ -518,9 +522,15 @@ I;휠렌의 증표;1;icon_item_Gem_Elemental17
 I;힘이 복구된 사울레의 성구;1;icon_item_crimson3
 I;허밍 듀크의 깃털;8;icon_item_feather_00Basic
 G;Armor
+I;볼륨웨이브;1;hair_GM_female
+I;크림슨 렌즈;1;icon_item_lens_red
 I;아그니 네클리스;1;item_necklace_21
+I;보라 리본 마녀 모자;1;icon_item_accessory_witchHat1
+I;타락천사날개;1;hairacc_52_doublewing_black
+I;단풍잎;1;hairacc_13_maple
 I;도사 코스튬;1;icon_item_daoshi_f
 I;섀도우맨서 루너하이더 코스튬;1;icon_item_mage_shadowmancer04_f
 I;섀도우맨서 선하이더 코스튬;1;icon_item_mage_shadowmancer02_f
 I;엘리멘탈리스트 코스튬;1;icon_item_warrock_f
 I;파이로맨서 코스튬;1;icon_item_pyromancer_f
+I;푸른 밤의 거울;1;icon_item_SpecialCostume_shadowmance

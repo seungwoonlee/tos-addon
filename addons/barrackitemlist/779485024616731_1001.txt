@@ -4,7 +4,7 @@ I;실버;100000;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;농축 HP포션 LV15;12;icon_item_HP_Alche
+I;농축 HP포션 LV15;10;icon_item_HP_Alche
 I;오르샤 워프 주문서;10;GolemMagicItem1
 I;농축 이동속도 향상의 포션;40;item_speed_requid_1
 I;라무넬레;1;icon_item_Ramunele
@@ -15,7 +15,7 @@ I;발래리요나스;2;icon_item_Valerijonas
 I;보급용 이동속도 증가 포션;3;item_speed_requid_1
 I;보급용 작은 스태미나 알약;29;item_STA_pill_1
 I;보급용 작은 회복포션;3;item_HPSP_potion_1
-I;농축 SP포션 LV15;14;icon_item_SP_Alche
+I;농축 SP포션 LV15;7;icon_item_SP_Alche
 I;정착 지원 포션 Lv2;58;item_speed_requid_3
 I;클라페다 워프 주문서;8;GolemMagicItem1
 I;페디미안 워프 주문서;9;GolemMagicItem1
@@ -39,6 +39,7 @@ I;블루 오브:이노움;1;icon_item_Dreamshade
 I;블루 오브:츄파카브라;1;icon_item_Dreamshade
 I;블루 오브:코왁;1;icon_item_Dreamshade
 I;블루 오브:하루갈;1;icon_item_Dreamshade
+I;LV15 경험치 카드;9;icon_item_expcard
 G;Book
 I;남작 사병 차고스의 일지;1;icon_item_diary
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
@@ -86,6 +87,14 @@ I;컬렉션: 파수꾼의 묘역;1;icon_item_box
 G;Premium
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
+I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
+I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;새내기 벚꽃 교복 코스튬(여);1;icon_item_schooluniform02_f
 G;Armor
 I;프리머스 제베넬리스 레더 글로브;1;icon_item_leather_glove_1
@@ -163,6 +172,9 @@ I;하루갈 뼈;4;icon_item_bone
 I;할로우벤터의 손뼈;1;icon_item_bone
 I;호헨 가죽;3;icon_item_Misc_00011
 I;화약;10;icon_item_powderbl
+I;아클라스의 갑옷조각;1;icon_item_FORMINE_ARMOR_SCAPULAR
+I;노란 리프넛의 온전한 날개;1;icon_item_misc04_65
+I;노란 리프넛 날개;1;icon_item_batwing
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01
@@ -187,4 +199,5 @@ I;화살 묶음;1;item_icon_barbedhead_arrow
 G;Weapon
 I;머스킷;1;Musket_it_w_oldpistol_1
 I;프리머스 즈바이더 머스킷;1;icon_item_mus_nicopolis1
+I;마시니오스 머스킷;1;icon_item_rifle_masinos
 I;머스킷;1;Musket_it_w_oldpistol_1

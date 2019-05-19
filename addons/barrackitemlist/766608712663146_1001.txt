@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;594363;icon_item_silver
+I;실버;100000;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
@@ -129,17 +129,11 @@ I;컬렉션: 패슬렙타스;1;icon_item_box
 I;컬렉션: 페디미안 외곽;1;icon_item_box
 I;컬렉션: 필그림 들길;1;icon_item_box
 G;Card
-I;파야우타 카드;Lv1;icon_item_card_stat
 I;리버피드 카드;Lv1;icon_item_card_atk
 I;머지 카드;Lv1;icon_item_card_atk
 I;모스템 카드;Lv1;icon_item_card_atk
 I;체이퍼 카드;Lv1;icon_item_card_atk
 I;플록스케 카드;Lv1;icon_item_card_atk
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
 I;네옵 카드;Lv1;icon_item_card_util
 I;맨티켄 카드;Lv1;icon_item_card_util
 I;벨뉴트 카드;Lv1;icon_item_card_util
@@ -150,20 +144,25 @@ G;Premium
 I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;15;icon_item_Mike
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 G;Material
 I;모루;6;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;독액;70;icon_item_posion
+I;독액;66;icon_item_posion
 I;성수;5;icon_item_holywater
 I;조각용 나무;14;icon_item_wood_5
 I;크리오라이트;14;39_icon_item_Cry8rite
-I;매직 애로우;477;icon_item_magicarrow
-I;신기전;269;icon_item_singijon
-I;바브드 애로우;404;item_icon_arrow_barbedhead
-I;헤일매리 애로우;899;item_icon_hail_mary_arrow
+I;매직 애로우;471;icon_item_magicarrow
+I;신기전;263;icon_item_singijon
+I;바브드 애로우;389;item_icon_arrow_barbedhead
+I;헤일매리 애로우;875;item_icon_hail_mary_arrow
 I;보드킨 포인트 애로우;498;item_icon_bodkinpoint_arrow
-I;브로드 헤드 애로우;994;item_icon_arrow_barbedhead
+I;브로드 헤드 애로우;992;item_icon_arrow_barbedhead
 I;주석;5;1_item_ore_copper
 I;호박;8;22_item_ore_amber
 I;LV2 보물상자 열쇠;4;icon_item_key1
@@ -318,9 +317,6 @@ I;떡갈나무;240;icon_item_wood_1
 I;삼나무;400;icon_item_wood_4
 I;화약;19;icon_item_powderbl
 I;플로지스톤;50;35_item_ore_phlogiston
-I;[Episode11] 탐험의 새싹;66;item_icon_sprout
-I;탈트;13;30_item_ore_talt
-I;우르바스 증표;1;icon_item_borutakey
 I;아클라스의 찢어진 천 조각;1;icon_item_clothpiece_white
 I;노란 리프넛의 온전한 날개;1;icon_item_misc04_65
 I;귀환석;1;MercenaryBadge
@@ -364,8 +360,6 @@ I;행상인의 손수건;1;icon_item_bandana
 I;화살 묶음;1;item_icon_barbedhead_arrow
 G;Armor
 I;카울라스 레더 부츠;1;icon_item_boots_kaulas
-I;바르파스 브레이슬릿;1;item_bracelet_28
-I;바르파스 브레이슬릿;1;item_bracelet_28
 I;묘족두식;1;hairacc_wuguBand
 I;플레쳐 코스튬;1;icon_item_fletcher_f
 I;무고사 코스튬;1;icon_item_wugu_f

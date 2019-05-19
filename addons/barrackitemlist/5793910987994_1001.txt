@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;99799;icon_item_silver
+I;실버;99139;icon_item_silver
 G;PasteBait
 I;작은 은빛 물고기;2;icon_item_fish4
 G;Drug
@@ -31,7 +31,11 @@ I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;은빛 물고기;4;icon_item_fish2
 G;Event
-I;[Episode11] 레벨업 상자 (220레벨);1;icon_item_giftBox_2
+I;특성 포인트 1000;1;icon_item_abilitypoint
+I;특성 포인트 1000;1;icon_item_abilitypoint
+I;특성 포인트 1000;1;icon_item_abilitypoint
+I;특성 포인트 1000;1;icon_item_abilitypoint
+I;특성 포인트 1000;1;icon_item_abilitypoint
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black
 G;Recipe
@@ -51,6 +55,7 @@ I;제작서-안티 다크 네클리스;2;icon_item_necklace_misc3
 I;제작서-안티 콜드 브레이슬릿;4;icon_item_bracelet_misc3
 I;제작서-컨트롤 뱅글;2;icon_item_bracelet_misc3
 I;제작서-x4 경험의 서;1;icon_item_recipe_misc1
+I;제작서-x8 경험의 서;1;icon_item_recipe_misc1
 G;Collection
 I;컬렉션: 겔리 고원;1;icon_item_box
 I;컬렉션: 네프리타스 벼랑;1;icon_item_box
@@ -63,11 +68,10 @@ I;15레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;170레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;40레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;75레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;x4 경험의 서;1;icon_item_expbookx4
-I;x4 경험의 서;1;icon_item_expbookx4
-I;x4 경험의 서;1;icon_item_expbookx4
-I;x4 경험의 서;1;icon_item_expbookx4
-I;x4 경험의 서;1;icon_item_expbookx4
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
@@ -104,11 +108,12 @@ I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;긴급 수리 키트;10;icon_item_repairkit
-I;소울 크리스탈;19;icon_item_soulCrystal
+I;소울 크리스탈;24;icon_item_soulCrystal
 I;스킬 초기화 포션;1;icon_item_potion_resetSkill
 I;워프 주문서;19;icon_item_warpPremium
 I;워프 주문서 10개 상자;1;icon_item_warpPremium_bundle
 I;인스턴스 던전 배수 토큰;17;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -185,8 +190,12 @@ I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
 I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
 I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
 I;전문 퀘스트 5회 도전권;1;icon_item_classmajorquestCount
+I;토큰:5일[증정용];1;icon_item_token
+I;토큰:5일[증정용];1;icon_item_token
+I;토큰:5일[증정용];1;icon_item_token
 I;파스텔 그린 염색약;1;haircolor_green
 I;확성기;48;icon_item_Mike
+I;마법 부여 스크롤(거래불가);5;icon_item_enchantScroll
 G;Armor
 I;베르타스 크라이지어스 그리브;1;icon_item_boots_kryzius
 I;케도란 페디미안 부츠;1;icon_item_boots_sage_white
@@ -226,7 +235,6 @@ G;Material
 I;연습용 모루;1;icon_item_anvil
 I;은빛 모루;1;icon_item_anvil_silver
 I;LV2 보물상자 열쇠;2;icon_item_key1
-I;[Episode11] 성장의 보석;2200;icon_item_crimson2
 I;거대한 갈고리;2;icon_item_claw_01
 I;그루머 잎;5;icon_item_leaves_green
 I;말라두의 고기;89;icon_item_meat_02
@@ -269,4 +277,3 @@ I;만드라픽;1;sword_sabre_up
 I;만드라픽;1;sword_sabre_up
 I;케도란 벨니웁;1;icon_item_snickersnee_up
 I;아이언 보우;1;selfbow_up
-I;케도란 선플라워;1;Mage_f_staff_sunflowerstick

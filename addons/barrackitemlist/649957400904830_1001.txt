@@ -36,16 +36,6 @@ I;LV5 경험치 카드;5;icon_item_expcard
 I;레드 오브:위버;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;14;GolemMagicItem1
 I;은빛 물고기;29;icon_item_fish2
-G;Collection
-I;계시록: 대립편 컬렉션;1;icon_item_holyark
-I;컬렉션: 기원의 숲;1;icon_item_box
-I;컬렉션: 네프리타스 벼랑;1;icon_item_box
-I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
-I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
-I;컬렉션: 수정광산 2층;1;icon_item_box
-I;컬렉션: 수정광산 3층;1;icon_item_box
-I;컬렉션: 자카리엘 교차로;1;icon_item_box
-I;컬렉션: 테넷 성당 지상 1층;1;icon_item_box
 G;Book
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
@@ -96,9 +86,16 @@ I;제작서-매직 탈리스만;1;icon_item_necklace_misc3
 I;제작서-산양 뿔;1;icon_item_helm_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
-G;Gem
-I;레드 젬;Lv5;item_icon_circle150
-I;블루 젬;Lv4;item_icon_Square150
+G;Collection
+I;계시록: 대립편 컬렉션;1;icon_item_holyark
+I;컬렉션: 기원의 숲;1;icon_item_box
+I;컬렉션: 네프리타스 벼랑;1;icon_item_box
+I;컬렉션: 샤울레이 광산 마을;1;icon_item_box
+I;컬렉션: 샤울레이 동쪽 숲;1;icon_item_box
+I;컬렉션: 수정광산 2층;1;icon_item_box
+I;컬렉션: 수정광산 3층;1;icon_item_box
+I;컬렉션: 자카리엘 교차로;1;icon_item_box
+I;컬렉션: 테넷 성당 지상 1층;1;icon_item_box
 G;Armor
 I;옥시니스 팬츠;1;icon_item_pants_Auksinis
 I;망가진 안티 콜드 네클리스;1;item_necklace_09_blue

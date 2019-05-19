@@ -83,6 +83,8 @@ I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;20;icon_item_Mike
 I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
+I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 G;Armor
 I;레다스 네클리스;1;item_necklace_21_blue
