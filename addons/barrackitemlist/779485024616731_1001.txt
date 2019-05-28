@@ -28,7 +28,7 @@ I;보급용 SP포션;100;item_SP_requid_2
 I;보급용 큰 HP포션;100;item_HP_oil_3
 I;보급용 큰 SP포션;100;item_SP_requid_3
 I;LV13 경험치 카드;22;icon_item_expcard
-I;LV14 경험치 카드;79;icon_item_expcard
+I;LV14 경험치 카드;105;icon_item_expcard
 I;레드 오브:스피온 궁수;1;icon_item_Dreamshade_red
 I;LV6 경험치 카드;11;icon_item_expcard
 I;LV11 경험치 카드;1;icon_item_expcard
@@ -39,7 +39,7 @@ I;블루 오브:이노움;1;icon_item_Dreamshade
 I;블루 오브:츄파카브라;1;icon_item_Dreamshade
 I;블루 오브:코왁;1;icon_item_Dreamshade
 I;블루 오브:하루갈;1;icon_item_Dreamshade
-I;LV15 경험치 카드;9;icon_item_expcard
+I;LV15 경험치 카드;15;icon_item_expcard
 G;Book
 I;남작 사병 차고스의 일지;1;icon_item_diary
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
@@ -90,17 +90,13 @@ I;확성기;15;icon_item_Mike
 I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
 I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;새내기 벚꽃 교복 코스튬(여);1;icon_item_schooluniform02_f
 G;Armor
 I;프리머스 제베넬리스 레더 글로브;1;icon_item_leather_glove_1
 I;머스킷티어 코스튬;1;icon_item_archer_musketeer_f
 I;헌터 코스튬;1;icon_item_hunter_f
 I;산포 코스튬;1;icon_item_archerCos_tigerhunter01_f
+I;[이벤트] 산포 백호가죽 코스튬;1;icon_item_archerCos_tigerhunter02_f
 G;Material
 I;모루;25;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
@@ -199,5 +195,4 @@ I;화살 묶음;1;item_icon_barbedhead_arrow
 G;Weapon
 I;머스킷;1;Musket_it_w_oldpistol_1
 I;프리머스 즈바이더 머스킷;1;icon_item_mus_nicopolis1
-I;마시니오스 머스킷;1;icon_item_rifle_masinos
 I;머스킷;1;Musket_it_w_oldpistol_1

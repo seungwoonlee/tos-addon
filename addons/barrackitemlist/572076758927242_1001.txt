@@ -13,14 +13,8 @@ I;제작서-샤인 브레이슬릿;1;icon_item_bracelet_misc3
 G;Cube
 I;11강 5초월 마시니오스 무기 선택 상자;1;icon_item_event_weaponbox1
 G;Premium
-I;15레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;170레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;40레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;75레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;I♥TOS 코스튬 선택상자;1;icon_item_tos_fes2019_selectbox
 I;[이벤트]전투 지원 상자;1;item_icon_elixerHPSP_BOX
 I;[이벤트]전투 지원 상자;1;item_icon_elixerHPSP_BOX
-I;[이벤트]클래스 변경권 Lv.4;3;icon_item_rankreset_paper
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
@@ -42,14 +36,6 @@ I;워프 주문서;26;icon_item_warpPremium
 I;워프 주문서 10개 상자;4;icon_item_warpPremium_bundle
 I;인스턴스 던전 1회 입장권;2;icon_item_indunFreeEnter
 I;인스턴스 던전 배수 토큰;2;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -108,12 +94,6 @@ I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
 I;가벼운 모루;1;icon_item_anvil
 I;연습용 모루;1;icon_item_anvil
-I;5성 젬 연마제:14일;1;icon_item_powderp
-I;5성 젬 연마제:14일;1;icon_item_powderp
-I;5성 젬 연마제:14일;1;icon_item_powderp
-I;7성 젬 연마제 (14일);1;icon_item_powderp
-I;7성 젬 연마제 (14일);1;icon_item_powderp
-I;7성 젬 연마제 (14일);1;icon_item_powderp
 I;마력 흡수침;1;icon_item_spellneedle
 I;기슬로티스;68;icon_item_Gyslotis
 I;성수;72;icon_item_holywater
@@ -132,7 +112,7 @@ I;마우로스의 핵;1;icon_item_core_yellow
 I;말라두의 고기;73;icon_item_meat_02
 I;묘지 골렘의 핵;2;icon_item_core_blue
 I;미노스의 뼈;1;icon_item_bone
-I;바이보라의 날개 주화;35;icon_item_wingcoin
+I;바이보라의 날개 주화;40;icon_item_wingcoin
 I;박쥐 이빨;1;icon_item_tooth_white
 I;박쥐의 날개;4;icon_item_batwing
 I;부베족의 증표;8;icon_item_bubetoken
@@ -186,6 +166,7 @@ I;[이벤트] 레어 인챈트 쥬얼;1;item_icon_armor_linksoul2
 I;[이벤트] 레어 인챈트 쥬얼;1;item_icon_armor_linksoul2
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
+I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
 I;고농축 이동속도 증가 포션;10;item_speed_requid_1
 I;농축 이동속도 향상의 포션;20;item_speed_requid_1
 I;딜겔레;3;icon_item_Dilgele
@@ -217,7 +198,6 @@ I;은빛 물고기;7;icon_item_fish2
 I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
 I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
 I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
-I;[이벤트] 5초월 스크롤;1;icon_item_transcendence_coupon
 G;Event
 I;특성 포인트 1,000;5;icon_item_abilitypoint
 I;특성 포인트 1000;1;icon_item_abilitypoint
@@ -230,9 +210,6 @@ I;특성 포인트 1000;1;icon_item_abilitypoint
 I;특성 포인트 1000;1;icon_item_abilitypoint
 I;특성 포인트 1000;1;icon_item_abilitypoint
 I;특성 포인트 1000;1;icon_item_abilitypoint
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone

@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;99900;icon_item_silver
+I;실버;96800;icon_item_silver
 G;PasteBait
 I;작은 은빛 물고기;15;icon_item_fish4
 G;Drug
@@ -33,8 +33,9 @@ I;레드 오브:붉은 케파;1;icon_item_Dreamshade_red
 I;블루 오브:붉은 케파;1;icon_item_Dreamshade
 I;블루 오브:푸른 티니 궁수;1;icon_item_Dreamshade
 I;은빛 물고기;21;icon_item_fish2
-I;LV14 경험치 카드;22;icon_item_expcard
+I;LV14 경험치 카드;36;icon_item_expcard
 I;LV10 경험치 카드;1;icon_item_expcard
+I;LV15 경험치 카드;6;icon_item_expcard
 I;종이상자;1;icon_item_paperbox
 G;SubWeapon
 I;좌절 깃발;1;OTL_flag
@@ -114,8 +115,9 @@ I;몬스터 젬 선택 상자: 직업;2;icon_item_jewelrybox_close
 I;소울 크리스탈;20;icon_item_soulCrystal
 I;워프 주문서;20;icon_item_warpPremium
 I;확성기;20;icon_item_Mike
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;소드맨 스페셜 코스튬(여);1;icon_item_warrior_swordman01_3_f
 I;에보니 나이트 코스튬(여);1;icon_item_chessUniform02_f
 I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
@@ -126,7 +128,7 @@ I;전사용 심플 컬러 코스튬(여);1;warrior_simplecolor_f
 I;전사용 제복 코스튬(여);1;icon_item_warrior_uniform_f
 I;전사용 파티 드레스 코스튬(여);1;icon_item_Warrior_BluePeacock_f
 I;하급 용병 코스튬(여);1;icon_item_lowtactic01_f
-I;전사용 수영복 코스튬(여);1;icon_item_warrior_mizuki_f
+I;마타도르 벨베스티어리 코스튬(여);1;icon_item_warrior_matador04_f
 G;Armor
 I;피에타스 레더 부츠;1;icon_item_9rank_leather_02_boots
 I;프리머스 우카스 레더 아머;1;icon_item_baldish_armor

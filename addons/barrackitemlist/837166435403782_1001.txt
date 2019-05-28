@@ -83,19 +83,17 @@ I;컬렉션: 티메리스 사원;1;icon_item_box
 I;컬렉션: 파수꾼의 묘역;1;icon_item_box
 I;컬렉션: 페디미안 외곽;1;icon_item_box
 G;Premium
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;소울 크리스탈;3;icon_item_soulCrystal
 I;워프 주문서;20;icon_item_warpPremium
 I;케도라 상단의 지원 선택상자 (40레벨 방어구);4;icon_item_event_armorbox1
 I;확성기;20;icon_item_Mike
 I;블루 메이드 코스튬(여);1;icon_item_maiduniform_blue_f
-I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
+I;하급 용병 코스튬(여);1;icon_item_lowtactic01_f
 I;상어 해적단 코스튬(여);1;icon_item_cosair03_f
 I;레드 메이드 코스튬(여);1;icon_item_maiduniform_red_f
 I;벚꽃 로맨스 세일러복 코스튬(여);1;icon_item_pink_Sailor01_f
-I;하급 용병 코스튬(여);1;icon_item_lowtactic01_f
 I;뱀파이어 코스튬(여);1;icon_item_vampire02_f
+I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
@@ -141,10 +139,10 @@ I;크리스탈 뱅글;1;item_bracelet_15
 I;젖소 머리띠;1;hairacc_36_cow
 I;호랑나비;1;hairacc_17_butterfly
 I;어쌔신 리즈다스 플레저;1;icon_item_scoutCos_assa01_f
-I;아웃로 더크더즈;1;icon_item_scoutCos_outlaw01_f
 I;어쌔신 리즈다스 키퍼;1;icon_item_scoutCos_assa02_f
 I;아웃로 러피안 리버리;1;icon_item_scoutCos_outlaw02brown_f
 I;아웃로 브리건드 아웃핏;1;icon_item_scoutCos_outlaw02_f
+I;아웃로 더크더즈;1;icon_item_scoutCos_outlaw01_f
 I;아르디티 코스튬;1;icon_item_scoutCos_arditi01_f
 G;Material
 I;모루;2;icon_item_anvil
@@ -156,7 +154,6 @@ I;LV2 보물상자 열쇠;2;icon_item_key1
 I;거대한 갈고리;5;icon_item_claw_01
 I;그루머 잎;14;icon_item_leaves_green
 I;글리자돈의 뼈;5;icon_item_bone
-I;[이벤트] 포포리온 뱃지;20;icon_item_1905_popolion_badge
 I;노란 게이징 골렘의 핵;57;icon_item_core_yellow
 I;노란 요노움의 핵;62;icon_item_core_yellow
 I;노란 이노움의 핵;9;icon_item_core_yellow

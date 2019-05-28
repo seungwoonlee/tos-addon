@@ -78,11 +78,11 @@ I;장군의 선물;1;item_necklace_03_1
 I;종말의 선물;1;item_necklace_03_4
 I;졸업자의 선물;1;item_necklace_19_1
 I;잠자는 표범;1;icon_item_sleeping_leopard
+I;엑소시스트 코스튬;1;icon_item_Exorcist01_f
 I;딥디르비 코스튬;1;icon_item_dievdirbys_f
+I;무녀 코스튬;1;icon_item_miko_f
 I;엑소시스트 루브릭 코스튬;1;icon_item_Exorcist04_f
 I;엑소시스트 소울 바인더 코스튬;1;icon_item_Exorcist02_f
-I;엑소시스트 코스튬;1;icon_item_Exorcist01_f
-I;무녀 코스튬;1;icon_item_miko_f
 I;진저브레드 실드;1;icon_item_winter_shield
 G;Premium
 I;소울 크리스탈;20;icon_item_soulCrystal
@@ -91,28 +91,26 @@ I;워프 주문서 10개 상자;1;icon_item_warpPremium_bundle
 I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
 I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
 I;확성기;20;icon_item_Mike
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
-I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f
 I;성직자의 매니시룩 코스튬(여);1;icon_item_cleric_manish_f
+I;검은 츄리닝;1;icon_item_sweat_suit_black_f
 I;성직자용 심플 컬러 코스튬(여);1;cleric_simplecolor_f
 I;벚꽃 로맨스 세일러복 코스튬(여);1;icon_item_pink_Sailor01_f
 I;브라이드메이드 코스튬(여);1;icon_item_bridesmaid_f
 I;블루 메이드 코스튬(여);1;icon_item_maiduniform_blue_f
-I;검은 츄리닝;1;icon_item_sweat_suit_black_f
+I;빨간 츄리닝;1;icon_item_sweat_suit_red_f
 I;상어 해적단 코스튬(여);1;icon_item_cosair03_f
 I;성직자용 파티 드레스 코스튬(여);1;icon_item_Cleric_yellowPeacock_f
 I;성직자의 수영복 코스튬(여);1;icon_item_Cleric_mizuki_f
 I;나는네선물 산타 코스튬(여);1;icon_item_winter_santa_f
 I;성직자의 서번트 코스튬(여);1;icon_item_Cleric_maid_f
-I;빨간 츄리닝;1;icon_item_sweat_suit_red_f
 I;성직자의 스쿨룩 코스튬(여);1;icon_item_Cleric_school_f
 I;성직자의 앨리스 코스튬(여);1;icon_item_Cleric_alice_f
 I;성직자의 제복 코스튬(여);1;icon_item_Cleric_uniform_f
 I;아늑다정 북극여우 코스튬;1;icon_item_winter_fox_f
 I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
-I;초대에 응한 자 코스튬(여);1;icon_item_blacksuit01_f
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
+I;초대에 응한 자 코스튬(여);1;icon_item_blacksuit01_f
+I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f
 G;Material
 I;모루;8;icon_item_anvil
 I;괴황지;4336;icon_item_guehwangji
