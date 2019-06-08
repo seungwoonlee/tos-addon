@@ -1160,10 +1160,10 @@ I;강화용 카드 : 500 (14일);1;monster_card
 I;강화용 카드 : 500 (14일);1;monster_card
 I;마력 흡수침;35;icon_item_spellneedle
 I;분해의 망치;32;icon_item_farm47_wood_hammer
-I;괴황지;541;icon_item_guehwangji
+I;괴황지;535;icon_item_guehwangji
 I;빈 스펠북;11;icon_item_emptySpellBook
 I;시간의 결정;3;icon_item_timespace
-I;시간의 결정 파편;263;icon_item_spacepiece
+I;시간의 결정 파편;259;icon_item_spacepiece
 I;칼사이트;11;14_item_ithildin
 I;크리오라이트;16;39_icon_item_Cry8rite
 I;파이라이트;9;32_item_ore_pyrite
