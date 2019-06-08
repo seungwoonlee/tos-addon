@@ -73,8 +73,6 @@ G;Premium
 I;워프 주문서;15;icon_item_warpPremium
 I;확성기;16;icon_item_Mike
 I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
 G;Material
 I;모루;18;icon_item_anvil

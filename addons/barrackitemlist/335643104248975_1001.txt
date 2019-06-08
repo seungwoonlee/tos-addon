@@ -21,8 +21,6 @@ I;찢어진 일기의 일부 4;1;icon_item_paperpiece
 I;카롤리스 이야기 2권;1;icon_item_collection_02green
 I;타다 만 일지를 적은 메모;1;icon_item_paperpiece
 I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
-G;Seal
-I;카제 인장 - 클레릭;1;icon_item_Seal_QuestRune
 G;FishingRod
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 G;Collection
@@ -35,25 +33,16 @@ I;컬렉션: 엘고스 수도원 별관;1;icon_item_box
 I;컬렉션: 테브린 종유동 1구역;1;icon_item_box
 I;컬렉션: 티메리스 사원;1;icon_item_box
 G;Armor
-I;와이파이;1;icon_item_wifi
-I;젖소 머리띠;1;hairacc_36_cow
-I;큰 붉은꽃 머리장식;1;hairacc_hat072
-I;엑소시스트 루브릭 코스튬;1;icon_item_Exorcist04_f
 I;엑소시스트 소울 바인더 코스튬;1;icon_item_Exorcist02_f
-I;오라클 코스튬;1;icon_item_oracle_f
+I;엑소시스트 루브릭 코스튬;1;icon_item_Exorcist04_f
 I;질럿 컨트리션 코스튬;1;icon_item_zealot2_f
 I;질럿 퍼티션 코스튬;1;icon_item_zealot4_f
 I;프리스트 코스튬;1;icon_item_prist_f
-I;파드너 코스튬;1;icon_item_pardoner_f
+I;오라클 코스튬;1;icon_item_oracle_f
 I;버텍스 비콘;1;icon_item_SpecialCostume_exorcist_both
-I;예언의 날개;1;icon_item_SpecialCostume_zealot
 G;Premium
 I;워프 주문서;20;icon_item_warpPremium
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
 I;확성기;20;icon_item_Mike
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
 I;모루;26;icon_item_anvil

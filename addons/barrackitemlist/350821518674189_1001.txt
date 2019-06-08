@@ -33,7 +33,6 @@ I;보급용 워프 주문서;18;GolemMagicItem1
 I;LV14 경험치 카드;17;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
 G;SubWeapon
-I;술달린 암밴드;1;icon_item_armband_tassel
 I;버블스틱;1;icon_item_artefact_bublestick
 G;Book
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
@@ -51,8 +50,6 @@ I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-페디미안 레더 글로브;1;icon_item_gloves_misc1
 I;제작서-실버 탈리스만;1;icon_item_necklace_misc1
-G;Seal
-I;카제 인장 - 스카우트;1;icon_item_Seal_QuestRune
 G;Collection
 I;컬렉션: 레타스 개울가;1;icon_item_box
 I;컬렉션: 카롤리스 샘터;1;icon_item_box
@@ -71,9 +68,7 @@ I;컬렉션: 카듀멜 절벽;1;icon_item_box
 I;컬렉션: 여신의 옛뜰;1;icon_item_box
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
 I;워프 주문서;15;icon_item_warpPremium
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;확성기;15;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
@@ -267,12 +262,7 @@ I;카포테;1;icon_capote
 I;카포테;1;icon_capote
 G;Armor
 I;부베 뱅글;1;item_bracelet_16
-I;해적모자;1;icon_item_piratehat
-I;강아지귀;1;hairacc_30_dogears
-I;공작 깃털;1;hairacc_73_peacockfeather
 I;마타도르 벨비스트 코스튬;1;icon_item_warrior_matador02_f
-I;로그 코스튬;1;icon_item_rogue_f
 I;시노비 코스튬;1;icon_item_shinobi_f
 I;마타도르 벨라니멀 코스튬;1;icon_item_warrior_matador03_f
-I;커세어 코스튬;1;icon_item_corsair_f
-I;확정된 종결;1;icon_item_SpecialCostume_matador
+I;로그 코스튬;1;icon_item_rogue_f

@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;118000;icon_item_silver
+I;실버;100000;icon_item_silver
 G;Drug
 I;100일 기념 포션;6;item_speed_requid_3
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
@@ -140,13 +140,9 @@ I;컬렉션: 패슬렙타스;1;icon_item_box
 I;컬렉션: 피스티스 숲;1;icon_item_box
 I;컬렉션: 해안 지역;1;icon_item_box
 G;Premium
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
 I;소울 크리스탈;20;icon_item_soulCrystal
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;워프 주문서;20;icon_item_warpPremium
-I;확성기;20;icon_item_Mike
+I;확성기;30;icon_item_Mike
 G;Material
 I;모루;9;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1

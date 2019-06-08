@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;96800;icon_item_silver
+I;실버;100000;icon_item_silver
 G;PasteBait
 I;작은 은빛 물고기;15;icon_item_fish4
 G;Drug
@@ -115,13 +115,11 @@ I;몬스터 젬 선택 상자: 직업;2;icon_item_jewelrybox_close
 I;소울 크리스탈;20;icon_item_soulCrystal
 I;워프 주문서;20;icon_item_warpPremium
 I;확성기;20;icon_item_Mike
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;소드맨 스페셜 코스튬(여);1;icon_item_warrior_swordman01_3_f
+I;전사용 수영복 코스튬(여);1;icon_item_warrior_mizuki_f
 I;에보니 나이트 코스튬(여);1;icon_item_chessUniform02_f
 I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
-I;전사용 매니시룩 코스튬(여);1;icon_item_warrior_manish_f
+I;소드맨 스페셜 코스튬(여);1;icon_item_warrior_swordman01_3_f
 I;전사용 세일러복 코스튬(여);1;icon_item_warrior_schoolsalor_f
 I;전사용 스쿨룩 코스튬(여);1;icon_item_warrior_school_f
 I;전사용 심플 컬러 코스튬(여);1;warrior_simplecolor_f
@@ -129,6 +127,7 @@ I;전사용 제복 코스튬(여);1;icon_item_warrior_uniform_f
 I;전사용 파티 드레스 코스튬(여);1;icon_item_Warrior_BluePeacock_f
 I;하급 용병 코스튬(여);1;icon_item_lowtactic01_f
 I;마타도르 벨베스티어리 코스튬(여);1;icon_item_warrior_matador04_f
+I;전사용 매니시룩 코스튬(여);1;icon_item_warrior_manish_f
 G;Armor
 I;피에타스 레더 부츠;1;icon_item_9rank_leather_02_boots
 I;프리머스 우카스 레더 아머;1;icon_item_baldish_armor
@@ -136,7 +135,6 @@ I;하플라이트 코스튬;1;icon_item_hoplites_f
 I;마타도르 벨비스트 코스튬;1;icon_item_warrior_matador02_f
 I;마타도르 코스튬;1;icon_item_warrior_matador_f
 I;마타도르 벨라니멀 코스튬;1;icon_item_warrior_matador03_f
-I;펜서 코스튬;1;icon_item_fencer_f
 G;Material
 I;황금 모루;2;icon_item_anvil_gold
 I;크리오라이트;7;39_icon_item_Cry8rite

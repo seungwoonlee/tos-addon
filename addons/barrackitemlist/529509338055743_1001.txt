@@ -11,19 +11,24 @@ I;딸기;2;icon_item_Strawberry
 I;땅 속성 저항력 포션;1;icon_item_Seed_HR1
 I;레드옥스;2;icon_item_Red_Ox
 I;매두스;5;icon_item_Medus
+I;물리 치명타 공격력 증가 포션;1;item_speed_requid_1
 I;물리+마법 방어력 포션;3;item_speed_requid_1
 I;바루날레샤;5;icon_item_Varnalesa
 I;발래리요나스;5;icon_item_Valerijonas
+I;보급용 HP포션;100;item_HP_oil_2
 I;보급용 SP포션;106;item_SP_requid_2
 I;보급용 레드옥스;5;icon_item_Red_Ox
 I;보급용 이동속도 증가 포션;4;item_speed_requid_1
+I;보급용 작은 HP포션;100;item_HP_oil_1
+I;보급용 작은 SP포션;100;item_SP_requid_1
 I;보급용 작은 스태미나 알약;25;item_STA_pill_1
+I;보급용 큰 HP포션;100;item_HP_oil_3
+I;보급용 큰 SP포션;100;item_SP_requid_3
 I;붉은 케파 조각;4;OnionPiece_Red
 I;스태미나 알약;10;item_STA_pill_2
 I;아비에테;4;icon_item_Aviete
 I;오르샤 워프 주문서;14;GolemMagicItem1
 I;이동속도 향상의 포션;4;item_speed_requid_1
-I;물리 치명타 공격력 증가 포션;1;item_speed_requid_1
 I;케이스타스 수호의 포션;8;icon_item_Drug_exDEF1
 I;케이스타스 용맹의 포션;5;icon_item_Drug_exATK1
 I;케이트리스 수호의 포션;1;icon_item_Drug_DEF2
@@ -33,26 +38,20 @@ I;클라페다 워프 주문서;13;GolemMagicItem1
 I;페디미안 워프 주문서;5;GolemMagicItem1
 I;포포리온 고기;11;icon_item_meat_02
 I;해독제;14;icon_item_Quest_00020
-I;보급용 작은 HP포션;100;item_HP_oil_1
-I;보급용 작은 SP포션;100;item_SP_requid_1
-I;보급용 HP포션;100;item_HP_oil_2
-I;보급용 큰 HP포션;100;item_HP_oil_3
-I;보급용 큰 SP포션;100;item_SP_requid_3
+I;LV14 경험치 카드;29;icon_item_expcard
 I;레드 오브:검은 드레이크;1;icon_item_Dreamshade_red
+I;레드 오브:붉은 위저드 주술 인형;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;13;GolemMagicItem1
 I;블루 오브:유코푸스;1;icon_item_Dreamshade
-I;레드 오브:붉은 위저드 주술 인형;1;icon_item_Dreamshade_red
 I;디스펠러;10;icon_item_grimoire_blue
-G;SubWeapon
-I;매듭진 암밴드;1;icon_item_armband_cloth
 G;Book
-I;순례자의 쪽지;1;icon_item_Paper1
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;그을린 실마리;1;icon_item_PILGRIM_PIECE
 I;낡은 일기;1;icon_item_collection_04Black
 I;마지막 기록;1;icon_item_paperpiece
 I;버려진 일기장;1;icon_item_collection_00Basic
 I;부스러져가는 공문;1;icon_item_magicpaper
+I;순례자의 쪽지;1;icon_item_Paper1
 I;유언장;1;icon_item_Paper1
 I;찢어진 일기;1;icon_item_magicpaper
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
@@ -65,11 +64,9 @@ I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-캐타펄트;1;icon_item_weapon_misc1
 I;제작서-x8 경험의 서;1;icon_item_recipe_misc1
-G;Seal
-I;카제 인장 - 클레릭;1;icon_item_Seal_QuestRune
 G;Collection
 I;컬렉션: 기원의 숲;1;icon_item_box
-I;컬렉션: 테브린 종유동 1구역;1;icon_item_box
+I;컬렉션: 긴다리 계곡;1;icon_item_box
 I;컬렉션: 노브리어 숲;1;icon_item_box
 I;컬렉션: 라다르 숲;1;icon_item_box
 I;컬렉션: 스팔빈가스 숲;1;icon_item_box
@@ -79,17 +76,13 @@ I;컬렉션: 알렘빅 동굴;1;icon_item_box
 I;컬렉션: 에메트 숲;1;icon_item_box
 I;컬렉션: 왕릉 건축자 예배당;1;icon_item_box
 I;컬렉션: 유데이안 숲;1;icon_item_box
-I;컬렉션: 긴다리 계곡;1;icon_item_box
+I;컬렉션: 테브린 종유동 1구역;1;icon_item_box
 I;컬렉션: 티메리스 사원;1;icon_item_box
 I;컬렉션: 피스티스 숲;1;icon_item_box
 G;Premium
 I;소울 크리스탈;20;icon_item_soulCrystal
 I;워프 주문서;20;icon_item_warpPremium
 I;확성기;20;icon_item_Mike
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;딥디르비 스페셜 코스튬(여);1;icon_item_Cleric_dievdirbys01_3_f
 I;성직자용 심플 컬러 코스튬(여);1;cleric_simplecolor_f
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
@@ -169,6 +162,8 @@ I;부러진 판토 소드;1;icon_item_bladepiece
 I;부베 활대;2;icon_item_bubebow
 I;부베족의 증표;49;icon_item_bubetoken
 I;부우크의 핵;1;icon_item_core_yellow
+I;붉은 슬라임의 핵;1;38_item_ore_mercury
+I;붉은 위저드 주술 인형의 핵;1;38_item_ore_mercury
 I;붉은 인프로 락터의 껍질;2;icon_item_shell
 I;붉은 콜리멘의 꽃잎;1;icon_item_misc04_80
 I;블러드 눈알;3;icon_item_Velorb
@@ -181,6 +176,7 @@ I;사우가의 핵;2;icon_item_core_yellow
 I;사크몰리 줄기;1;icon_item_stem_gray
 I;샤울렘 가면;1;icon_item_mask_siaulago
 I;샤울렘 털잎;1;icon_item_leaves_yellow
+I;소나무;2;icon_item_wood_3
 I;소켓의 껍질;8;icon_item_shell_blue
 I;수정거미 더듬이;10;icon_item_feeler_blue
 I;쉬타임 파편;2;icon_item_Misc_00004
@@ -259,26 +255,24 @@ I;허밍버드의 날개;1;icon_item_bugwing
 I;호그마 엄니;1;icon_item_tooth_white
 I;호글란 부리;1;icon_item_small_bag
 I;호헨 가죽;1;icon_item_Misc_00011
-I;소나무;2;icon_item_wood_3
-I;붉은 슬라임의 핵;1;38_item_ore_mercury
-I;붉은 위저드 주술 인형의 핵;1;38_item_ore_mercury
 I;귀환석;1;MercenaryBadge
 G;Quest
 I;가시숲의 계시;1;icon_item_stonetablet
 I;공간의 문장;1;icon_item_void_01
 I;공구박스;1;icon_item_Quest_00017
-I;미약한 영혼;2;icon_item_spirit_blue
+I;광신도의 수정 목걸이;1;icon_item_blacknecklace
 I;광신도의 수정 목걸이;1;icon_item_blacknecklace
 I;광신도의 수정 목걸이;1;icon_item_blacknecklace
 I;꼬질꼬질한 꾸러미;9;icon_item_small_bag
-I;광신도의 수정 목걸이;1;icon_item_blacknecklace
+I;단단한 나뭇조각;6;icon_item_wood_1
 I;독초;2;icon_item_grassbladeb
 I;둘케의 짐꾸러미;2;icon_item_sidebag
 I;레타스 개울가에서 주운 편지;1;icon_item_paper
 I;루클리스 부대 인장;1;icon_item_Gem_Elemental17
 I;마력 감지 나침반;1;icon_item_compass
 I;마력 추적지도 : 테브린 종유동 1구역;1;GolemMagicItem1
-I;단단한 나뭇조각;6;icon_item_wood_1
+I;미약한 영혼;2;icon_item_spirit_blue
+I;분홍 츄파루카의 심장;9;item_icon_heart_yellow
 I;수정광산의 계시;1;icon_item_stonetablet
 I;순례자의 표식;31;neck_pilgrim_01
 I;신비한 빛을 내는 결정;23;37_item_ore_sulfur
@@ -292,17 +286,10 @@ I;일회용 시약병;1;icon_item_Quest_00020
 I;잃어버린 연구 자료;11;icon_item_paper
 I;테넷 성당의 계시;1;icon_item_stonetablet
 I;하우벅 봉인조각;1;icon_item_Bezoari
-I;분홍 츄파루카의 심장;9;item_icon_heart_yellow
 G;Armor
-I;업스타일 헤어;1;hair_ploana_f
 I;아그니 네클리스;1;item_necklace_21
 I;나뭇잎 장식 투구;1;accessory_leafhelm
-I;여우가면;1;hairacc_40_foxmask
-I;젖소 머리띠;1;hairacc_36_cow
-I;하늘색 리본;1;icon_item_Sky_ribbon
 I;딥디르비 코스튬;1;icon_item_dievdirbys_f
-I;플레이그닥터 코스튬;1;icon_item_cleric_plague_doctor_f
 I;질럿 컨트리션 코스튬;1;icon_item_zealot2_f
 I;질럿 퍼티션 코스튬;1;icon_item_zealot4_f
-I;무녀 코스튬;1;icon_item_miko_f
-I;예언의 날개;1;icon_item_SpecialCostume_zealot
+I;플레이그닥터 코스튬;1;icon_item_cleric_plague_doctor_f

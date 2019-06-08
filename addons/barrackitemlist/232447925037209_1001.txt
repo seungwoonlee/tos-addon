@@ -4,13 +4,13 @@ I;실버;100000;icon_item_silver
 G;PasteBait
 I;작은 은빛 물고기;22;icon_item_fish4
 G;Drug
-I;HP 회복 소형 엘릭서 ;8;icon_item_HPelixir_Small
-I;SP 회복 소형 엘릭서 ;16;icon_item_SPelixir_Small
+I;[이벤트] HP 회복 소형 엘릭서 ;14;icon_item_HPelixir_Small
+I;SP 회복 소형 엘릭서 ;20;icon_item_SPelixir_Small
 I;고농축 HP포션;145;item_HP_oil_3
 I;고농축 SP포션;117;item_SP_requid_3
 I;긴급 수리 키트;11;icon_item_repairkit
-I;농축 HP포션 LV15;9;icon_item_HP_Alche
-I;농축 SP포션 LV15;13;icon_item_SP_Alche
+I;농축 HP포션 LV15;30;icon_item_HP_Alche
+I;농축 SP포션 LV15;40;icon_item_SP_Alche
 I;대형 HP포션;5;item_HP_oil_3
 I;대형 SP포션;3;item_SP_requid_3
 I;딸기;21;icon_item_Strawberry
@@ -24,19 +24,19 @@ I;복숭아;14;icon_item_Peach
 I;아비에테;22;icon_item_Aviete
 I;오르샤 워프 주문서;17;GolemMagicItem1
 I;이동속도 향상의 포션;4;item_speed_requid_1
-I;케이스타스 회복포션Lv1;10;item_HPSP_potion_1
-I;케이스타스 회복포션Lv2;10;item_HPSP_potion_2
+I;케이스타스 회복포션Lv1;7;item_HPSP_potion_1
+I;케이스타스 회복포션Lv2;9;item_HPSP_potion_2
 I;케이스타스 회복포션Lv3;6;item_HPSP_potion_3
 I;케이트리스 용맹의 포션;1;icon_item_Drug_AGI2
 I;케이트리스 회복의 포션;1;icon_item_Drug_ATK2
 I;큰 HP포션;6;item_HP_oil_3
-I;큰 SP포션;4;item_SP_requid_3
 I;클라페다 워프 주문서;8;GolemMagicItem1
 I;특대형 HP포션;8;item_HP_oil_3
 I;페디미안 워프 주문서;5;GolemMagicItem1
 I;포포리온 고기;23;icon_item_meat_02
 I;할로윈 폭죽;6;icon_item_firework
-I;LV14 경험치 카드;4;icon_item_expcard
+I;LV14 경험치 카드;10;icon_item_expcard
+I;LV12 경험치 카드;1;icon_item_expcard
 I;레드 오브:로데내그;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;6;GolemMagicItem1
 I;블루 오브:유코푸스;1;icon_item_Dreamshade
@@ -47,7 +47,6 @@ I;디스펠러;17;icon_item_grimoire_blue
 I;예식용 칼;1;icon_item_artefact_Decorative_knife
 I;종이상자;1;icon_item_paperbox
 G;SubWeapon
-I;순백의 암밴드;1;icon_item_armband_nurse
 I;버블스틱;1;icon_item_artefact_bublestick
 I;좌절 깃발;1;OTL_flag
 G;Book
@@ -142,8 +141,6 @@ I;제작서-종이로 된 큐브(한손둔기);2;icon_item_recipe_misc1
 I;제작서-종이로 된 큐브(한손창);2;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
-G;Seal
-I;카제 인장 - 위저드;1;icon_item_Seal_QuestRune
 G;Collection
 I;컬렉션: 강철 고원;1;icon_item_box
 I;컬렉션: 그리나스 구릉지;1;icon_item_box
@@ -197,19 +194,17 @@ G;Premium
 I;긴급 수리 키트;2;icon_item_repairkit
 I;몬스터 젬 선택 상자: 직업;1;icon_item_jewelrybox_close
 I;소울 크리스탈;14;icon_item_soulCrystal
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;워프 주문서;19;icon_item_warpPremium
+I;워프 주문서;18;icon_item_warpPremium
 I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
 I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;확성기;20;icon_item_Mike
-I;블랙 메이드 코스튬(여);1;icon_item_maiduniform_black_f
 G;Material
 I;모루;21;icon_item_anvil
-I;괴황지;4298;icon_item_guehwangji
+I;괴황지;3984;icon_item_guehwangji
 I;성수;2;icon_item_holywater
 I;크리오라이트;17;39_icon_item_Cry8rite
-I;파이라이트;79;32_item_ore_pyrite
+I;파이라이트;68;32_item_ore_pyrite
+I;Lv.400 각성 연마재;1;icon_item_awakemisc01
 I;압시듐 광석;32;8_item_ore_platinum
 I;사파이어;1;39_icon_item_Cry8rite
 I;LV1 대지의 파편;2;icon_item_Gem_Stone_CON
@@ -489,7 +484,6 @@ I;호헨 깃발 조각;3;icon_item_flag_hohen
 I;회색 스타울리트 힘줄;2;icon_item_Leash
 I;희미한 별빛의 결정;3;24_item_ore_topaz
 I;이레디안 수정 조각;6;icon_item_iredian_misc02
-I;이레디안 브로치;1;icon_item_iredian_misc01
 I;누군가의 나무 망치;1;icon_item_farm47_wood_hammer
 I;뜯어진 잡초;1;icon_item_grassbladeg
 I;작은 미스릴 광석 조각;1;13_item_mythril
@@ -520,17 +514,16 @@ I;테넷 성당의 계시;1;icon_item_stonetablet
 I;펜듈럼;1;icon_item_pendulum
 I;휠렌의 증표;1;icon_item_Gem_Elemental17
 I;힘이 복구된 사울레의 성구;1;icon_item_crimson3
-I;허밍 듀크의 깃털;8;icon_item_feather_00Basic
+I;지부리트 풀;9;icon_item_Gyslotis
+I;시간의 잔상 계측기;1;icon_item_bluenecklace
+I;손잡이 조각;5;icon_item_TABLELAND28_2_SQ04_ITEM
+I;여신상 조각;4;icon_item_farm47_low
+I;부서진 바퀴 파편;6;icon_item_wheel
+I;그을린 화살;6;item_icon_arrow_barbedhead
 G;Armor
-I;볼륨웨이브;1;hair_GM_female
-I;크림슨 렌즈;1;icon_item_lens_red
 I;아그니 네클리스;1;item_necklace_21
-I;보라 리본 마녀 모자;1;icon_item_accessory_witchHat1
-I;타락천사날개;1;hairacc_52_doublewing_black
-I;단풍잎;1;hairacc_13_maple
 I;도사 코스튬;1;icon_item_daoshi_f
 I;섀도우맨서 루너하이더 코스튬;1;icon_item_mage_shadowmancer04_f
 I;섀도우맨서 선하이더 코스튬;1;icon_item_mage_shadowmancer02_f
 I;엘리멘탈리스트 코스튬;1;icon_item_warrock_f
 I;파이로맨서 코스튬;1;icon_item_pyromancer_f
-I;푸른 밤의 거울;1;icon_item_SpecialCostume_shadowmance

@@ -73,10 +73,6 @@ I;컬렉션: 포슬린키스 숲;1;icon_item_box
 I;컬렉션: 피스티스 숲;1;icon_item_box
 I;컬렉션: 필그림 들길;1;icon_item_box
 G;Armor
-I;프리머스 우카스 레더 글로브;1;icon_item_baldish_gloves
-I;장군의 선물;1;item_necklace_03_1
-I;종말의 선물;1;item_necklace_03_4
-I;졸업자의 선물;1;item_necklace_19_1
 I;잠자는 표범;1;icon_item_sleeping_leopard
 I;엑소시스트 코스튬;1;icon_item_Exorcist01_f
 I;딥디르비 코스튬;1;icon_item_dievdirbys_f
@@ -113,12 +109,10 @@ I;초대에 응한 자 코스튬(여);1;icon_item_blacksuit01_f
 I;2018 나무나무 코스튬(여);1;icon_item_event_2018_arbor_f
 G;Material
 I;모루;8;icon_item_anvil
-I;괴황지;4336;icon_item_guehwangji
-I;성수;388;icon_item_holywater
-I;조각용 나무;1612;icon_item_wood_5
+I;성수;376;icon_item_holywater
+I;조각용 나무;1470;icon_item_wood_5
 I;크리오라이트;7;39_icon_item_Cry8rite
 I;파이라이트;17;32_item_ore_pyrite
-I;홀리 파우더;470;icon_item_powderw
 I;압시듐 광석;4;8_item_ore_platinum
 I;주석;6;1_item_ore_copper
 I;호박;12;22_item_ore_amber
@@ -338,7 +332,7 @@ I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
 I;고농축 HP포션;120;item_HP_oil_3
 I;고농축 SP포션;94;item_SP_requid_3
 I;농축 HP포션 LV15;23;icon_item_HP_Alche
-I;농축 SP포션 LV15;36;icon_item_SP_Alche
+I;농축 SP포션 LV15;32;icon_item_SP_Alche
 I;딸기;15;icon_item_Strawberry
 I;매두스;12;icon_item_Medus
 I;바루날레샤;12;icon_item_Varnalesa

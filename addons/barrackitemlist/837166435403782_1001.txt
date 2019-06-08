@@ -137,7 +137,6 @@ I;비메자이 레더 부츠;1;icon_item_boots_vine
 I;망가진 안티 다크 브레이슬릿;1;item_bracelet_14
 I;크리스탈 뱅글;1;item_bracelet_15
 I;젖소 머리띠;1;hairacc_36_cow
-I;호랑나비;1;hairacc_17_butterfly
 I;어쌔신 리즈다스 플레저;1;icon_item_scoutCos_assa01_f
 I;어쌔신 리즈다스 키퍼;1;icon_item_scoutCos_assa02_f
 I;아웃로 러피안 리버리;1;icon_item_scoutCos_outlaw02brown_f

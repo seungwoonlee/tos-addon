@@ -44,7 +44,6 @@ I;카라챠 대거;1;icon_item_choora
 I;즈바이더 대거;1;icon_item_dagger_nicopolis1
 I;베놈;1;icon_item_pesh-kabz
 I;라파이 대거;1;icon_item_dagger_lapai
-I;골든 암밴드;1;icon_item_armband_gold
 G;Book
 I;찢어진 일기의 일부 1;1;icon_item_paperpiece
 I;찢어진 일기의 일부 2;1;icon_item_paperpiece
@@ -53,8 +52,6 @@ I;아트만의 확장;1;icon_item_collection_03Blue
 I;구겨진 쪽지;1;icon_item_PILGRIM_PIECE
 I;낡은 일기;1;icon_item_collection_04Black
 I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
-G;Seal
-I;카제 인장 - 위저드;1;icon_item_Seal_QuestRune
 G;Collection
 I;컬렉션: 알렘빅 동굴;1;icon_item_box
 I;컬렉션: 노브리어 숲;1;icon_item_box
@@ -73,16 +70,9 @@ I;컬렉션: 긴다리 계곡;1;icon_item_box
 G;Premium
 I;소울 크리스탈;20;icon_item_soulCrystal
 I;워프 주문서;20;icon_item_warpPremium
-I;인스턴스 던전 배수 토큰;10;icon_item_indunexmode
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
 I;확성기;20;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
-I;파이로맨서 스페셜 코스튬(여);1;icon_item_Mage_pyromance_f
 G;Armor
-I;아그니 네클리스;1;item_necklace_21
-I;클로버 깃털 모자;1;hairacc_hat_trump_arc
-I;까만 토끼귀;1;hairacc_45_blackrabbitears
 I;흰꽃 머리핀;1;hairacc_15_flowerribbon
 I;파이로맨서 코스튬;1;icon_item_pyromancer_f
 I;엘리멘탈리스트 코스튬;1;icon_item_warrock_f

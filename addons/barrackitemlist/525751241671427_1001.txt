@@ -56,12 +56,8 @@ G;Premium
 I;소울 크리스탈;20;icon_item_soulCrystal
 I;워프 주문서;20;icon_item_warpPremium
 I;확성기;20;icon_item_Mike
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;스킬 초기화 포션 (14일);1;icon_item_potion_resetSkill
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
-I;특성 초기화 포션 (14일);1;icon_item_AbillityReset
-I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 I;클레릭 스페셜 코스튬(여);1;icon_item_Cleric_cleric01_3_f
+I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
 I;모루;1;icon_item_anvil
 I;연습용 모루;1;icon_item_anvil
@@ -259,5 +255,5 @@ I;베아카라스 브레이슬릿;1;item_bracelet_01
 I;레비잔 브레이슬릿;1;item_bracelet_14
 I;레비잔 브레이슬릿;1;item_bracelet_14
 I;오라클 코스튬;1;icon_item_oracle_f
-I;플레이그닥터 코스튬;1;icon_item_cleric_plague_doctor_f
 I;프리스트 코스튬;1;icon_item_prist_f
+I;플레이그닥터 코스튬;1;icon_item_cleric_plague_doctor_f

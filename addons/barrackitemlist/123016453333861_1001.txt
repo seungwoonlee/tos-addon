@@ -1,0 +1,29 @@
+S;1001
+G;Unused
+I;실버;696;icon_item_silver
+G;Drug
+I;고농축 이동속도 증가 포션;5;item_speed_requid_1
+I;고농축 HP포션;35;item_HP_oil_3
+I;고농축 SP포션;35;item_SP_requid_3
+I;보급용 작은 HP포션;24;item_HP_oil_1
+I;보급용 작은 SP포션;26;item_SP_requid_1
+I;보급용 작은 스태미나 알약;22;item_STA_pill_1
+I;보급용 이동속도 증가 포션;3;item_speed_requid_1
+I;포포리온 고기;15;icon_item_meat_02
+I;보급용 워프 주문서;10;GolemMagicItem1
+G;Material
+I;젬 연마제: 3000;3;icon_item_powderp
+I;케파 줄기;2;icon_item_stem_green
+I;잎방개의 껍질;5;icon_item_shell_green
+I;인프로 락터의 껍질;4;icon_item_shell
+I;치넨시 잎;4;icon_item_bokchoyleaf
+I;하나밍 꽃잎;10;icon_item_HanamingPetal
+I;유코푸스 잎;9;icon_item_leaves_blue
+I;포쿠부 가죽;3;icon_item_Misc_00011
+I;츄파카브라 이빨;5;icon_item_tooth_white
+I;위버 더듬이;2;icon_item_feeler_black
+I;귀환석;1;MercenaryBadge
+G;Armor
+I;라이트 아머;1;icon_item_shirts_bube
+G;Weapon
+I;아라스의 폴쳔;1;icon_item_Sword_23

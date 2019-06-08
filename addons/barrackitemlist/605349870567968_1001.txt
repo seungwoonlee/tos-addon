@@ -207,6 +207,10 @@ I;그린 젬;Lv4;item_icon_Dia150
 I;그린 젬;Lv5;item_icon_Dia150
 I;그린 젬;Lv4;item_icon_Dia150
 I;그린 젬;Lv3;item_icon_Dia150
+I;그린 젬;Lv3;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
 I;블루 젬;Lv4;item_icon_Square150
 I;블루 젬;Lv6;item_icon_Square150
 I;블루 젬;Lv5;item_icon_Square150
@@ -292,6 +296,9 @@ I;옐로우 젬;Lv5;item_icon_Star150
 I;옐로우 젬;Lv2;item_icon_Star150
 I;옐로우 젬;Lv6;item_icon_Star150
 I;옐로우 젬;Lv5;item_icon_Star150
+I;옐로우 젬;Lv2;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
 I;화이트 젬;Lv1;item_icon_twentyside150
 I;화이트 젬;Lv4;item_icon_twentyside150
 I;화이트 젬;Lv3;item_icon_twentyside150
@@ -836,6 +843,25 @@ I;플람미두스 카드;Lv1;icon_item_card_def
 I;플람미두스 카드;Lv1;icon_item_card_def
 I;플람미두스 카드;Lv1;icon_item_card_def
 I;회색 골렘 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
 I;가이갈라스 카드;Lv1;icon_item_card_util
 I;네옵 카드;Lv1;icon_item_card_util
 I;네크로벤터 카드;Lv1;icon_item_card_util
@@ -1022,7 +1048,6 @@ I;웬디고 이빨;6;icon_item_tooth_white
 I;유리 조각;2;icon_item_pieceofglass
 I;유코테일 꼬리;1;icon_item_tail_jukotail
 I;유코푸스 잎;1;icon_item_leaves_blue
-I;이레디안 브로치;2;icon_item_iredian_misc01
 I;이레디안 수정 조각;4;icon_item_iredian_misc02
 I;인프로 락터의 껍질;6;icon_item_shell
 I;잎방개의 껍질;2;icon_item_shell_green
