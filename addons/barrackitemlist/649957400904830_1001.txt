@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;46219;icon_item_silver
+I;실버;58519;icon_item_silver
 G;PasteBait
 I;작은 은빛 물고기;15;icon_item_fish4
 G;Drug
@@ -43,14 +43,12 @@ I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-강화된 비스타 캐논;2;icon_item_weapon_misc3
 I;제작서-게일 슬래셔;2;icon_item_weapon_misc4
-I;제작서-겔티 알슈피스;1;icon_item_weapon_misc1
 I;제작서-더블 스택;2;icon_item_weapon_misc4
 I;제작서-드라군 파이퍼;1;icon_item_weapon_misc4
 I;제작서-디델 부라와;2;icon_item_weapon_misc3
 I;제작서-라이온 헤드 대거;5;icon_item_weapon_misc4
 I;제작서-라이온 헤드 캐논;1;icon_item_weapon_misc4
 I;제작서-마가스 레이피어;1;icon_item_weapon_misc4
-I;제작서-모플라;1;icon_item_weapon_misc1
 I;제작서-블랙 혼;1;icon_item_weapon_misc5
 I;제작서-비니 리볼버;1;icon_item_weapon_misc3
 I;제작서-비니 머스킷;1;icon_item_weapon_misc3
@@ -67,10 +65,8 @@ I;제작서-아티 스태그 스태프;1;icon_item_weapon_misc3
 I;제작서-아프가울레 보우;1;icon_item_weapon_misc4
 I;제작서-에멘가드 머스킷;1;icon_item_weapon_misc5
 I;제작서-윈디아 로드;5;icon_item_weapon_misc4
-I;제작서-일룬;1;icon_item_weapon_misc1
 I;제작서-카스티 보우;1;icon_item_weapon_misc4
 I;제작서-캐타펄트;1;icon_item_weapon_misc1
-I;제작서-페디미안 클럽;1;icon_item_weapon_misc1
 I;제작서-피그리 스피어;5;icon_item_weapon_misc4
 I;제작서-피레네 소드;3;icon_item_weapon_misc4
 I;제작서-헬스 데몬 파이크;1;icon_item_weapon_misc3
@@ -78,11 +74,6 @@ I;제작서-네펜더스 글로브;1;icon_item_gloves_misc3
 I;제작서-라이온 헤드 실드;3;icon_item_shirts_misc4
 I;제작서-비틀백;1;icon_item_shirts_misc4
 I;제작서-추종자의 레더 아머;1;icon_item_shirts_misc3
-I;제작서-테넷 체인 메일;2;icon_item_shirts_misc3
-I;제작서-테넷 체인 팬츠;1;icon_item_pants_misc3
-I;제작서-페디미안 실드;1;icon_item_shirts_misc1
-I;제작서-페디미안 아머;1;icon_item_shirts_misc1
-I;제작서-매직 탈리스만;1;icon_item_necklace_misc3
 I;제작서-산양 뿔;1;icon_item_helm_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
@@ -109,6 +100,9 @@ I;질럿 코스튬;1;icon_item_zealot1_f
 G;Premium
 I;소울 크리스탈;7;icon_item_soulCrystal
 I;워프 주문서;39;icon_item_warpPremium
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;확성기;60;icon_item_Mike
 I;확성기 50개 상자;1;icon_item_Mike_bundle
 G;Material
@@ -140,7 +134,6 @@ I;밴시의 사념체;5;icon_item_spirit_orange
 I;부베족의 증표;14;icon_item_bubetoken
 I;붉은 발래리요나스;3;icon_item_Valerijonas_Red
 I;붉은 슬라임의 핵;2;38_item_ore_mercury
-I;붉은 위저드 주술 인형의 핵;2;38_item_ore_mercury
 I;붉은 티켄의 뿔;1;icon_item_horn_ticen_red
 I;붉은 호헨 올벤의 수정구;1;icon_item_crystalball_hohen_red
 I;비토우 더듬이;1;icon_item_feeler_yellow
@@ -152,7 +145,6 @@ I;식칼;3;icon_item_knife01
 I;씨드미아 씨앗;12;icon_item_seed_brown
 I;악취나는 줄기;1;icon_item_stem_bassmell
 I;에큐바이트 더듬이;2;icon_item_feeler_purple
-I;에큐바이트 이빨;2;icon_item_tooth_blue
 I;요노움의 핵;22;icon_item_core_purple
 I;위버 더듬이;7;icon_item_feeler_black
 I;유코푸스 잎;6;icon_item_leaves_blue
@@ -177,11 +169,11 @@ I;포쿠부 가죽;2;icon_item_Misc_00011
 I;플로르;2;icon_item_crystal_green
 I;하나밍 꽃잎;5;icon_item_HanamingPetal
 I;허밍버드의 날개;1;icon_item_bugwing
-I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01
 I;과거의 기억을 기록하는 보주;1;icon_item_Dreamshade
 I;광산 마을의 식량;11;icon_item_Gem_Elemental8
+I;귀환석;1;MercenaryBadge
 I;렘파르 점액;4;icon_item_Drug_51022
 I;마비가루;1;icon_item_powderw
 I;병사의 유품;6;icon_item_small_bag
@@ -193,3 +185,4 @@ I;조잡한 탐사막대;1;icon_item_Lrod
 I;침묵 스크롤;1;icon_item_Spellbook_2
 G;Weapon
 I;프리머스 라파이 투 핸드 메이스;1;icon_item_mace_twohand_lapai
+I;프리머스 즈바이더 투 핸드 메이스;1;icon_item_thmace_nicopolis1

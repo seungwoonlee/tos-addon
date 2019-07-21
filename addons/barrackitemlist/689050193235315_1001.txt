@@ -19,12 +19,20 @@ I;오마모리;40;icon_item_omarmori
 G;SubWeapon
 I;아르데 대거;1;icon_item_main-gauche
 I;알크리스;1;icon_item_pistol_orchid
-G;Recipe
-I;제작서-아라스의 폴쳔;2;icon_item_weapon_misc3
-G;Cube
-I;[PC방] 성장 지원 상자;3;icon_item_box_pc_month
 G;Collection
 I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
+G;Recipe
+I;제작서-아라스의 폴쳔;2;icon_item_weapon_misc3
+G;Event
+I;[이벤트] 레벨업 상자 (40레벨);1;icon_item_giftBox_2
+G;Cube
+I;[PC방] 성장 지원 상자;3;icon_item_box_pc_month
+G;Premium
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;x8 경험의 서;1;icon_item_expbookx8
+I;x8 경험의 서;1;icon_item_expbookx8
+I;15레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Armor
 I;베르타스 팽글 플레이트 그리브;1;icon_item_gladiuspangle_boots
 I;베르타스 팽글 플레이트 그리브;1;icon_item_gladiuspangle_boots
@@ -81,12 +89,9 @@ I;치넨시 잎;6;icon_item_bokchoyleaf
 I;케파 줄기;6;icon_item_stem_green
 I;플로르;2;icon_item_crystal_green
 I;하나밍 꽃잎;21;icon_item_HanamingPetal
+I;[이벤트] 성장의 보석;100;icon_item_crimson2
+G;Quest
 I;귀환석;1;MercenaryBadge
-G;Premium
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;x8 경험의 서;1;icon_item_expbookx8
-I;x8 경험의 서;1;icon_item_expbookx8
-I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Weapon
 I;크리지우스 슈터;1;icon_item_crossbow_diamond
 I;파이브 해머;1;mace_blacksmith

@@ -57,6 +57,9 @@ I;보급용 워프 주문서;14;GolemMagicItem1
 I;블루 오브:호그마 전사;1;icon_item_Dreamshade
 I;은빛 물고기;67;icon_item_fish2
 I;예식용 칼;1;icon_item_artefact_Decorative_knife
+I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
+I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
+I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
 G;Collection
 I;계시록: 대립편 컬렉션;1;icon_item_holyark
 I;계시록: 이면편 컬렉션;1;icon_item_holyark
@@ -134,13 +137,9 @@ I;찢어진 일기의 일부 3;1;icon_item_paperpiece
 I;찢어진 일기의 일부 4;1;icon_item_paperpiece
 I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
-I;제작서-슈페리어 크로스보우;1;icon_item_weapon_misc3
-I;제작서-스네이크 보우;1;icon_item_weapon_misc3
 I;제작서-시즈 보우;1;icon_item_weapon_misc1
-I;제작서-일룬;4;icon_item_weapon_misc1
 I;제작서-베리스 글로브;2;icon_item_gloves_misc1
 I;제작서-카펜터 글로브;2;icon_item_gloves_misc3
-I;제작서-테넷 체인 팬츠;1;icon_item_pants_misc3
 I;제작서-산양 뿔;1;icon_item_helm_misc1
 I;제작서-자카리엘 뱅글;1;icon_item_bracelet_misc4
 I;제작서-x8 경험의 서;1;icon_item_recipe_misc1
@@ -156,10 +155,12 @@ I;레드 젬;Lv5;item_icon_circle150
 I;레드 젬;Lv6;item_icon_circle150
 I;레드 젬;Lv5;item_icon_circle150
 I;레드 젬;Lv5;item_icon_circle150
+I;레드 젬;Lv6;item_icon_circle150
 I;레드 젬;Lv5;item_icon_circle150
 I;레드 젬;Lv5;item_icon_circle150
 I;레드 젬;Lv5;item_icon_circle150
 I;레드 젬;Lv5;item_icon_circle150
+I;레드 젬;Lv6;item_icon_circle150
 I;레드 젬;Lv5;item_icon_circle150
 I;레드 젬;Lv5;item_icon_circle150
 I;레드 젬;Lv5;item_icon_circle150
@@ -171,12 +172,10 @@ I;레드 젬;Lv5;item_icon_circle150
 I;레드 젬;Lv5;item_icon_circle150
 I;레드 젬;Lv4;item_icon_circle150
 I;레드 젬;Lv4;item_icon_circle150
-I;레드 젬;Lv6;item_icon_circle150
-I;레드 젬;Lv6;item_icon_circle150
 I;그린 젬;Lv6;item_icon_Dia150
 I;그린 젬;Lv6;item_icon_Dia150
-I;그린 젬;Lv5;item_icon_Dia150
 I;그린 젬;Lv4;item_icon_Dia150
+I;그린 젬;Lv5;item_icon_Dia150
 I;그린 젬;Lv5;item_icon_Dia150
 I;그린 젬;Lv5;item_icon_Dia150
 I;그린 젬;Lv6;item_icon_Dia150
@@ -189,6 +188,7 @@ I;그린 젬;Lv5;item_icon_Dia150
 I;그린 젬;Lv6;item_icon_Dia150
 I;그린 젬;Lv6;item_icon_Dia150
 I;그린 젬;Lv5;item_icon_Dia150
+I;그린 젬;Lv1;item_icon_Dia150
 I;그린 젬;Lv5;item_icon_Dia150
 I;그린 젬;Lv5;item_icon_Dia150
 I;그린 젬;Lv6;item_icon_Dia150
@@ -210,7 +210,6 @@ I;그린 젬;Lv3;item_icon_Dia150
 I;그린 젬;Lv3;item_icon_Dia150
 I;그린 젬;Lv1;item_icon_Dia150
 I;그린 젬;Lv1;item_icon_Dia150
-I;그린 젬;Lv1;item_icon_Dia150
 I;블루 젬;Lv4;item_icon_Square150
 I;블루 젬;Lv6;item_icon_Square150
 I;블루 젬;Lv5;item_icon_Square150
@@ -225,6 +224,8 @@ I;블루 젬;Lv6;item_icon_Square150
 I;블루 젬;Lv6;item_icon_Square150
 I;블루 젬;Lv6;item_icon_Square150
 I;블루 젬;Lv6;item_icon_Square150
+I;블루 젬;Lv6;item_icon_Square150
+I;블루 젬;Lv6;item_icon_Square150
 I;블루 젬;Lv5;item_icon_Square150
 I;블루 젬;Lv6;item_icon_Square150
 I;블루 젬;Lv6;item_icon_Square150
@@ -238,13 +239,13 @@ I;블루 젬;Lv4;item_icon_Square150
 I;블루 젬;Lv6;item_icon_Square150
 I;블루 젬;Lv5;item_icon_Square150
 I;블루 젬;Lv5;item_icon_Square150
-I;블루 젬;Lv4;item_icon_Square150
-I;블루 젬;Lv4;item_icon_Square150
-I;블루 젬;Lv4;item_icon_Square150
-I;블루 젬;Lv4;item_icon_Square150
-I;블루 젬;Lv4;item_icon_Square150
-I;블루 젬;Lv4;item_icon_Square150
 I;블루 젬;Lv6;item_icon_Square150
+I;블루 젬;Lv4;item_icon_Square150
+I;블루 젬;Lv4;item_icon_Square150
+I;블루 젬;Lv4;item_icon_Square150
+I;블루 젬;Lv4;item_icon_Square150
+I;블루 젬;Lv4;item_icon_Square150
+I;블루 젬;Lv4;item_icon_Square150
 I;블루 젬;Lv4;item_icon_Square150
 I;블루 젬;Lv4;item_icon_Square150
 I;블루 젬;Lv4;item_icon_Square150
@@ -252,10 +253,9 @@ I;블루 젬;Lv5;item_icon_Square150
 I;블루 젬;Lv4;item_icon_Square150
 I;블루 젬;Lv5;item_icon_Square150
 I;블루 젬;Lv5;item_icon_Square150
-I;블루 젬;Lv6;item_icon_Square150
-I;블루 젬;Lv6;item_icon_Square150
 I;옐로우 젬;Lv5;item_icon_Star150
 I;옐로우 젬;Lv6;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
 I;옐로우 젬;Lv4;item_icon_Star150
 I;옐로우 젬;Lv5;item_icon_Star150
 I;옐로우 젬;Lv4;item_icon_Star150
@@ -296,9 +296,8 @@ I;옐로우 젬;Lv5;item_icon_Star150
 I;옐로우 젬;Lv2;item_icon_Star150
 I;옐로우 젬;Lv6;item_icon_Star150
 I;옐로우 젬;Lv5;item_icon_Star150
+I;옐로우 젬;Lv1;item_icon_Star150
 I;옐로우 젬;Lv2;item_icon_Star150
-I;옐로우 젬;Lv1;item_icon_Star150
-I;옐로우 젬;Lv1;item_icon_Star150
 I;화이트 젬;Lv1;item_icon_twentyside150
 I;화이트 젬;Lv4;item_icon_twentyside150
 I;화이트 젬;Lv3;item_icon_twentyside150
@@ -389,7 +388,7 @@ I;파야우타 카드;Lv1;icon_item_card_stat
 I;파야우타 카드;Lv10;icon_item_card_stat
 I;파야우타 카드;Lv1;icon_item_card_stat
 I;파야우타 카드;Lv10;icon_item_card_stat
-I;파야우타 카드;Lv1;icon_item_card_stat
+I;파야우타 카드;Lv10;icon_item_card_stat
 I;파야우타 카드;Lv1;icon_item_card_stat
 I;파야우타 카드;Lv10;icon_item_card_stat
 I;파야우타 카드;Lv1;icon_item_card_stat
@@ -403,10 +402,13 @@ I;파이로에고 카드;Lv1;icon_item_card_stat
 I;파이로에고 카드;Lv1;icon_item_card_stat
 I;파이로에고 카드;Lv1;icon_item_card_stat
 I;파이로에고 카드;Lv1;icon_item_card_stat
+I;파야우타 카드;Lv1;icon_item_card_stat
+I;파야우타 카드;Lv1;icon_item_card_stat
 I;그라이넨더 카드;Lv1;icon_item_card_atk
 I;그라이넨더 카드;Lv1;icon_item_card_atk
 I;그라이넨더 카드;Lv1;icon_item_card_atk
 I;그라이넨더 카드;Lv1;icon_item_card_atk
+I;글래스몰 카드;Lv1;icon_item_card_atk
 I;글래스몰 카드;Lv10;icon_item_card_atk
 I;글래스몰 카드;Lv1;icon_item_card_atk
 I;글래스몰 카드;Lv10;icon_item_card_atk
@@ -430,7 +432,6 @@ I;글래스몰 카드;Lv1;icon_item_card_atk
 I;글래스몰 카드;Lv1;icon_item_card_atk
 I;글래스몰 카드;Lv10;icon_item_card_atk
 I;글래스몰 카드;Lv10;icon_item_card_atk
-I;글래스몰 카드;Lv1;icon_item_card_atk
 I;글래스몰 카드;Lv1;icon_item_card_atk
 I;글래스몰 카드;Lv1;icon_item_card_atk
 I;글래스몰 카드;Lv1;icon_item_card_atk
@@ -464,6 +465,7 @@ I;몰디혼 카드;Lv1;icon_item_card_atk
 I;몰디혼 카드;Lv1;icon_item_card_atk
 I;몰디혼 카드;Lv1;icon_item_card_atk
 I;베아카라스 카드;Lv1;icon_item_card_atk
+I;벨니아몽키 카드;Lv10;icon_item_card_atk
 I;부베 투사 카드;Lv1;icon_item_card_atk
 I;부베 투사 카드;Lv1;icon_item_card_atk
 I;부베 투사 카드;Lv1;icon_item_card_atk
@@ -551,12 +553,9 @@ I;프로스터 로드 카드;Lv10;icon_item_card_atk
 I;프로스터 로드 카드;Lv1;icon_item_card_atk
 I;프로스터 로드 카드;Lv10;icon_item_card_atk
 I;프로스터 로드 카드;Lv1;icon_item_card_atk
-I;프리즌커터 카드;Lv1;icon_item_card_atk
 I;플록스케 카드;Lv1;icon_item_card_atk
 I;플록스케 카드;Lv1;icon_item_card_atk
 I;플록스케 카드;Lv1;icon_item_card_atk
-I;히드라 카드;Lv10;icon_item_card_atk
-I;벨니아몽키 카드;Lv10;icon_item_card_atk
 I;고르곤 카드;Lv1;icon_item_card_def
 I;고르곤 카드;Lv1;icon_item_card_def
 I;고르곤 카드;Lv1;icon_item_card_def
@@ -572,64 +571,6 @@ I;누아엘레 카드;Lv10;icon_item_card_def
 I;누아엘레 카드;Lv10;icon_item_card_def
 I;덴옵틱 카드;Lv1;icon_item_card_def
 I;덴옵틱 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
-I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
@@ -862,6 +803,63 @@ I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
 I;가이갈라스 카드;Lv1;icon_item_card_util
 I;네옵 카드;Lv1;icon_item_card_util
 I;네크로벤터 카드;Lv1;icon_item_card_util
@@ -875,7 +873,6 @@ I;데스위버 카드;Lv1;icon_item_card_util
 I;듀라한 카드;Lv1;icon_item_card_util
 I;듀라한 카드;Lv1;icon_item_card_util
 I;라바인피드 카드;Lv1;icon_item_card_util
-I;라자펄 카드;Lv1;icon_item_card_util
 I;리카우스 카드;Lv10;icon_item_card_util
 I;리카우스 카드;Lv10;icon_item_card_util
 I;리카우스 카드;Lv1;icon_item_card_util
@@ -947,6 +944,7 @@ I;하르피아 카드;Lv1;icon_item_card_util
 I;하르피아 카드;Lv1;icon_item_card_util
 I;하르피아 카드;Lv1;icon_item_card_util
 I;현혹의 스펙터 카드;Lv1;icon_item_card_util
+I;네크로벤터 카드;Lv1;icon_item_card_util
 G;Premium
 I;몬스터 젬 선택 상자: 직업;3;icon_item_jewelrybox_close
 I;소울 크리스탈;20;icon_item_soulCrystal
@@ -960,7 +958,7 @@ I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;강화용 카드 : 100;65;monster_card
+I;강화용 카드 : 100;67;monster_card
 I;마법 가루;281;icon_item_MagicPowder
 I;빈 스펠북;8;icon_item_emptySpellBook
 I;크리오라이트;9;39_icon_item_Cry8rite
@@ -997,7 +995,6 @@ I;말라두의 고기;9;icon_item_meat_02
 I;메로그의 심장;5;item_icon_heart_yellow
 I;메슘의 줄기;33;icon_item_stem_brown
 I;멜리치 껍질;7;icon_item_shell_yellow
-I;모글란 껍질;7;icon_item_shell_blackbrown
 I;묘지 골렘의 핵;4;icon_item_core_blue
 I;물푸레나무;2;icon_item_wood_2
 I;미노스의 뼈;2;icon_item_bone
@@ -1006,7 +1003,6 @@ I;바브 더듬이;5;icon_item_feeler_black
 I;바퀴;12;icon_item_wheel
 I;박쥐의 날개;12;icon_item_batwing
 I;밴시의 사념체;14;icon_item_spirit_orange
-I;버드니의 잎;6;icon_item_leaf
 I;베누켈로스의 핵;5;icon_item_core_yellow
 I;베스퍼의 무게추;3;icon_item_ballast
 I;베아카라스 파편;1;icon_item_statuepiece
@@ -1014,11 +1010,8 @@ I;베카라베의 껍질;2;icon_item_shell_yellow
 I;벨리글러 깃털;1;icon_item_feather_03Green
 I;부베족의 증표;24;icon_item_bubetoken
 I;붉은 빅 그리바 갓;7;icon_item_mushroomcap
-I;붉은 스피온 털;1;icon_item_fur_spion_red
 I;붉은 슬라임의 핵;3;38_item_ore_mercury
-I;붉은 위저드 주술 인형의 핵;2;38_item_ore_mercury
 I;붉은 인프로 락터의 껍질;1;icon_item_shell
-I;붉은 코카트 깃털;17;icon_item_feather_cockatries_red
 I;붉은 콜리멘의 꽃잎;1;icon_item_misc04_80
 I;브람블의 뿔;1;icon_item_shorthorn
 I;비카라스의 핵;10;icon_item_core_yellow
@@ -1037,12 +1030,8 @@ I;시스트 가시;1;icon_item_thorn_green
 I;식칼;11;icon_item_knife01
 I;씨드미아 씨앗;1;icon_item_seed_brown
 I;아모리 판금;3;icon_item_ironbar03_s
-I;아클라스 날개;1;icon_item_batwing
-I;아클라스의 가면;2;icon_item_mask_pendinmire
-I;아클라스의 갑옷조각;2;icon_item_FORMINE_ARMOR_SCAPULAR
 I;얼타눈 깃털;4;icon_item_feather_03Green
 I;에큐바이트 더듬이;4;icon_item_feeler_purple
-I;에큐바이트 이빨;1;icon_item_tooth_blue
 I;웬디고 송곳니;1;icon_item_tooth_white
 I;웬디고 이빨;6;icon_item_tooth_white
 I;유리 조각;2;icon_item_pieceofglass
@@ -1056,9 +1045,6 @@ I;장작;21;icon_item_woodpiece
 I;족쇄;11;icon_item_legiron
 I;지그너츠 줄기;5;icon_item_zignuts
 I;지누테의 껍질;4;icon_item_shell_blue
-I;초록 라플레시아 수술;15;icon_item_branch_00Basic
-I;초록 미노스의 털;9;icon_item_fur_02Green
-I;초록 티니 꼬리;1;icon_item_tail_tiny_green
 I;초록 호헨 갈기;2;icon_item_mane_hohen_green
 I;츄파루카 털;1;icon_item_fur_05Gray
 I;츄파카브라 이빨;13;icon_item_tooth_white
@@ -1079,22 +1065,18 @@ I;티켄의 뼈;3;icon_item_bone
 I;판토족의 뿔;19;icon_item_pantohorn
 I;포쿠본 가죽;8;icon_item_Misc_00009
 I;포쿠부 가죽;5;icon_item_Misc_00011
-I;푸른 고사루의 뿔;2;icon_item_pantohorn
 I;푸른 크로뉴트 가죽;3;icon_item_leather_cronewt_blue
-I;푸른 타누의 잎;1;icon_item_leaves_blue
 I;푸른 호헨 갈기;1;icon_item_fur_03Blue
-I;플로래비 솜털;3;icon_item_fur_spion_white
 I;하루갈 뼈;1;icon_item_bone
 I;할로우벤터의 손뼈;2;icon_item_bone
-I;호그마 전투대장 송곳니;2;icon_item_tooth_00Basic
 I;호헨 깃발 조각;5;icon_item_flag_hohen
 I;회색 스타울리트 힘줄;5;icon_item_Leash
-I;귀환석;1;MercenaryBadge
 G;Quest
 I;가시숲의 계시;1;icon_item_stonetablet
 I;공간의 문장;1;icon_item_void_01
 I;공구박스;1;icon_item_Quest_00017
 I;광기의 눈동자;6;icon_item_Velorb
+I;귀환석;1;MercenaryBadge
 I;꼬질꼬질한 꾸러미;9;icon_item_small_bag
 I;단단한 나뭇조각;2;icon_item_wood_1
 I;단서 메모;1;icon_item_diary

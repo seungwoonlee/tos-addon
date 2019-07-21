@@ -5,9 +5,9 @@ G;PasteBait
 I;작은 은빛 물고기;15;icon_item_fish4
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
-I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;농축 HP포션 LV15;24;icon_item_HP_Alche
-I;농축 SP포션 LV15;3;icon_item_SP_Alche
+I;SP 회복 소형 엘릭서 ;11;icon_item_SPelixir_Small
+I;농축 HP포션 LV15;18;icon_item_HP_Alche
+I;농축 SP포션 LV15;14;icon_item_SP_Alche
 I;딸기;17;icon_item_Strawberry
 I;라무넬레;4;icon_item_Ramunele
 I;라프세이프 버섯;3;icon_item_Pinemushroom
@@ -33,9 +33,9 @@ I;레드 오브:붉은 케파;1;icon_item_Dreamshade_red
 I;블루 오브:붉은 케파;1;icon_item_Dreamshade
 I;블루 오브:푸른 티니 궁수;1;icon_item_Dreamshade
 I;은빛 물고기;21;icon_item_fish2
-I;LV14 경험치 카드;36;icon_item_expcard
+I;LV14 경험치 카드;38;icon_item_expcard
 I;LV10 경험치 카드;1;icon_item_expcard
-I;LV15 경험치 카드;6;icon_item_expcard
+I;LV15 경험치 카드;15;icon_item_expcard
 I;종이상자;1;icon_item_paperbox
 G;SubWeapon
 I;좌절 깃발;1;OTL_flag
@@ -115,22 +115,22 @@ I;몬스터 젬 선택 상자: 직업;2;icon_item_jewelrybox_close
 I;소울 크리스탈;20;icon_item_soulCrystal
 I;워프 주문서;20;icon_item_warpPremium
 I;확성기;20;icon_item_Mike
+I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;전사용 수영복 코스튬(여);1;icon_item_warrior_mizuki_f
-I;에보니 나이트 코스튬(여);1;icon_item_chessUniform02_f
-I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
+I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
 I;소드맨 스페셜 코스튬(여);1;icon_item_warrior_swordman01_3_f
-I;전사용 세일러복 코스튬(여);1;icon_item_warrior_schoolsalor_f
+I;전사용 수영복 코스튬(여);1;icon_item_warrior_mizuki_f
+I;용병 수련복 코스튬(여);1;icon_item_lowtactic02_f
+I;마타도르 벨베스티어리 코스튬(여);1;icon_item_warrior_matador04_f
+I;전사용 파티 드레스 코스튬(여);1;icon_item_Warrior_BluePeacock_f
 I;전사용 스쿨룩 코스튬(여);1;icon_item_warrior_school_f
 I;전사용 심플 컬러 코스튬(여);1;warrior_simplecolor_f
+I;에보니 나이트 코스튬(여);1;icon_item_chessUniform02_f
 I;전사용 제복 코스튬(여);1;icon_item_warrior_uniform_f
-I;전사용 파티 드레스 코스튬(여);1;icon_item_Warrior_BluePeacock_f
 I;하급 용병 코스튬(여);1;icon_item_lowtactic01_f
-I;마타도르 벨베스티어리 코스튬(여);1;icon_item_warrior_matador04_f
+I;전사용 세일러복 코스튬(여);1;icon_item_warrior_schoolsalor_f
 I;전사용 매니시룩 코스튬(여);1;icon_item_warrior_manish_f
 G;Armor
-I;피에타스 레더 부츠;1;icon_item_9rank_leather_02_boots
-I;프리머스 우카스 레더 아머;1;icon_item_baldish_armor
 I;하플라이트 코스튬;1;icon_item_hoplites_f
 I;마타도르 벨비스트 코스튬;1;icon_item_warrior_matador02_f
 I;마타도르 코스튬;1;icon_item_warrior_matador_f
@@ -164,14 +164,12 @@ I;나무 말뚝;12;icon_item_wood_3
 I;낚시대;2;icon_item_fishingrod
 I;노란 게이징 골렘의 핵;2;icon_item_core_yellow
 I;노란 그리바 줄기;11;icon_item_stem_yellow
-I;노란 듀마로의 발톱;9;icon_item_tooth_00Basic
 I;노란 아르마의 꼬리;2;icon_item_Quest_00017
 I;노란 요노움의 핵;2;icon_item_core_yellow
 I;노란 이노움의 핵;7;icon_item_core_yellow
 I;노란 파이란 날개;2;icon_item_batwing
 I;누덕고치의 껍질;4;icon_item_shell_blue
 I;늙은 케파 껍질;10;icon_item_onionpiece
-I;단단한 껍질;12;icon_item_shell_yellow
 I;단델의 날개;26;icon_item_batwing
 I;던볼의 가시;4;icon_item_thorn_brown
 I;데스모두스 이빨;29;icon_item_tooth_yellow
@@ -212,7 +210,6 @@ I;바브 더듬이;27;icon_item_feeler_black
 I;바퀴;5;icon_item_wheel
 I;박쥐의 날개;12;icon_item_batwing
 I;밴시의 사념체;10;icon_item_spirit_orange
-I;버드니의 잎;5;icon_item_leaf
 I;베누켈로스의 핵;11;icon_item_core_yellow
 I;베스퍼의 무게추;12;icon_item_ballast
 I;베카라베의 껍질;1;icon_item_shell_yellow
@@ -220,13 +217,10 @@ I;벨리글러 깃털;9;icon_item_feather_03Green
 I;부베 활대;1;icon_item_bubebow
 I;부베족의 증표;49;icon_item_bubetoken
 I;부우크의 핵;6;icon_item_core_yellow
-I;붉은 닻의 조각;1;icon_item_small_bag
 I;붉은 레푸스버니 꼬리;2;icon_item_tail_repusbunny_red
-I;붉은 스피온 털;2;icon_item_fur_spion_red
 I;붉은 슬라임의 핵;2;38_item_ore_mercury
 I;붉은 짚단;1;icon_item_straw_red
 I;블러드 눈알;1;icon_item_Velorb
-I;블롬의 잎;1;icon_item_leaves_green
 I;비토우 더듬이;8;icon_item_feeler_yellow
 I;빅 그리바 갓;2;icon_item_mushroomcap
 I;사막 츄파카브라 가죽;4;icon_item_Misc_00008
@@ -248,12 +242,7 @@ I;신나바르;16;35_item_ore_phlogiston
 I;씨드미아 씨앗;3;icon_item_seed_brown
 I;아르마의 뿔;4;icon_item_shorthorn
 I;아모리 판금;9;icon_item_ironbar03_s
-I;아클라스 날개;2;icon_item_batwing
-I;아클라스의 가면;7;icon_item_mask_pendinmire
-I;아클라스의 갑옷조각;3;icon_item_FORMINE_ARMOR_SCAPULAR
-I;아클라스의 찢어진 천 조각;1;icon_item_clothpiece_white
 I;암몬 등뼈;11;icon_item_bone
-I;양초;11;icon_item_Crystal_00006
 I;얼타눈 깃털;2;icon_item_feather_03Green
 I;에큐바이트 더듬이;4;icon_item_feeler_purple
 I;에하드의 핵;14;icon_item_core_yellow
@@ -286,13 +275,11 @@ I;지누테카스의 핵;14;icon_item_core_green
 I;집게발;1;icon_item_Quest_00017
 I;짧은 목재;1;icon_item_wood_4
 I;체이퍼러의 날개;12;icon_item_bugwing
-I;초록 티니 꼬리;4;icon_item_tail_tiny_green
 I;츄파루카 털;7;icon_item_fur_05Gray
 I;츄파카브라 이빨;7;icon_item_tooth_white
 I;치넨시 잎;6;icon_item_bokchoyleaf
 I;카라스 파편;10;icon_item_Misc_00006
 I;카로 잎사귀;10;icon_item_leaves_green
-I;카타콤 잎방개의 껍질;1;icon_item_shell_purple
 I;케놀 수정;1;icon_item_Crystal_00005
 I;케파 줄기;45;icon_item_stem_green
 I;케포 껍질;17;icon_item_onionpiece
@@ -324,23 +311,21 @@ I;푸른 레푸스버니의 뼈;13;icon_item_bone
 I;푸른 리디메드 줄기;2;icon_item_stem_gray
 I;푸른 크로뉴트 가죽;1;icon_item_leather_cronewt_blue
 I;푸른 티니의 뿔;32;icon_item_horn_tiny_blue
-I;플락의 갑옷조각;2;icon_item_FORMINE_ARMOR_SCAPULAR
-I;플로래비 솜털;2;icon_item_fur_spion_white
-I;플로론의 잎;2;icon_item_leaf
 I;하나밍 꽃잎;83;icon_item_HanamingPetal
 I;하루갈 뼈;3;icon_item_bone
 I;할로우벤터의 손뼈;9;icon_item_bone
 I;허밍버드의 날개;9;icon_item_bugwing
 I;호그마 엄니;7;icon_item_tooth_white
-I;호그마 전투대장 송곳니;2;icon_item_tooth_00Basic
 I;호글란 부리;4;icon_item_small_bag
 I;호헨 가죽;2;icon_item_Misc_00011
+I;노란 리프넛 날개;3;icon_item_batwing
+I;붉은 튤립;17;icon_item_misc_0533
 I;차원의 정수;1;icon_item_Gem_Stone_INT
-I;귀환석;1;MercenaryBadge
 G;Quest
 I;가시숲의 계시;1;icon_item_stonetablet
 I;공간의 문장;1;icon_item_void_01
 I;공구박스;1;icon_item_Quest_00017
+I;귀환석;1;MercenaryBadge
 I;낡은 조각칼;1;icon_item_Jewstone_tool
 I;단서 메모;1;icon_item_diary
 I;대성당의 계시;1;icon_item_stonetablet
@@ -374,3 +359,5 @@ I;펜듈럼;1;icon_item_pendulum
 I;할로우벤터 목탄;1;icon_item_Misc_00022
 G;Weapon
 I;베니에르;1;Fencer_cristalrapier
+I;프리머스 레그바 스피어;1;warrior_f_spear_hasta_up_green
+I;제가 스피어;1;esponton

@@ -3,6 +3,8 @@ G;Unused
 I;실버;99999;icon_item_silver
 G;Collection
 I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
+G;Quest
+I;귀환석;1;MercenaryBadge
 G;Drug
 I;보급용 작은 HP포션;128;item_HP_oil_1
 I;보급용 작은 SP포션;126;item_SP_requid_1
@@ -16,7 +18,6 @@ I;잎방개의 껍질;5;icon_item_shell_green
 I;레지네이트;2;16_item_treenite
 I;치넨시 잎;2;icon_item_bokchoyleaf
 I;플로르;1;icon_item_crystal_green
-I;귀환석;1;MercenaryBadge
 G;SubWeapon
 I;연습용 피스톨;1;icon_item_chassepot_1
 G;Armor

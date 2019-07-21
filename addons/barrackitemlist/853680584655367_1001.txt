@@ -3,6 +3,8 @@ G;Unused
 I;실버;100000;icon_item_silver
 G;Collection
 I;컬렉션: 샤울레이 서쪽 숲;1;icon_item_box
+G;Quest
+I;귀환석;1;MercenaryBadge
 G;Armor
 I;라이트 팬츠;1;icon_item_pants_bube
 I;라이트 아머;1;icon_item_shirts_bube
@@ -21,9 +23,7 @@ I;인프로 락터의 껍질;2;icon_item_shell
 I;잎방개의 껍질;2;icon_item_shell_green
 I;케파 줄기;2;icon_item_stem_green
 I;치넨시 잎;1;icon_item_bokchoyleaf
-I;귀환석;1;MercenaryBadge
 G;SubWeapon
 I;연습용 피스톨;1;icon_item_chassepot_1
 G;Weapon
-I;슈페리어 글라디우스;1;icon_item_Sword_22
 I;오래된 글라디우스;1;icon_item_Sword_22

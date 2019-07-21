@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;100001;icon_item_silver
+I;실버;106149;icon_item_silver
 G;PasteBait
 I;보급용 미끼;771;icon_item_Paste_Bait_basic
 I;작은 은빛 물고기;7;icon_item_fish4
@@ -56,8 +56,6 @@ I;제작서-드라군 파이퍼;2;icon_item_weapon_misc4
 I;제작서-디델 부라와;1;icon_item_weapon_misc3
 I;제작서-디델 크랙드 슈터;1;icon_item_weapon_misc3
 I;제작서-라이온 헤드 캐논;2;icon_item_weapon_misc4
-I;제작서-링 로드;1;icon_item_weapon_misc1
-I;제작서-바이퍼;1;icon_item_weapon_misc4
 I;제작서-비니 리볼버;2;icon_item_weapon_misc3
 I;제작서-비니 코르세스카;1;icon_item_weapon_misc3
 I;제작서-비엔나라지스 메이스;3;icon_item_weapon_misc4
@@ -69,12 +67,9 @@ I;제작서-아티 스네이크 로드;2;icon_item_weapon_misc3
 I;제작서-아프가울레 보우;3;icon_item_weapon_misc4
 I;제작서-엘가 레이피어;2;icon_item_weapon_misc4
 I;제작서-윈디아 로드;1;icon_item_weapon_misc4
-I;제작서-일룬;2;icon_item_weapon_misc1
 I;제작서-차칸;1;icon_item_weapon_misc1
 I;제작서-카스티 로드;1;icon_item_weapon_misc4
-I;제작서-코주카;1;icon_item_weapon_misc1
 I;제작서-틸리 로드;1;icon_item_weapon_misc4
-I;제작서-포텐티아;2;icon_item_weapon_misc3
 I;제작서-피그리 스피어;2;icon_item_weapon_misc4
 I;제작서-피레네 소드;1;icon_item_weapon_misc4
 I;제작서-라이온 헤드 실드;1;icon_item_shirts_misc4
@@ -85,15 +80,9 @@ I;제작서-에멘가드 실드;1;icon_item_shirts_misc5
 I;제작서-인섹트 스커트;1;icon_item_pants_misc3
 I;제작서-추종자의 레더 아머;1;icon_item_shirts_misc3
 I;제작서-카펜터 글로브;2;icon_item_gloves_misc3
-I;제작서-테넷 체인 팬츠;1;icon_item_pants_misc3
-I;제작서-페디미안 그리브;1;icon_item_boots_misc1
-I;제작서-페디미안 레깅스;1;icon_item_pants_misc1
-I;제작서-페디미안 실드;2;icon_item_shirts_misc1
 I;제작서-컨트롤 뱅글;1;icon_item_bracelet_misc3
 I;제작서-테라리온;1;icon_item_necklace_misc4
 I;제작서-여신의 축복석;10;icon_item_recipe_misc1
-I;제작서-종이로 된 큐브(캐논);2;icon_item_recipe_misc1
-I;제작서-종이로 된 큐브(한손창);2;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 I;낡은 보급용 낚싯대;1;icon_item_Fishing_Rod_1
@@ -171,6 +160,7 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;확성기;40;icon_item_Mike
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Material
 I;모루;16;icon_item_anvil
@@ -199,7 +189,6 @@ I;벨리글러 깃털;3;icon_item_feather_03Green
 I;부베 활대;1;icon_item_bubebow
 I;부베족의 증표;18;icon_item_bubetoken
 I;붉은 슬라임의 핵;1;38_item_ore_mercury
-I;붉은 위저드 주술 인형의 핵;1;38_item_ore_mercury
 I;사디피 결정 Lv1;5;KQ_recipe_hethran_material_1_1
 I;소나무;2;icon_item_wood_3
 I;소켓의 껍질;5;icon_item_shell_blue
@@ -210,7 +199,6 @@ I;스톤오르카의 핵;10;icon_item_core_yellow
 I;식칼;3;icon_item_knife01
 I;아모리 판금;1;icon_item_ironbar03_s
 I;에큐바이트 더듬이;9;icon_item_feeler_purple
-I;에큐바이트 이빨;5;icon_item_tooth_blue
 I;오넨 정수 Lv1;4;KQ_recipe_hethran_material_1_2
 I;오염된 물;1;icon_item_Drug_51021
 I;요노움의 핵;15;icon_item_core_purple
@@ -243,11 +231,11 @@ I;하나밍 꽃잎;7;icon_item_HanamingPetal
 I;할로우벤터의 손뼈;2;icon_item_bone
 I;허니빈 침;14;icon_item_tooth_01Yellow
 I;회색 스타울리트 힘줄;4;icon_item_Leash
-I;귀환석;1;MercenaryBadge
 G;Quest
 I;경전 낱장;3;icon_item_paper
 I;공간의 문장;1;icon_item_void_01
 I;과거의 기억을 기록하는 보주;1;icon_item_Dreamshade
+I;귀환석;1;MercenaryBadge
 I;물고기 채집망;1;icon_item_3cm_landing_net
 I;부베 독 견본;15;icon_item_Drug_exDEF1
 I;수정광산의 계시;1;icon_item_stonetablet
@@ -263,5 +251,6 @@ I;호수 물고기;4;icon_item_sardine
 G;Weapon
 I;라이트 크랙드 슈터;1;icon_item_sealbow
 I;머스킷;1;Musket_it_w_oldpistol_1
+I;프리머스 즈바이더 머스킷;1;icon_item_mus_nicopolis1
 I;아스턴 보우;1;bow_logbow
 I;매직 우든 스태프;1;Mage_f_staff_woodenstick

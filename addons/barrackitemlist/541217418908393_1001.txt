@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;119999;icon_item_silver
+I;실버;151331;icon_item_silver
 G;Drug
 I;HP 회복의 엘릭서 [이벤트];6;icon_item_HPelixir
 I;SP 회복의 엘릭서 [이벤트];8;icon_item_SPelixir
@@ -46,24 +46,14 @@ I;찢어진 일기의 일부 1;1;icon_item_paperpiece
 I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
 I;제작서-그레이트 소드;2;icon_item_weapon_misc1
-I;제작서-로얄 파르티잔;1;icon_item_weapon_misc1
 I;제작서-롱 아스타;1;icon_item_weapon_misc1
 I;제작서-마기 샴시르;1;icon_item_weapon_misc3
-I;제작서-바들레르;1;icon_item_weapon_misc1
 I;제작서-비니 리볼버;1;icon_item_weapon_misc3
 I;제작서-비니 코르세스카;1;icon_item_weapon_misc3
-I;제작서-슈페리어 크로스 스태프;1;icon_item_weapon_misc1
-I;제작서-스내펀스;1;icon_item_weapon_misc1
-I;제작서-스네이크 로드;3;icon_item_weapon_misc1
 I;제작서-슬라케 듀얼 레이피어;1;icon_item_weapon_misc3
 I;제작서-아바레스트;1;icon_item_weapon_misc1
 I;제작서-아티 스네이크 로드;3;icon_item_weapon_misc3
-I;제작서-일룬;1;icon_item_weapon_misc1
-I;제작서-추라;1;icon_item_weapon_misc1
 I;제작서-카타콤 슈터;1;icon_item_weapon_misc5
-I;제작서-트라이던트;1;icon_item_weapon_misc1
-I;제작서-페디미안 터렛;1;icon_item_weapon_misc1
-I;제작서-페디미안 파이크;1;icon_item_weapon_misc1
 I;제작서-헬스 데몬 파이크;1;icon_item_weapon_misc3
 I;제작서-네펜더스 글로브;1;icon_item_gloves_misc3
 I;제작서-리에나 플레이트 아머;1;icon_item_shirts_misc3
@@ -73,11 +63,7 @@ I;제작서-비틀백;2;icon_item_shirts_misc4
 I;제작서-인섹트 그리브;1;icon_item_boots_misc3
 I;제작서-추종자의 레더 아머;1;icon_item_shirts_misc3
 I;제작서-카펜터 글로브;4;icon_item_gloves_misc3
-I;제작서-테넷 체인 팬츠;4;icon_item_pants_misc3
 I;제작서-페디미안 건틀릿;1;icon_item_gloves_misc1
-I;제작서-페디미안 글로브;3;icon_item_gloves_misc1
-I;제작서-페디미안 아머;1;icon_item_shirts_misc1
-I;제작서-펠타 실드;1;icon_item_shirts_misc1
 I;제작서-샤인 브레이슬릿;1;icon_item_bracelet_misc3
 I;제작서-시약;1;icon_item_recipe_misc1
 G;FishingRod
@@ -124,7 +110,6 @@ I;글리자돈의 뼈;1;icon_item_bone
 I;나무 말뚝;8;icon_item_wood_3
 I;노란 게이징 골렘의 핵;1;icon_item_core_yellow
 I;늙은 케파 껍질;11;icon_item_onionpiece
-I;단단한 껍질;6;icon_item_shell_yellow
 I;드레이크 고기;30;icon_item_meat_02
 I;러블렘 파편;8;icon_item_Misc_00006
 I;레비 털;4;icon_item_fur_01Yellow
@@ -144,7 +129,6 @@ I;부베족의 증표;25;icon_item_bubetoken
 I;부채잎;2;icon_item_leaf
 I;붉은 레푸스버니 꼬리;1;icon_item_tail_repusbunny_red
 I;붉은 슬라임의 핵;1;38_item_ore_mercury
-I;붉은 위저드 주술 인형의 핵;1;38_item_ore_mercury
 I;사크몰리 줄기;14;icon_item_stem_gray
 I;삼나무;301;icon_item_wood_4
 I;소나무;304;icon_item_wood_3
@@ -154,7 +138,6 @@ I;스톤오르카의 핵;20;icon_item_core_yellow
 I;식칼;9;icon_item_knife01
 I;씨드미아 씨앗;10;icon_item_seed_brown
 I;아모리 판금;9;icon_item_ironbar03_s
-I;에큐바이트 이빨;4;icon_item_tooth_blue
 I;에하드의 핵;1;icon_item_core_yellow
 I;유코푸스 잎;1;icon_item_leaves_blue
 I;이노움의 핵;4;icon_item_core_purple
@@ -187,10 +170,10 @@ I;호헨 가죽;1;icon_item_Misc_00011
 I;붉은 발래리요나스;4;icon_item_Valerijonas_Red
 I;파란 아우로라파스;2;icon_item_maple_25_grassflute_Blue
 I;노란 뷰올리우이다스;1;icon_item_Geranium_farm_Yellow
-I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01
 I;공구박스;1;icon_item_Quest_00017
+I;귀환석;1;MercenaryBadge
 I;낡은 피리;1;icon_item_flute
 I;단단한 나뭇조각;1;icon_item_wood_1
 I;독특한 산호 조각;1;icon_item_coral

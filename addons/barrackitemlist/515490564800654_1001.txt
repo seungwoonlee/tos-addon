@@ -73,7 +73,7 @@ I;워프 주문서;20;icon_item_warpPremium
 I;확성기;20;icon_item_Mike
 I;축제용 심플 코스튬(여);1;icon_item_simple_festival_f
 G;Armor
-I;흰꽃 머리핀;1;hairacc_15_flowerribbon
+I;아그니 네클리스;1;item_necklace_21
 I;파이로맨서 코스튬;1;icon_item_pyromancer_f
 I;엘리멘탈리스트 코스튬;1;icon_item_warrock_f
 I;사이코키노 코스튬;1;icon_item_psychokinesist_f

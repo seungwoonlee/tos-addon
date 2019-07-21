@@ -3,6 +3,8 @@ G;Recipe
 I;제작서-아라스의 폴쳔;2;icon_item_weapon_misc3
 G;Unused
 I;실버;99999;icon_item_silver
+G;Quest
+I;귀환석;1;MercenaryBadge
 G;Armor
 I;카울라스 레더 부츠;1;icon_item_boots_kaulas
 I;베르타스 카울라스 레더 부츠;1;icon_item_boots_kaulas
@@ -28,7 +30,6 @@ I;하나밍 꽃잎;15;icon_item_HanamingPetal
 I;치넨시 잎;8;icon_item_bokchoyleaf
 I;레지네이트;2;16_item_treenite
 I;인프로 락터의 껍질;3;icon_item_shell
-I;귀환석;1;MercenaryBadge
 G;SubWeapon
 I;(바랜)미간티스 피스톨;1;icon_item_miegantis_pistol
 G;Weapon

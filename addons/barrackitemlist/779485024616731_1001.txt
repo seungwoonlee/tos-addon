@@ -1,10 +1,10 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;99980;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
-I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;농축 HP포션 LV15;10;icon_item_HP_Alche
+I;SP 회복 소형 엘릭서 ;9;icon_item_SPelixir_Small
+I;농축 HP포션 LV15;29;icon_item_HP_Alche
 I;오르샤 워프 주문서;10;GolemMagicItem1
 I;농축 이동속도 향상의 포션;40;item_speed_requid_1
 I;라무넬레;1;icon_item_Ramunele
@@ -15,7 +15,7 @@ I;발래리요나스;2;icon_item_Valerijonas
 I;보급용 이동속도 증가 포션;3;item_speed_requid_1
 I;보급용 작은 스태미나 알약;29;item_STA_pill_1
 I;보급용 작은 회복포션;3;item_HPSP_potion_1
-I;농축 SP포션 LV15;7;icon_item_SP_Alche
+I;농축 SP포션 LV15;24;icon_item_SP_Alche
 I;정착 지원 포션 Lv2;58;item_speed_requid_3
 I;클라페다 워프 주문서;8;GolemMagicItem1
 I;페디미안 워프 주문서;9;GolemMagicItem1
@@ -50,7 +50,6 @@ I;찢어진 일기의 일부 1;1;icon_item_paperpiece
 I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 I;카듀멜 시대의 갑주;1;icon_item_collection_04Black
 G;Recipe
-I;제작서-알터 로드;1;icon_item_weapon_misc1
 I;제작서-일렉투스;1;icon_item_necklace_misc4
 I;제작서-x8 경험의 서;2;icon_item_recipe_misc1
 G;Collection
@@ -90,11 +89,16 @@ I;확성기;15;icon_item_Mike
 I;케도라 상단의 지원 선택상자 (380레벨 방어구);4;icon_item_event_weaponbox1
 I;케도라 상단의 지원 선택상자 (380레벨 무기, 방패);2;icon_item_event_weaponbox1
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;새내기 벚꽃 교복 코스튬(여);1;icon_item_schooluniform02_f
+G;Card
+I;바를킹 카드;Lv1;icon_item_card_def
 G;Armor
 I;프리머스 제베넬리스 레더 글로브;1;icon_item_leather_glove_1
-I;머스킷티어 코스튬;1;icon_item_archer_musketeer_f
 I;헌터 코스튬;1;icon_item_hunter_f
+I;머스킷티어 코스튬;1;icon_item_archer_musketeer_f
 I;산포 코스튬;1;icon_item_archerCos_tigerhunter01_f
 I;[이벤트] 산포 백호가죽 코스튬;1;icon_item_archerCos_tigerhunter02_f
 G;Material
@@ -113,7 +117,7 @@ I;노란 게이징 골렘의 핵;7;icon_item_core_yellow
 I;노란 요노움의 핵;31;icon_item_core_yellow
 I;노란 이노움의 핵;9;icon_item_core_yellow
 I;누덕고치의 껍질;1;icon_item_shell_blue
-I;단단한 껍질;21;icon_item_shell_yellow
+I;화약;10;icon_item_powderbl
 I;도요르 잎다발;3;icon_item_doyorleaf
 I;레비 털;2;icon_item_fur_01Yellow
 I;룩소돈 고기;1;icon_item_meat_02
@@ -136,7 +140,6 @@ I;스톤오르카의 핵;18;icon_item_core_yellow
 I;식칼;4;icon_item_knife01
 I;씨드미아 씨앗;2;icon_item_seed_brown
 I;에큐바이트 더듬이;7;icon_item_feeler_purple
-I;에큐바이트 이빨;5;icon_item_tooth_blue
 I;엘마 머리카락;6;icon_item_hair_elma
 I;오페러의 껍질;7;icon_item_shell_yellow
 I;요노움의 핵;22;icon_item_core_purple
@@ -167,14 +170,12 @@ I;하나밍 꽃잎;17;icon_item_HanamingPetal
 I;하루갈 뼈;4;icon_item_bone
 I;할로우벤터의 손뼈;1;icon_item_bone
 I;호헨 가죽;3;icon_item_Misc_00011
-I;화약;10;icon_item_powderbl
-I;아클라스의 갑옷조각;1;icon_item_FORMINE_ARMOR_SCAPULAR
 I;노란 리프넛의 온전한 날개;1;icon_item_misc04_65
 I;노란 리프넛 날개;1;icon_item_batwing
-I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01
 I;공구박스;1;icon_item_Quest_00017
+I;귀환석;1;MercenaryBadge
 I;달궈진 화살 촉;8;item_icon_arrow_barbedhead
 I;마력이 농축된 뿔;1;icon_item_claw_hohen
 I;마비가루;1;icon_item_powderw
@@ -195,4 +196,5 @@ I;화살 묶음;1;item_icon_barbedhead_arrow
 G;Weapon
 I;머스킷;1;Musket_it_w_oldpistol_1
 I;프리머스 즈바이더 머스킷;1;icon_item_mus_nicopolis1
+I;베르타스 레그바 머스킷;1;musket_bnhierophant_green
 I;머스킷;1;Musket_it_w_oldpistol_1

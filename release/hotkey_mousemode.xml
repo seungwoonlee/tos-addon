@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
 <Category>
 	<HotKey ID="Chat" Name="채팅" DownScp="ui.ProcessReturnKey()" UpScp="None" Key="ENTER" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="YES" Category="Basic"/>
 	<HotKey ID="ChatPad" Name="채팅(패드)" DownScp="ui.ProcessReturnKey()" UpScp="None" Key="PADENTER" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="YES" Category="Basic"/>
@@ -14,7 +13,7 @@
 	<HotKey ID="Pose" Name="매크로" DownScp="UI_TOGGLE_POSE_MACRO()" UpScp="None" Key="F8" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="System"/>
 	<HotKey ID="FriendShip" Name="컴패니언" DownScp="UI_TOGGLE_PETLIST()" UpScp="None" Key="F9" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="System"/>
 	<HotKey ID="DungeonInfo" Name="던전 정보" DownScp="UI_TOGGLE_INDUN()" UpScp="None" Key="F10" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="System"/>
-	<HotKey ID="Collection" Name="컬렉션" DownScp="UI_TOGGLE_COLLECTION()" UpScp="None" Key="F11" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="System"/>
+	<HotKey ID="Collection" Name="콜렉션" DownScp="UI_TOGGLE_COLLECTION()" UpScp="None" Key="F11" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="System"/>
 	<HotKey ID="QuestItemUse" Name="퀘스트아이템 사용" DownScp="QUESTITEMUSE_EXECUTE()" UpScp="None" Key="V" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
 	<HotKey ID="Worldmap" Name="월드맵" DownScp="UI_TOGGLE_WORLDMAP()" UpScp="None" Key="N" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
 	<HotKey ID="ShowUI" Name="UI토글" DownScp="ui.ToggleUi()" UpScp="None" Key="A" UseShift="NO" UseAlt="YES" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
@@ -100,12 +99,13 @@
 	<HotKey ID="UISelectMode_LDClick" Name="UI 선택 모드 : 좌더블클릭" DownScp="None" UpScp="None" Key="Z" UseShift="YES" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="System"/>
 	<HotKey ID="UISelectMode_RDClick" Name="UI 선택 모드 : 우더블클릭" DownScp="None" UpScp="None" Key="X" UseShift="YES" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="System"/>
 	<HotKey ID="UISelectMode_WheelUp" Name="UI 선택 모드 : 휠업" DownScp="None" UpScp="None" Key="C" UseShift="YES" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="System"/>
-	<HotKey ID="LAlt" Name="타겟정보" DownScp="None" UpScp="None" Key="LALT" UseShift="NO" UseCtrl="NO" OnEdit="NO" Category="Battle"/>
+	<HotKey ID="LAlt" Name="타겟정보" DownScp="None" UpScp="None" Key="LALT" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Battle"/>
 	<HotKey ID="Tab" Name="타겟변경" DownScp="None" UpScp="None" Key="TAB" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Battle"/>
 	<HotKey ID="Escape" Name="ESC버튼" DownScp="None" UpScp="None" Key="ESCAPE" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
 	<HotKey ID="WeaponSwap" Name="무기 스왑" DownScp="WEAPONSWAP_HOTKEY_ENTERED()" UpScp="None" Key="Z" UseShift="NO" UseAlt="YES" UseCtrl="NO" OnEdit="NO" Category="Battle"/>
 	<HotKey ID="TargetFixed" Name="타겟 고정" DownScp="None" UpScp="None" Key="LCTRL" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Battle"/>
 	<HotKey ID="ChatType" Name="채팅변경" DownScp="ui.ProcessTabKey()" UpScp="None" Key="TAB" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="YES" Category="System"/>
-	<HotKey ID="FishingBag" Name="살림통" DownScp="FISHING_ITEM_BAG_TOGGLE_UI()" UpScp="None" Key="F" UseShift="NO" UseAlt="YES" UseCtrl="NO" OnEdit="NO" Category="System"/>
-	<HotKey ID="GuildRank" Name="길드 랭킹" DownScp="GUILD_RANK_INFO_TOGGLE()" UpScp="None" Key="R" UseShift="NO" UseAlt="YES" UseCtrl="NO" OnEdit="NO" Category="System"/>
+	<HotKey ID="AutoMove" Name="자동 이동" DownScp="HOTKEY_AUTO_MOVE()" UpScp="None" Key="CAPSLOCK" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
+	<HotKey ID="ZoomIn" Name="줌 인" DownScp="HOTKEY_ZOOM_IN()" UpScp="None" Key="WHEELUP" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
+	<HotKey ID="ZoomOut" Name="줌 아웃" DownScp="HOTKEY_ZOOM_OUT()" UpScp="None" Key="WHEELDOWN" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
 </Category>

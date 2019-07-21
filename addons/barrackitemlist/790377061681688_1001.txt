@@ -126,8 +126,9 @@ I;낙무아이 코스튬;1;icon_item_warrior_nakmuay01_f
 I;바바리안 코스튬;1;icon_item_barbarian_f
 G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
-I;워프 주문서;20;icon_item_warpPremium
+I;워프 주문서;25;icon_item_warpPremium
 I;확성기;20;icon_item_Mike
+I;x8 경험의 서 (14일);1;icon_item_expbookx8
 I;몬스터 젬 선택 상자: 직업;1;icon_item_jewelrybox_close
 G;Material
 I;모루;8;icon_item_anvil

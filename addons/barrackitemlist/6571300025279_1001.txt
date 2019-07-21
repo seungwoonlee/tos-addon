@@ -20,8 +20,6 @@ I;오르샤 워프 주문서;10;GolemMagicItem1
 I;정착 지원 포션;6;item_speed_requid_3
 I;정착 지원 포션 Lv2;59;item_speed_requid_3
 I;축복이 깃든 씨앗;4;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
-I;축복이 깃든 씨앗(14일);1;icon_item_event161215_01
 I;케이스타스 수호의 포션;90;icon_item_Drug_exDEF1
 I;케이스타스 용맹의 포션;90;icon_item_Drug_exATK1
 I;클라페다 워프 주문서;10;GolemMagicItem1
@@ -30,7 +28,6 @@ I;폭죽;10;icon_item_firework
 I;LV3 경험치 카드;2;icon_item_expcard
 I;LV4 경험치 카드;2;icon_item_expcard
 I;보급용 워프 주문서;19;GolemMagicItem1
-I;여신의 조각상(14일);1;icon_item_farm47_broken_zemina
 G;Collection
 I;컬렉션: 렘파라사 연못;1;icon_item_box
 I;컬렉션: 테넷 성당 지상 1층;1;icon_item_box
@@ -41,6 +38,7 @@ I;특성 포인트 1000;1;icon_item_abilitypoint
 I;특성 포인트 1000;1;icon_item_abilitypoint
 I;특성 포인트 1000;1;icon_item_abilitypoint
 I;특성 포인트 1000;1;icon_item_abilitypoint
+I;[이벤트] 레벨업 상자 (220레벨);1;icon_item_giftBox_2
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black
 G;Recipe
@@ -60,10 +58,10 @@ I;바삭바삭 초콜릿 피스톨;1;icon_item_cookie_pistol
 G;Cube
 I;[PC방] 성장 지원 상자;2;icon_item_box_pc_month
 G;Premium
-I;15레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
-I;170레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;40레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;75레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;120레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
+I;170레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;x4 경험의 서;1;icon_item_expbookx4
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
@@ -107,8 +105,6 @@ I;긴급 수리 키트;10;icon_item_repairkit
 I;몬스터 젬 선택 상자: 위저드;1;icon_item_luckybox_green
 I;소울 크리스탈;10;icon_item_soulCrystal
 I;워프 주문서;9;icon_item_warpPremium
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
 I;인스턴스 던전 배수 토큰;42;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -235,9 +231,10 @@ I;퓨어 크리스탈;1;icon_item_Gem_Aquamarine
 I;하나밍 꽃잎;20;icon_item_HanamingPetal
 I;할로우벤터의 사념체;2;icon_item_spirit_purple
 I;할로우벤터의 손뼈;46;icon_item_bone
-I;귀환석;1;MercenaryBadge
+I;[이벤트] 성장의 보석;1500;icon_item_crimson2
 G;Quest
 I;광산 나침반;1;icon_item_compass
+I;귀환석;1;MercenaryBadge
 I;렘파르 점액;3;icon_item_Drug_51022
 I;의식용 밧줄;1;icon_item_tentaclel
 I;파괴용 주술인형 소환서;1;GolemMagicItem1

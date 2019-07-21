@@ -1,6 +1,18 @@
 S;1001
 G;Unused
 I;실버;99999;icon_item_silver
+G;Drug
+I;보급용 이동속도 증가 포션;3;item_speed_requid_1
+I;보급용 작은 HP포션;28;item_HP_oil_1
+I;보급용 작은 SP포션;23;item_SP_requid_1
+I;보급용 작은 스태미나 알약;23;item_STA_pill_1
+I;정착 지원 포션 Lv2;10;item_speed_requid_3
+I;보급용 워프 주문서;10;GolemMagicItem1
+G;Event
+I;특성 포인트 10,000;5;icon_item_abilitypoint4
+I;[이벤트] 레벨업 상자 (40레벨);1;icon_item_giftBox_2
+G;Cube
+I;[PC방] 성장 지원 상자;4;icon_item_box_pc_month
 G;Premium
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
@@ -76,20 +88,11 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;15레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;확성기;10;icon_item_Mike
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;x8 경험의 서;1;icon_item_expbookx8
-I;15레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-G;Cube
-I;[PC방] 성장 지원 상자;4;icon_item_box_pc_month
-G;Drug
-I;보급용 이동속도 증가 포션;3;item_speed_requid_1
-I;보급용 작은 HP포션;28;item_HP_oil_1
-I;보급용 작은 SP포션;23;item_SP_requid_1
-I;보급용 작은 스태미나 알약;23;item_STA_pill_1
-I;정착 지원 포션 Lv2;10;item_speed_requid_3
-I;보급용 워프 주문서;10;GolemMagicItem1
 G;Armor
 I;타이타나스 그리브;1;icon_item_boots_titanas
 I;베르타스 이렐리스 부츠;1;icon_item_cloth_boots_1
@@ -107,9 +110,9 @@ G;Material
 I;잎방개의 껍질;9;icon_item_shell_green
 I;케파 줄기;6;icon_item_stem_green
 I;하나밍 꽃잎;1;icon_item_HanamingPetal
+I;[이벤트] 성장의 보석;100;icon_item_crimson2
+G;Quest
 I;귀환석;1;MercenaryBadge
-G;Event
-I;특성 포인트 10,000;5;icon_item_abilitypoint4
 G;Weapon
 I;슈페리어 글라디우스;1;icon_item_Sword_22
 I;오래된 글라디우스;1;icon_item_Sword_22

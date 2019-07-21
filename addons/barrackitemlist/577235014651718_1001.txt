@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;118362;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;30;icon_item_HPelixir_Small
 I;보급용 SP포션;30;item_SP_requid_2
@@ -54,27 +54,16 @@ I;제작서-윈디아 로드;2;icon_item_weapon_misc4
 I;제작서-윙샤드 스피어;1;icon_item_weapon_misc5
 I;제작서-카타콤 슈터;1;icon_item_weapon_misc5
 I;제작서-헬스 데몬 파이크;1;icon_item_weapon_misc3
-I;제작서-호그마 그레이트 소드;1;icon_item_weapon_misc3
-I;제작서-위저드 블레이드;1;icon_item_weapon_misc3
 I;제작서-골든 폴쳔;1;icon_item_weapon_misc3
 I;제작서-차칸;1;icon_item_weapon_misc1
 I;제작서-라이온 헤드 실드;2;icon_item_shirts_misc4
-I;제작서-록소나 플레이트 팬츠;2;icon_item_pants_misc4
 I;제작서-비르토브 글로브;1;icon_item_gloves_misc4
 I;제작서-비르토브 레더 글로브;1;icon_item_gloves_misc4
 I;제작서-추종자의 레더 아머;1;icon_item_shirts_misc3
-I;제작서-테넷 체인 메일;1;icon_item_shirts_misc3
-I;제작서-테넷 체인 팬츠;1;icon_item_pants_misc3
-I;제작서-페디미안 실드;1;icon_item_shirts_misc1
-I;제작서-페디미안 아머;3;icon_item_shirts_misc1
-I;제작서-매직 탈리스만;1;icon_item_necklace_misc3
 I;제작서-산양 뿔;1;icon_item_helm_misc1
 I;제작서-안티 다크 네클리스;3;icon_item_necklace_misc3
 I;제작서-레비잔 네클리스;1;icon_item_necklace_misc4
 I;제작서-x8 경험의 서;5;icon_item_recipe_misc1
-I;제작서-종이로 된 큐브(머스킷);3;icon_item_recipe_misc1
-I;제작서-종이로 된 큐브(양손활);2;icon_item_recipe_misc1
-I;제작서-종이로 된 큐브(한손검);3;icon_item_recipe_misc1
 G;FishingRod
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 G;Collection
@@ -87,6 +76,7 @@ I;컬렉션: 수정광산 2층;1;icon_item_box
 I;컬렉션: 테넷 화원;1;icon_item_box
 I;컬렉션: 지마 수코트;1;icon_item_box
 G;Premium
+I;긴급 수리 키트;10;icon_item_repairkit
 I;소울 크리스탈;14;icon_item_soulCrystal
 I;워프 주문서;13;icon_item_warpPremium
 I;워프 주문서 10개 상자;4;icon_item_warpPremium_bundle
@@ -102,7 +92,6 @@ I;그루머 잎;6;icon_item_leaves_green
 I;글리자돈의 뼈;1;icon_item_bone
 I;나무 말뚝;5;icon_item_wood_3
 I;노란 이노움의 핵;1;icon_item_core_yellow
-I;단단한 껍질;11;icon_item_shell_yellow
 I;레푸스버니 털;2;icon_item_fur_05Gray
 I;리플라이 날개;2;icon_item_bugwing
 I;말라두의 고기;1;icon_item_meat_02
@@ -118,8 +107,6 @@ I;씨드미아 씨앗;1;icon_item_seed_brown
 I;아모리 판금;1;icon_item_ironbar03_s
 I;악취나는 줄기;1;icon_item_stem_bassmell
 I;에큐바이트 더듬이;8;icon_item_feeler_purple
-I;에큐바이트 수정;1;icon_item_Crystal_00005
-I;에큐바이트 이빨;6;icon_item_tooth_blue
 I;오페러의 껍질;1;icon_item_shell_yellow
 I;요노움의 핵;11;icon_item_core_purple
 I;위버 더듬이;4;icon_item_feeler_black
@@ -139,7 +126,6 @@ I;코릴러스의 뿔;6;icon_item_pantohorn
 I;코카트리스 깃털;2;icon_item_feather_02Yellow
 I;쿠게리 심바니의 모자장식;1;icon_item_misc04_104
 I;쿠게리의 천조각;2;icon_item_clothpiece_white
-I;호그마 전투대장 송곳니;2;icon_item_tooth_00Basic
 I;톤투리아의 가시;7;icon_item_thorn_Yellow
 I;판토족의 뿔;5;icon_item_pantohorn
 I;포쿠부 가죽;2;icon_item_Misc_00011
@@ -158,10 +144,10 @@ I;노란 아르마의 꼬리;1;icon_item_Quest_00017
 I;노란 파이란 날개;3;icon_item_batwing
 I;붉은 슬라임의 핵;1;38_item_ore_mercury
 I;츄파루카 털;1;icon_item_fur_05Gray
-I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01
 I;광산 마을의 식량;10;icon_item_Gem_Elemental8
+I;귀환석;1;MercenaryBadge
 I;먼지묻은 유적지 파편;3;icon_item_stonepiece_01Yellow
 I;독특한 산호 조각;2;icon_item_coral
 I;로그 마스터의 주머니;1;icon_item_farm47_sack_01
@@ -182,7 +168,7 @@ I;과거의 기억을 기록하는 보주;1;icon_item_Dreamshade
 I;조잡한 탐사막대;1;icon_item_Lrod
 G;Armor
 I;불릿 마커 휠러 코스튬;1;icon_item_bulletmarker03_f
-I;불릿 마커 코스튬;1;icon_item_bulletmarker_f
 I;불릿 마커 매처 코스튬;1;icon_item_bulletmarker02_f
+I;불릿 마커 코스튬;1;icon_item_bulletmarker_f
 I;인챈터 코스튬;1;icon_item_mage_enchanter_f
 I;셰리프 코스튬;1;icon_item_scoutCos_sheriff01_f
