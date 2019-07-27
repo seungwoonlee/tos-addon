@@ -1,6 +1,6 @@
 S;1001
 G;Unused
-I;실버;99980;icon_item_silver
+I;실버;100000;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;9;icon_item_SPelixir_Small
@@ -93,8 +93,6 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;새내기 벚꽃 교복 코스튬(여);1;icon_item_schooluniform02_f
-G;Card
-I;바를킹 카드;Lv1;icon_item_card_def
 G;Armor
 I;프리머스 제베넬리스 레더 글로브;1;icon_item_leather_glove_1
 I;헌터 코스튬;1;icon_item_hunter_f

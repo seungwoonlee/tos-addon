@@ -31,6 +31,7 @@ I;제작서-샤인 브레이슬릿;2;icon_item_bracelet_misc3
 I;제작서-x8 경험의 서;7;icon_item_recipe_misc1
 I;제작서-여신의 축복석;10;icon_item_recipe_misc1
 G;Cube
+I;환상 도서관: 사우시스 9관 악세사리 선택 상자;1;icon_item_giftbox_4
 I;[PC방] 성장 지원 상자;3;icon_item_box_pc_month
 G;Armor
 I;갈라티카 그리브;1;icon_item_boots_frost
@@ -98,13 +99,11 @@ I;바퀴;2;icon_item_wheel
 I;박쥐 이빨;1;icon_item_tooth_white
 I;박쥐의 날개;28;icon_item_batwing
 I;밴시의 사념체;4;icon_item_spirit_orange
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;베누켈로스의 핵;1;icon_item_core_yellow
 I;베스퍼의 무게추;11;icon_item_ballast
 I;부베족의 증표;3;icon_item_bubetoken
 I;부우크의 핵;6;icon_item_core_yellow
 I;붉은 인프로 락터의 껍질;1;icon_item_shell
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;사막 츄파카브라 고기;1;icon_item_meat_01
 I;사우가의 핵;2;icon_item_core_yellow
 I;사크몰리 줄기;1;icon_item_stem_gray
@@ -122,7 +121,6 @@ I;식칼;2;icon_item_knife01
 I;씨드미아 씨앗;11;icon_item_seed_brown
 I;아르마의 뿔;1;icon_item_shorthorn
 I;아슈롱 줄기;1;icon_item_stem_gray
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;암몬 등뼈;3;icon_item_bone
 I;에큐바이트 더듬이;4;icon_item_feeler_purple
@@ -213,8 +211,10 @@ I;죄수의 편지;1;icon_item_paper
 I;케파리 살점;5;icon_item_PILGRIM_MEAT_01
 I;펜듈럼;1;icon_item_pendulum
 I;호수의 기운을 머금은 잎;18;icon_item_leaves_blue
+I;클라페다 귀환석;1;MercenaryBadge_leaf
+I;오르샤 귀환석;1;MercenaryBadge_Orange
 G;Unused
-I;실버;755243;icon_item_silver
+I;실버;995243;icon_item_silver
 G;PasteBait
 I;작은 은빛 물고기;21;icon_item_fish4
 G;Drug
@@ -270,11 +270,12 @@ I;해독제;6;icon_item_Quest_00020
 I;LV13 경험치 카드;7;icon_item_expcard
 I;LV15 경험치 카드;9;icon_item_expcard
 I;LV5 경험치 카드;5;icon_item_expcard
-I;LV6 경험치 카드;6;icon_item_expcard
+I;LV6 경험치 카드;8;icon_item_expcard
 I;LV7 경험치 카드;2;icon_item_expcard
 I;보급용 워프 주문서;26;GolemMagicItem1
 I;블루 오브:붉은 트리펠리;1;icon_item_Dreamshade
 I;여신의 조각상;1;icon_item_farm47_broken_zemina
+I;LV12 경험치 카드;2;icon_item_expcard
 I;은빛 물고기;55;icon_item_fish2
 I;오마모리;120;icon_item_omarmori
 I;다과 세트;1;icon_item_artefact_Tea_Set
@@ -296,6 +297,7 @@ I;[이벤트] 레어 인챈트 쥬얼;1;item_icon_armor_linksoul2
 I;[이벤트] 레어 인챈트 쥬얼;1;item_icon_armor_linksoul2
 I;[이벤트] 레어 인챈트 쥬얼;1;item_icon_armor_linksoul2
 I;[이벤트] 레어 인챈트 쥬얼;1;item_icon_armor_linksoul2
+I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
@@ -396,6 +398,9 @@ I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
 I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
+I;바를킹 카드;Lv1;icon_item_card_def
 I;네크로벤터 카드;Lv1;icon_item_card_util
 I;현혹의 스펙터 카드;Lv1;icon_item_card_util
 I;크래빌 카드;Lv1;icon_item_card_util
@@ -433,8 +438,6 @@ I;확성기 50개 상자;3;icon_item_Mike_bundle
 I;[이벤트]전투 지원 상자;1;item_icon_elixerHPSP_BOX
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;[이벤트]전투 지원 상자;1;item_icon_elixerHPSP_BOX
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;참 잘했어요 스탬프;1;icon_item_greatstamp
 I;[이벤트]축제용 심플 코스튬(여);1;icon_item_simple_festival_f

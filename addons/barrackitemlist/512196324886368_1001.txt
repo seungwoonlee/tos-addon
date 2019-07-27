@@ -16,6 +16,7 @@ I;제작서-아키바 브레이슬릿;1;icon_item_bracelet_misc4
 I;제작서-x8 경험의 서;2;icon_item_recipe_misc1
 G;Cube
 I;환상 도서관: 사우시스 9관 악세사리 선택 상자;1;icon_item_giftbox_4
+I;환상 도서관: 사우시스 9관 악세사리 선택 상자;1;icon_item_giftbox_4
 G;Premium
 I;[이벤트]전투 지원 상자;1;item_icon_elixerHPSP_BOX
 I;[이벤트]전투 지원 상자;1;item_icon_elixerHPSP_BOX
@@ -67,7 +68,6 @@ I;홀리 파우더;375;icon_item_powderw
 I;압시듐 광석;2;8_item_ore_platinum
 I;호박;1;22_item_ore_amber
 I;LV2 보물상자 열쇠;1;icon_item_key1
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;갈고리;2;icon_item_claw_01
 I;갈색 라프세이프 잎;6;icon_item_leaves_lapasape_brown
 I;갈색 티니의 뼈;2;icon_item_bone
@@ -76,7 +76,6 @@ I;그루머 잎;3;icon_item_leaves_green
 I;글리자돈의 뼈;1;icon_item_bone
 I;나무 말뚝;4;icon_item_wood_3
 I;낚시대;1;icon_item_fishingrod
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;노란 게이징 골렘의 핵;2;icon_item_core_yellow
 I;노란 리프넛의 꼬리;3;icon_item_misc04_64
 I;노란 뷰올리우이다스;3;icon_item_Geranium_farm_Yellow
@@ -116,7 +115,6 @@ I;부베 활대;4;icon_item_bubebow
 I;부베족의 증표;32;icon_item_bubetoken
 I;부우크의 핵;2;icon_item_core_yellow
 I;붉은 발래리요나스;11;icon_item_Valerijonas_Red
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;붉은 슬라임의 핵;7;38_item_ore_mercury
 I;비토우 더듬이;1;icon_item_feeler_yellow
@@ -213,6 +211,8 @@ I;작은 오르골;1;icon_item_musicbox
 I;진실의 거울;1;icon_item_magic_mirror_1
 I;펜듈럼;1;icon_item_pendulum
 I;힘의 결정;9;icon_item_core_06Black
+I;클라페다 귀환석;1;MercenaryBadge_leaf
+I;오르샤 귀환석;1;MercenaryBadge_Orange
 G;Unused
 I;실버;2358642;icon_item_silver
 G;PasteBait
@@ -277,6 +277,7 @@ I;[이벤트] 레어 인챈트 쥬얼;1;item_icon_armor_linksoul2
 I;[이벤트] 레어 인챈트 쥬얼;1;item_icon_armor_linksoul2
 I;[이벤트] 레어 인챈트 쥬얼;1;item_icon_armor_linksoul2
 I;[이벤트] 레어 인챈트 쥬얼;1;item_icon_armor_linksoul2
+I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1

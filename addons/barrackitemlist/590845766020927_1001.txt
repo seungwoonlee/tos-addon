@@ -20,6 +20,7 @@ I;제작서-x8 경험의 서;6;icon_item_recipe_misc1
 I;제작서-여신의 축복석;5;icon_item_recipe_misc1
 G;Cube
 I;[PC방] 성장 지원 상자;4;icon_item_box_pc_month
+I;환상 도서관: 사우시스 9관 악세사리 선택 상자;1;icon_item_giftbox_4
 G;Armor
 I;마이너 팬츠;1;icon_item_pants_bube_blue
 I;마이너 아머;1;icon_item_shirts_bube_blue
@@ -51,13 +52,13 @@ I;파이라이트;129;32_item_ore_pyrite
 I;주석;2;1_item_ore_copper
 I;호박;8;22_item_ore_amber
 I;LV2 보물상자 열쇠;2;icon_item_key1
-I;각성 가루;339;icon_item_wakepowder
+I;바이보라의 날개 주화;15;icon_item_wingcoin
+I;각성 가루;186;icon_item_wakepowder
 I;갈록 가죽;1;icon_item_Misc_00007
 I;갈색 라프세이프 잎;6;icon_item_leaves_lapasape_brown
 I;거대한 갈고리;11;icon_item_claw_01
 I;글리자돈의 뼈;9;icon_item_bone
 I;나무 말뚝;10;icon_item_wood_3
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;노란 리프넛 날개;2;icon_item_batwing
 I;노란 뷰올리우이다스;1;icon_item_Geranium_farm_Yellow
 I;노란 파이란 날개;2;icon_item_batwing
@@ -75,7 +76,6 @@ I;밴시의 사념체;4;icon_item_spirit_orange
 I;부베 활대;3;icon_item_bubebow
 I;부베족의 증표;19;icon_item_bubetoken
 I;붉은 발래리요나스;2;icon_item_Valerijonas_Red
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;붉은 슬라임 점액;1;icon_item_misc04_78
 I;붉은 슬라임의 핵;2;38_item_ore_mercury
 I;붉은 인프로 락터의 껍질;1;icon_item_shell
@@ -91,7 +91,6 @@ I;스타울리트 심장;4;item_icon_heart_red
 I;스톤오르카의 핵;24;icon_item_core_yellow
 I;식칼;2;icon_item_knife01
 I;아모리 판금;5;icon_item_ironbar03_s
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;에큐바이트 더듬이;4;icon_item_feeler_purple
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone
@@ -151,8 +150,10 @@ I;탁본 도구;1;icon_item_sidebag
 I;펜듈럼;1;icon_item_pendulum
 I;푸른 빛이 깃든 날개;1;icon_item_misc04_42
 I;화살 묶음;1;item_icon_barbedhead_arrow
+I;클라페다 귀환석;1;MercenaryBadge_leaf
+I;오르샤 귀환석;1;MercenaryBadge_Orange
 G;Unused
-I;실버;5400081;icon_item_silver
+I;실버;6471081;icon_item_silver
 G;PasteBait
 I;작은 은빛 물고기;5;icon_item_fish4
 G;Drug
@@ -209,6 +210,10 @@ I;특성 포인트 1000;1;icon_item_abilitypoint
 I;특성 포인트 1,000;26;icon_item_abilitypoint
 I;특성 포인트 1000;1;icon_item_abilitypoint
 I;특성 포인트 1000;1;icon_item_abilitypoint
+I;특성 포인트 500 (14일);1;icon_item_abilitypoint2
+I;특성 포인트 500 (14일);1;icon_item_abilitypoint2
+I;특성 포인트 500 (14일);1;icon_item_abilitypoint2
+I;특성 포인트 500 (14일);1;icon_item_abilitypoint2
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
@@ -223,6 +228,7 @@ I;[이벤트] 레어 인챈트 쥬얼;1;item_icon_armor_linksoul2
 I;[이벤트] 레어 인챈트 쥬얼;1;item_icon_armor_linksoul2
 I;[이벤트] 레어 인챈트 쥬얼;1;item_icon_armor_linksoul2
 I;[이벤트] 레어 인챈트 쥬얼;1;item_icon_armor_linksoul2
+I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1

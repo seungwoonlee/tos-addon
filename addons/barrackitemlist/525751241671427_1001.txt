@@ -250,5 +250,7 @@ I;칼레이마스의 비밀 장치 설명서;1;icon_item_magicpaper
 I;테넷 성당의 계시;1;icon_item_stonetablet
 I;펜듈럼;1;icon_item_pendulum
 I;푸른 램프의 기름;7;icon_item_liquid
+I;클라페다 귀환석;1;MercenaryBadge_leaf
+I;오르샤 귀환석;1;MercenaryBadge_Orange
 G;Weapon
 I;프리머스 레그바 레이피어;1;rapier_noble_yellow

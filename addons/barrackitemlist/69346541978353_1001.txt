@@ -357,7 +357,9 @@ I;큐폴 밀다의 조사 기록;1;icon_item_paper
 I;테넷 성당의 계시;1;icon_item_stonetablet
 I;펜듈럼;1;icon_item_pendulum
 I;할로우벤터 목탄;1;icon_item_Misc_00022
+I;클라페다 귀환석;1;MercenaryBadge_leaf
+I;오르샤 귀환석;1;MercenaryBadge_Orange
 G;Weapon
 I;베니에르;1;Fencer_cristalrapier
-I;프리머스 레그바 스피어;1;warrior_f_spear_hasta_up_green
 I;제가 스피어;1;esponton
+I;프리머스 레그바 스피어;1;warrior_f_spear_hasta_up_green

@@ -35,7 +35,8 @@ I;해독제;2;icon_item_Quest_00020
 I;할로윈 폭죽;1;icon_item_firework
 I;레드 오브:폰드;1;icon_item_Dreamshade_red
 I;보급용 워프 주문서;11;GolemMagicItem1
-I;LV14 경험치 카드;5;icon_item_expcard
+I;LV14 경험치 카드;21;icon_item_expcard
+I;LV15 경험치 카드;6;icon_item_expcard
 I;신부 비둘기 오르골;1;icon_item_MusicBox_Wedding02
 I;종이상자;1;icon_item_paperbox
 G;SubWeapon
@@ -401,6 +402,7 @@ I;마법사의 탑의 계시;1;icon_item_stonetablet
 I;흡수석;1;icon_item_gimmick_movecrystal
 I;반짝이는 붉은 조각;4;icon_item_Gem_Stone_STR
 I;수정광산의 계시;1;icon_item_stonetablet
+I;클라페다 귀환석;1;MercenaryBadge_leaf
 I;쉬트리가일라의 오브;1;icon_item_core_red
 I;아띠의 노란 즙액;17;icon_item_Drug_STA1
 I;아이트바라스의 기록;1;icon_item_diary
@@ -417,6 +419,7 @@ I;테넷 성당의 계시;1;icon_item_stonetablet
 I;테레쉬 꽃가루;15;icon_item_Salavijas
 I;펜듈럼;1;icon_item_pendulum
 I;폭탄;5;icon_item_bomb
+I;오르샤 귀환석;1;MercenaryBadge_Orange
 G;Armor
 I;인퀴지터 코스튬;1;icon_item_inquisitor_f
 I;채플린 코스튬;1;icon_item_chaplain_f

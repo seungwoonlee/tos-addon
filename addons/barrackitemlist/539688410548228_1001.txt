@@ -69,14 +69,14 @@ I;토큰:7일[증정용];1;icon_item_token
 I;토큰:7일[증정용];1;icon_item_token
 I;확성기;43;icon_item_Mike
 I;[이벤트]전투 지원 상자;1;item_icon_elixerHPSP_BOX
+I;[이벤트]전투 지원 상자;1;item_icon_elixerHPSP_BOX
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;토큰:7일[증정용];1;icon_item_token
-I;[이벤트]전투 지원 상자;1;item_icon_elixerHPSP_BOX
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;[이벤트]전투 지원 상자;1;item_icon_elixerHPSP_BOX
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;워프 주문서 10개 상자;3;icon_item_warpPremium_bundle
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;전사용 심플 컬러 코스튬(여);1;warrior_simplecolor_f
 G;Cube
 I;신규/복귀 환영 상자;2;icon_item_giftbox_4
@@ -140,11 +140,8 @@ I;츄파카브라 이빨;21;icon_item_tooth_white
 I;치넨시 잎;5;icon_item_bokchoyleaf
 I;케파 줄기;8;icon_item_stem_green
 I;포쿠부 가죽;2;icon_item_Misc_00011
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;하나밍 꽃잎;11;icon_item_HanamingPetal
-I;바이보라의 날개 주화;45;icon_item_wingcoin
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+I;바이보라의 날개 주화;55;icon_item_wingcoin
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone

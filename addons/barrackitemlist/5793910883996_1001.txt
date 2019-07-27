@@ -209,17 +209,17 @@ I;컬렉션: 페디미안 외곽;1;icon_item_box
 I;컬렉션: 폴쳔이란 무엇인가;1;icon_item_box
 G;Drug
 I;리사이클 메달;288;icon_item_recyclemedal
-I;HP 회복 소형 엘릭서 ;20;icon_item_HPelixir_Small
+I;HP 회복 소형 엘릭서 ;17;icon_item_HPelixir_Small
 I;HP포션;1;item_HP_oil_2
-I;SP 회복 소형 엘릭서 ;22;icon_item_SPelixir_Small
+I;SP 회복 소형 엘릭서 ;8;icon_item_SPelixir_Small
 I;SP포션;2;item_SP_requid_2
 I;고농축 HP포션;1;item_HP_oil_3
 I;고농축 SP포션;50;item_SP_requid_3
 I;고농축 이동속도 증가 포션;10;item_speed_requid_1
 I;공기 정화 수정;1;14_item_ithildin
 I;광역 공격 비율 증가 포션 LV15;1;item_speed_requid_1
-I;농축 HP포션 LV15;61;icon_item_HP_Alche
-I;농축 SP포션 LV15;47;icon_item_SP_Alche
+I;농축 HP포션 LV15;22;icon_item_HP_Alche
+I;농축 SP포션 LV15;32;icon_item_SP_Alche
 I;농축 이동속도 증가 포션 LV15;2;item_speed_requid_1
 I;농축 이동속도 향상의 포션;2;item_speed_requid_1
 I;누켈라;3;icon_item_Nukela
@@ -233,8 +233,8 @@ I;레드옥스;2;icon_item_Red_Ox
 I;루팅 찬스 증가 포션;4;icon_item_looting_potion_01
 I;루팅 찬스: 100;8;item_icon_luckypotion_100
 I;루팅 찬스: 300;2;item_icon_luckypotion_300
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
+I;땅 속성 저항력 포션;1;icon_item_Seed_HR1
+I;라프세이프 버섯;24;icon_item_Pinemushroom
 I;마이트 포션;1;item_speed_requid_1
 I;매두스;41;icon_item_Medus
 I;물리 치명타 공격력 증가 포션;1;item_speed_requid_1
@@ -252,7 +252,6 @@ I;여신의 조각상;1;icon_item_farm47_broken_zemina
 I;오르샤 워프 주문서;10;GolemMagicItem1
 I;워시스;17;icon_item_Uosis
 I;웨딩 케이크;3;icon_item_weddingcake
-I;인스턴스 던전 1회 입장권 (14일);1;icon_item_indunonemoreEnter
 I;정착 지원 포션 Lv2;29;item_speed_requid_3
 I;축복이 깃든 씨앗;30;icon_item_event161215_01
 I;컴패니언 먹이;2;icon_item_meat_01
@@ -347,6 +346,7 @@ I;특성 포인트 1000;1;icon_item_abilitypoint
 I;특성 포인트 1000;1;icon_item_abilitypoint
 I;특성 포인트 1000;1;icon_item_abilitypoint
 I;특성 포인트 100;3;icon_item_abilitypoint3
+I;특성 포인트 500 (14일);1;icon_item_abilitypoint2
 I;[이벤트] 레어 인챈트 쥬얼;1;item_icon_armor_linksoul2
 I;[이벤트] 레어 인챈트 쥬얼;1;item_icon_armor_linksoul2
 I;[이벤트] 레어 인챈트 쥬얼;1;item_icon_armor_linksoul2
@@ -368,11 +368,7 @@ I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
-I;마법 부여 스크롤(14일);1;icon_item_enchantScroll
+I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
 I;연하장;1;icon_item_event_invitation2
 G;Book
 I;겨울의 부싯돌;1;icon_item_collection_00Basic
@@ -660,13 +656,13 @@ I;제작서-포이즈마 체인;1;icon_item_necklace_misc3
 I;제작서-x4 경험의 서;1;icon_item_recipe_misc1
 I;제작서-x8 경험의 서;4;icon_item_recipe_misc1
 I;제작서-영웅의 징벌 포션: 야수;1;icon_item_recipe_misc1
-I;제작서-레이드 포탈 스톤;4;icon_item_recipe_misc1
+I;제작서-레이드 포탈 스톤;10;icon_item_recipe_misc1
 G;FishingRod
 I;낡은 낚싯대;1;icon_item_Fishing_Rod_1
 I;클라페다 낚싯대;1;icon_item_Fishing_Rod_2
 G;Cube
-I;여신의 선물 상자[보루타];1;icon_item_cube3_blow
 I;환상 도서관: 사우시스 9관 악세사리 선택 상자;1;icon_item_giftbox_4
+I;여신의 선물 상자[보루타];1;icon_item_cube3_blow
 G;Helmet
 I;24K 금괴 멍멍 헬멧 코스튬;1;item_icon_helmet_goldstonedog01
 I;복실복실 황금개 헬멧 코스튬;1;item_icon_helmet_golddog
@@ -678,8 +674,6 @@ I;치킨 푸들 헤드(여);1;icon_item_helmet_poodle_f
 I;케파 헤드(여);1;icon_item_helmet_kepa_f
 I;포포리온 헤드(여);1;icon_item_helmet_popolion_f
 I;하나밍 헤드(여);1;icon_item_helmet_hanaming_f
-I;브레이슬릿 오브 린네;1;item_bracelet_18
-I;브레이슬릿 오브 린네;1;item_bracelet_18
 I;강아지 풍선;1;icon_item_dogballoon
 I;강아지 풍선;1;icon_item_dogballoon
 I;강아지 풍선;1;icon_item_dogballoon
@@ -952,10 +946,11 @@ I;모루;11;icon_item_anvil
 I;황금 모루;6;icon_item_anvil_gold
 I;마력 흡수침;35;icon_item_spellneedle
 I;분해의 망치;32;icon_item_farm47_wood_hammer
-I;괴황지;2850;icon_item_guehwangji
+I;Lv.400 각성 연마재;2;icon_item_awakemisc01
+I;괴황지;4139;icon_item_guehwangji
 I;빈 스펠북;11;icon_item_emptySpellBook
 I;시간의 결정;3;icon_item_timespace
-I;시간의 결정 파편;522;icon_item_spacepiece
+I;시간의 결정 파편;220;icon_item_spacepiece
 I;칼사이트;11;14_item_ithildin
 I;크리오라이트;16;39_icon_item_Cry8rite
 I;파이라이트;9;32_item_ore_pyrite
@@ -963,20 +958,21 @@ I;도마뱀 호박;1;23_item_ore_amber_lizard
 I;압시듐 광석;16;8_item_ore_platinum
 I;주석;7;1_item_ore_copper
 I;호박;50;22_item_ore_amber
-I;이실딘 광석;6;9_item_ore_orichalcon
+I;이실딘 광석;7;9_item_ore_orichalcon
+I;혈석;1;34_item_ore_blood_stone
 I;LV2 보물상자 열쇠;4;icon_item_key1
+I;노란 요노움의 핵;1;icon_item_core_yellow
 I;각성 가루;17;icon_item_wakepowder
 I;갈고리;6;icon_item_claw_01
 I;갈록 가죽;1;icon_item_Misc_00007
 I;갈색 라프세이프 잎;21;icon_item_leaves_lapasape_brown
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+I;단델의 날개;183;icon_item_batwing
 I;갈색 스타울리트 투구 파편;9;icon_item_helm_stoulet
 I;갈색 콜리멘 꽃;16;icon_item_flower_colimen_brown
 I;갈색 티니의 뼈;48;icon_item_bone
 I;갈색 티니의 뿔;8;icon_item_horn_tiny_brown
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;검은 드레이크의 심장;1;item_icon_heart_red
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
+I;우르바스 증표;2;icon_item_borutakey
 I;계열 코스튬 교환권;7;icon_item_exchange_costumeCoupon
 I;고블린 부적;11;icon_item_bubetoken
 I;고사루의 뼈;1;icon_item_bone
@@ -992,7 +988,6 @@ I;나뭇가지;2;icon_item_branch_00Basic
 I;낚시대;23;icon_item_fishingrod
 I;노란 이노움의 핵;4;icon_item_core_yellow
 I;노란 카로의 가죽;1;icon_item_Misc_00009
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;누덕고치의 껍질;2;icon_item_shell_blue
 I;누크의 질 좋은 가죽;1;icon_item_misc_0516
 I;닻;3;icon_item_ironbar03_s
@@ -1006,7 +1001,6 @@ I;드레이크 고기;4;icon_item_meat_02
 I;드레이크의 뿔;91;icon_item_longhorn
 I;드레이크의 피막;2;icon_item_batwing
 I;떡갈나무;15;icon_item_wood_1
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;라플렛 꽃;7;icon_item_raffletflfower
 I;락터의 껍질;4;icon_item_shell_green
 I;램베어 뼈;27;icon_item_bone
@@ -1027,7 +1021,6 @@ I;메다키아 금속장식;5;icon_item_Neck_100002
 I;메다키아의 뿔;35;pokubu_horn
 I;메로그의 심장;20;item_icon_heart_yellow
 I;메슘의 줄기;24;icon_item_stem_brown
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;묘지 골렘의 핵;18;icon_item_core_blue
 I;바를거너의 대포 조각;1;icon_item_misc_0512
 I;물푸레나무;41;icon_item_wood_2
@@ -1037,13 +1030,11 @@ I;미듀쟈 촉수;1;icon_item_tentaclel
 I;밀납;14;icon_item_wax
 I;바브 더듬이;18;icon_item_feeler_black
 I;바브의 껍질;35;icon_item_shell_blackbrown
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;바퀴;8;icon_item_wheel
 I;박쥐 이빨;3;icon_item_tooth_white
 I;박쥐의 날개;12;icon_item_batwing
 I;밴시의 두건;3;icon_item_bandana
 I;밴시의 사념체;4;icon_item_spirit_orange
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;베누켈로스의 핵;16;icon_item_core_yellow
 I;베스퍼의 무게추;23;icon_item_ballast
 I;베카라베의 껍질;4;icon_item_shell_yellow
@@ -1062,7 +1053,7 @@ I;붉은 슬라임의 핵;4;38_item_ore_mercury
 I;붉은 인프로 락터의 껍질;1;icon_item_shell
 I;붉은 코카트 벼슬;11;icon_item_comb_cockatries_red
 I;붉은 콜리멘의 꽃잎;3;icon_item_misc04_80
-I;붉은 튤립;22;icon_item_misc_0533
+I;붉은 튤립;37;icon_item_misc_0533
 I;붉은 트리펠리 버섯;12;icon_item_mushroom_truffle_red
 I;붉은 티켄의 뿔;36;icon_item_horn_ticen_red
 I;붉은 호헨 올벤의 수정구;10;icon_item_crystalball_hohen_red
@@ -1129,7 +1120,6 @@ I;인프로 락터의 뼈;7;icon_item_bone
 I;인프로 버크의 껍질;1;icon_item_shell_red
 I;인프로 홀더의 뼈;12;icon_item_bone
 I;잎방개의 껍질;2;icon_item_shell_green
-I;잡초;1;icon_item_grassbladeb
 I;장작;7;icon_item_woodpiece
 I;정련 주괴;1;icon_item_ironbar01_s
 I;제페토 잎;2;icon_item_leaves_green
@@ -1203,7 +1193,6 @@ I;티켄의 뼈;1;icon_item_bone
 I;파란 아우로라파스;4;icon_item_maple_25_grassflute_Blue
 I;판토족의 뿔;80;icon_item_pantohorn
 I;팔라팜 조각 Lv1;17;KQ_recipe_hethran_material_1_3
-I;페릿의 털;42;icon_item_fur_spion_white
 I;펜딘마이어 가면;2;icon_item_mask_pendinmire
 I;포쿠본 가죽;1;icon_item_Misc_00009
 I;포쿠부 가죽;4;icon_item_Misc_00011

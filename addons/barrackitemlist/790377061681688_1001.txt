@@ -6,8 +6,8 @@ I;작은 은빛 물고기;2;icon_item_fish4
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
-I;농축 HP포션 LV15;34;icon_item_HP_Alche
-I;농축 SP포션 LV15;11;icon_item_SP_Alche
+I;농축 HP포션 LV15;53;icon_item_HP_Alche
+I;농축 SP포션 LV15;24;icon_item_SP_Alche
 I;라프세이프 버섯;9;icon_item_Pinemushroom
 I;레드옥스;4;icon_item_Red_Ox
 I;마법 공격력 포션;3;item_speed_requid_1
@@ -32,7 +32,7 @@ I;보급용 큰 SP포션;100;item_SP_requid_3
 I;LV10 경험치 카드;22;icon_item_expcard
 I;LV11 경험치 카드;6;icon_item_expcard
 I;LV13 경험치 카드;19;icon_item_expcard
-I;LV14 경험치 카드;84;icon_item_expcard
+I;LV14 경험치 카드;100;icon_item_expcard
 I;레드 오브:폰드;1;icon_item_Dreamshade_red
 I;레드 오브:판토 궁수;1;icon_item_Dreamshade_red
 I;레드 오브:누카;2;icon_item_Dreamshade_red
@@ -41,6 +41,7 @@ I;블루 오브:러바인러바;1;icon_item_Dreamshade
 I;블루 오브:쿠게리 발저;1;icon_item_Dreamshade
 I;블루 오브:하루갈;1;icon_item_Dreamshade
 I;은빛 물고기;4;icon_item_fish2
+I;LV15 경험치 카드;6;icon_item_expcard
 G;Book
 I;낡은 일기;1;icon_item_collection_04Black
 I;록소나 내전 제 2장;1;icon_item_collection_04Black
@@ -58,23 +59,9 @@ I;찢어진 일기의 일부 4;1;icon_item_paperpiece
 I;카듀멜 시대의 갑주;1;icon_item_collection_04Black
 I;태고의 사건들 : 보루타에 관하여;1;icon_item_collection_00Basic
 G;Recipe
-I;제작서-더크대거;1;icon_item_weapon_misc1
-I;제작서-루다스 스태프;3;icon_item_weapon_misc3
-I;제작서-스내펀스;1;icon_item_weapon_misc1
-I;제작서-링 로드;1;icon_item_weapon_misc1
-I;제작서-코르세스카;1;icon_item_weapon_misc1
-I;제작서-루마이 투 핸드 소드;1;icon_item_weapon_misc1
-I;제작서-배틀포크;1;icon_item_weapon_misc1
-I;제작서-콜리슈마르드;1;icon_item_weapon_misc1
-I;제작서-태그 보우;2;icon_item_weapon_misc1
 I;제작서-디델 타워 실드;1;icon_item_shirts_misc3
-I;제작서-로얄 가드 아머;1;icon_item_shirts_misc1
-I;제작서-로얄 가드 팬츠;1;icon_item_pants_misc1
 I;제작서-록소나 레더 팬츠;1;icon_item_pants_misc4
 I;제작서-비르토브 글로브;1;icon_item_gloves_misc4
-I;제작서-쉐이드 스커트;1;icon_item_pants_misc4
-I;제작서-슈페리어 로얄 가드 건틀릿;1;icon_item_gloves_misc1
-I;제작서-슈페리어 로얄 가드 그리브;1;icon_item_boots_misc1
 I;제작서-카펜터 글로브;1;icon_item_gloves_misc3
 I;제작서-산양 뿔;1;icon_item_helm_misc1
 I;제작서-샤인 브레이슬릿;2;icon_item_bracelet_misc3
@@ -128,7 +115,6 @@ G;Premium
 I;소울 크리스탈;15;icon_item_soulCrystal
 I;워프 주문서;25;icon_item_warpPremium
 I;확성기;20;icon_item_Mike
-I;x8 경험의 서 (14일);1;icon_item_expbookx8
 I;몬스터 젬 선택 상자: 직업;1;icon_item_jewelrybox_close
 G;Material
 I;모루;8;icon_item_anvil
@@ -147,11 +133,9 @@ I;글리자돈의 뼈;1;icon_item_bone
 I;노란 게이징 골렘의 핵;5;icon_item_core_yellow
 I;노란 요노움의 핵;7;icon_item_core_yellow
 I;노란 이노움의 핵;1;icon_item_core_yellow
-I;노란 콜리플라이 수술;4;icon_item_stamen_colifly_yellow
 I;누덕고치의 껍질;6;icon_item_shell_blue
-I;단단한 껍질;52;icon_item_shell_yellow
 I;단델의 날개;18;icon_item_batwing
-I;데드본스캡의 가면;3;icon_item_Quest_00017
+I;붉은 튤립;4;icon_item_misc_0533
 I;데스모두스 이빨;13;icon_item_tooth_yellow
 I;도요르 잎다발;1;icon_item_doyorleaf
 I;램베어 뼈;7;icon_item_bone
@@ -183,7 +167,6 @@ I;씨드미아 씨앗;9;icon_item_seed_brown
 I;얼타눈 깃털;5;icon_item_feather_03Green
 I;얼타눈의 뼈;2;icon_item_bone
 I;에큐바이트 더듬이;7;icon_item_feeler_purple
-I;에큐바이트 이빨;1;icon_item_tooth_blue
 I;엘마 머리카락;15;icon_item_hair_elma
 I;요노움의 핵;29;icon_item_core_purple
 I;우펜트의 껍질;2;icon_item_Misc_00015
@@ -200,7 +183,6 @@ I;장작;10;icon_item_woodpiece
 I;지그너츠 줄기;5;icon_item_zignuts
 I;집게발;3;icon_item_Quest_00017
 I;찢어진 종이조각;1;icon_item_flag_hohen
-I;체이퍼러의 껍질;1;icon_item_shell_purple
 I;체이퍼러의 날개;14;icon_item_bugwing
 I;츄파카브라 가죽;3;icon_item_Misc_00007
 I;츄파카브라 이빨;9;icon_item_tooth_white
@@ -231,11 +213,11 @@ I;할로우벤터의 손뼈;32;icon_item_bone
 I;허니빈 침;28;icon_item_tooth_01Yellow
 I;호그마 엄니;3;icon_item_tooth_white
 I;회색 스타울리트 힘줄;7;icon_item_Leash
-I;귀환석;1;MercenaryBadge
 G;Quest
 I;고원 감자;4;icon_item_maladufat
 I;공간의 문장;1;icon_item_void_01
-I;리디아 샤펜의 교차선;1;icon_item_collection_04Black
+I;귀환석;1;MercenaryBadge
+I;클라페다 귀환석;1;MercenaryBadge_leaf
 I;낡은 편지;1;icon_item_loveletter
 I;대지의 요새의 계시;1;icon_item_stonetablet
 I;독특한 산호 조각;1;icon_item_coral
@@ -255,5 +237,6 @@ I;펜듈럼;1;icon_item_pendulum
 I;푸른 라프세이프의 얼룩 버섯;4;icon_item_TABLELAND28_2_SQ05_ITEM
 I;필기도구가 든 가방;1;icon_item_sidebag
 I;흡수스크롤;1;GolemMagicItem2
+I;오르샤 귀환석;1;MercenaryBadge_Orange
 G;Weapon
 I;트리니티 소드;1;icon_item_Sword_30

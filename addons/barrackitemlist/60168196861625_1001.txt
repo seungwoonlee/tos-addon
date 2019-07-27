@@ -316,6 +316,8 @@ I;펜듈럼;1;icon_item_pendulum
 I;푸른 리디메드의 잎사귀;8;icon_item_leaves_blue
 I;푸른 빛이 깃든 날개;1;icon_item_misc04_42
 I;하우벅 봉인조각;1;icon_item_Bezoari
+I;클라페다 귀환석;1;MercenaryBadge_leaf
+I;오르샤 귀환석;1;MercenaryBadge_Orange
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
 I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
@@ -345,7 +347,7 @@ I;포포리온 고기;13;icon_item_meat_02
 I;폭죽;25;icon_item_firework
 I;해독제;8;icon_item_Quest_00020
 I;LV13 경험치 카드;12;icon_item_expcard
-I;LV14 경험치 카드;135;icon_item_expcard
+I;LV14 경험치 카드;137;icon_item_expcard
 I;LV15 경험치 카드;15;icon_item_expcard
 I;레드 오브:분홍 츄파루카;1;icon_item_Dreamshade_red
 I;블루 오브:부베 주술사;1;icon_item_Dreamshade

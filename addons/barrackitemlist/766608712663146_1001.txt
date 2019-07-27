@@ -1,14 +1,14 @@
 S;1001
 G;Unused
-I;실버;100000;icon_item_silver
+I;실버;100001;icon_item_silver
 G;Drug
 I;HP 회복 소형 엘릭서 ;10;icon_item_HPelixir_Small
-I;SP 회복 소형 엘릭서 ;10;icon_item_SPelixir_Small
+I;SP 회복 소형 엘릭서 ;8;icon_item_SPelixir_Small
 I;고농축 HP포션;40;item_HP_oil_3
 I;고농축 SP포션;40;item_SP_requid_3
 I;고농축 이동속도 증가 포션;10;item_speed_requid_1
-I;농축 HP포션 LV15;9;icon_item_HP_Alche
-I;농축 SP포션 LV15;6;icon_item_SP_Alche
+I;농축 HP포션 LV15;25;icon_item_HP_Alche
+I;농축 SP포션 LV15;20;icon_item_SP_Alche
 I;라무넬레;4;icon_item_Ramunele
 I;라프세이프 버섯;6;icon_item_Pinemushroom
 I;매두스;31;icon_item_Medus
@@ -147,15 +147,15 @@ I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 G;Material
 I;모루;6;icon_item_anvil
 I;헤스란 증표 Lv1;1;icon_KQ_token_hethran_1
-I;독액;48;icon_item_posion
+I;독액;41;icon_item_posion
 I;성수;5;icon_item_holywater
 I;조각용 나무;14;icon_item_wood_5
 I;크리오라이트;14;39_icon_item_Cry8rite
-I;매직 애로우;423;icon_item_magicarrow
-I;신기전;168;icon_item_singijon
-I;바브드 애로우;171;item_icon_arrow_barbedhead
-I;헤일매리 애로우;552;item_icon_hail_mary_arrow
-I;보드킨 포인트 애로우;496;item_icon_bodkinpoint_arrow
+I;매직 애로우;406;icon_item_magicarrow
+I;신기전;131;icon_item_singijon
+I;바브드 애로우;116;item_icon_arrow_barbedhead
+I;헤일매리 애로우;472;item_icon_hail_mary_arrow
+I;보드킨 포인트 애로우;492;item_icon_bodkinpoint_arrow
 I;브로드 헤드 애로우;992;item_icon_arrow_barbedhead
 I;주석;5;1_item_ore_copper
 I;호박;8;22_item_ore_amber
@@ -178,6 +178,7 @@ I;노란 이노움의 핵;3;icon_item_core_yellow
 I;노란 페이그 쉬어러의 천조각;9;icon_item_clothpiece_brown
 I;노란 페이그 클램퍼의 집게;1;icon_item_misc04_12
 I;노란 페이그 클램퍼의 천조각;27;icon_item_clothpiece_brown
+I;붉은 튤립;2;icon_item_misc_0533
 I;단델의 날개;28;icon_item_batwing
 I;던볼의 가시;4;icon_item_thorn_brown
 I;데스모두스 이빨;2;icon_item_tooth_yellow
@@ -229,7 +230,7 @@ I;씨드미아 씨앗;8;icon_item_seed_brown
 I;악취나는 줄기;1;icon_item_stem_bassmell
 I;암몬 등뼈;4;icon_item_bone
 I;얼타눈 깃털;5;icon_item_feather_03Green
-I;에큐바이트 더듬이;5;icon_item_feeler_purple
+I;에큐바이트 더듬이;3;icon_item_feeler_purple
 I;엘마 머리카락;11;icon_item_hair_elma
 I;요노움의 핵;21;icon_item_core_purple
 I;우펜트의 껍질;2;icon_item_Misc_00015

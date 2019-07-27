@@ -21,6 +21,7 @@ I;120레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;170레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;[이벤트]전투 지원 상자;1;item_icon_elixerHPSP_BOX
 I;[이벤트]전투 지원 상자;1;item_icon_elixerHPSP_BOX
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
@@ -42,11 +43,10 @@ I;워프 주문서;26;icon_item_warpPremium
 I;워프 주문서 10개 상자;6;icon_item_warpPremium_bundle
 I;인스턴스 던전 1회 입장권;2;icon_item_indunFreeEnter
 I;인스턴스 던전 배수 토큰;2;icon_item_indunexmode
-I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;[이벤트]전투 지원 상자;1;item_icon_elixerHPSP_BOX
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
+I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
@@ -150,15 +150,12 @@ I;크로마독 뼈;1;icon_item_bone
 I;판토족의 뿔;22;icon_item_pantohorn
 I;포쿠본 가죽;4;icon_item_Misc_00009
 I;포쿠부 가죽;1;icon_item_Misc_00011
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;하나밍 꽃잎;63;icon_item_HanamingPetal
 I;하이 부베족의 증표;2;icon_item_bubetoken
 I;허밍버드의 날개;1;icon_item_bugwing
 I;호글란 부리;1;icon_item_small_bag
 I;[SummerFesta]특별한 얼음;5;icon_item_1807_pool_ice
-I;바이보라의 날개 주화;5;icon_item_wingcoin
+I;바이보라의 날개 주화;15;icon_item_wingcoin
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone

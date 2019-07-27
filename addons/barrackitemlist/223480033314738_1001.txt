@@ -30,10 +30,10 @@ I;농축 SP포션 LV15;40;icon_item_SP_Alche
 I;보급용 작은 HP포션;3;item_HP_oil_1
 I;[PC방] SP 회복 소형 엘릭서 ;20;icon_item_random_spellixerbox
 I;레드 오브:말라두;1;icon_item_Dreamshade_red
-I;LV14 경험치 카드;86;icon_item_expcard
+I;LV14 경험치 카드;102;icon_item_expcard
 I;LV1 경험치 카드;23;icon_item_expcard
 I;보급용 워프 주문서;10;GolemMagicItem1
-I;LV15 경험치 카드;9;icon_item_expcard
+I;LV15 경험치 카드;15;icon_item_expcard
 I;LV13 경험치 카드;7;icon_item_expcard
 I;디스펠러;10;icon_item_grimoire_blue
 G;SubWeapon
@@ -57,8 +57,6 @@ I;리디아 샤펜의 오늬;1;icon_item_collection_01Red
 I;리디아 샤펜과 럼펠스틸스킨;1;icon_item_collection_02green
 G;Recipe
 I;제작서-뚫어뻥;26;icon_item_weapon_misc5
-I;제작서-일룬;3;icon_item_weapon_misc1
-I;제작서-테넷 체인 메일;1;icon_item_shirts_misc3
 G;Collection
 I;컬렉션: 이브레 고원;1;icon_item_box
 I;컬렉션: 스벤티마스 유형지;1;icon_item_box
@@ -186,7 +184,6 @@ I;코도모르 가시;3;icon_item_thorn_blue
 I;크루마보 잎;1;icon_item_leaves_green
 I;코카트리스 가죽;1;icon_item_Misc_00012
 I;그리바 갓;1;icon_item_mushroomcap
-I;호그마 전투대장 송곳니;1;icon_item_tooth_00Basic
 I;검은 드레이크의 심장;1;item_icon_heart_red
 I;단델의 날개;3;icon_item_batwing
 I;메다키아의 뿔;1;pokubu_horn
@@ -211,16 +208,7 @@ I;로모르 잎;2;icon_item_leaves_green
 I;드레이크 고기;1;icon_item_meat_02
 I;미듀쟈 촉수;1;icon_item_tentaclel
 I;푸른 크로뉴트 가죽;4;icon_item_leather_cronewt_blue
-I;아클라스의 가면;13;icon_item_mask_pendinmire
-I;아클라스의 갑옷조각;4;icon_item_FORMINE_ARMOR_SCAPULAR
-I;아클라스 날개;2;icon_item_batwing
-I;아클라스의 찢어진 천 조각;2;icon_item_clothpiece_white
 I;노란 게이징 골렘의 핵;1;icon_item_core_yellow
-I;플로론의 잎;3;icon_item_leaf
-I;플로래비 솜털;1;icon_item_fur_spion_white
-I;블롬의 잎;3;icon_item_leaves_green
-I;푸른 수호 거미 다리;1;icon_item_leg_defenderSpider_blue
-I;초록 미노스의 털;6;icon_item_fur_02Green
 I;갈색 라프세이프 잎;3;icon_item_leaves_lapasape_brown
 I;사디피 결정 Lv1;16;KQ_recipe_hethran_material_1_1
 I;오넨 정수 Lv1;11;KQ_recipe_hethran_material_1_2
@@ -229,15 +217,13 @@ I;쿠게리의 천조각;1;icon_item_clothpiece_white
 I;노란 리프넛 날개;1;icon_item_batwing
 I;포쿠부 가죽;1;icon_item_Misc_00011
 I;노란 파이란 날개;2;icon_item_batwing
-I;붉은 위저드 주술 인형의 핵;1;38_item_ore_mercury
 I;붉은 슬라임의 핵;2;38_item_ore_mercury
-I;에큐바이트 이빨;1;icon_item_tooth_blue
-I;귀환석;1;MercenaryBadge
 G;Quest
 I;공간의 문장;1;icon_item_void_01
 I;테넷 성당의 계시;1;icon_item_stonetablet
 I;수정광산의 계시;1;icon_item_stonetablet
 I;일회용 시약병;1;icon_item_Quest_00020
+I;귀환석;1;MercenaryBadge
 I;가시숲의 계시;1;icon_item_stonetablet
 I;자카리엘 왕릉의 계시;1;icon_item_stonetablet
 I;순례자의 표식;30;neck_pilgrim_01
@@ -251,9 +237,14 @@ I;오래된 도구;8;icon_item_farm47_wood_hammer
 I;허밀가의 붉은 수정;1;icon_item_Gem_Stone_STR
 I;검 연습대 파편;1;icon_item_Quest_00017
 I;리디아 샤펜의 오늬;1;icon_item_collection_01Red
+I;클라페다 귀환석;1;MercenaryBadge_leaf
 I;검 연습대 제작 도구;1;icon_item_Quest_00017
+I;오르샤 귀환석;1;MercenaryBadge_Orange
 G;Weapon
 I;리가드 혼 파이크;1;icon_item_spear_regardhorn_TH
 I;프리머스 라파이 파이크;1;icon_item_spear_twohand_lapai
 I;프리머스 라파이 파이크;1;icon_item_spear_twohand_lapai
+I;프리머스 레그바 파이크;1;icon_item_f_thspear_lightning
+I;프리머스 레그바 파이크;1;icon_item_f_thspear_lightning
+I;베르타스 레그바 파이크;1;icon_item_f_thspear_lightning
 I;일기당천 언월도;1;icon_item_BlueDragon_thspear

@@ -80,12 +80,9 @@ I;코릴러스의 뿔;23;icon_item_pantohorn
 I;티피오의 꽃술;3;icon_item_tipiostamen
 I;판토족의 뿔;16;icon_item_pantohorn
 I;포쿠부 가죽;20;icon_item_Misc_00011
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;푸른 듀마로의 발톱;2;icon_item_claw_00Basic
 I;푸른 레푸스버니의 뼈;1;icon_item_bone
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
-I;바이보라의 날개 주화;5;icon_item_wingcoin
+I;바이보라의 날개 주화;15;icon_item_wingcoin
 I;플로르;1;icon_item_crystal_green
 I;피렌트 꽃;2;icon_item_firentflower
 I;하나밍 꽃잎;32;icon_item_HanamingPetal
@@ -139,9 +136,6 @@ I;은빛 물고기;4;icon_item_fish2
 I;클래스 경험치 복구 카드 (1st);1;icon_item_classExp_rollback
 I;클래스 경험치 복구 카드 (Last);1;icon_item_classExp_rollback
 I;LV3 경험치 카드;1;icon_item_expcard
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
-I;물에 젖은 몬스터 카드첩 (14일);1;icon_item_get_wet_cardbook
 G;Event
 I;특성 포인트 1,000;10;icon_item_abilitypoint
 I;특성 포인트 1000;1;icon_item_abilitypoint
@@ -197,8 +191,10 @@ I;[이벤트]전투 지원 상자;1;item_icon_elixerHPSP_BOX
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;I♥TOS 코스튬 선택상자;1;icon_item_tos_fes2019_selectbox
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;[이벤트]전투 지원 상자;1;item_icon_elixerHPSP_BOX
 I;[이벤트]전투 지원 상자;1;item_icon_elixerHPSP_BOX
+I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;x4 경험의 서;1;icon_item_expbookx4
 I;x8 경험의 서;1;icon_item_expbookx8
 I;x8 경험의 서;1;icon_item_expbookx8
@@ -232,13 +228,11 @@ I;워프 주문서;48;icon_item_warpPremium
 I;워프 주문서 10개 상자;5;icon_item_warpPremium_bundle
 I;인스턴스 던전 배수 토큰;14;icon_item_indunexmode
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;15레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;40레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;75레벨 무기 / 방어구 선택상자;4;icon_item_event_weaponbox1
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter
 I;[이벤트]전투 지원 상자;1;item_icon_elixerHPSP_BOX
-I;인스턴스 던전 배수 토큰 (14일);1;icon_item_indunexmode
 I;인스턴스 던전 소탕권 (1성);21;icon_item_induntheend
 I;인스턴스 던전 소탕권 (3성);7;icon_item_induntheend
 I;인스턴스 던전 입장 횟수 초기화권;1;icon_item_indunFreeEnter

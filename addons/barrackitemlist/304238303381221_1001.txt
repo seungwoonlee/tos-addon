@@ -34,6 +34,7 @@ I;제작서-여신의 축복석;5;icon_item_recipe_misc1
 G;Cube
 I;[PC방] 성장 지원 상자;4;icon_item_box_pc_month
 I;환상 도서관: 사우시스 9관 악세사리 선택 상자;1;icon_item_giftbox_4
+I;환상 도서관: 사우시스 9관 악세사리 선택 상자;1;icon_item_giftbox_4
 G;Premium
 I;[이벤트]전투 지원 상자;1;item_icon_elixerHPSP_BOX
 I;[이벤트]전투 지원 상자;1;item_icon_elixerHPSP_BOX
@@ -205,9 +206,6 @@ I;푸른 레푸스버니의 뼈;4;icon_item_bone
 I;푸른 콜리멘 꽃;1;icon_item_flower_colimen_blue
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;프리미엄 각성석(14일);1;icon_item_awakeningstone
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
-I;프리미엄 각성석(14일);1;icon_item_awakeningstone
 I;플로르;1;icon_item_crystal_green
 I;플로지스톤;68;35_item_ore_phlogiston
 I;피라콘 잎;4;icon_item_leaves_red
@@ -240,6 +238,8 @@ I;작은 오르골;1;icon_item_musicbox
 I;파괴된 결계의 조각;1;icon_item_pieceofglass
 I;파괴용 주술인형 소환서;1;GolemMagicItem1
 I;흩어진 기록지;15;GolemMagicItem1
+I;클라페다 귀환석;1;MercenaryBadge_leaf
+I;오르샤 귀환석;1;MercenaryBadge_Orange
 G;Unused
 I;실버;2822280;icon_item_silver
 G;PasteBait
@@ -298,6 +298,7 @@ I;[이벤트] 레어 인챈트 쥬얼;1;item_icon_armor_linksoul2
 I;[이벤트] 레어 인챈트 쥬얼;1;item_icon_armor_linksoul2
 I;[이벤트] 레어 인챈트 쥬얼;1;item_icon_armor_linksoul2
 I;[이벤트] 레어 인챈트 쥬얼;1;item_icon_armor_linksoul2
+I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
 I;[이벤트] 유니크 인챈트 쥬얼;1;item_icon_armor_linksoul1
