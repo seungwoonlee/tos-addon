@@ -47,5 +47,4 @@
 	<HotKey ID="GuildRank" Name="길드 랭킹" DownScp="GUILD_RANK_INFO_TOGGLE()" UpScp="None" Key="None" PressedKey="None" Mode="Key" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="YES" Category="System"/>
 	<HotKey ID="ZoomIn" Name="줌 인" DownScp="HOTKEY_ZOOM_IN()" UpScp="None" Key="WHEELUP" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
 	<HotKey ID="ZoomOut" Name="줌 아웃" DownScp="HOTKEY_ZOOM_OUT()" UpScp="None" Key="WHEELDOWN" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
-	<HotKey ID="AncientUIOpen" Name="그리모어를 찢어라 : UI 열기" DownScp="ANCIENT_MON_OPEN()" UpScp="None" Key="T" PressedKey="None" Mode="None" UseShift="NO" UseAlt="YES" UseCtrl="NO" OnEdit="YES" Category="System"/>
 </Category>

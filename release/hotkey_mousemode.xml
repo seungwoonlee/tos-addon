@@ -108,5 +108,4 @@
 	<HotKey ID="AutoMove" Name="자동 이동" DownScp="HOTKEY_AUTO_MOVE()" UpScp="None" Key="CAPSLOCK" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
 	<HotKey ID="ZoomIn" Name="줌 인" DownScp="HOTKEY_ZOOM_IN()" UpScp="None" Key="WHEELUP" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
 	<HotKey ID="ZoomOut" Name="줌 아웃" DownScp="HOTKEY_ZOOM_OUT()" UpScp="None" Key="WHEELDOWN" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
-	<HotKey ID="AncientUIOpen" Name="고대종 UI 열기" DownScp="ANCIENT_MON_OPEN()" UpScp="None" Key="T" UseShift="NO" UseAlt="YES" UseCtrl="NO" OnEdit="YES" Category="System"/>
 </Category>
