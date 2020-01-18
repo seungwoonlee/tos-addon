@@ -45,6 +45,6 @@
 	<HotKey ID="ChatType" Name="채팅변경" DownScp="ui.ProcessTabKey()" UpScp="None" Key="TAB" PressedKey="None" Mode="Key" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="YES" Category="System"/>
 	<HotKey ID="FishingBag" Name="살림통" DownScp="FISHING_ITEM_BAG_TOGGLE_UI()" UpScp="None" Key="None" PressedKey="None" Mode="Key" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="YES" Category="System"/>
 	<HotKey ID="GuildRank" Name="길드 랭킹" DownScp="GUILD_RANK_INFO_TOGGLE()" UpScp="None" Key="None" PressedKey="None" Mode="Key" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="YES" Category="System"/>
-	<HotKey ID="ZoomIn" Name="줌 인" DownScp="HOTKEY_ZOOM_IN()" UpScp="None" Key="WHEELUP" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
-	<HotKey ID="ZoomOut" Name="줌 아웃" DownScp="HOTKEY_ZOOM_OUT()" UpScp="None" Key="WHEELDOWN" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
+	<HotKey ID="ZoomIn" Name="줌 인" DownScp="HOTKEY_ZOOM_IN()" UpScp="None" Key="MWUP" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
+	<HotKey ID="ZoomOut" Name="줌 아웃" DownScp="HOTKEY_ZOOM_OUT()" UpScp="None" Key="MWDN" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
 </Category>

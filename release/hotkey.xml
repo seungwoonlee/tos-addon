@@ -112,8 +112,8 @@
 	<HotKey ID="GuildRank" Name="길드 랭킹" DownScp="GUILD_RANK_INFO_TOGGLE()" UpScp="None" Key="R" UseShift="NO" UseAlt="YES" UseCtrl="NO" OnEdit="NO" Category="System"/>
 	<HotKey ID="PartyMemberInfo" Name="파티원 소환수 정보" DownScp="PARTYINFO_TOGGLE()" UpScp="None" Key="GRAVE" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="YES" Category="Basic"/>
 	<HotKey ID="AutoMove" Name="자동 이동" DownScp="HOTKEY_AUTO_MOVE()" UpScp="None" Key="CAPSLOCK" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
-	<HotKey ID="ZoomIn" Name="줌 인" DownScp="HOTKEY_ZOOM_IN()" UpScp="None" Key="WHEELUP" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
-	<HotKey ID="ZoomOut" Name="줌 아웃" DownScp="HOTKEY_ZOOM_OUT()" UpScp="None" Key="WHEELDOWN" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
+	<HotKey ID="ZoomIn" Name="줌 인" DownScp="HOTKEY_ZOOM_IN()" UpScp="None" Key="MWUP" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
+	<HotKey ID="ZoomOut" Name="줌 아웃" DownScp="HOTKEY_ZOOM_OUT()" UpScp="None" Key="MWDN" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
 	<HotKey ID="BGMPlayer_PlayBtn" Name="BGM 플레이어 재생" DownScp="BGMPLAYER_HOTKEY_PLAYBTN()" UpScp="None" Key="" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="YES" Category="System"/>
 	<HotKey ID="BGMPlayer_NextBgm_PlayBtn" Name="BGM 플레이어 다음 곡 재생" DownScp="BGMPLAYER_HOTKEY_NEXT_BGM_PLAYBTN()" UpScp="None" Key="" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="YES" Category="System"/>
 	<HotKey ID="BGMPlayer_PrvBgm_PlayBtn" Name="BGM 플레이어 이전 곡 재생" DownScp="BGMPLAYER_HOTKEY_PREVIOUS_BGM_PLAYBTN()" UpScp="None" Key="" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="YES" Category="System"/>
