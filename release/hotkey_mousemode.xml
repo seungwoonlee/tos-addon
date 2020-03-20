@@ -108,4 +108,5 @@
 	<HotKey ID="AutoMove" Name="자동 이동" DownScp="HOTKEY_AUTO_MOVE()" UpScp="None" Key="CAPSLOCK" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
 	<HotKey ID="ZoomIn" Name="줌 인" DownScp="HOTKEY_ZOOM_IN()" UpScp="None" Key="MWUP" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
 	<HotKey ID="ZoomOut" Name="줌 아웃" DownScp="HOTKEY_ZOOM_OUT()" UpScp="None" Key="MWDN" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
+	<HotKey ID="UnsummonCompanion" Name="컴패니언 역소환" DownScp="HOTKEY_UNSUMMON_COMPANION(0)" UpScp="None" Key="R" UseShift="YES" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Battle"/>
 </Category>

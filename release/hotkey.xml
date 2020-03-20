@@ -119,4 +119,5 @@
 	<HotKey ID="BGMPlayer_PrvBgm_PlayBtn" Name="BGM 플레이어 이전 곡 재생" DownScp="BGMPLAYER_HOTKEY_PREVIOUS_BGM_PLAYBTN()" UpScp="None" Key="" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="YES" Category="System"/>
 	<HotKey ID="BGMPlayer_RandomBgm_PlayBtn" Name="BGM 플레이어 랜덤 재생" DownScp="BGMPLAYER_HOTKEY_RANDOM_BGM_PLAYBTN()" UpScp="None" Key="" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="YES" Category="System"/>
 	<HotKey ID="BGMPlayer_RepeatBgm_PlayBtn" Name="BGM 플레이어 반복 재생" DownScp="BGMPLAYER_HOTKEY_REPEAT_BGM_PLAYBTN()" UpScp="None" Key="" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="YES" Category="System"/>
+	<HotKey ID="UnsummonCompanion" Name="컴패니언 역소환" DownScp="HOTKEY_UNSUMMON_COMPANION(0)" UpScp="None" Key="R" UseShift="YES" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Battle"/>
 </Category>
