@@ -110,4 +110,5 @@
 	<HotKey ID="ZoomOut" Name="줌 아웃" DownScp="HOTKEY_ZOOM_OUT()" UpScp="None" Key="MWDN" UseShift="NO" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Basic"/>
 	<HotKey ID="UnsummonCompanion" Name="컴패니언 역소환" DownScp="HOTKEY_UNSUMMON_COMPANION(0)" UpScp="None" Key="R" UseShift="YES" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="Battle"/>
 	<HotKey ID="ChatFrameType" Name="채팅 탭 전환" DownScp="CHAT_TABSET_BTN_CLICK()" UpScp="None" Key="TAB" UseShift="YES" UseAlt="NO" UseCtrl="NO" OnEdit="NO" Category="System"/>
+	<HotKey ID="AncientUIOpen" Name="어시스터 UI 열기" DownScp="ANCIENT_CARD_OPEN()" UpScp="None" Key="T" UseShift="NO" UseAlt="YES" UseCtrl="NO" OnEdit="YES" Category="System"/>
 </Category>
