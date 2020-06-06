@@ -6,6 +6,18 @@ _G['ADDONS']['EVENTS'] = _G['ADDONS']['EVENTS'] or {};
 _G['ADDONS']['EVENTS']['ARGS'] = _G['ADDONS']['EVENTS']['ARGS'] or {};
 
 -- ================================================================
+-- Lua 5.3 Migration
+-- ================================================================
+
+if not _G['loadstring'] and _G['load'] then
+	_G['loadstring'] = _G['load']
+end
+
+if not _G['unpack'] then
+	_G['unpack'] = table.unpack;
+end
+
+-- ================================================================
 -- Strings
 -- ================================================================
 

@@ -1,1 +1,1 @@
-{"PosY":552,"showPerHour":true,"BufferLen":100,"showCurrent":true,"Lang":"kr","useMetricPrefix":true,"IdleLen":100,"showTNL":true,"showRate":true,"PosX":2,"Visible":true,"showGain":true,"DoNothing":false,"Movable":false,"showETA":true,"useAutoReset":true}
+{"showETA":true,"PosY":552,"Lang":"en","showCurrent":true,"useMetricPrefix":true,"showRate":true,"DoNothing":false,"IdleLen":100,"useAutoReset":true,"showGain":true,"BufferLen":100,"Visible":true,"PosX":2,"Movable":false,"showTNL":true,"showPerHour":true}

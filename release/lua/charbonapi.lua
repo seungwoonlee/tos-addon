@@ -1,25 +1,25 @@
 return {
-  --로그 출력
+  --Print log
   Log = function(self, mode, langTable, langCode, key, ...)
     local text = self:GetLangText(langTable, langCode, key, ...)
-    --시스템 메시지 출력
+    --Print system message
     if mode == 'Normal' then
       CHAT_SYSTEM(text)
-    --경고 메시지 출력
+    --Print warning message (warning style on center screen)
     elseif mode == 'Warning' then
       ui.SysMsg(self:GetStyledText(text, {'#FF0000'}))
-    --알림 메시지 출력
+    --Print notice message (global shout style on center screen, system message)
     elseif mode == 'Notice' then
       local frame = ui.GetFrame('notice')
       local textObj = GET_CHILD(frame, 'text', 'ui::CRichText')
       local iconObj = GET_CHILD(frame, 'dungeon_msg', 'ui::CPicture')
-       --시스템 메시지와 화면 중앙에 메시지 출력
+       --Print message on center screen and system message
       CHAT_SYSTEM(self:GetStyledText(text, {'#FF0000'}))
       textObj:SetText(self:GetStyledText(text, {'@st55_a'}))
       textObj:SetOffset(0, 0)
-      --아이콘 숨기기
+      --Hide icon
       iconObj:ShowWindow(0)
-      --메시지 표시
+      --Show message
       frame:Resize(frame:GetWidth(), textObj:GetHeight())
       frame:ShowWindow(1)
       frame:SetDuration(5.0)
@@ -27,28 +27,28 @@ return {
   end,
 
 
-  --다국어 텍스트 반환
+  --Return Multi-language
   GetLangText = function(self, langTable, langCode, key, ...)
     return self:GetPostPositionReplacedText(string.format(self:GetValue(langTable[langCode], key) or key, ...))
   end,
 
 
-  --조사가 추가된 텍스트 반환
+  --Return post-position added text (for korean)
   GetPostPositionReplacedText = function(self, text)
     local pattern = '{pp (.-) (.-)}'
     local tstart, tend = text:find(pattern)
-    --조사 변환이 필요없는 경우
+    --Do not need translate post-position
     if not tstart then
       return text
     end
-    --조사 추가
+    --Add post-position
     local postfix1, postfix2 = text:match(pattern)
     local replacedText = self:AddPostPosition(text:sub(1, tstart - 1), postfix1, postfix2) .. text:sub(tend + 1)
     return self:GetPostPositionReplacedText(replacedText)
   end,
 
 
-  --스타일이 추가된 텍스트 반환
+  --Return font-style added text
   GetStyledText = function(self, text, style)
     local styledText
     if not style or #style == 0 then
@@ -64,13 +64,13 @@ return {
   end,
 
 
-  --이미지로 출력되는 텍스트 반환
+  --Return image-print text
   GetImageText = function(self, image, width, height)
     return string.format('{img %s %d %d}', image, width, height)
   end,
 
 
-  --문자열 분할
+  --Split text using delimiter
   Split = function(self, text, delimiter)
     local splitText = {}
     for match in text:gmatch('[^' .. delimiter .. ']+') do
@@ -80,9 +80,9 @@ return {
   end,
 
 
-  --주어진 키로 오브젝트 탐색 결과 반환
+  --Return object search result with given key
   GetValue = function(self, obj, key, delimiter)
-    --잘못된 매개변수 예외 처리
+    --Handling invalid parameter exceptions
     if not obj or not key or key == '' then
       return nil
     end
@@ -90,7 +90,7 @@ return {
     local keys = self:Split(key, delimiter)
     for i, key in ipairs(keys) do
       obj = obj[key]
-      --오브젝트를 더 이상 탐색할 수 없는 경우
+      --If the object cannot search
       if not obj then
         return nil
       end
@@ -99,7 +99,7 @@ return {
   end,
 
 
-  --마지막 글자를 유니코드 바이트로 반환
+  --Return the last character in Unicode bytes
   GetLastCharByUnicode = function(self, text)
     if text:len() < 3 then
       return 0
@@ -108,7 +108,7 @@ return {
   end,
 
 
-  --글자가 종성을 가지고 있는지 확인
+  --Return if character have final consonant (for korean)
   HasFinalConsonant = function(self, code)
     if code < 0xAC00 or code > 0xD7A3 then
       return false
@@ -117,7 +117,7 @@ return {
   end,
 
 
-  --조사 추가
+  --Add post-position (for korean)
   AddPostPosition = function(self, text, postfix1, postfix2)
     local lastchr = self:GetLastCharByUnicode(text)
     if self:HasFinalConsonant(lastchr) then
@@ -129,7 +129,7 @@ return {
   end,
 
 
-  --게임 시간 반환
+  --Return game timestamp
   GetGameTime = function(self)
     local serverTime = geTime.GetServerSystemTime()
     local gameTime = os.time({
@@ -144,7 +144,7 @@ return {
   end,
 
 
-  --시간 덧셈 결과 반환
+  --Add seconds to timestamp
   AddTime = function(self, time, addTime)
     local origin = os.date('*t', time)
     origin.sec = origin.sec + addTime
@@ -152,19 +152,19 @@ return {
   end,
 
 
-  --유효 시간 검사 결과 반환
+  --Return valid time test result
   IsExpiredTime = function(self, time, expireTime)
     return self:GetGameTime() > self:AddTime(time, expireTime)
   end,
 
 
-  --오차 시간 이내로 같은 시간인지 확인 결과 반환
+  --Return if two times equal test within the error time
   IsEqualTime = function(self, time1, time2, errorTime)
     return self:AddTime(time2, -errorTime) < time1 and time1 < self:AddTime(time2, errorTime)
   end,
 
 
-  --문자열로 표현된 시간 반환
+  --Return timestamp to string
   TimestampToString = function(self, timestamp)
     local timetable = os.date('*t', timestamp)
     return string.format(
@@ -177,7 +177,7 @@ return {
   end,
 
 
-  --일/시간/분/초로 표현된 시간 반환
+  --Return the time expressed in Day/Hour/Minute/Second
   TimeToString = function(self, time)
     local d, h, m, s = GET_DHMS(math.floor(time))
     if d > 0 then
@@ -191,18 +191,18 @@ return {
   end,
 
 
-  --그룹 박스 추가
+  --Add group box to parent object
   GetGroupBox = function(self, parent, ctrlName, width, height, left, top)
-    --잘못된 매개변수 예외 처리
+    --Handling invalid parameter exceptions
     if not parent or not ctrlName or ctrlName == '' then
       return nil
     end
-    --매개변수 기본값 설정
+    --Set parameter defaults
     width = width or 10
     height = height or 4
     left = left or 0
     top = top or 0
-    --그룹 박스 추가
+    --Add group box
     local groupbox = tolua.cast(parent:CreateOrGetControl('groupbox', ctrlName, left, top, width, height), 'ui::CGroupBox')
     groupbox:SetGravity(ui.LEFT, ui.TOP)
     groupbox:EnableHitTest(0)
@@ -212,18 +212,18 @@ return {
   end,
 
 
-  --사진 추가
+  --Add picture to parent object
   GetPicture = function(self, parent, ctrlName, width, height, left, top, image)
-    --잘못된 매개변수 예외 처리
+    --Handling invalid parameter exceptions
     if not parent or not ctrlName or ctrlName == '' then
       return nil
     end
-    --매개변수 기본값 설정
+    --Set parameter defaults
     width = width or 0
     height = height or 0
     left = left or 0
     top = top or 0
-    --사진 추가
+    --Add picture
     local picture = tolua.cast(parent:CreateOrGetControl('picture', ctrlName, left, top, width, height), 'ui::CPicture')
     picture:SetImage(image)
     picture:SetGravity(ui.LEFT, ui.TOP)
@@ -234,18 +234,18 @@ return {
   end,
 
 
-  --버튼 추가
+  --Add button to parent object
   GetButton = function(self, parent, ctrlName, width, height, left, top, image, tooltip)
-    --잘못된 매개변수 예외 처리
+    --Handling invalid parameter exceptions
     if not parent or not ctrlName or ctrlName == '' then
       return nil
     end
-    --매개변수 기본값 설정
+    --Set parameter defaults
     width = width or 0
     height = height or 0
     left = left or 0
     top = top or 0
-    --버튼 추가
+    --Add button
     local button = tolua.cast(parent:CreateOrGetControl('button', ctrlName, left, top, width, height), 'ui::CButton')
     if image then button:SetImage(image) end
     if tooltip then button:SetTextTooltip(tooltip) end
@@ -262,16 +262,16 @@ return {
   end,
 
 
-  --체크 박스 추가
+  --Add check box to parent object
   GetCheckBox = function(self, parent, ctrlName, left, top, text, style)
-    --잘못된 매개변수 예외 처리
+    --Handling invalid parameter exceptions
     if not parent or not ctrlName or ctrlName == '' then
       return nil
     end
-    --매개변수 기본값 설정
+    --Set parameter defaults
     left = left or 0
     top = top or 0
-    --체크 박스 추가
+    --Add check box
     local checkbox = tolua.cast(parent:CreateOrGetControl('checkbox', ctrlName, left, top, 100, 30), 'ui::CCheckBox')
     if text then checkbox:SetText(self:GetStyledText(text, style)) end
     checkbox:SetOverSound('button_over')
@@ -285,17 +285,17 @@ return {
   end,
 
 
-  --라벨 추가
+  --Add label to parent object
   GetLabel = function(self, parent, ctrlName, left, top, text, style)
-    --잘못된 매개변수 예외 처리
+    --Handling invalid parameter exceptions
     if not parent or not ctrlName or ctrlName == '' then
       return nil
     end
-    --매개변수 기본값 설정
+    --Set parameter defaults
     left = left or 0
     top = top or 0
     style = style or {}
-    --라벨 추가
+    --Add label
     local label = tolua.cast(parent:CreateOrGetControl('richtext', ctrlName, left, top, 10, 4), 'ui::CRichText')
     if text then label:SetText(self:GetStyledText(text, style)) end
     label:SetGravity(ui.LEFT, ui.TOP)
@@ -305,17 +305,17 @@ return {
   end,
 
 
-  --구분선 추가
+  --Add label line to parent object
   GetLabelLine = function(self, parent, ctrlName, width, left, top)
-    --잘못된 매개변수 예외 처리
+    --Handling invalid parameter exceptions
     if not parent or not ctrlName or ctrlName == '' then
       return nil
     end
-    --매개변수 기본값 설정
+    --Set parameter defaults
     width = width or 10
     left = left or 0
     top = top or 0
-    --구분선 추가
+    --Add label line
     local labelline = parent:CreateOrGetControl('labelline', ctrlName, left, top, width, 10)
     labelline:SetSkinName('labelline2')
     labelline:SetGravity(ui.LEFT, ui.TOP)
