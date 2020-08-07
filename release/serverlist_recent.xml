@@ -2,6 +2,8 @@
 <!-- edited with XMLSpy v2008 rel. 2 sp2 (http://www.altova.com) by SHOCK (SHOCK) -->
 <!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
 <serverlist>
-	<server GROUP_ID="1001" TRAFFIC="0" ENTER_LIMIT="1000" NAME="아우슈리네" Server0_IP="125.141.153.200" Server0_Port="7001" Server1_IP="125.141.153.201" Server1_Port="7002" Server2_IP="125.141.153.202" Server2_Port="7003"/>
+	<server GROUP_ID="3002" TRAFFIC="0" ENTER_LIMIT="1000" NAME="[시즌 서버] 바이보라" Server0_IP="125.141.153.208" Server0_Port="7009" Server1_IP="125.141.153.209" Server1_Port="7010"/>
+	<server GROUP_ID="3001" TRAFFIC="0" ENTER_LIMIT="1000" NAME="[시즌 서버] 아우슈리네" Server0_IP="125.141.153.205" Server0_Port="7007" Server1_IP="125.141.153.206" Server1_Port="7008"/>
 	<server GROUP_ID="1002" TRAFFIC="0" ENTER_LIMIT="1000" NAME="바이보라" Server0_IP="125.141.153.218" Server0_Port="7004" Server1_IP="125.141.153.219" Server1_Port="7005" Server2_IP="125.141.153.220" Server2_Port="7006"/>
+	<server GROUP_ID="1001" TRAFFIC="0" ENTER_LIMIT="1000" NAME="아우슈리네" Server0_IP="125.141.153.200" Server0_Port="7001" Server1_IP="125.141.153.201" Server1_Port="7002" Server2_IP="125.141.153.202" Server2_Port="7003"/>
 </serverlist>
