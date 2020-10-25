@@ -7,7 +7,7 @@ release/*
 release/**/
 !release/lua/
 !release/serverlist_recent.xml
-!release/release.revision.txt
+#!release/release.revision.txt
 !release/hotkey*.*
 system/
 data/addon.ipf
