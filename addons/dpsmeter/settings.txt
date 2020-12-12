@@ -1,5 +1,0 @@
-local s = {}
-s['state'] = { minimize = 0,  lock = 1,  preserve = 0,  mode = 0, }
-s['pos'] = { y = 28,  x = 1063, }
-s['option'] = { listheight = 300,  alpha = 10, }
-return s
